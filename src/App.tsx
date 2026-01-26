@@ -451,10 +451,8 @@ function buildStepPath(
   const sorted = [...points].sort((a, b) => a.dateValue - b.dateValue)
   let path = `M ${scaleX(sorted[0].dateValue)} ${scaleY(sorted[0].recordSeconds)}`
   for (let i = 1; i < sorted.length; i++) {
-    const prev = sorted[i - 1]
     const point = sorted[i]
     const x = scaleX(point.dateValue)
-    const prevY = scaleY(prev.recordSeconds)
     const y = scaleY(point.recordSeconds)
     path += ` H ${x} V ${y}`
   }
