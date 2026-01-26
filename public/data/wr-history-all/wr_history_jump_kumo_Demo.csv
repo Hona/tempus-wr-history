@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2019-09-14,04:32.66,im beta,jump_kumo,WR,IRCSet,,,,false,1057984,,
+2019-09-14,01:53.83,chiyo,jump_kumo,WR,IRC,,-00:49.09,,false,1057993,,
+2019-09-15,01:53.00,munafik,jump_kumo,WR,IRC,,-00:00.04,,false,1058780,,
+2019-09-16,01:52.44,hunter,jump_kumo,WR,MapRecord,,-00:00.56,00:00.56,false,1059353,76561198222006144,[U:1:261740416]
+2019-09-18,01:41.19,chiyo,jump_kumo,WR,MapRecord,,-00:11.25,00:12.64,false,1061272,76561198046582124,[U:1:86316396]
+2020-05-19,01:34.15,Matty,jump_kumo,WR,IRC,,-00:07.03,,false,1253898,,
+2020-08-13,01:30.56,chiyo,jump_kumo,WR,MapRecord,,-00:03.58,00:08.63,false,1325172,76561198046582124,[U:1:86316396]
+2020-08-23,01:27.15,yttaM,jump_kumo,WR,MapRecord,,-00:03.41,00:07.00,false,1334408,76561198035204545,[U:1:74938817]
+2024-12-23,01:21.42,Kev27,jump_kumo,WR,MapRun,10:11.46,+08:50.04,,true,3186051,76561198157250318,[U:1:196984590]
+2025-01-08,01:19.71,DerKenste,jump_kumo,WR,MapRun,30:33.18,+29:13.47,,true,3210573,76561198093785712,[U:1:133519984]
+2025-08-16,01:19.70,yunoia,jump_kumo,WR,MapRun,30:28.48,+29:08.78,,true,3453269,76561198068585202,[U:1:108319474]

@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2022-04-15,01:37.86,Waldo,jump_mutegod,WR,MapRun,03:34.60,+01:56.74,,true,1916817,76561198020256631,[U:1:59990903]
+2022-04-15,01:03.94,Meti,jump_mutegod,WR,IRC,,-00:04.78,,false,1916895,,
+2022-04-15,01:03.39,Meti,jump_mutegod,WR,IRC,,-00:00.54,,false,1917619,,
+2022-04-15,01:01.96,Meti,jump_mutegod,WR,IRC,,-00:01.42,,false,1917642,,
+2022-04-16,00:58.98,Meti,jump_mutegod,WR,IRC,,-00:01.51,,false,1918014,,
+2022-04-17,00:58.78,vice,jump_mutegod,WR,IRC,,-00:00.19,,false,1919570,,
+2022-04-20,00:58.69,Meti,jump_mutegod,WR,MapRecord,,-00:00.09,00:00.28,false,1921923,76561198096749316,[U:1:136483588]
+2023-02-24,00:57.61,juup -rng,jump_mutegod,WR,MapRecord,,-00:01.08,00:03.75,false,2224329,76561198243952326,[U:1:283686598]
+2023-06-09,00:56.56,Meti,jump_mutegod,WR,IRC,,-00:01.05,,false,2355778,,
+2023-06-09,00:56.46,Meti,jump_mutegod,WR,MapRecord,,-00:00.10,00:00.10,false,2355904,76561198096749316,[U:1:136483588]
+2024-11-19,00:54.58,vice,jump_mutegod,WR,IRC,,-00:01.87,,false,3136791,,

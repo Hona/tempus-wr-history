@@ -1,0 +1,14 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-12-08,03:47.93,jointy,jump_internal_b4,WR,IRC,,-00:15.68,,false,35437,,
+2014-12-08,03:24.78,jointy,jump_internal_b4,WR,MapRecord,,-00:23.15,00:23.15,false,35457,76561198055778722,[U:1:95512994]
+2014-12-20,03:15.65,LessThanThree,jump_internal_b4,WR,MapRecord,,-00:09.12,00:42.70,false,38746,,
+2014-12-21,03:08.46,jondy,jump_internal_b4,WR,IRC,,-00:07.19,,false,39023,76561198055778722,[U:1:95512994]
+2016-05-09,02:43.43,sick,jump_internal_b4,WR,MapRun,33:06.89,+30:23.46,,true,249171,76561198084417327,[U:1:124151599]
+2017-11-25,02:20.25,Eros,jump_internal_b4,WR,MapRun,1:06:29.25,+1:04:09.00,,true,511256,76561198037106251,[U:1:76840523]
+2018-06-20,02:16.71,bg5.tf | Diller,jump_internal_b4,WR,IRC,,-00:03.53,,false,683538,76561198040963460,[U:1:80697732]
+2018-06-20,02:15.46,Boshy,jump_internal_b4,WR,IRC,,-00:01.24,,false,683688,,
+2018-06-21,02:07.67,Boshy,jump_internal_b4,WR,IRC,,-00:07.78,,false,684619,,
+2019-05-13,02:03.05,Boshy,jump_internal_b4,WR,MapRecord,,-00:04.62,00:04.62,false,961287,,
+2020-07-21,02:01.42,Diller,jump_internal_b4,WR,MapRecord,,-00:01.63,00:07.95,false,1306001,76561198040963460,[U:1:80697732]
+2020-07-21,01:55.96,Boshy,jump_internal_b4,WR,IRC,,-00:05.46,,false,1306029,,
+2023-04-30,01:55.54,Helmi.,jump_internal_b4,WR,IRC,,-00:00.90,,false,2298464,,

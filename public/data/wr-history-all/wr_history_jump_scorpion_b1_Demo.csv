@@ -1,0 +1,15 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-05,18:00.50,asfg32g32,jump_scorpion_b1,WR,MapRecord,,-03:50.74,,false,9506,,
+2014-07-06,12:59.77,cody,jump_scorpion_b1,WR,MapRecord,,-05:00.73,08:51.48,false,9596,76561198078488228,STEAM_0:0:59111250
+2014-07-06,10:21.08,alle b wai,jump_scorpion_b1,WR,IRC,,-02:38.68,,false,9719,,
+2014-07-07,07:48.46,groovy,jump_scorpion_b1,WR,MapRecord,,-02:32.62,05:11.31,false,9816,76561198078488228,STEAM_0:0:59111250
+2014-08-26,07:07.23,cody,jump_scorpion_b1,WR,MapRecord,,-00:41.22,00:41.22,false,18277,76561198078488228,[U:1:118222500]
+2014-10-26,05:36.55,le heal,jump_scorpion_b1,WR,MapRecord,,-01:30.67,,false,26203,76561198157830536,[U:1:197564808]
+2017-12-03,03:30.64,cs,jump_scorpion_b1,WR,IRC,,-00:03.98,,false,516814,,
+2018-06-02,03:29.52,Soup -tt,jump_scorpion_b1,WR,MapRecord,,-00:01.12,00:01.12,false,666786,76561198029285343,[U:1:69019615]
+2018-06-04,03:15.85,Soup -tt,jump_scorpion_b1,WR,IRC,,-00:13.66,,false,668793,,
+2019-09-30,03:04.71,Soup -tt,jump_scorpion_b1,WR,MapRecord,,-00:08.47,00:08.47,false,1070286,76561198029285343,[U:1:69019615]
+2019-12-25,03:03.37,Soup -tt,jump_scorpion_b1,WR,MapRecord,,-00:01.33,00:01.33,false,1131946,76561198029285343,[U:1:69019615]
+2020-09-16,02:57.79,enemy.of.optus.2,jump_scorpion_b1,WR,MapRecord,,-00:05.57,00:05.75,false,1359503,,
+2021-12-22,02:51.57,Soup -tt,jump_scorpion_b1,WR,IRC,,-00:06.23,,false,1802591,,
+2025-07-08,02:51.56,OPEN NA NOOR,jump_scorpion_b1,WR,MapRun,03:29.86,+00:38.30,00:22.82,true,3396957,76561198372075357,[U:1:411809629]

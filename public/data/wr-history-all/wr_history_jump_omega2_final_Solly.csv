@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2017-12-17,03:38.82,kaptain,jump_omega2_final,WR,MapRun,04:32.84,+00:54.02,00:57.01,true,528074,76561198033727092,[U:1:73461364]
+2019-02-12,03:16.06,twitch.tv/boshyt,jump_omega2_final,WR,MapRecord,,-00:22.75,00:22.75,false,891391,,
+2021-08-24,03:03.30,Sephyr,jump_omega2_final,WR,MapRun,29:21.48,+26:18.18,,true,1682035,76561198049121113,[U:1:88855385]
+2023-12-30,02:52.99,fred -CC,jump_omega2_final,WR,MapRecord,,-00:10.30,00:12.78,false,2661434,76561198016044075,[U:1:55778347]

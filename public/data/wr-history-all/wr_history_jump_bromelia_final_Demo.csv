@@ -1,0 +1,4 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2021-09-01,01:48.78,Luffin,jump_bromelia_final,WR,MapRecord,,-00:01.10,00:01.47,false,1690989,76561198094197569,[U:1:133931841]
+2023-12-17,01:46.35,Luffin,jump_bromelia_final,WR,IRC,,-00:02.43,,false,2641104,76561198094197569,[U:1:133931841]
+2025-04-20,01:46.34,A Cat of Pride,jump_bromelia_final,WR,MapRun,04:35.32,+02:48.98,,true,3284949,76561198803330799,[U:1:843065071]

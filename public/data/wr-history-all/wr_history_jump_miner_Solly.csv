@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2020-04-29,01:20.76,Boshy,jump_miner,WR,IRC,,-00:02.70,,false,1237868,,
+2021-10-12,01:20.44,DenDro #AsiaIsBa,jump_miner,WR,MapRecord,,-00:00.32,00:01.02,false,1730615,,
+2023-11-26,01:17.08,DenDro,jump_miner,WR,IRC,,-00:03.36,,false,2608907,,
+2025-09-13,01:16.45,joe schmoe passt,jump_miner,WR,MapRun,16:39.76,+15:23.31,,true,3490712,,

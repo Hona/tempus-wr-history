@@ -1,0 +1,4 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2020-07-13,02:54.03,banana,jump_prostate_b4,WR,MapRun,28:39.55,+25:45.52,,true,1299524,76561198095278714,[U:1:135012986]
+2021-09-25,02:49.90,phancy,jump_prostate_b4,WR,MapRecord,,-00:04.13,00:16.78,false,1712845,76561198116189732,[U:1:155924004]
+2025-09-14,02:46.26,cander,jump_prostate_b4,WR,IRC,,-00:03.64,,false,3492048,76561198318722879,[U:1:358457151]

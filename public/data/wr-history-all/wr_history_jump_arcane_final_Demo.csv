@@ -1,0 +1,9 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2022-09-09,08:57.51,Waldo,jump_arcane_final,WR,FirstRecord,,,,false,2052304,76561198020256631,[U:1:59990903]
+2022-09-09,04:58.98,jeff,jump_arcane_final,WR,IRC,,-00:00.28,,false,2052324,,
+2022-09-09,04:27.01,leffunny,jump_arcane_final,WR,IRC,,-00:07.15,,false,2052345,,
+2022-09-10,04:22.15,leffunny,jump_arcane_final,WR,IRC,,-00:04.86,,false,2052401,,
+2022-09-10,03:55.11,cander,jump_arcane_final,WR,IRC,,-00:27.04,,false,2052410,,
+2022-09-10,03:53.29,Kratos,jump_arcane_final,WR,MapRecord,,-00:01.81,,false,2052827,,
+2022-09-12,03:46.81,Kratos,jump_arcane_final,WR,MapRecord,,-00:06.48,00:06.48,false,2054810,76561198930334128,[U:1:970068400]
+2022-09-12,03:44.26,cander,jump_arcane_final,WR,MapRecord,,-00:02.55,00:10.84,false,2054856,76561198318722879,[U:1:358457151]

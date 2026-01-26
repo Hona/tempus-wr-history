@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2017-12-21,04:24.81,Larry,jump_ziggurat_b3,WR,MapRecord,,-00:06.35,00:18.92,false,530839,76561198060570011,[U:1:100304283]
+2017-12-21,04:12.13,Boshy,jump_ziggurat_b3,WR,MapRecord,,-00:12.67,00:19.03,false,531082,76561198046601398,[U:1:86335670]
+2018-06-27,03:47.75,Boshy,jump_ziggurat_b3,WR,MapRecord,,-00:14.91,00:24.37,false,690541,76561198046601398,[U:1:86335670]
+2018-11-29,03:19.96,Boshy,jump_ziggurat_b3,WR,MapRecord,,-00:27.79,00:27.79,false,828422,76561198046601398,[U:1:86335670]

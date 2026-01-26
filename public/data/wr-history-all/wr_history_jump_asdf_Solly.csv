@@ -1,0 +1,13 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-06-30,04:56.36,Rob123,jump_asdf,WR,MapRecord,,-00:16.35,00:16.35,false,7388,76561198044015351,STEAM_0:1:41874811
+2014-07-28,04:48.25,Rob123,jump_asdf,WR,MapRecord,,-00:08.11,00:08.11,false,12568,76561198044015351,STEAM_0:1:41874811
+2014-10-14,04:46.97,Aurora -tt,jump_asdf,WR,MapRecord,,-00:01.27,,false,23545,76561198053067670,[U:1:92801942]
+2014-11-08,04:44.30,LessThanThree,jump_asdf,WR,IRC,,-00:02.67,,false,29220,,
+2015-02-15,04:16.36,LTT,jump_asdf,WR,MapRecord,,-00:13.43,00:27.94,false,61807,,
+2017-11-24,03:01.39,newjuls,jump_asdf,WR,MapRun,07:54.02,+04:52.63,,true,510028,,
+2019-03-05,02:50.13,twitch.tv/boshyt,jump_asdf,WR,MapRecord,,-00:11.25,00:11.25,false,907536,,
+2019-09-12,02:45.11,Shy,jump_asdf,WR,MapRecord,,-00:05.01,00:05.01,false,1056519,76561198046601398,[U:1:86335670]
+2021-08-18,02:44.55,Rachello,jump_asdf,WR,MapRecord,,-00:00.57,00:02.94,false,1674718,76561198815853361,[U:1:855587633]
+2021-09-26,02:44.01,Rachello,jump_asdf,WR,MapRecord,,-00:00.54,00:00.54,false,1714062,76561198815853361,[U:1:855587633]
+2022-05-08,02:42.51,Rachello,jump_asdf,WR,MapRecord,,-00:01.50,00:01.50,false,1942142,76561198815853361,[U:1:855587633]
+2023-03-06,02:32.76,Helmi.,jump_asdf,WR,IRC,,-00:09.75,,false,2233266,,

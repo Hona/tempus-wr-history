@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-03-20,04:50.50,Robin inda Hood,jump_festivus,WR,IRCSet,,,,false,603749,,
+2018-03-20,01:45.95,deceptive,jump_festivus,WR,IRC,,-00:06.57,,false,603767,,
+2018-03-20,01:35.64,deceptive,jump_festivus,WR,IRC,,-00:10.31,,false,603778,,
+2018-03-21,01:30.70,vice,jump_festivus,WR,IRC,,-00:00.67,,false,604369,,
+2018-03-21,01:25.20,mesatech,jump_festivus,WR,MapRecord,,-00:05.49,00:06.32,false,604376,76561198111845972,[U:1:151580244]
+2018-04-15,01:20.49,mesatech,jump_festivus,WR,MapRecord,,-00:01.76,00:01.76,false,625441,,
+2018-07-30,01:17.53,Henry,jump_festivus,WR,IRC,,-00:02.95,,false,720951,76561198366368448,[U:1:406102720]
+2019-07-31,01:15.42,Boshy,jump_festivus,WR,IRC,,-00:02.11,,false,1023161,,
+2019-08-04,01:12.61,riot,jump_festivus,WR,MapRecord,,-00:02.80,00:04.91,false,1026090,76561198366368448,[U:1:406102720]
+2022-05-15,01:12.31,cander,jump_festivus,WR,IRC,,-00:00.30,,false,1948804,,
+2022-11-05,01:10.14,twitch.tv/vicetf,jump_festivus,WR,IRC,,-00:02.17,,false,2107539,,

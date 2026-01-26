@@ -1,0 +1,20 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-08-07,01:13.73,sin saks,jump_linear_final_fix,WR,MapRecord,,-00:01.09,00:32.14,false,14344,76561198067226764,STEAM_0:0:53480518
+2014-08-08,01:04.46,sin saks,jump_linear_final_fix,WR,MapRecord,,-00:09.26,00:09.26,false,14480,76561198067226764,STEAM_0:0:53480518
+2014-08-08,00:55.57,overdrive,jump_linear_final_fix,WR,MapRecord,,-00:06.81,00:06.81,false,14524,76561198070882254,STEAM_0:0:55308263
+2014-08-10,00:53.73,Superchuck,jump_linear_final_fix,WR,MapRecord,,-00:01.79,00:01.79,false,14870,,
+2014-08-15,00:51.44,Seras,jump_linear_final_fix,WR,MapRecord,,-00:01.86,00:01.86,false,15678,76561198070882254,STEAM_0:0:55308263
+2014-08-19,00:49.37,Kucino,jump_linear_final_fix,WR,MapRecord,,-00:02.06,00:06.53,false,16667,76561198045405184,STEAM_0:0:42569728
+2014-09-09,00:46.41,mrstickel87,jump_linear_final_fix,WR,MapRecord,,-00:00.49,00:00.49,false,21141,76561198078488228,[U:1:118222500]
+2014-11-06,00:46.36,blown by the win,jump_linear_final_fix,WR,MapRecord,,-00:00.05,00:03.01,false,28807,,
+2015-02-24,00:45.26,Soup Can,jump_linear_final_fix,WR,MapRecord,,-00:01.09,00:01.33,false,64651,76561198029285343,[U:1:69019615]
+2017-11-25,00:39.99,blade,jump_linear_final_fix,WR,MapRun,04:18.42,+03:38.43,,true,510640,76561198023325655,[U:1:63059927]
+2017-12-04,00:39.98,Lilligan,jump_linear_final_fix,WR,MapRun,00:40.61,+00:00.63,00:19.58,true,517317,,
+2017-12-09,00:39.38,n4,jump_linear_final_fix,WR,MapRecord,,-00:00.60,00:02.15,false,521184,76561197960496196,[U:1:230468]
+2017-12-24,00:39.03,Lyle,jump_linear_final_fix,WR,MapRecord,,-00:00.35,00:00.78,false,534035,76561198035787281,[U:1:75521553]
+2017-12-26,00:38.56,vice,jump_linear_final_fix,WR,MapRecord,,-00:00.47,00:00.82,false,535514,76561197960496196,[U:1:230468]
+2017-12-26,00:38.27,Lyle,jump_linear_final_fix,WR,MapRecord,,-00:00.28,00:00.75,false,535774,76561198035787281,[U:1:75521553]
+2017-12-31,00:36.94,Lyle,jump_linear_final_fix,WR,MapRecord,,-00:00.29,00:00.35,false,540456,76561198035787281,[U:1:75521553]
+2018-03-25,00:36.47,Starkie,jump_linear_final_fix,WR,MapRun,01:19.25,+00:42.78,00:51.52,true,608186,,
+2020-08-21,00:34.46,song,jump_linear_final_fix,WR,IRC,,-00:02.00,,false,1331775,,
+2021-11-16,00:23.67,billy boy -gt,jump_linear_final_fix,WR,IRC,,-00:12.81,,false,1767569,,

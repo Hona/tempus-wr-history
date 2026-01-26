@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2022-10-16,14:01.40,ixam,jump_hopstep2_rc5,WR,MapRun,52:49.20,+38:47.80,,true,2088786,,
+2022-10-18,14:01.39,Sparrow,jump_hopstep2_rc5,WR,MapRun,1:28:10.33,+1:14:08.94,,true,2090298,76561197980694523,[U:1:20428795]
+2022-12-14,13:21.58,Ronnie The Rat,jump_hopstep2_rc5,WR,MapRecord,,-00:39.81,01:07.23,false,2147274,76561198066947056,[U:1:106681328]
+2023-02-01,11:48.78,go kick some roc,jump_hopstep2_rc5,WR,MapRecord,,-01:32.80,01:32.80,false,2200428,,

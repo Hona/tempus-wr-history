@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2020-07-21,14:25.64,riot,jump_rat_rc4,WR,IRCSet,,,,false,1306444,76561198065169685,[U:1:104903957]
+2020-07-21,08:34.62,pi,jump_rat_rc4,WR,IRC,,-00:57.86,,false,1306609,,
+2020-07-22,05:45.79,wild,jump_rat_rc4,WR,IRC,,-02:48.82,,false,1306855,,
+2020-07-22,04:42.44,[D | Baʊss V] v,jump_rat_rc4,WR,IRC,,-01:03.35,,false,1306885,,
+2020-07-22,04:14.51,Katto,jump_rat_rc4,WR,MapRun,36:51.45,+32:36.94,,true,1307442,76561198346669763,[U:1:386404035]
+2020-07-22,03:58.94,kater,jump_rat_rc4,WR,IRC,,-00:15.55,,false,1307545,,
+2020-07-23,03:28.50,kater,jump_rat_rc4,WR,MapRecord,,-00:17.65,00:17.65,false,1307660,,
+2020-07-23,03:00.10,pi,jump_rat_rc4,WR,IRC,,-00:28.39,,false,1308191,,
+2021-09-08,02:57.22,phancy,jump_rat_rc4,WR,IRC,,-00:02.88,,false,1699270,,

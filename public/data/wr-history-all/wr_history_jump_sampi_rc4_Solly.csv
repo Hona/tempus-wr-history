@@ -1,0 +1,8 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2021-05-07,18:52.54,maxxy,jump_sampi_rc4,WR,IRCSet,,,,false,1583051,,
+2021-05-07,07:13.95,nevos,jump_sampi_rc4,WR,IRC,,-01:13.68,,false,1583052,,
+2021-05-07,05:59.89,Zen,jump_sampi_rc4,WR,MapRun,21:09.67,+15:09.78,,true,1583103,76561198152759309,[U:1:192493581]
+2021-05-08,05:39.39,nevos,jump_sampi_rc4,WR,MapRecord,,-00:06.07,00:15.99,false,1583525,,
+2021-05-09,05:36.19,nevos,jump_sampi_rc4,WR,MapRecord,,-00:03.19,00:03.19,false,1584408,,
+2021-05-11,05:24.61,nevos,jump_sampi_rc4,WR,IRC,,-00:02.50,,false,1586030,,
+2021-05-11,05:04.39,nevos,jump_sampi_rc4,WR,MapRecord,,-00:16.51,00:16.51,false,1586053,,

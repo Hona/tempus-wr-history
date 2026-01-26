@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-04-02,07:54.28,Larry,jump_super_v5,WR,IRC,,-01:18.31,,false,614534,76561198060570011,[U:1:100304283]
+2018-04-02,07:43.96,Boshy,jump_super_v5,WR,MapRecord,,-00:10.31,01:28.63,false,614585,76561198046601398,[U:1:86335670]
+2021-03-10,07:41.88,Bangarang,jump_super_v5,WR,IRC,,-00:02.09,,false,1531412,76561198152618680,[U:1:192352952]
+2022-09-19,07:37.14,Torriss,jump_super_v5,WR,MapRun,2:48:21.93,+2:40:44.79,,true,2062243,76561198213431056,[U:1:253165328]
+2022-10-29,07:15.10,ondkaja,jump_super_v5,WR,MapRecord,,-00:22.03,43:17.26,false,2101412,76561198010123351,[U:1:49857623]
+2023-01-06,07:03.84,x_ray2700,jump_super_v5,WR,MapRecord,,-00:11.26,00:41.55,false,2171753,76561198979680671,[U:1:1019414943]
+2023-01-07,06:55.93,x_ray2700,jump_super_v5,WR,MapRecord,,-00:07.90,00:07.90,false,2173031,76561198979680671,[U:1:1019414943]
+2023-01-10,06:44.19,x_ray2700,jump_super_v5,WR,MapRecord,,-00:11.74,00:11.74,false,2176619,76561198979680671,[U:1:1019414943]
+2023-02-17,05:35.67,x_ray2700,jump_super_v5,WR,IRC,,-01:08.52,,false,2217240,,
+2024-08-24,05:11.13,devil,jump_super_v5,WR,MapRun,1:11:07.44,+1:05:56.31,,true,3008535,76561199379236355,[U:1:1418970627]
+2025-04-14,05:11.12,Daniel Martinez,jump_super_v5,WR,MapRun,1:17:29.74,+1:12:18.62,,true,3275172,,

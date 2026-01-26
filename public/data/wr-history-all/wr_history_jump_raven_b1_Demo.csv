@@ -1,0 +1,4 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2019-04-26,01:20.56,twitch.tv/vicetf,jump_raven_b1,WR,IRC,,-00:10.55,,false,948897,,
+2019-07-30,01:18.03,Boshy,jump_raven_b1,WR,MapRecord,,-00:02.53,00:04.36,false,1022788,76561198046601398,[U:1:86335670]
+2019-08-08,01:14.87,nemesis,jump_raven_b1,WR,MapRecord,,-00:03.15,00:05.68,false,1029276,76561198366368448,[U:1:406102720]

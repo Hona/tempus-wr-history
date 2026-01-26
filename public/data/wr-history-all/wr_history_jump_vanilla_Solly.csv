@@ -1,0 +1,33 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2019-07-07,05:41.65,Chief,jump_vanilla,WR,IRC,,-00:41.63,,false,1004324,,
+2019-07-07,04:52.18,maxxy,jump_vanilla,WR,IRC,,-00:49.47,,false,1004340,,
+2019-07-07,03:52.41,Larry,jump_vanilla,WR,IRC,,-00:13.70,,false,1004359,,
+2019-07-07,03:41.57,Larry,jump_vanilla,WR,IRC,,-00:10.83,,false,1004430,,
+2019-07-07,03:28.43,maxxy,jump_vanilla,WR,IRC,,-00:00.91,,false,1004569,76561198083235528,[U:1:122969800]
+2019-07-08,03:25.26,Shunix -tt,jump_vanilla,WR,IRC,,-00:03.17,,false,1004858,76561198047121805,[U:1:86856077]
+2019-07-08,03:21.46,maxxy,jump_vanilla,WR,IRC,,-00:03.79,,false,1005061,,
+2019-07-09,03:18.44,Shunix -tt,jump_vanilla,WR,IRC,,-00:03.01,,false,1006093,,
+2019-07-09,03:16.81,Shunix -tt,jump_vanilla,WR,IRC,,-00:01.63,,false,1006174,76561198047121805,[U:1:86856077]
+2019-07-10,03:15.56,Shunix -tt,jump_vanilla,WR,IRC,,-00:01.24,,false,1006402,,
+2019-07-10,03:14.32,maxxy,jump_vanilla,WR,IRC,,-00:01.24,,false,1006992,,
+2019-08-24,03:12.62,Teardrop,jump_vanilla,WR,IRC,,-00:01.69,,false,1042232,76561198066947056,[U:1:106681328]
+2019-08-25,03:11.96,maxxy,jump_vanilla,WR,MapRecord,,-00:00.65,00:02.35,false,1042749,76561198083235528,[U:1:122969800]
+2020-11-25,03:06.55,maxxy,jump_vanilla,WR,MapRecord,,-00:05.41,00:05.41,false,1428412,,
+2020-12-03,03:04.99,maxxy,jump_vanilla,WR,IRC,,-00:01.56,,false,1436388,,
+2020-12-06,03:01.63,maxxy,jump_vanilla,WR,IRC,,-00:03.36,,false,1438686,76561198083235528,[U:1:122969800]
+2020-12-31,02:58.56,maxxy,jump_vanilla,WR,IRC,,-00:03.07,,false,1464196,,
+2021-05-12,02:56.16,Comma,jump_vanilla,WR,MapRun,47:45.40,+44:49.24,,true,1586716,76561198173573055,[U:1:213307327]
+2021-10-05,02:55.95,IzzyHoP,jump_vanilla,WR,MapRecord,,-00:00.21,00:01.98,false,1723094,76561197995927883,[U:1:35662155]
+2021-10-07,02:51.97,IzzyHoP,jump_vanilla,WR,IRC,,-00:03.97,,false,1725365,,
+2022-04-13,02:49.81,IzzyHoP -tt,jump_vanilla,WR,IRC,,-00:02.16,,false,1915074,,
+2022-04-13,02:47.40,IzzyHoP -tt,jump_vanilla,WR,MapRecord,,-00:02.41,00:02.41,false,1915108,76561197995927883,[U:1:35662155]
+2022-04-14,02:45.18,IzzyHoP -tt,jump_vanilla,WR,MapRecord,,-00:02.22,00:02.22,false,1916699,76561197995927883,[U:1:35662155]
+2022-06-07,02:43.41,IzzyHoP -tt,jump_vanilla,WR,MapRecord,,-00:01.77,00:01.77,false,1969095,76561197995927883,[U:1:35662155]
+2022-06-14,02:40.80,IzzyHoP -tt,jump_vanilla,WR,MapRecord,,-00:02.61,00:02.61,false,1975133,76561197995927883,[U:1:35662155]
+2024-04-17,02:40.65,elephant,jump_vanilla,WR,IRC,,-00:00.15,,false,2821110,,
+2024-04-25,02:38.79,elephant,jump_vanilla,WR,IRC,,-00:01.86,,false,2831917,,
+2024-04-28,02:37.18,elephant,jump_vanilla,WR,IRC,,-00:01.60,,false,2832418,,
+2024-04-30,02:35.56,elephant,jump_vanilla,WR,IRC,,-00:01.62,,false,2839529,,
+2024-05-07,02:32.68,elephant,jump_vanilla,WR,IRC,,-00:02.88,,false,2849611,,
+2024-05-08,02:31.41,elephant,jump_vanilla,WR,IRC,,-00:01.27,,false,2850576,,
+2025-04-12,02:31.40,Jay,jump_vanilla,WR,MapRun,03:40.60,+01:09.20,,true,3272134,,

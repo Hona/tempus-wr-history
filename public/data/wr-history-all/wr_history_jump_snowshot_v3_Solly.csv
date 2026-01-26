@@ -1,0 +1,16 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2020-07-21,06:18.60,Zyphon,jump_snowshot_v3,WR,IRCSet,,,,false,1306444,,
+2020-07-21,03:16.20,Dypsilon,jump_snowshot_v3,WR,MapRun,59:45.82,+56:29.62,,true,1306691,76561198070966174,[U:1:110700446]
+2020-07-22,03:16.19,JackyLegs,jump_snowshot_v3,WR,MapRun,48:59.36,+45:43.17,,true,1307256,76561197998944560,[U:1:38678832]
+2020-07-23,01:18.97,hooligan,jump_snowshot_v3,WR,IRC,,-00:29.32,,false,1308191,,
+2020-07-26,01:13.87,Chief,jump_snowshot_v3,WR,MapRecord,,-00:05.10,00:10.39,false,1310368,,
+2020-07-27,01:09.22,Chief,jump_snowshot_v3,WR,IRC,,-00:03.98,,false,1311294,,
+2020-08-09,01:07.58,Chief,jump_snowshot_v3,WR,MapRecord,,-00:01.63,00:01.63,false,1321681,76561198122579111,[U:1:162313383]
+2020-08-10,01:03.43,Chief,jump_snowshot_v3,WR,MapRecord,,-00:04.15,00:04.15,false,1322483,76561198122579111,[U:1:162313383]
+2020-08-12,01:01.97,Chief,jump_snowshot_v3,WR,IRC,,-00:01.45,,false,1324155,,
+2020-08-12,00:59.28,Chief,jump_snowshot_v3,WR,MapRecord,,-00:02.69,00:02.69,false,1324183,76561198122579111,[U:1:162313383]
+2023-08-22,00:58.87,fred -CC,jump_snowshot_v3,WR,MapRecord,,-00:00.41,00:01.02,false,2466266,76561198016044075,[U:1:55778347]
+2023-10-22,00:57.33,fred -CC,jump_snowshot_v3,WR,MapRecord,,-00:01.54,00:01.54,false,2558004,76561198016044075,[U:1:55778347]
+2023-11-05,00:49.39,fred -CC,jump_snowshot_v3,WR,MapRecord,,-00:07.93,00:07.93,false,2577709,76561198016044075,[U:1:55778347]
+2023-11-28,00:46.56,fred -CC,jump_snowshot_v3,WR,MapRecord,,-00:02.83,00:02.83,false,2612080,76561198016044075,[U:1:55778347]
+2025-09-20,00:45.76,garf,jump_snowshot_v3,WR,IRC,,-00:00.80,,false,3500517,76561199243400809,[U:1:1283135081]

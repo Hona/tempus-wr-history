@@ -1,0 +1,24 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-27,00:45.79,Xtra,jump_future_rebuild,WR,MapRecord,,-00:04.40,00:04.40,false,12495,76561198041487315,STEAM_0:1:40610793
+2014-07-27,00:43.47,Mixy,jump_future_rebuild,WR,MapRecord,,-00:02.32,00:02.40,false,12496,76561198063378113,STEAM_0:1:51556192
+2014-07-27,00:42.67,Mixy,jump_future_rebuild,WR,MapRecord,,-00:00.79,00:00.79,false,12518,76561198063378113,STEAM_0:1:51556192
+2014-07-30,00:42.56,cockino,jump_future_rebuild,WR,MapRecord,,-00:00.10,01:03.61,false,12986,76561198045405184,STEAM_0:0:42569728
+2014-08-16,00:41.60,learniciel,jump_future_rebuild,WR,MapRecord,,-00:00.96,00:01.26,false,15851,76561198071336741,STEAM_0:1:55535506
+2014-08-16,00:41.30,learniciel,jump_future_rebuild,WR,MapRecord,,-00:00.29,00:00.29,false,15988,76561198071336741,STEAM_0:1:55535506
+2014-08-18,00:40.87,learniciel,jump_future_rebuild,WR,IRC,,-00:00.43,,false,16334,,
+2014-08-19,00:40.72,Ame,jump_future_rebuild,WR,MapRecord,,-00:00.13,00:00.13,false,16517,76561198070882254,STEAM_0:0:55308263
+2014-08-24,00:40.00,learniciel,jump_future_rebuild,WR,MapRecord,,-00:00.13,00:00.13,false,17844,76561198071336741,[U:1:111071013]
+2014-11-14,00:38.78,Kucino,jump_future_rebuild,WR,MapRecord,,-00:01.21,00:01.69,false,30504,76561198045405184,[U:1:85139456]
+2015-03-17,00:37.90,Soup Can,jump_future_rebuild,WR,MapRecord,,-00:00.88,00:07.96,false,71688,76561198029285343,[U:1:69019615]
+2015-07-31,00:37.58,ssssssssss,jump_future_rebuild,WR,IRC,,-00:00.31,,false,122235,,
+2015-08-03,00:37.57,kucino -tt | tip,jump_future_rebuild,WR,MapRecord,,-00:00.01,00:00.48,false,123376,,
+2018-11-11,00:33.08,Broly,jump_future_rebuild,WR,MapRun,04:39.38,+04:06.30,,true,813592,76561198016044075,[U:1:55778347]
+2019-01-11,00:33.03,twitch.tv/zike10,jump_future_rebuild,WR,MapRecord,,-00:00.05,00:00.13,false,864115,,
+2019-03-05,00:32.56,Soup -tt,jump_future_rebuild,WR,MapRecord,,-00:00.46,00:00.52,false,907994,76561198029285343,[U:1:69019615]
+2020-08-21,00:31.84,Zike1017,jump_future_rebuild,WR,IRC,,-00:00.44,,false,1332536,,
+2021-10-14,00:31.06,Doug,jump_future_rebuild,WR,MapRun,05:22.12,+04:51.06,,true,1732465,76561198963857433,[U:1:1003591705]
+2022-03-24,00:30.73,Soup -tt,jump_future_rebuild,WR,IRC,,-00:00.33,,false,1896425,,
+2024-07-25,00:30.46,musli,jump_future_rebuild,WR,MapRun,01:35.17,+01:04.71,,true,2964225,76561198379555950,[U:1:419290222]
+2024-12-05,00:30.27,Soup -tt,jump_future_rebuild,WR,IRC,,-00:00.19,,false,3160391,,
+2024-12-05,00:29.97,Soup -tt,jump_future_rebuild,WR,IRC,,-00:00.30,,false,3160189,,
+2025-05-14,00:29.96,拉面,jump_future_rebuild,WR,MapRun,06:52.66,+06:22.70,,true,3317754,76561198167532459,[U:1:207266731]

@@ -1,0 +1,27 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2015-01-08,09:05.10,froa boa,jump_home_v2,WR,IRCSet,,,,false,46831,76561198098124142,[U:1:137858414]
+2015-01-08,06:14.46,Helpless_Soldier,jump_home_v2,WR,IRC,,-01:30.32,,false,46836,76561198043137253,[U:1:82871525]
+2015-01-08,05:16.68,Helpless_Soldier,jump_home_v2,WR,MapRecord,,-00:42.47,00:57.77,false,46841,76561198043137253,[U:1:82871525]
+2015-01-08,04:40.55,LessThanThree,jump_home_v2,WR,IRC,,-00:36.12,,false,47116,,
+2015-01-10,04:16.77,Superchuck #AGDQ,jump_home_v2,WR,MapRecord,,-00:23.78,01:19.55,false,47691,,
+2015-01-10,04:06.58,LessThanThree,jump_home_v2,WR,MapRecord,,-00:10.18,00:20.39,false,48097,76561198066563951,[U:1:106298223]
+2015-01-11,03:52.55,Superchuck,jump_home_v2,WR,MapRecord,,-00:14.02,00:24.21,false,48466,76561198064467753,[U:1:104202025]
+2015-01-15,03:50.27,LessThanThree,jump_home_v2,WR,MapRecord,,-00:02.28,00:07.32,false,50416,76561198066563951,[U:1:106298223]
+2015-01-17,03:50.10,jondeezy -tt,jump_home_v2,WR,MapRecord,,-00:00.17,00:11.40,false,51008,76561198055778722,[U:1:95512994]
+2015-03-25,03:46.18,zigzati,jump_home_v2,WR,MapRecord,,-00:03.92,00:19.45,false,74717,,
+2015-06-08,03:45.99,Superchuck <LucA,jump_home_v2,WR,IRC,,-00:00.18,,false,104032,,
+2015-09-01,03:41.21,jondeezy,jump_home_v2,WR,MapRecord,,-00:04.77,00:06.22,false,135320,76561198055778722,[U:1:95512994]
+2017-12-24,03:02.26,Exemplar,jump_home_v2,WR,MapRun,21:53.53,+18:51.27,,true,534250,,
+2018-08-13,03:01.86,Rozadyme,jump_home_v2,WR,MapRun,04:51.25,+01:49.39,,true,733616,76561198808892678,[U:1:848626950]
+2018-08-22,02:58.53,foxglove,jump_home_v2,WR,MapRecord,,-00:03.32,00:03.73,false,740591,76561198046601398,[U:1:86335670]
+2018-12-18,02:58.11,6ocxy,jump_home_v2,WR,MapRecord,,-00:00.42,00:00.42,false,844613,76561198046601398,[U:1:86335670]
+2018-12-18,02:57.28,6ocxy,jump_home_v2,WR,MapRecord,,-00:00.82,00:00.82,false,844657,76561198046601398,[U:1:86335670]
+2020-05-07,02:48.31,twitch.tv/boshyt,jump_home_v2,WR,MapRecord,,-00:01.71,00:01.71,false,1244406,,
+2021-07-16,02:45.40,IzzyHoP,jump_home_v2,WR,MapRecord,,-00:02.91,00:03.66,false,1639632,76561197995927883,[U:1:35662155]
+2021-08-27,02:40.66,twitch.tv/rachel,jump_home_v2,WR,IRC,,-00:04.74,,false,1685469,,
+2022-03-18,02:39.42,IzzyHoP,jump_home_v2,WR,MapRecord,,-00:01.24,00:05.98,false,1890735,76561197995927883,[U:1:35662155]
+2024-01-12,02:36.24,Rellort -fwo -gu,jump_home_v2,WR,MapRecord,,-00:03.18,00:04.18,false,2680989,,
+2024-04-11,02:32.56,Rellort -fwo -gu,jump_home_v2,WR,IRC,,-00:03.67,,false,2812526,,
+2024-04-27,02:31.95,Rellort,jump_home_v2,WR,IRC,,-00:00.61,,false,2835160,,
+2024-04-28,02:27.57,Rellort,jump_home_v2,WR,IRC,,-00:04.38,,false,2832418,,
+2025-04-14,02:27.56,Corrie,jump_home_v2,WR,MapRun,13:43.24,+11:15.68,,true,3274868,76561198102314375,[U:1:142048647]

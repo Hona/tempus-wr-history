@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2020-07-21,01:48.73,Kajasumthing,jump_if_rc2,WR,IRC,,-00:07.52,,false,1306444,76561198091590767,[U:1:131325039]
+2020-07-21,01:40.93,ADJ,jump_if_rc2,WR,MapRun,03:24.19,+01:43.26,,true,1306592,76561198046155437,[U:1:85889709]
+2020-07-22,01:34.00,tomato tom,jump_if_rc2,WR,IRC,,-00:05.64,,false,1306855,76561198120374593,[U:1:160108865]
+2020-07-31,01:32.70,dino,jump_if_rc2,WR,MapRecord,,-00:01.30,00:04.82,false,1314364,76561198070882254,[U:1:110616526]
+2020-08-03,01:30.03,tomato tom,jump_if_rc2,WR,IRC,,-00:02.67,,false,1316780,,
+2020-08-04,01:21.83,dino,jump_if_rc2,WR,MapRecord,,-00:01.96,00:01.96,false,1317766,76561198070882254,[U:1:110616526]
+2020-08-04,01:21.07,tomato tom,jump_if_rc2,WR,MapRecord,,-00:00.14,00:00.14,false,1317973,,
+2020-08-04,01:18.94,tomato tom,jump_if_rc2,WR,MapRecord,,-00:01.79,00:01.79,false,1318067,76561198120374593,[U:1:160108865]
+2022-07-13,01:13.63,tomatotom@goblin,jump_if_rc2,WR,MapRecord,,-00:01.93,00:01.93,false,1999136,,

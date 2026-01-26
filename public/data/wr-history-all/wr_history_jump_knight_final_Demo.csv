@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-01-11,01:26.36,mojo jojo,jump_knight_final,WR,MapRun,01:58.07,+00:31.71,00:48.31,true,549600,,
+2020-05-22,01:25.39,vice,jump_knight_final,WR,MapRecord,,-00:00.97,00:02.22,false,1255907,76561198366368448,[U:1:406102720]
+2021-06-05,01:24.66,lvl 100 menace,jump_knight_final,WR,IRC,,-00:00.73,,false,1605796,,
+2023-09-01,01:24.60,cander,jump_knight_final,WR,MapRecord,,-00:00.06,00:00.60,false,2481956,76561198318722879,[U:1:358457151]

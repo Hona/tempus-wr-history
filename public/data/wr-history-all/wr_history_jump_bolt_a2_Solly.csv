@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2026-01-02,01:15.04,kjr -jcf,jump_bolt_a2,WR,IRCSet,,,,false,3700100,,
+2026-01-02,00:43.36,fred,jump_bolt_a2,WR,IRC,,-00:01.46,,false,3700130,,
+2026-01-02,00:41.49,BLANK -jcf,jump_bolt_a2,WR,IRC,,-00:01.88,,false,3700271,,
+2026-01-02,00:40.29,vice,jump_bolt_a2,WR,IRC,,-00:00.60,,false,3700318,,
+2026-01-02,00:39.69,vice,jump_bolt_a2,WR,IRC,,-00:00.10,,false,3700358,,
+2026-01-02,00:39.68,Sosig,jump_bolt_a2,WR,MapRun,03:31.54,+02:51.86,,true,3700436,76561198297617138,[U:1:337351410]
+2026-01-06,00:39.58,sammy -rng,jump_bolt_a2,WR,IRC,,-00:00.10,,false,3706211,,
+2026-01-07,00:39.39,ike,jump_bolt_a2,WR,MapRun,02:12.60,+01:33.21,,true,3706478,76561198039845647,[U:1:79579919]
+2026-01-07,00:39.38,Drandor,jump_bolt_a2,WR,MapRun,01:42.52,+01:03.14,,true,3706620,76561198034377705,[U:1:74111977]
+2026-01-07,00:38.64,asp/,jump_bolt_a2,WR,MapRun,01:32.88,+00:54.24,,true,3707438,76561198972493160,[U:1:1012227432]
+2026-01-08,00:37.30,vice,jump_bolt_a2,WR,IRC,,-00:01.34,,false,3708155,,

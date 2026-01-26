@@ -1,0 +1,8 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2021-07-02,05:42.19,pena,jump_turnuround_fix,WR,IRC,,-03:42.76,,false,1627745,,
+2021-07-02,01:43.74,vice,jump_turnuround_fix,WR,IRC,,-00:37.59,,false,1627802,,
+2021-07-03,01:33.87,riot,jump_turnuround_fix,WR,MapRun,06:13.93,+04:40.06,,true,1628438,76561198065169685,[U:1:104903957]
+2021-07-04,01:33.09,jtravs,jump_turnuround_fix,WR,IRC,,-00:00.78,,false,1629413,,
+2021-07-13,01:21.09,wip,jump_turnuround_fix,WR,IRC,,-00:00.27,,false,1636856,,
+2021-07-13,01:09.88,wip,jump_turnuround_fix,WR,IRC,,-00:07.12,,false,1636916,,
+2023-10-13,01:06.90,Matty,jump_turnuround_fix,WR,MapRecord,,-00:02.98,00:03.07,false,2543341,76561198035204545,[U:1:74938817]

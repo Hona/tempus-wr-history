@@ -1,0 +1,14 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2019-01-05,20:15.84,newjuls,jump_jabroni,WR,FirstRecord,,,,false,859357,76561198396018338,[U:1:435752610]
+2019-08-23,12:29.46,newjuls,jump_jabroni,WR,IRC,,-07:46.38,,false,1040991,,
+2019-12-19,11:54.01,Hona,jump_jabroni,WR,IRC,,-00:35.44,,false,1127384,,
+2019-12-20,06:30.34,Hona,jump_jabroni,WR,MapRecord,,-05:23.67,05:23.67,false,1128515,76561198221809496,[U:1:261543768]
+2020-01-19,06:15.71,Hona,jump_jabroni,WR,IRC,,-00:14.62,,false,1152502,,
+2020-01-20,05:55.48,Hona,jump_jabroni,WR,MapRecord,,-00:20.23,00:20.23,false,1153237,76561198221809496,[U:1:261543768]
+2020-01-21,04:57.54,Hona,jump_jabroni,WR,IRC,,-00:57.94,,false,1154360,76561198221809496,[U:1:261543768]
+2020-06-13,04:29.44,ye,jump_jabroni,WR,MapRecord,,-01:14.27,01:14.27,false,1274305,76561198221809496,[U:1:261543768]
+2020-06-15,04:17.81,Hona,jump_jabroni,WR,MapRecord,,-00:11.62,00:11.62,false,1275958,76561198221809496,[U:1:261543768]
+2023-03-16,04:09.48,Scoob,jump_jabroni,WR,MapRecord,,-00:09.21,00:09.21,false,2242368,76561198121428371,[U:1:161162643]
+2023-03-17,04:08.17,Scoob,jump_jabroni,WR,MapRecord,,-00:01.30,00:01.30,false,2243383,76561198121428371,[U:1:161162643]
+2023-03-20,03:57.63,Scoob,jump_jabroni,WR,IRC,,-00:10.54,,false,2246467,76561198121428371,[U:1:161162643]
+2025-05-19,03:57.62,Diabolical,jump_jabroni,WR,MapRun,2:10:44.38,+2:06:46.76,,true,3324968,76561198053794949,[U:1:93529221]

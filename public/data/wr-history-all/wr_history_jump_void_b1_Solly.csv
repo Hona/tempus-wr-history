@@ -1,0 +1,15 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-28,01:29.86,guyyst,jump_void_b1,WR,MapRecord,,-00:08.43,,false,12669,76561198041343262,STEAM_0:0:40538767
+2017-12-05,01:22.68,kidder,jump_void_b1,WR,MapRecord,,-00:01.16,00:07.25,false,517921,,
+2017-12-05,01:21.32,kidder,jump_void_b1,WR,MapRecord,,-00:01.35,00:01.35,false,518275,76561198000949987,[U:1:40684259]
+2017-12-05,01:17.96,kidder,jump_void_b1,WR,IRC,,-00:03.36,,false,518353,76561198000949987,[U:1:40684259]
+2017-12-07,01:16.04,kidder,jump_void_b1,WR,MapRecord,,-00:01.92,00:01.92,false,519736,76561198000949987,[U:1:40684259]
+2020-08-12,01:15.28,Diller,jump_void_b1,WR,MapRecord,,-00:00.76,00:01.71,false,1323670,76561198040963460,[U:1:80697732]
+2022-02-20,01:14.65,ihp,jump_void_b1,WR,MapRecord,,-00:00.63,00:01.86,false,1864645,76561197995927883,[U:1:35662155]
+2022-02-21,01:13.87,ihp,jump_void_b1,WR,IRC,,-00:00.78,,false,1865534,,
+2022-02-21,01:13.03,ihp,jump_void_b1,WR,IRC,,-00:00.84,,false,1865682,76561197995927883,[U:1:35662155]
+2023-07-29,01:10.92,riotbz,jump_void_b1,WR,MapRecord,,-00:02.11,00:12.15,false,2428437,76561198065169685,[U:1:104903957]
+2024-01-04,01:10.08,Helmi. -CC,jump_void_b1,WR,MapRecord,,-00:00.84,00:06.01,false,2669644,76561198201985399,[U:1:241719671]
+2024-04-30,01:08.49,vice,jump_void_b1,WR,IRC,,-00:01.59,,false,2839209,,
+2024-10-26,01:05.31,glorp,jump_void_b1,WR,IRC,,-00:03.18,,false,3101050,,
+2025-04-24,01:05.30,pixelbee,jump_void_b1,WR,MapRun,11:51.52,+10:46.22,,true,3290241,76561199101890716,[U:1:1141624988]

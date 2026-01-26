@@ -1,0 +1,23 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-12,04:03.92,Superchuck,jump_sketchy_final,WR,FirstRecord,,,,false,10431,76561198064467753,STEAM_0:1:52101012
+2014-07-12,03:45.31,Bane,jump_sketchy_final,WR,MapRecord,,-00:18.61,01:11.06,false,10439,76561198040260189,STEAM_0:1:39997230
+2014-07-12,03:31.50,Superchuck,jump_sketchy_final,WR,MapRecord,,-00:13.80,00:21.99,false,10441,76561198064467753,STEAM_0:1:52101012
+2014-07-12,02:54.52,Gebobus,jump_sketchy_final,WR,MapRecord,,-00:25.93,,false,10485,76561198044263100,STEAM_0:0:41998686
+2014-07-12,02:40.46,Gebobus,jump_sketchy_final,WR,MapRecord,,-00:14.05,00:14.05,false,10494,76561198044263100,STEAM_0:0:41998686
+2014-07-16,02:35.39,cody,jump_sketchy_final,WR,MapRecord,,-00:05.07,00:30.88,false,10933,76561198078488228,STEAM_0:0:59111250
+2014-08-28,02:29.16,cody,jump_sketchy_final,WR,MapRecord,,-00:06.23,00:06.23,false,18692,76561198078488228,[U:1:118222500]
+2014-10-09,02:27.29,Kucino -kk,jump_sketchy_final,WR,MapRecord,,-00:01.86,00:03.32,false,22535,76561198045405184,[U:1:85139456]
+2014-12-12,02:21.86,sunrise,jump_sketchy_final,WR,MapRecord,,-00:05.43,00:08.36,false,36145,76561198042495717,[U:1:82229989]
+2015-01-08,02:20.08,ghost,jump_sketchy_final,WR,IRC,,-00:01.78,,false,47116,76561198078488228,[U:1:118222500]
+2015-07-10,02:14.98,extreme_gamer,jump_sketchy_final,WR,MapRecord,,-00:06.88,00:06.88,false,113613,76561198042495717,[U:1:82229989]
+2015-08-22,02:09.23,Soup caN -tt | t,jump_sketchy_final,WR,IRC,,-00:00.91,,false,131294,,
+2018-07-22,01:54.99,Zike1017 ツ,jump_sketchy_final,WR,MapRun,01:59.87,+00:04.88,00:04.06,true,714085,,
+2018-10-08,01:53.94,.Kanekaii,jump_sketchy_final,WR,MapRun,04:07.72,+02:13.78,00:59.55,true,783943,76561198195167573,[U:1:234901845]
+2018-12-05,01:50.15,vice,jump_sketchy_final,WR,MapRecord,,-00:03.77,00:06.27,false,833156,76561198366368448,[U:1:406102720]
+2018-12-08,01:49.90,twitch.tv/zike10,jump_sketchy_final,WR,MapRecord,,-00:00.25,00:03.94,false,835390,,
+2019-03-27,01:48.49,Soup -tt,jump_sketchy_final,WR,MapRecord,,-00:01.40,00:01.48,false,925154,76561198029285343,[U:1:69019615]
+2020-08-08,01:48.15,twitch.tv/zike10,jump_sketchy_final,WR,MapRecord,,-00:00.34,00:00.40,false,1321105,,
+2020-10-03,01:47.68,tripbwai,jump_sketchy_final,WR,MapRun,04:47.15,+02:59.47,,true,1376375,76561198109904512,[U:1:149638784]
+2021-11-12,01:46.95,vice,jump_sketchy_final,WR,MapRecord,,-00:00.73,00:01.50,false,1763784,76561198366368448,[U:1:406102720]
+2022-02-17,01:43.20,Soup -tt,jump_sketchy_final,WR,IRC,,-00:03.75,,false,1861538,,
+2024-05-23,01:41.80,vice,jump_sketchy_final,WR,IRC,,-00:01.39,,false,2870353,,

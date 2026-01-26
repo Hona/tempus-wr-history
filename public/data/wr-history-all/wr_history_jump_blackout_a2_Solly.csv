@@ -1,0 +1,15 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2015-06-28,04:37.70,879m,jump_blackout_a2,WR,IRC,,-01:30.65,,false,111501,,
+2015-06-28,04:06.20,sile,jump_blackout_a2,WR,IRC,,-00:16.32,,false,111622,,
+2015-06-28,03:38.06,hammie,jump_blackout_a2,WR,MapRun,41:19.09,+37:41.03,,true,111634,76561198073309415,[U:1:113043687]
+2015-06-28,01:42.57,func,jump_blackout_a2,WR,MapRecord,,-00:01.88,00:03.86,false,111725,,
+2015-06-30,01:36.67,Superchuck <LucA,jump_blackout_a2,WR,IRC,,-00:05.89,,false,112476,,
+2015-07-10,01:16.58,Aurora,jump_blackout_a2,WR,MapRecord,,-00:15.73,00:15.73,false,113753,76561198053067670,[U:1:92801942]
+2018-05-25,01:04.19,kidder | bg5.tf,jump_blackout_a2,WR,MapRecord,,-00:00.39,00:00.39,false,658876,76561198000949987,[U:1:40684259]
+2019-02-16,01:01.41,wubby wubber,jump_blackout_a2,WR,IRC,,-00:02.78,,false,894208,,
+2022-05-17,01:01.23,rintincan,jump_blackout_a2,WR,MapRecord,,-00:00.18,00:01.72,false,1950831,76561198124772544,[U:1:164506816]
+2023-04-25,00:58.20,Rellort,jump_blackout_a2,WR,MapRecord,,-00:01.81,00:01.81,false,2291365,76561198090668406,[U:1:130402678]
+2025-01-09,00:57.91,riotbz,jump_blackout_a2,WR,IRC,,-00:00.28,,false,3211080,,
+2025-04-23,00:56.31,muesli,jump_blackout_a2,WR,IRC,,-00:01.60,,false,3288729,,
+2025-05-01,00:56.30,Mei,jump_blackout_a2,WR,MapRun,02:43.36,+01:47.06,,true,3299328,76561198258803713,[U:1:298537985]
+2026-01-04,00:55.54,t5 solly jumper,jump_blackout_a2,WR,MapRun,08:34.62,+07:39.08,,true,3703557,,

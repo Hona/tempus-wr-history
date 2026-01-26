@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2020-06-07,06:34.56,JackyLegs,jump_tensor_a2_zip,WR,MapRun,33:23.98,+26:49.42,,true,1269834,,
+2021-04-07,06:34.55,Solomon,jump_tensor_a2_zip,WR,MapRun,07:29.80,+00:55.25,32:52.14,true,1557607,,
+2021-04-08,06:33.94,Solomon,jump_tensor_a2_zip,WR,MapRecord,,-00:00.61,00:55.86,false,1558486,76561198096749316,[U:1:136483588]
+2022-05-29,05:52.14,Thaeas,jump_tensor_a2_zip,WR,MapRun,54:19.39,+48:27.25,,true,1960193,76561198068604453,[U:1:108338725]
+2022-06-08,05:46.50,Meti,jump_tensor_a2_zip,WR,IRC,,-00:05.64,,false,1969334,,
+2023-01-20,05:26.74,x_ray2700,jump_tensor_a2_zip,WR,IRC,,-00:14.14,,false,2187803,,
+2023-01-22,05:07.00,x_ray2700,jump_tensor_a2_zip,WR,MapRecord,,-00:19.74,00:19.74,false,2190051,76561198979680671,[U:1:1019414943]
+2023-01-23,05:02.17,x_ray2700,jump_tensor_a2_zip,WR,MapRecord,,-00:04.83,00:04.83,false,2191054,76561198979680671,[U:1:1019414943]
+2023-02-02,04:50.28,x_ray2700,jump_tensor_a2_zip,WR,MapRecord,,-00:10.98,00:10.98,false,2201773,76561198979680671,[U:1:1019414943]

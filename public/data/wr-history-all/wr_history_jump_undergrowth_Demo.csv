@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2017-12-17,01:19.76,Mo,jump_undergrowth,WR,MapRun,10:12.08,+08:52.32,,true,528156,76561197998034921,[U:1:37769193]
+2018-02-05,01:18.84,gonk,jump_undergrowth,WR,MapRecord,,-00:00.92,00:03.08,false,569292,,
+2018-05-18,01:16.28,mesatech,jump_undergrowth,WR,MapRecord,,-00:02.55,00:03.48,false,652212,,
+2019-01-04,01:14.84,vice,jump_undergrowth,WR,MapRecord,,-00:01.44,00:02.50,false,858121,76561198366368448,[U:1:406102720]

@@ -1,0 +1,16 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-11,03:11.59,cody,jump_asdf,WR,MapRecord,,-00:40.16,02:23.42,false,10334,76561198078488228,STEAM_0:0:59111250
+2014-07-15,03:05.71,kil boy 1,jump_asdf,WR,MapRecord,,-00:05.88,00:10.81,false,10870,76561198040983512,STEAM_0:0:40358892
+2014-07-15,03:02.74,cody,jump_asdf,WR,MapRecord,,-00:02.97,00:08.85,false,10887,76561198078488228,STEAM_0:0:59111250
+2014-11-06,02:47.33,lewinsky,jump_asdf,WR,MapRecord,,-00:15.40,00:15.40,false,28877,76561198078488228,[U:1:118222500]
+2017-11-24,02:27.31,newjuls,jump_asdf,WR,MapRun,02:52.25,+00:24.94,00:14.82,true,510028,,
+2017-12-25,02:22.64,Zike1017 ツ,jump_asdf,WR,MapRecord,,-00:04.66,00:05.43,false,534467,,
+2017-12-25,02:10.92,Soup -ttr,jump_asdf,WR,MapRecord,,-00:11.72,00:16.39,false,534830,76561198029285343,[U:1:69019615]
+2019-10-22,02:10.45,Zike1017 ツ -tt,jump_asdf,WR,MapRecord,,-00:00.46,00:04.39,false,1086710,,
+2019-12-07,02:06.69,Soup -tt,jump_asdf,WR,MapRecord,,-00:03.76,00:03.80,false,1119031,,
+2020-07-15,02:05.69,Spicy,jump_asdf,WR,MapRun,10:04.48,+07:58.79,,true,1301505,76561198072253290,[U:1:111987562]
+2020-10-13,02:03.79,Lonely,jump_asdf,WR,MapRun,47:52.83,+45:49.04,,true,1386081,76561198204104197,[U:1:243838469]
+2021-03-02,01:58.04,Signal,jump_asdf,WR,MapRun,27:09.21,+25:11.17,,true,1523826,76561198225715416,[U:1:265449688]
+2021-08-18,01:55.72,Rachello,jump_asdf,WR,MapRun,03:18.37,+01:22.65,,true,1674718,76561198815853361,[U:1:855587633]
+2025-05-26,01:53.12,milet,jump_asdf,WR,IRC,,-00:02.61,,false,3335396,76561198366368448,[U:1:406102720]
+2025-06-03,01:53.11,buddy holly,jump_asdf,WR,MapRun,57:13.12,+55:20.01,,true,3346153,76561198307184206,[U:1:346918478]

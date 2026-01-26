@@ -1,0 +1,7 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2017-12-20,03:28.33,Larry,jump_neptune_rc1,WR,MapRun,04:31.97,+01:03.64,,true,530411,76561198060570011,[U:1:100304283]
+2020-05-18,03:13.25,twitch.tv/boshyt,jump_neptune_rc1,WR,IRC,,-00:09.51,,false,1253314,,
+2022-10-17,03:11.04,frankenfig,jump_neptune_rc1,WR,MapRecord,,-00:02.22,00:02.64,false,2090184,76561198153842796,[U:1:193577068]
+2023-07-22,03:06.39,fig,jump_neptune_rc1,WR,IRC,,-00:04.65,,false,2418782,,
+2023-07-24,03:00.63,POSEIDON,jump_neptune_rc1,WR,IRC,,-00:05.76,,false,2421812,,
+2025-06-18,03:00.62,ASAP,jump_neptune_rc1,WR,MapRun,10:15.76,+07:15.14,,true,3367829,76561199745678744,[U:1:1785413016]

@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2022-01-01,02:30.42,Waldo,jump_beryllium_v3_fix,WR,FirstRecord,,,,false,1813242,76561198020256631,[U:1:59990903]
+2022-01-01,02:09.51,vice,jump_beryllium_v3_fix,WR,IRC,,-00:05.53,,false,1813247,,
+2022-01-01,02:00.07,vice,jump_beryllium_v3_fix,WR,IRC,,-00:09.43,,false,1813258,,
+2022-01-01,01:48.63,vice,jump_beryllium_v3_fix,WR,MapRecord,,-00:01.98,00:11.44,false,1813268,,
+2022-01-03,01:48.25,Matty,jump_beryllium_v3_fix,WR,MapRecord,,-00:00.37,00:00.84,false,1815256,,
+2022-01-04,01:47.84,sward,jump_beryllium_v3_fix,WR,MapRun,03:11.04,+01:23.20,,true,1816338,76561198140212034,[U:1:179946306]
+2022-01-04,01:47.83,jtravs,jump_beryllium_v3_fix,WR,MapRun,01:48.07,+00:00.24,,true,1816587,76561198117262056,[U:1:156996328]
+2022-01-04,01:47.13,Kajasumthing,jump_beryllium_v3_fix,WR,IRC,,-00:00.70,,false,1816680,,
+2022-01-04,01:45.12,Kajasumthing,jump_beryllium_v3_fix,WR,IRC,,-00:02.01,,false,1816705,,
+2022-01-05,01:43.11,Alternate Machik,jump_beryllium_v3_fix,WR,MapRun,03:47.25,+02:04.14,01:58.48,true,1817216,,
+2022-01-08,01:41.19,fhqwhgads,jump_beryllium_v3_fix,WR,MapRun,03:47.95,+02:06.76,04:23.89,true,1820323,76561198109904512,[U:1:149638784]

@@ -1,0 +1,9 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2023-01-14,05:08.10,Waldo,jump_observatory_fix4,WR,IRC,,-07:29.23,,false,2181073,,
+2023-01-14,02:37.75,vash,jump_observatory_fix4,WR,IRC,,-00:02.19,,false,2181075,76561198377607948,[U:1:417342220]
+2023-01-15,02:13.57,Fluffie,jump_observatory_fix4,WR,MapRun,10:14.65,+08:01.08,,true,2181681,76561198028114870,[U:1:67849142]
+2023-01-20,02:12.76,Matty,jump_observatory_fix4,WR,IRC,,-00:00.81,,false,2187221,,
+2023-01-20,02:10.44,Matty,jump_observatory_fix4,WR,MapRecord,,-00:00.97,00:00.97,false,2187228,,
+2023-03-23,02:10.27,cander,jump_observatory_fix4,WR,IRC,,-00:00.16,,false,2276956,,
+2023-11-17,02:10.26,PineappleOnBoat,jump_observatory_fix4,WR,MapRecord,,-00:00.18,00:02.05,false,2596012,76561198094197569,[U:1:133931841]
+2023-11-20,02:09.04,Matty,jump_observatory_fix4,WR,MapRecord,,-00:01.21,00:01.39,false,2599775,76561198035204545,[U:1:74938817]

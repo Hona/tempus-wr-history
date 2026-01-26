@@ -1,0 +1,24 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2017-11-23,15:11.97,Chief,jump_sven_b1,WR,IRCSet,,,,false,509440,,
+2017-11-23,11:07.66,Chief,jump_sven_b1,WR,MapRecord,,-04:04.31,04:04.31,false,509524,76561198122579111,[U:1:162313383]
+2017-11-24,09:06.97,Soup -tt,jump_sven_b1,WR,MapRun,11:28.79,+02:21.82,10:47.80,true,510323,76561198029285343,[U:1:69019615]
+2017-11-24,08:12.08,kaptain,jump_sven_b1,WR,MapRecord,,-00:54.88,03:59.60,false,510449,76561198033727092,[U:1:73461364]
+2017-11-24,06:35.03,kaptain,jump_sven_b1,WR,MapRecord,,-01:37.05,01:37.05,false,510516,76561198033727092,[U:1:73461364]
+2018-03-19,05:29.83,kaptain,jump_sven_b1,WR,MapRecord,,-00:26.89,00:26.89,false,603342,76561198033727092,[U:1:73461364]
+2019-04-11,05:22.44,fatalism,jump_sven_b1,WR,MapRun,32:08.96,+26:46.52,32:22.33,true,937197,76561198024042625,[U:1:63776897]
+2019-04-13,05:10.75,kaptain,jump_sven_b1,WR,MapRecord,,-00:11.68,00:19.07,false,938592,76561198033727092,[U:1:73461364]
+2019-04-14,05:01.31,kaptain,jump_sven_b1,WR,MapRecord,,-00:09.43,00:09.43,false,939377,76561198033727092,[U:1:73461364]
+2019-05-17,04:47.93,ayaya,jump_sven_b1,WR,MapRecord,,-00:13.38,00:19.33,false,964479,76561198063901478,[U:1:103635750]
+2019-05-24,04:42.11,kaptain,jump_sven_b1,WR,MapRecord,,-00:05.82,00:19.20,false,970256,,
+2023-02-13,04:41.80,kpop lover -TT,jump_sven_b1,WR,MapRecord,,-00:00.31,00:38.55,false,2212731,76561198057436685,[U:1:97170957]
+2023-05-08,04:10.78,spidda,jump_sven_b1,WR,IRC,,-00:31.02,,false,2309278,76561198057436685,[U:1:97170957]
+2023-06-15,04:09.90,spidda,jump_sven_b1,WR,IRC,,-00:00.88,,false,2365935,,
+2024-05-06,04:03.42,rizzlebizzle,jump_sven_b1,WR,IRC,,-00:06.48,,false,2847647,,
+2024-05-06,03:59.43,rizzlebizzle,jump_sven_b1,WR,IRC,,-00:00.88,,false,2847851,,
+2024-05-07,03:47.82,rizzlebizzle,jump_sven_b1,WR,IRC,,-00:11.61,,false,2848695,,
+2024-05-07,03:39.69,rizzlebizzle,jump_sven_b1,WR,IRC,,-00:08.13,,false,2848899,,
+2025-04-28,03:39.68,Mileerol,jump_sven_b1,WR,MapRun,39:10.12,+35:30.44,,true,3295552,76561198061854131,[U:1:101588403]
+2025-09-20,03:31.36,utunen,jump_sven_b1,WR,IRC,,-00:08.32,,false,3500411,,
+2025-09-23,03:21.81,utunen,jump_sven_b1,WR,IRC,,-00:09.56,,false,3504728,,
+2025-10-03,03:21.80,Cryptical,jump_sven_b1,WR,MapRun,22:14.68,+18:52.88,28:27.48,true,3518129,76561198183308917,[U:1:223043189]
+2025-10-06,03:13.54,utunen,jump_sven_b1,WR,IRC,,-00:08.26,,false,3523059,,

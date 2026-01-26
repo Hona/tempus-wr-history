@@ -1,0 +1,20 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-10-22,02:36.55,Mayhem,jump_software,WR,IRCSet,,,,false,796202,,
+2018-10-22,01:25.72,vt,jump_software,WR,IRC,,-00:02.08,,false,796211,76561198013875009,[U:1:53609281]
+2018-10-22,01:09.49,vt,jump_software,WR,IRC,,-00:05.15,,false,796238,,
+2018-10-22,01:03.00,nightmare on elm,jump_software,WR,IRC,,-00:02.70,,false,796343,,
+2018-10-22,00:59.32,nightmare on elm,jump_software,WR,IRC,,-00:03.67,,false,796353,,
+2018-10-22,00:54.07,nightmare on elm,jump_software,WR,MapRecord,,-00:01.44,00:01.44,false,796447,,
+2018-10-23,00:53.53,Jax-o'-lantern,jump_software,WR,MapRecord,,-00:00.53,00:00.60,false,797010,76561198066650704,[U:1:106384976]
+2018-10-24,00:49.46,Jax-o'-lantern,jump_software,WR,MapRecord,,-00:00.58,00:00.58,false,797781,,
+2019-03-20,00:47.92,CrackuhJax,jump_software,WR,IRC,,-00:01.54,,false,919258,,
+2019-03-30,00:47.29,t,jump_software,WR,MapRecord,,-00:00.63,00:01.87,false,927116,76561198066947056,[U:1:106681328]
+2019-04-09,00:46.71,CrackuhJax,jump_software,WR,MapRecord,,-00:00.58,00:00.85,false,935397,76561198066650704,[U:1:106384976]
+2019-04-15,00:46.05,c__c,jump_software,WR,IRC,,-00:00.66,,false,940366,,
+2019-07-01,00:45.01,droptear,jump_software,WR,MapRecord,,-00:00.92,00:00.92,false,999621,,
+2021-01-12,00:44.47,diller,jump_software,WR,MapRecord,,-00:00.54,00:00.97,false,1475975,76561198040963460,[U:1:80697732]
+2024-01-30,00:43.39,V1,jump_software,WR,MapRun,02:34.36,+01:50.97,,true,2709406,76561198417245852,[U:1:456980124]
+2025-01-23,00:42.78,rev!4,jump_software,WR,MapRecord,,-00:00.61,00:02.20,false,3233170,76561198101061668,[U:1:140795940]
+2025-02-05,00:42.47,Mothman,jump_software,WR,MapRun,03:25.80,+02:43.33,,true,3252460,76561198834218318,[U:1:873952590]
+2025-02-06,00:42.46,Xoax,jump_software,WR,MapRun,03:30.64,+02:48.18,,true,3253658,76561197990721433,[U:1:30455705]
+2025-05-30,00:42.04,fluctuat nec mer,jump_software,WR,IRC,,-00:00.42,,false,3341084,,

@@ -1,0 +1,4 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2023-02-11,01:20.00,Omnia,jump_ember_rc6,WR,MapRun,08:08.25,+06:48.25,,true,2210906,76561198003833888,[U:1:43568160]
+2023-09-24,01:19.68,era.,jump_ember_rc6,WR,MapRecord,,-00:00.31,00:05.25,false,2515979,,
+2023-09-25,01:18.30,cander,jump_ember_rc6,WR,MapRecord,,-00:01.38,00:01.69,false,2517216,76561198318722879,[U:1:358457151]

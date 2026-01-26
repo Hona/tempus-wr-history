@@ -1,0 +1,11 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-09-09,01:00.13,twitch.tv/skinny,jump_ariser_fix,WR,MapRun,01:01.42,+00:01.29,00:00.31,true,757079,,
+2018-09-12,01:00.06,Skinny.,jump_ariser_fix,WR,MapRecord,,-00:00.07,00:01.36,false,759694,76561198180610262,[U:1:220344534]
+2020-06-19,00:59.68,cander,jump_ariser_fix,WR,IRC,,-00:00.37,,false,1279390,,
+2020-06-23,00:56.37,song,jump_ariser_fix,WR,IRC,,-00:03.31,,false,1283147,,
+2021-01-19,00:55.38,Skinny.,jump_ariser_fix,WR,MapRecord,,-00:01.65,00:01.65,false,1482097,76561198180610262,[U:1:220344534]
+2022-11-15,00:54.73,Skinny.,jump_ariser_fix,WR,MapRecord,,-00:00.37,00:00.64,false,2117675,76561198180610262,[U:1:220344534]
+2023-05-27,00:54.70,samburger,jump_ariser_fix,WR,MapRecord,,-00:00.03,00:00.18,false,2336134,76561198045707908,[U:1:85442180]
+2023-06-25,00:54.67,Skinny.,jump_ariser_fix,WR,MapRecord,,-00:00.03,00:00.06,false,2379481,76561198180610262,[U:1:220344534]
+2024-01-27,00:53.61,ride,jump_ariser_fix,WR,MapRun,05:16.05,+04:22.44,,true,2703890,76561198799702115,[U:1:839436387]
+2025-07-10,00:53.60,KevilPo,jump_ariser_fix,WR,MapRun,04:06.46,+03:12.86,,true,3398744,76561199244507267,[U:1:1284241539]

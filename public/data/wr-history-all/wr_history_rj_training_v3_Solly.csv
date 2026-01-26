@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-08-01,05:11.04,Aurora,rj_training_v3,WR,MapRecord,,-00:06.99,00:06.99,false,13224,76561198053067670,STEAM_0:0:46400971
+2014-08-19,04:25.83,Sunlit,rj_training_v3,WR,MapRecord,,-00:45.21,00:55.79,false,16626,76561198017342289,STEAM_0:1:28538280
+2014-09-09,04:23.80,Torri,rj_training_v3,WR,MapRecord,,-00:02.02,00:02.02,false,21240,76561198017342289,[U:1:57076561]
+2015-08-22,04:19.52,Superchuck | tip,rj_training_v3,WR,IRC,,-00:04.27,,false,131608,,
+2020-12-20,03:52.30,twitch.tv/newjul,rj_training_v3,WR,MapRun,07:49.42,+03:57.12,,true,1452500,,
+2021-08-25,03:44.99,kanda,rj_training_v3,WR,MapRun,09:43.74,+05:58.75,,true,1682932,76561198391588245,[U:1:431322517]
+2023-04-14,03:44.98,deluxeuser,rj_training_v3,WR,MapRun,06:14.89,+02:29.91,01:31.80,true,2273740,76561198417147943,[U:1:456882215]
+2023-09-09,03:41.16,Laplus Darkness,rj_training_v3,WR,MapRun,15:53.41,+12:12.25,,true,2494415,76561198111108219,[U:1:150842491]
+2024-10-25,03:27.04,Qatami,rj_training_v3,WR,MapRun,08:04.24,+04:37.20,08:25.51,true,3099394,76561198139373164,[U:1:179107436]

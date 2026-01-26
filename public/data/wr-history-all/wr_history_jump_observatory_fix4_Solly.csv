@@ -1,0 +1,9 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2023-01-14,14:07.03,bunny.,jump_observatory_fix4,WR,IRCSet,,,,false,2181073,,
+2023-01-14,02:33.72,bunny.,jump_observatory_fix4,WR,IRC,,-00:19.44,,false,2181075,,
+2023-01-15,02:11.98,bunny.,jump_observatory_fix4,WR,MapRecord,,-00:19.38,00:19.38,false,2181681,,
+2023-07-26,02:08.65,fred,jump_observatory_fix4,WR,MapRecord,,-00:03.33,00:17.55,false,2423488,76561198016044075,[U:1:55778347]
+2023-11-28,02:04.15,ltg bukem,jump_observatory_fix4,WR,MapRecord,,-00:03.10,00:03.10,false,2613369,76561198109904512,[U:1:149638784]
+2024-10-15,02:03.33,fred,jump_observatory_fix4,WR,IRC,,-00:00.82,,false,3085474,,
+2024-11-02,01:56.35,fred,jump_observatory_fix4,WR,IRC,,-00:06.97,,false,3111900,,
+2024-12-12,01:55.56,fred,jump_observatory_fix4,WR,IRC,,-00:00.79,,false,3170436,76561198016044075,[U:1:55778347]

@@ -1,0 +1,8 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-02-24,02:40.86,Kewlcid_02495,jump_biome,WR,MapRun,16:35.89,+13:55.03,,true,584345,76561198163830422,[U:1:203564694]
+2018-08-20,02:36.70,vice,jump_biome,WR,IRC,,-00:04.15,,false,739385,,
+2019-07-13,02:34.83,Boshy,jump_biome,WR,MapRecord,,-00:01.87,05:07.21,false,1009300,76561198046601398,[U:1:86335670]
+2019-07-14,02:31.85,vice,jump_biome,WR,MapRecord,,-00:02.97,00:04.84,false,1009872,76561198366368448,[U:1:406102720]
+2019-07-14,02:29.15,Boshy,jump_biome,WR,MapRecord,,-00:02.69,00:05.67,false,1010153,76561198046601398,[U:1:86335670]
+2019-07-15,02:27.71,vice,jump_biome,WR,MapRecord,,-00:01.44,00:02.24,false,1010457,76561198366368448,[U:1:406102720]
+2021-11-05,02:25.57,cander,jump_biome,WR,MapRecord,,-00:02.14,00:02.80,false,1756203,76561198318722879,[U:1:358457151]

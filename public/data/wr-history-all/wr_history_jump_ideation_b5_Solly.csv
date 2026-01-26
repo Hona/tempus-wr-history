@@ -1,0 +1,22 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2022-05-22,02:27.12,Kit,jump_ideation_b5,WR,IRCSet,,,,false,1954340,,
+2022-05-22,01:55.35,Salty,jump_ideation_b5,WR,IRC,,-00:03.58,,false,1954359,,
+2022-05-22,01:47.47,Salty,jump_ideation_b5,WR,IRC,,-00:01.84,,false,1954394,,
+2022-05-22,01:47.10,Maxx,jump_ideation_b5,WR,MapRun,02:23.08,+00:35.98,00:01.77,true,1954425,76561198045405304,[U:1:85139576]
+2022-05-23,01:44.29,Salty,jump_ideation_b5,WR,IRC,,-00:00.04,,false,1955549,,
+2022-05-25,01:42.70,fig,jump_ideation_b5,WR,MapRecord,,-00:01.59,00:03.06,false,1957150,76561198153842796,[U:1:193577068]
+2022-05-26,01:41.34,soven,jump_ideation_b5,WR,MapRecord,,-00:01.36,00:01.41,false,1957759,76561198133103832,[U:1:172838104]
+2022-05-26,01:40.12,soven,jump_ideation_b5,WR,IRC,,-00:00.57,,false,1957830,,
+2022-05-27,01:39.07,soven,jump_ideation_b5,WR,MapRecord,,-00:01.05,00:01.05,false,1958570,76561198133103832,[U:1:172838104]
+2022-05-28,01:38.07,soven,jump_ideation_b5,WR,IRC,,-00:00.69,,false,1959440,,
+2022-05-30,01:37.62,soven,jump_ideation_b5,WR,IRC,,-00:00.45,,false,1961199,,
+2023-04-22,01:37.00,sam,jump_ideation_b5,WR,MapRecord,,-00:00.58,00:00.58,false,2285896,76561198045707908,[U:1:85442180]
+2023-10-07,01:36.03,Vincero,jump_ideation_b5,WR,MapRecord,,-00:00.97,00:01.38,false,2534255,76561198108844256,[U:1:148578528]
+2025-04-18,01:36.02,femfailure,jump_ideation_b5,WR,MapRun,06:34.00,+04:57.98,,true,3281663,76561198203724900,[U:1:243459172]
+2025-09-23,01:34.62,ุhelmi    ,jump_ideation_b5,WR,IRC,,-00:01.41,,false,3504701,,
+2025-09-23,01:33.82,ุhelmi    ,jump_ideation_b5,WR,IRC,,-00:00.80,,false,3504958,,
+2025-09-23,01:31.54,ุhelmi    ,jump_ideation_b5,WR,IRC,,-00:01.48,,false,3504788,,
+2025-09-23,01:30.48,Tastie,jump_ideation_b5,WR,MapRun,17:08.31,+15:37.83,,true,3505471,76561198125860156,[U:1:165594428]
+2025-09-25,01:29.38,ุhelmi    ,jump_ideation_b5,WR,IRC,,-00:01.10,,false,3507545,,
+2025-09-25,01:28.88,ุhelmi    ,jump_ideation_b5,WR,IRC,,-00:00.51,,false,3507504,,
+2025-09-26,01:28.87,Earthworm,jump_ideation_b5,WR,MapRun,06:33.87,+05:05.00,,true,3508989,76561199145722732,[U:1:1185457004]

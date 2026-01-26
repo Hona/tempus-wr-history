@@ -1,0 +1,7 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-09-14,04:06.99,Ded,jump_oreotachi_b3,WR,IRC,,-00:08.63,,false,761835,,
+2018-09-14,03:33.31,stevey wunda,jump_oreotachi_b3,WR,IRC,,-00:24.27,,false,761965,,
+2018-09-14,03:26.43,Ded,jump_oreotachi_b3,WR,MapRecord,,-00:06.88,00:17.80,false,762094,76561198044680920,[U:1:84415192]
+2018-09-14,02:56.86,Boshy,jump_oreotachi_b3,WR,MapRecord,,-00:29.56,05:49.06,false,762276,76561198046601398,[U:1:86335670]
+2021-11-30,02:25.65,tomato tom,jump_oreotachi_b3,WR,MapRecord,,-00:15.63,00:15.63,false,1783788,76561198120374593,[U:1:160108865]
+2025-01-12,02:12.88,Prod,jump_oreotachi_b3,WR,MapRun,25:39.10,+23:26.22,,true,3216055,76561198072253290,[U:1:111987562]

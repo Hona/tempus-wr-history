@@ -1,0 +1,6 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2015-06-28,11:35.81,tken,jump_sdm_final,WR,IRCSet,,,,false,111529,76561198044640267,[U:1:84374539]
+2015-06-28,05:57.59,jndz,jump_sdm_final,WR,MapRecord,,-02:16.71,04:07.47,false,111633,,
+2015-06-29,05:05.44,Not That John,jump_sdm_final,WR,MapRun,1:08:55.47,+1:03:50.03,,true,112070,76561197960889092,[U:1:623364]
+2018-12-05,03:46.54,One-Two,jump_sdm_final,WR,MapRun,09:11.45,+05:24.91,,true,833601,76561198816932139,[U:1:856666411]
+2019-02-01,03:33.33,twitch.tv/boshyt,jump_sdm_final,WR,MapRecord,,-00:13.21,00:13.21,false,881810,,

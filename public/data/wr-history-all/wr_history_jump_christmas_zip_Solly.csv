@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2020-10-26,04:37.15,sumo [_9000],jump_christmas_zip,WR,MapRun,07:34.51,+02:57.36,01:02.89,true,1399109,76561198366368448,[U:1:406102720]
+2020-12-17,04:10.65,twitch.tv/boshyt,jump_christmas_zip,WR,MapRecord,,-00:14.92,00:14.92,false,1449960,,
+2020-12-22,03:57.76,twitch.tv/boshyt,jump_christmas_zip,WR,MapRecord,,-00:01.00,00:01.00,false,1455364,,
+2020-12-23,03:50.95,twitch.tv/boshyt,jump_christmas_zip,WR,MapRecord,,-00:06.27,00:06.27,false,1456431,,
+2020-12-26,03:42.60,Boshy,jump_christmas_zip,WR,MapRecord,,-00:04.86,00:04.86,false,1459000,76561198046601398,[U:1:86335670]
+2023-10-17,03:30.48,Rellort -fwo -gu,jump_christmas_zip,WR,IRC,,-00:14.44,,false,2549380,,
+2023-10-28,03:29.17,Boshy,jump_christmas_zip,WR,IRC,,-00:01.30,,false,2566346,,
+2023-11-04,03:28.53,Boshy,jump_christmas_zip,WR,MapRecord,,-00:00.64,00:00.64,false,2576793,76561198046601398,[U:1:86335670]
+2023-11-06,03:26.52,poot,jump_christmas_zip,WR,IRC,,-00:02.01,,false,2579687,,

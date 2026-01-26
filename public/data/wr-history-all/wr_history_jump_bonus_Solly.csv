@@ -1,0 +1,11 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2017-11-14,09:44.19,kidder,jump_bonus,WR,MapRun,23:16.36,+13:32.17,,true,502863,76561198000949987,[U:1:40684259]
+2017-11-21,07:29.01,Larry,jump_bonus,WR,MapRecord,,-00:18.79,00:45.50,false,508348,76561198060570011,[U:1:100304283]
+2017-11-22,06:34.54,Boshy,jump_bonus,WR,MapRecord,,-00:54.46,01:15.67,false,508677,76561198046601398,[U:1:86335670]
+2018-10-05,06:30.73,Steve,jump_bonus,WR,MapRecord,,-00:03.80,00:05.20,false,780501,76561198063901478,[U:1:103635750]
+2018-10-05,06:29.94,Boshy,jump_bonus,WR,MapRecord,,-00:00.78,00:04.59,false,780660,76561198046601398,[U:1:86335670]
+2018-10-09,05:57.93,Boshy,jump_bonus,WR,MapRecord,,-00:32.01,00:32.01,false,784633,76561198046601398,[U:1:86335670]
+2018-10-12,05:05.55,Steve,jump_bonus,WR,MapRecord,,-00:52.37,01:25.18,false,787105,76561198063901478,[U:1:103635750]
+2018-10-12,05:00.12,Booshy,jump_bonus,WR,IRC,,-00:05.42,,false,787278,76561198046601398,[U:1:86335670]
+2024-01-26,04:49.55,k'yukito,jump_bonus,WR,MapRun,32:05.46,+27:15.91,,true,2702541,76561198974495826,[U:1:1014230098]
+2024-02-03,04:49.54,kindergartener.9,jump_bonus,WR,MapRun,1:25:28.12,+1:20:38.58,,true,2714723,,

@@ -1,0 +1,14 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-08-04,05:11.42,ascension,jump_quba,WR,MapRecord,,-00:30.73,00:30.73,false,13852,76561197971599263,STEAM_0:1:5666767
+2014-11-02,05:04.34,AKIRA,jump_quba,WR,MapRecord,,-00:07.08,00:07.08,false,27889,76561197971599263,[U:1:11333535]
+2015-01-03,04:57.78,Kinetica,jump_quba,WR,MapRecord,,-00:06.56,00:06.56,false,44914,76561197971599263,[U:1:11333535]
+2015-02-28,04:51.10,HeliX,jump_quba,WR,MapRecord,,-00:06.67,00:06.67,false,65983,76561197971599263,[U:1:11333535]
+2015-08-28,04:48.37,LessThanThree |,jump_quba,WR,MapRecord,,-00:02.72,00:03.82,false,133816,,
+2017-12-26,04:32.28,Soup -tt,jump_quba,WR,MapRun,08:59.72,+04:27.44,,true,535258,76561198029285343,[U:1:69019615]
+2018-08-25,04:20.42,foxgloves,jump_quba,WR,MapRecord,,-00:06.06,00:11.85,false,743832,76561198046601398,[U:1:86335670]
+2019-04-24,04:11.08,Le Ratte,jump_quba,WR,MapRecord,,-00:09.34,00:15.40,false,947108,,
+2019-04-24,04:05.02,Boshy,jump_quba,WR,MapRecord,,-00:06.06,00:15.40,false,947389,76561198046601398,[U:1:86335670]
+2019-04-25,03:54.06,Boshy,jump_quba,WR,MapRecord,,-00:10.96,00:10.96,false,948255,76561198046601398,[U:1:86335670]
+2021-09-05,03:52.09,Betteroffx,jump_quba,WR,MapRecord,,-00:01.97,00:02.10,false,1695549,76561198111359203,[U:1:151093475]
+2024-01-07,03:40.51,kanye (coldest),jump_quba,WR,IRC,,-00:11.58,,false,2673416,,
+2025-05-15,03:39.12,vice,jump_quba,WR,IRC,,-00:01.40,,false,3319084,76561198366368448,[U:1:406102720]

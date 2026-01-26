@@ -1,0 +1,9 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-11,05:58.03,HeliX,jump_littleman_v4,WR,MapRecord,,-01:03.02,01:03.02,false,10350,76561197971599263,STEAM_0:1:5666767
+2014-10-18,05:31.99,HeliX,jump_littleman_v4,WR,MapRecord,,-00:26.04,00:26.04,false,24509,76561197971599263,[U:1:11333535]
+2015-01-26,05:07.10,HeliX,jump_littleman_v4,WR,MapRecord,,-00:24.88,00:24.88,false,54799,76561197971599263,[U:1:11333535]
+2017-11-14,04:44.97,.flac,jump_littleman_v4,WR,MapRun,18:01.52,+13:16.55,,true,502904,76561198039312327,[U:1:79046599]
+2018-03-20,04:42.04,kidder,jump_littleman_v4,WR,MapRecord,,-00:02.92,00:02.97,false,603720,76561198000949987,[U:1:40684259]
+2020-06-26,04:22.45,twitch.tv/boshyt,jump_littleman_v4,WR,MapRecord,,-00:19.58,00:25.87,false,1285879,,
+2022-08-01,04:17.98,riot,jump_littleman_v4,WR,IRC,,-00:04.47,,false,2019461,,
+2024-01-18,03:55.44,riotbz,jump_littleman_v4,WR,MapRecord,,-00:22.54,00:22.54,false,2689574,76561198065169685,[U:1:104903957]

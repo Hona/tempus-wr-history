@@ -1,0 +1,9 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2021-09-03,00:31.32,leffunny,jump_joke_b4,WR,IRC,,-00:01.53,,false,1693466,76561198963005416,[U:1:1002739688]
+2021-09-03,00:29.28,bluff,jump_joke_b4,WR,MapRun,02:42.52,+02:13.24,,true,1693500,76561199013528025,[U:1:1053262297]
+2021-09-04,00:28.59,cander,jump_joke_b4,WR,IRC,,-00:00.09,,false,1693711,,
+2021-09-07,00:28.50,vice,jump_joke_b4,WR,IRC,,-00:00.09,,false,1697534,,
+2021-09-07,00:28.14,vice,jump_joke_b4,WR,MapRecord,,-00:00.19,00:00.19,false,1697593,76561198366368448,[U:1:406102720]
+2021-09-14,00:27.40,cander,jump_joke_b4,WR,IRC,,-00:00.28,,false,1705997,,
+2022-03-02,00:27.25,vice,jump_joke_b4,WR,MapRecord,,-00:00.15,00:00.15,false,1875576,76561198366368448,[U:1:406102720]
+2022-03-10,00:26.92,cander,jump_joke_b4,WR,MapRecord,,-00:00.25,00:00.25,false,1882861,76561198318722879,[U:1:358457151]

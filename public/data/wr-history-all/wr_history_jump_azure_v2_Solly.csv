@@ -1,0 +1,18 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-23,15:41.23,guyyst,jump_azure_v2,WR,MapRecord,,-08:55.24,,false,12040,76561198041343262,STEAM_0:0:40538767
+2014-08-05,10:30.87,HeliX,jump_azure_v2,WR,MapRecord,,-05:10.36,,false,14029,76561197971599263,STEAM_0:1:5666767
+2014-08-13,08:29.20,iridescence,jump_azure_v2,WR,MapRecord,,-02:01.66,02:01.66,false,15398,76561197971599263,STEAM_0:1:5666767
+2014-08-30,08:13.03,Torii,jump_azure_v2,WR,MapRecord,,-00:16.17,04:11.11,false,19087,76561198017342289,[U:1:57076561]
+2014-10-17,07:22.52,guyyst,jump_azure_v2,WR,MapRecord,,-00:50.50,08:18.70,false,24299,76561198041343262,[U:1:81077534]
+2015-01-14,07:10.15,LessThanThree,jump_azure_v2,WR,MapRecord,,-00:12.37,04:17.32,false,49913,76561198066563951,[U:1:106298223]
+2015-08-21,06:53.86,jondeezy -tt,jump_azure_v2,WR,MapRecord,,-00:16.28,02:42.87,false,130901,76561198055778722,[U:1:95512994]
+2015-09-01,06:49.28,LessThanThree ti,jump_azure_v2,WR,MapRecord,,-00:04.57,00:20.86,false,135345,,
+2015-09-02,06:32.47,jondeezy,jump_azure_v2,WR,MapRecord,,-00:16.81,00:21.38,false,135713,76561198055778722,[U:1:95512994]
+2018-01-21,04:14.08,vice,jump_azure_v2,WR,MapRun,16:56.42,+12:42.34,,true,556957,76561197960496196,[U:1:230468]
+2021-03-15,03:58.57,diller,jump_azure_v2,WR,MapRecord,,-00:15.51,00:19.12,false,1535966,76561198040963460,[U:1:80697732]
+2024-03-21,03:47.80,vice,jump_azure_v2,WR,MapRecord,,-00:10.77,00:48.15,false,2783064,76561198366368448,[U:1:406102720]
+2024-12-14,03:44.89,ultramarine,jump_azure_v2,WR,IRC,,-00:01.15,,false,3172699,,
+2025-01-15,03:20.07,alula,jump_azure_v2,WR,IRC,,-00:24.82,,false,3221017,,
+2025-01-15,03:19.23,alula,jump_azure_v2,WR,IRC,,-00:00.84,,false,3221081,,
+2025-01-22,03:17.95,Gambledore,jump_azure_v2,WR,IRC,,-00:01.27,,false,3231794,,
+2025-01-25,03:16.78,Boshy,jump_azure_v2,WR,IRC,,-00:01.17,,false,3235987,,

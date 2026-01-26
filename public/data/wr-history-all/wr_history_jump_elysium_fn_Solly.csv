@@ -1,0 +1,11 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2015-01-16,02:43.72,HeliX,jump_elysium_fn,WR,MapRecord,,-00:03.62,00:03.62,false,50636,76561197971599263,[U:1:11333535]
+2015-04-03,02:22.84,Sincere,jump_elysium_fn,WR,MapRecord,,-00:18.06,00:18.06,false,78817,76561198053067670,[U:1:92801942]
+2015-05-03,02:17.57,LTT,jump_elysium_fn,WR,MapRecord,,-00:05.26,00:24.63,false,89221,76561198066563951,[U:1:106298223]
+2015-07-09,02:07.85,novacane,jump_elysium_fn,WR,MapRecord,,-00:09.71,00:14.98,false,113369,76561198053067670,[U:1:92801942]
+2020-12-16,02:07.32,riot,jump_elysium_fn,WR,IRC,,-00:03.81,,false,1448503,,
+2020-12-16,01:40.87,Boshy,jump_elysium_fn,WR,MapRecord,,-00:12.54,00:12.54,false,1448799,76561198046601398,[U:1:86335670]
+2022-06-22,01:34.23,riot,jump_elysium_fn,WR,IRC,,-00:06.64,,false,1983461,,
+2025-04-23,01:34.22,Plume Brisé,jump_elysium_fn,WR,MapRun,15:41.98,+14:07.76,,true,3289131,,
+2026-01-14,01:29.36,müsli,jump_elysium_fn,WR,IRC,,-00:04.88,,false,3715598,,
+2026-01-14,01:29.35,müsli,jump_elysium_fn,WR,MapRun,01:33.03,+00:03.68,,true,3715917,76561198379555950,[U:1:419290222]

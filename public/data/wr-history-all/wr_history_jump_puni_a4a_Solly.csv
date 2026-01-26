@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-03,10:07.16,Ulb,jump_puni_a4a,WR,MapRecord,,-00:38.12,,false,9211,76561197970097664,STEAM_0:0:4915968
+2014-07-06,06:47.05,Gebobus,jump_puni_a4a,WR,MapRecord,,-03:20.10,,false,9680,76561198044263100,STEAM_0:0:41998686
+2014-08-21,03:52.45,Kendrick,jump_puni_a4a,WR,MapRecord,,-00:45.25,00:45.25,false,16926,76561198044640267,STEAM_0:1:42187269
+2014-10-09,03:24.53,jondy,jump_puni_a4a,WR,MapRecord,,-00:22.34,00:22.34,false,22451,76561198055778722,[U:1:95512994]
+2015-05-07,02:59.92,func,jump_puni_a4a,WR,MapRecord,,-00:24.61,00:26.19,false,90773,,
+2017-11-21,02:33.90,iTac,jump_puni_a4a,WR,MapRun,08:08.11,+05:34.21,,true,508254,76561198108602947,[U:1:148337219]
+2018-07-22,02:09.18,Steve,jump_puni_a4a,WR,MapRecord,,-00:24.71,01:00.39,false,714221,76561198063901478,[U:1:103635750]
+2018-07-23,02:00.29,Boshy,jump_puni_a4a,WR,MapRecord,,-00:08.88,00:31.80,false,714515,76561198046601398,[U:1:86335670]
+2022-03-30,01:50.32,tomato tom,jump_puni_a4a,WR,IRC,,-00:05.59,,false,1901977,76561198120374593,[U:1:160108865]

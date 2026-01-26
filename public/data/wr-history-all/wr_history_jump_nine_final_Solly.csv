@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2021-04-17,01:12.58,tomato tom,jump_nine_final,WR,IRC,,-00:00.21,,false,1566196,,
+2021-04-17,01:10.24,tomato tom,jump_nine_final,WR,IRC,,-00:02.34,,false,1566514,,
+2021-04-21,01:06.37,riot,jump_nine_final,WR,MapRecord,,-00:03.87,00:11.22,false,1569378,76561198065169685,[U:1:104903957]
+2024-01-26,01:06.36,tantwo,jump_nine_final,WR,MapRun,07:57.54,+06:51.18,,true,2703093,76561198151641417,[U:1:191375689]

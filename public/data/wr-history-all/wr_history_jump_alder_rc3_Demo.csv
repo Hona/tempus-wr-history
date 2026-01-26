@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2023-07-09,01:39.30,Waldo,jump_alder_rc3,WR,IRCSet,,,,false,2398360,,
+2023-07-09,01:03.21,Jaffxsman,jump_alder_rc3,WR,IRC,,-00:06.21,,false,2398460,,
+2023-07-09,00:56.37,cander,jump_alder_rc3,WR,IRC,,-00:06.84,,false,2398549,,
+2023-07-10,00:51.37,cander,jump_alder_rc3,WR,MapRecord,,-00:00.07,00:04.12,false,2399452,76561198318722879,[U:1:358457151]

@@ -1,0 +1,17 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-02,02:30.51,Aurora -tt,jump_competitive_b2,WR,MapRecord,,-00:07.31,00:11.89,false,9046,76561198053067670,STEAM_0:0:46400971
+2014-07-08,02:21.50,1800TOASTER,jump_competitive_b2,WR,MapRecord,,-00:09.00,00:18.27,false,9894,76561198045479800,STEAM_0:0:42607036
+2014-07-08,02:14.38,guyyst,jump_competitive_b2,WR,MapRecord,,-00:07.12,00:23.44,false,9931,76561198041343262,STEAM_0:0:40538767
+2015-03-30,02:05.75,ADS,jump_competitive_b2,WR,MapRecord,,-00:05.29,00:06.97,false,77092,76561198053067670,[U:1:92801942]
+2018-07-21,01:52.18,ADJ,jump_competitive_b2,WR,MapRun,10:53.72,+09:01.54,,true,713006,76561198046155437,[U:1:85889709]
+2019-10-27,01:47.63,twitch.tv/boshyt,jump_competitive_b2,WR,MapRecord,,-00:04.54,00:08.13,false,1090668,,
+2020-11-01,01:43.80,golf,jump_competitive_b2,WR,MapRun,12:30.66,+10:46.86,,true,1405226,76561198926834568,[U:1:966568840]
+2021-03-25,01:43.57,Dance,jump_competitive_b2,WR,MapRun,07:09.94,+05:26.37,,true,1546147,76561198090787803,[U:1:130522075]
+2021-08-23,01:41.82,DI,jump_competitive_b2,WR,MapRun,14:08.68,+12:26.86,,true,1680331,76561198864239075,[U:1:903973347]
+2022-05-29,01:39.60,joe dirt,jump_competitive_b2,WR,IRC,,-00:02.22,,false,1960885,,
+2023-08-19,01:38.89,rintincan,jump_competitive_b2,WR,IRC,,-00:00.70,,false,2460928,76561198124772544,[U:1:164506816]
+2023-08-20,01:38.73,fyg,jump_competitive_b2,WR,MapRecord,,-00:00.16,00:00.87,false,2462145,76561198027610614,[U:1:67344886]
+2023-08-21,01:37.14,rintincan,jump_competitive_b2,WR,IRC,,-00:01.59,,false,2465282,,
+2023-08-22,01:36.82,fyg,jump_competitive_b2,WR,MapRecord,,-00:00.31,00:01.42,false,2465569,76561198027610614,[U:1:67344886]
+2023-08-27,01:36.18,rintincan,jump_competitive_b2,WR,MapRecord,,-00:00.64,00:00.96,false,2473770,76561198124772544,[U:1:164506816]
+2023-09-11,01:33.66,rintincan,jump_competitive_b2,WR,MapRecord,,-00:02.52,00:02.52,false,2496922,76561198124772544,[U:1:164506816]

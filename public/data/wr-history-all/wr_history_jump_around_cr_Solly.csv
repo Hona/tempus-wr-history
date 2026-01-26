@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-11-04,06:00.89,jondy,jump_around_cr,WR,MapRecord,,-01:51.42,,false,28224,76561198055778722,[U:1:95512994]
+2015-05-11,05:20.98,func,jump_around_cr,WR,MapRecord,,-00:39.91,06:55.38,false,92417,76561198088581265,[U:1:128315537]
+2015-05-13,04:03.71,jondeasy,jump_around_cr,WR,IRC,,-01:17.26,,false,93231,76561198055778722,[U:1:95512994]
+2018-01-31,02:13.46,Charlie,jump_around_cr,WR,MapRun,30:07.46,+27:54.00,,true,565283,76561197961895147,[U:1:1629419]
+2018-09-18,02:11.93,Crocodile Hunta,jump_around_cr,WR,MapRecord,,-00:01.52,00:05.61,false,765392,76561198063901478,[U:1:103635750]
+2018-09-18,01:58.01,Boshy,jump_around_cr,WR,MapRecord,,-00:13.91,00:15.44,false,765472,76561198046601398,[U:1:86335670]
+2018-10-31,01:37.86,Boshy,jump_around_cr,WR,MapRecord,,-00:04.28,00:04.28,false,804239,,
+2022-02-21,01:25.36,FF73,jump_around_cr,WR,IRC,,-00:07.02,,false,1866044,,
+2023-02-07,01:25.32,Cygnus -rng,jump_around_cr,WR,IRC,,-00:00.04,,false,2206357,,
+2023-02-07,01:24.30,Cygnus -rng,jump_around_cr,WR,MapRecord,,-00:01.02,00:01.02,false,2206411,76561198178042934,[U:1:217777206]
+2023-02-07,01:18.48,Cygnus -rng,jump_around_cr,WR,IRC,,-00:05.82,,false,2207127,,

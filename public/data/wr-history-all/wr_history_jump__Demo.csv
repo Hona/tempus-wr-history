@@ -1,0 +1,8 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2021-06-03,07:08.65,Gorge004,jump_,WR,IRCSet,,,,false,1604708,,
+2021-06-04,05:22.47,phancy,jump_,WR,IRC,,-01:10.98,,false,1605418,,
+2021-06-04,04:51.27,phancy,jump_,WR,IRC,,-00:23.47,,false,1605517,76561198116189732,[U:1:155924004]
+2021-06-04,03:06.01,lvl 100 menace,jump_,WR,IRC,,-01:01.99,,false,1605523,,
+2021-06-05,02:44.25,lvl 100 menace,jump_,WR,IRC,,-00:15.18,,false,1605605,,
+2021-12-04,02:20.49,phancy,jump_,WR,MapRecord,,-00:22.98,00:22.98,false,1787214,76561198116189732,[U:1:155924004]
+2025-04-13,02:20.48,RDK,jump_,WR,MapRun,1:07:42.64,+1:05:22.16,,true,3273768,76561198162146944,[U:1:201881216]

@@ -1,0 +1,4 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-05-17,04:30.93,Jacobmeister,jump_aggregate,WR,MapRun,1:04:29.82,+59:58.89,,true,652138,76561198071652927,[U:1:111387199]
+2018-07-05,04:26.79,newjuls,jump_aggregate,WR,MapRecord,,-00:04.13,00:33.60,false,697843,,
+2019-01-24,04:13.39,kyt,jump_aggregate,WR,MapRecord,,-00:13.40,00:13.81,false,875063,,

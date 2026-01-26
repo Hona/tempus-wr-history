@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2019-04-26,00:36.86,spacebar ambassa,jump_moo,WR,MapRecord,,-00:15.07,00:19.41,false,948885,,
+2019-04-26,00:33.04,twitch.tv/vicetf,jump_moo,WR,IRC,,-00:01.09,,false,948897,,
+2019-04-27,00:32.86,poaa.,jump_moo,WR,MapRun,01:10.99,+00:38.13,,true,949389,76561198069079480,[U:1:108813752]
+2019-04-27,00:30.12,vice,jump_moo,WR,IRC,,-00:02.26,,false,949433,,
+2021-01-28,00:29.98,cander,jump_moo,WR,MapRecord,,-00:00.14,00:00.51,false,1491599,76561198318722879,[U:1:358457151]
+2021-02-01,00:29.94,vice,jump_moo,WR,MapRecord,,-00:00.04,00:00.04,false,1495126,76561198366368448,[U:1:406102720]
+2021-02-06,00:29.85,cander,jump_moo,WR,MapRecord,,-00:00.09,00:00.13,false,1500164,76561198318722879,[U:1:358457151]
+2021-04-14,00:29.61,song,jump_moo,WR,IRC,,-00:00.24,,false,1563596,,
+2025-05-23,00:29.60,Mushman,jump_moo,WR,MapRun,01:09.34,+00:39.74,,true,3331220,76561198163936154,[U:1:203670426]

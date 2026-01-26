@@ -1,0 +1,15 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-12-25,06:09.45,vice,jump_artificial_a13,WR,IRC,,-02:50.14,,false,850078,76561198366368448,[U:1:406102720]
+2018-12-26,05:25.87,kater,jump_artificial_a13,WR,MapRecord,,-00:43.57,01:43.37,false,850465,,
+2018-12-26,04:30.94,You're missing m,jump_artificial_a13,WR,MapRecord,,-00:54.92,01:00.37,false,851109,,
+2019-01-02,04:27.90,vice,jump_artificial_a13,WR,MapRecord,,-00:03.04,01:04.49,false,856475,,
+2019-01-04,04:08.40,newjuls,jump_artificial_a13,WR,MapRecord,,-00:01.27,00:28.81,false,858116,76561198396018338,[U:1:435752610]
+2019-03-08,04:05.68,kater,jump_artificial_a13,WR,MapRecord,,-00:02.71,00:04.33,false,910114,,
+2019-10-19,03:44.54,kater,jump_artificial_a13,WR,MapRecord,,-00:12.62,00:21.13,false,1084834,76561198222006144,[U:1:261740416]
+2019-12-14,03:37.60,Toss,jump_artificial_a13,WR,MapRun,36:57.11,+33:19.51,,true,1123849,76561198847863686,[U:1:887597958]
+2019-12-27,03:32.17,kuwah lennit,jump_artificial_a13,WR,MapRecord,,-00:05.42,00:12.37,false,1133853,76561198222006144,[U:1:261740416]
+2023-07-04,03:22.95,phancy,jump_artificial_a13,WR,MapRecord,,-00:09.23,00:15.36,false,2391539,76561198116189732,[U:1:155924004]
+2024-11-22,03:11.61,kater,jump_artificial_a13,WR,IRC,,-00:09.34,,false,3141405,,
+2025-04-13,03:11.60,Farmacist,jump_artificial_a13,WR,MapRun,06:37.96,+03:26.36,,true,3274508,76561198124842300,[U:1:164576572]
+2025-04-21,03:09.15,newjuls,jump_artificial_a13,WR,IRC,,-00:02.46,,false,3285383,,
+2025-05-02,03:05.82,Zagrfige,jump_artificial_a13,WR,MapRun,07:24.54,+04:18.72,02:57.69,true,3301202,76561198392773187,[U:1:432507459]

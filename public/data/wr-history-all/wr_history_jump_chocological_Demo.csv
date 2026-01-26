@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2019-10-29,04:30.90,AgentApples,jump_chocological,WR,IRC,,-00:06.54,,false,1091819,,
+2019-10-29,01:58.41,"aristotle" smit,jump_chocological,WR,IRC,,-00:16.85,,false,1091836,,
+2019-10-29,01:50.82,"aristotle" smit,jump_chocological,WR,MapRecord,,-00:07.59,00:07.59,false,1091838,,
+2019-11-03,01:49.02,vice,jump_chocological,WR,IRC,,-00:01.80,,false,1095199,,
+2022-11-14,01:46.12,Skinny.,jump_chocological,WR,MapRecord,,-00:02.90,00:08.11,false,2117481,76561198180610262,[U:1:220344534]
+2023-03-11,01:44.01,sam,jump_chocological,WR,MapRecord,,-00:00.73,00:00.73,false,2237920,76561198045707908,[U:1:85442180]
+2023-07-07,01:42.88,Skinny.,jump_chocological,WR,IRC,,-00:01.12,,false,2395136,,
+2023-07-08,01:40.23,samburger,jump_chocological,WR,MapRecord,,-00:02.65,00:03.78,false,2397242,76561198045707908,[U:1:85442180]
+2025-10-30,01:40.22,Sandman,jump_chocological,WR,MapRun,15:51.64,+14:11.42,,true,3555073,76561198298895280,[U:1:338629552]

@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2022-04-14,17:14.35,Crollikk,jump_umon_rc2,WR,IRCSet,,,,false,1916359,,
+2022-04-15,06:27.25,jt,jump_umon_rc2,WR,IRCSet,,,,false,1916817,,
+2022-04-15,03:37.02,leffunny,jump_umon_rc2,WR,IRC,,-00:04.83,,false,1916831,,
+2022-04-15,02:55.42,cander,jump_umon_rc2,WR,IRC,,-00:33.18,,false,1916895,,
+2022-10-25,02:52.50,Skinny.,jump_umon_rc2,WR,IRC,,-00:02.92,,false,2097171,76561198180610262,[U:1:220344534]
+2022-10-26,02:50.98,cander,jump_umon_rc2,WR,MapRecord,,-00:01.51,00:04.44,false,2098081,76561198318722879,[U:1:358457151]
+2022-10-29,02:50.83,Skinny.,jump_umon_rc2,WR,MapRecord,,-00:00.15,00:01.29,false,2101135,76561198180610262,[U:1:220344534]
+2022-10-29,02:50.38,cander,jump_umon_rc2,WR,MapRecord,,-00:00.45,00:00.60,false,2101269,76561198318722879,[U:1:358457151]
+2024-10-20,02:42.64,cander,jump_umon_rc2,WR,IRC,,-00:05.98,,false,3092497,,

@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-06-29,11:28.96,Aurora -tt,jump_4starters_rc1,WR,MapRecord,,-00:49.87,01:16.76,false,7355,76561198053067670,STEAM_0:0:46400971
+2014-07-27,10:41.69,HLX,jump_4starters_rc1,WR,MapRecord,,-00:47.27,01:37.14,false,12548,76561197971599263,STEAM_0:1:5666767
+2014-08-01,10:41.08,Aurora,jump_4starters_rc1,WR,MapRecord,,-00:00.61,00:26.66,false,13256,76561198053067670,STEAM_0:0:46400971
+2014-08-22,10:36.51,Mobb Mundi,jump_4starters_rc1,WR,MapRecord,,-00:04.56,,false,17294,76561198103469081,[U:1:143203353]
+2014-10-19,09:41.36,Aurora -tt,jump_4starters_rc1,WR,MapRecord,,-00:57.65,00:59.71,false,24657,76561198053067670,[U:1:92801942]
+2017-12-22,08:40.39,O'Sullivan,jump_4starters_rc1,WR,MapRun,22:10.10,+13:29.71,,true,531720,,
+2018-02-11,08:09.53,jaran,jump_4starters_rc1,WR,MapRecord,,-00:23.80,00:23.80,false,574752,76561198066947056,[U:1:106681328]
+2019-12-15,08:07.46,teardrop,jump_4starters_rc1,WR,MapRecord,,-00:02.06,00:02.06,false,1124573,76561198066947056,[U:1:106681328]
+2020-03-10,07:52.77,plz stop lag,jump_4starters_rc1,WR,MapRun,1:01:10.58,+53:17.81,,true,1193156,76561198204104197,[U:1:243838469]
+2021-01-28,07:33.10,twitch.tv/boshyt,jump_4starters_rc1,WR,MapRecord,,-00:19.67,00:21.96,false,1491715,,
+2023-01-24,03:26.76,sigma weed22,jump_4starters_rc1,WR,IRCSet,,,,false,2192150,,

@@ -1,0 +1,4 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-11-28,01:49.81,twitch.tv/newjul,jump_zero_v2,WR,MapRecord,,-00:12.80,00:13.03,false,827147,,
+2020-04-29,01:45.59,pi,jump_zero_v2,WR,MapRecord,,-00:04.21,00:14.73,false,1237556,,
+2023-11-25,01:43.06,phancy,jump_zero_v2,WR,IRC,,-00:02.53,,false,2608492,,

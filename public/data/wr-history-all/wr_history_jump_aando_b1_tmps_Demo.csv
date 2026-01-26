@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2017-12-11,09:39.36,879m,jump_aando_b1_tmps,WR,MapRecord,,-00:02.51,00:07.22,false,522728,76561198043793220,[U:1:83527492]
+2018-05-19,09:37.60,twitch.tv/zike10,jump_aando_b1_tmps,WR,MapRecord,,-00:01.76,00:04.27,false,653183,,
+2018-08-30,09:32.83,newjuls,jump_aando_b1_tmps,WR,MapRecord,,-00:04.76,00:56.89,false,747690,,
+2020-04-14,09:11.71,879m,jump_aando_b1_tmps,WR,MapRecord,,-00:21.12,00:27.65,false,1224204,76561198043793220,[U:1:83527492]
+2020-07-07,08:52.49,879m,jump_aando_b1_tmps,WR,MapRecord,,-00:19.21,00:19.21,false,1294580,76561198043793220,[U:1:83527492]
+2020-07-13,08:24.39,newjuls,jump_aando_b1_tmps,WR,IRC,,-00:28.10,,false,1300015,,
+2021-06-15,07:48.98,Dlauck,jump_aando_b1_tmps,WR,MapRun,55:53.61,+48:04.63,,true,1614043,76561198086660302,[U:1:126394574]
+2021-07-14,07:48.97,Oppo,jump_aando_b1_tmps,WR,MapRun,37:44.08,+29:55.11,,true,1637730,76561199189648532,[U:1:1229382804]
+2023-01-13,07:19.24,newjuls,jump_aando_b1_tmps,WR,MapRun,12:16.21,+04:56.97,,true,2178908,,

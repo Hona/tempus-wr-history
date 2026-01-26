@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2023-07-09,02:40.60,Waldo,jump_a_b3,WR,IRCSet,,,,false,2398360,,
+2023-07-09,02:12.36,phancy,jump_a_b3,WR,IRC,,-00:28.24,,false,2398481,,
+2023-07-09,01:55.85,TheBwai,jump_a_b3,WR,MapRun,07:57.63,+06:01.78,,true,2398549,76561198109904512,[U:1:149638784]
+2023-07-09,01:55.84,Moonstruck,jump_a_b3,WR,MapRun,05:27.82,+03:31.98,,true,2398834,76561198027443134,[U:1:67177406]
+2023-07-10,01:49.05,bachira,jump_a_b3,WR,MapRecord,,-00:04.45,00:29.88,false,2399257,76561198035204545,[U:1:74938817]
+2023-07-12,01:47.19,phancy,jump_a_b3,WR,MapRecord,,-00:01.86,00:13.75,false,2402653,,
+2024-07-25,01:40.95,sam,jump_a_b3,WR,IRC,,-00:06.24,,false,2963671,,
+2025-08-17,01:40.94,Skit,jump_a_b3,WR,MapRun,08:22.72,+06:41.78,,true,3454265,76561198396818148,[U:1:436552420]
+2025-12-21,01:39.33,ChatGPT gaming,jump_a_b3,WR,IRC,,-00:01.62,,false,3685513,,

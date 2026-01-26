@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2020-02-23,04:22.65,ooh aah,jump_mario_beta1_zip,WR,MapRun,04:28.96,+00:06.31,00:37.51,true,1179909,76561198222006144,[U:1:261740416]
+2021-05-20,04:20.67,gfedcbabcdefg,jump_mario_beta1_zip,WR,MapRun,13:13.12,+08:52.45,,true,1593185,76561198055962441,[U:1:95696713]
+2021-10-26,04:10.69,vice,jump_mario_beta1_zip,WR,IRC,,-00:09.97,,false,1746046,76561198366368448,[U:1:406102720]
+2023-12-22,04:10.14,Jaff,jump_mario_beta1_zip,WR,MapRecord,,-00:00.55,00:06.28,false,2649728,76561198091905306,[U:1:131639578]

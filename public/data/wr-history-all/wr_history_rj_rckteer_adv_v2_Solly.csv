@@ -1,0 +1,11 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-06-08,03:07.62,Rob123,rj_rckteer_adv_v2,WR,IRC,,-00:21.56,,false,7952,76561198044015351,STEAM_0:1:41874811
+2014-07-21,02:42.37,Pikku,rj_rckteer_adv_v2,WR,MapRecord,,-00:25.24,,false,11722,76561198052890010,STEAM_0:0:46312141
+2014-08-02,02:19.59,bluebird,rj_rckteer_adv_v2,WR,MapRecord,,-00:17.37,00:17.37,false,13454,76561197971599263,STEAM_0:1:5666767
+2014-08-29,02:04.48,Renovatio,rj_rckteer_adv_v2,WR,MapRecord,,-00:15.11,00:15.11,false,18864,76561197971599263,[U:1:11333535]
+2015-06-19,01:54.86,wl,rj_rckteer_adv_v2,WR,MapRecord,,-00:09.61,00:10.99,false,108222,76561198001693793,[U:1:41428065]
+2018-07-26,01:38.83,Nico,rj_rckteer_adv_v2,WR,MapRecord,,-00:05.60,00:05.60,false,717486,76561198046601398,[U:1:86335670]
+2023-05-17,01:38.16,Combustion,rj_rckteer_adv_v2,WR,MapRecord,,-00:00.66,00:01.20,false,2322264,76561198050199388,[U:1:89933660]
+2023-05-18,01:37.96,Cygnus -rng,rj_rckteer_adv_v2,WR,MapRecord,,-00:00.19,00:00.85,false,2322956,76561198178042934,[U:1:217777206]
+2023-05-25,01:34.53,Cygnus -rng,rj_rckteer_adv_v2,WR,MapRecord,,-00:03.43,00:03.43,false,2333036,76561198178042934,[U:1:217777206]
+2024-11-26,01:34.39,Combustion,rj_rckteer_adv_v2,WR,IRC,,-00:00.13,,false,3147557,,

@@ -1,0 +1,9 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2020-04-04,06:31.56,wild,jump_echo,WR,IRCSet,,,,false,1215169,,
+2020-04-04,01:59.92,wild,jump_echo,WR,MapRecord,,-00:12.83,00:12.83,false,1215323,,
+2020-04-05,01:59.07,reero,jump_echo,WR,MapRun,04:48.49,+02:49.42,,true,1215563,76561198071785065,[U:1:111519337]
+2020-04-05,01:49.42,AgentApples,jump_echo,WR,MapRun,05:56.91,+04:07.49,,true,1215763,76561198165669347,[U:1:205403619]
+2020-04-05,01:43.77,Matty,jump_echo,WR,IRC,,-00:00.02,,false,1215951,,
+2020-04-05,01:31.56,pi,jump_echo,WR,IRC,,-00:03.78,,false,1216257,,
+2020-04-05,01:27.88,pi,jump_echo,WR,IRC,,-00:01.21,,false,1216279,,
+2022-02-24,01:25.98,cander,jump_echo,WR,MapRecord,,-00:01.91,00:17.08,false,1869118,76561198318722879,[U:1:358457151]

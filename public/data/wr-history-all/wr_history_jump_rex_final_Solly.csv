@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2022-10-28,14:45.67,hool,jump_rex_final,WR,MapRecord,,-00:43.36,,false,2099768,76561198090809881,[U:1:130544153]
+2022-10-28,03:54.45,riot,jump_rex_final,WR,IRC,,-02:19.65,,false,2099774,,
+2023-02-15,03:20.94,fig,jump_rex_final,WR,MapRecord,,-00:33.51,00:47.71,false,2215522,76561198153842796,[U:1:193577068]
+2025-06-25,03:01.90,Plume Brisé,jump_rex_final,WR,MapRun,34:27.60,+31:25.70,,true,3377187,76561198448252943,[U:1:487987215]

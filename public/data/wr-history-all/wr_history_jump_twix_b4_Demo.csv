@@ -1,0 +1,11 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-04-14,01:02.85,Balu,jump_twix_b4,WR,MapRun,06:47.32,+05:44.47,,true,624452,76561198083848938,[U:1:123583210]
+2018-07-21,01:02.84,deceptive,jump_twix_b4,WR,MapRun,01:06.38,+00:03.54,00:01.18,true,712929,76561198281755237,[U:1:321489509]
+2018-08-26,01:02.82,deceptive,jump_twix_b4,WR,IRC,,-00:00.02,,false,744217,,
+2018-10-18,01:00.91,exor,jump_twix_b4,WR,IRC,,-00:01.90,,false,792801,,
+2019-01-03,01:00.75,deceptive,jump_twix_b4,WR,MapRecord,,-00:00.16,00:00.40,false,857413,76561198281755237,[U:1:321489509]
+2019-01-04,00:58.71,vice,jump_twix_b4,WR,MapRecord,,-00:01.04,00:01.04,false,858371,76561198366368448,[U:1:406102720]
+2020-09-10,00:58.63,cander,jump_twix_b4,WR,IRC,,-00:00.07,,false,1353247,,
+2021-05-12,00:57.57,song,jump_twix_b4,WR,IRC,,-00:01.07,,false,1586686,,
+2024-04-28,00:56.91,kratos,jump_twix_b4,WR,IRC,,-00:00.66,,false,2832418,,
+2025-06-29,00:56.90,Unit Thai Kingdo,jump_twix_b4,WR,MapRun,01:42.88,+00:45.98,,true,3382106,,

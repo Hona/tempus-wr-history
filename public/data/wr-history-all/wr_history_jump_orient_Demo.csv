@@ -1,0 +1,6 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2025-07-22,06:04.41,Waldo,jump_orient,WR,FirstRecord,,,,false,3416271,76561198020256631,[U:1:59990903]
+2025-07-22,04:42.27,stinkydog.jpg,jump_orient,WR,IRC,,-00:40.80,,false,3416158,,
+2025-07-22,02:34.08,vice,jump_orient,WR,IRC,,-00:16.16,,false,3416316,,
+2025-07-24,02:31.34,vice,jump_orient,WR,MapRecord,,-00:02.74,00:02.74,false,3418985,76561198366368448,[U:1:406102720]
+2025-07-24,02:27.72,cander,jump_orient,WR,MapRun,03:11.24,+00:43.52,,true,3419093,76561198318722879,[U:1:358457151]

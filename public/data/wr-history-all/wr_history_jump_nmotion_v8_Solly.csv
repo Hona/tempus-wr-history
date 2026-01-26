@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-10-17,02:22.13,jondy,jump_nmotion_v8,WR,MapRecord,,-00:02.89,01:02.52,false,24130,76561198055778722,[U:1:95512994]
+2015-03-29,02:20.95,joji,jump_nmotion_v8,WR,MapRecord,,-00:01.18,00:05.32,false,76568,76561198060172237,[U:1:99906509]
+2015-03-29,02:13.86,j jiggy,jump_nmotion_v8,WR,MapRecord,,-00:07.08,00:07.93,false,76607,76561198055778722,[U:1:95512994]
+2017-11-13,01:54.85,angi,jump_nmotion_v8,WR,MapRun,03:20.89,+01:26.04,00:52.22,true,502380,76561198048843088,[U:1:88577360]
+2017-12-17,01:50.92,Santa Chuck,jump_nmotion_v8,WR,MapRecord,,-00:03.92,00:07.19,false,528031,76561198064467753,[U:1:104202025]
+2019-02-25,01:45.98,twitch.tv/boshyt,jump_nmotion_v8,WR,IRC,,-00:04.93,,false,902060,,
+2019-02-25,01:42.65,twitch.tv/boshyt,jump_nmotion_v8,WR,MapRecord,,-00:03.32,00:03.32,false,902128,,
+2023-01-06,01:32.49,Salty,jump_nmotion_v8,WR,IRC,,-00:10.17,,false,2171345,,
+2023-01-22,01:27.22,vice,jump_nmotion_v8,WR,MapRecord,,-00:05.26,00:08.80,false,2189705,,
+2023-02-04,01:22.17,Scoot,jump_nmotion_v8,WR,MapRecord,,-00:05.05,00:10.02,false,2203976,76561198049293816,[U:1:89028088]
+2024-02-01,01:18.99,Rellort -fwo -gu,jump_nmotion_v8,WR,IRC,,-00:03.18,,false,2711482,,

@@ -1,0 +1,13 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-09-19,01:10.06,Crocodile Hunta,jump_abandon,WR,IRC,,-00:10.27,,false,766354,76561198063901478,[U:1:103635750]
+2018-09-20,01:08.17,teardrop,jump_abandon,WR,MapRecord,,-00:01.88,00:02.71,false,767546,76561198066947056,[U:1:106681328]
+2018-09-22,01:05.48,steve,jump_abandon,WR,IRC,,-00:02.69,,false,768875,76561198063901478,[U:1:103635750]
+2018-10-01,01:03.36,jack the kidder,jump_abandon,WR,MapRecord,,-00:02.12,00:03.97,false,776913,76561198000949987,[U:1:40684259]
+2023-02-01,01:02.53,riot,jump_abandon,WR,MapRecord,,-00:00.83,00:01.20,false,2200027,76561198065169685,[U:1:104903957]
+2023-06-29,01:02.46,Rellort,jump_abandon,WR,MapRecord,,-00:00.07,00:03.30,false,2384339,76561198090668406,[U:1:130402678]
+2023-06-29,01:02.44,Rellort,jump_abandon,WR,IRC,,-00:00.01,,false,2384893,,
+2023-12-28,00:59.95,orphan oliver,jump_abandon,WR,MapRecord,,-00:01.80,00:01.80,false,2657869,,
+2023-12-29,00:58.99,orphan oliver,jump_abandon,WR,IRC,,-00:00.96,,false,2659359,,
+2024-08-26,00:58.71,Zagrfige,jump_abandon,WR,IRC,,-00:00.28,,false,3010510,,
+2024-08-26,00:58.35,Zagrfige,jump_abandon,WR,IRC,,-00:00.36,,false,3010768,,
+2025-04-13,00:58.34,fecal tolerance,jump_abandon,WR,MapRun,01:49.42,+00:51.08,,true,3274660,76561198235977602,[U:1:275711874]

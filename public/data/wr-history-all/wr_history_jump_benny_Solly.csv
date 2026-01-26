@@ -1,0 +1,11 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2017-12-10,01:36.43,kidder,jump_benny,WR,MapRecord,,-00:01.49,00:01.49,false,522075,76561198000949987,[U:1:40684259]
+2019-10-23,01:33.47,BEAGLE,jump_benny,WR,MapRecord,,-00:02.59,00:02.59,false,1087618,76561198084406120,[U:1:124140392]
+2020-02-13,01:30.02,Rue,jump_benny,WR,MapRecord,,-00:03.45,00:04.86,false,1172501,76561198046601398,[U:1:86335670]
+2023-06-08,01:28.51,Salty,jump_benny,WR,MapRecord,,-00:02.65,00:02.65,false,2354595,76561198070497462,[U:1:110231734]
+2024-05-09,01:25.96,Star,jump_benny,WR,IRC,,-00:00.76,,false,2851238,,
+2024-05-09,01:25.84,Star,jump_benny,WR,IRC,,-00:00.12,,false,2851630,,
+2024-05-13,01:25.39,Star,jump_benny,WR,IRC,,-00:00.45,,false,2856894,,
+2024-05-14,01:23.71,Star,jump_benny,WR,IRC,,-00:01.68,,false,2858753,,
+2024-05-17,01:22.29,Star,jump_benny,WR,IRC,,-00:01.42,,false,2862076,,
+2024-06-21,01:21.78,Hÿlkje,jump_benny,WR,MapRun,08:42.37,+07:20.59,,true,2914789,76561198998581449,[U:1:1038315721]

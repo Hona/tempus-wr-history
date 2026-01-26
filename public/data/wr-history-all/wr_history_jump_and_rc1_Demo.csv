@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2022-01-23,03:48.55,Waldo,jump_and_rc1,WR,IRC,,-02:21.36,,false,1834257,76561198020256631,[U:1:59990903]
+2022-01-25,02:46.42,phancy,jump_and_rc1,WR,MapRecord,,-00:28.68,00:39.67,false,1835324,,
+2022-01-28,02:28.29,pinocchio,jump_and_rc1,WR,MapRun,27:02.74,+24:34.45,,true,1837383,76561199228506856,[U:1:1268241128]
+2022-01-29,02:22.77,slime -gt,jump_and_rc1,WR,MapRun,33:56.02,+31:33.25,,true,1838042,76561198299605097,[U:1:339339369]

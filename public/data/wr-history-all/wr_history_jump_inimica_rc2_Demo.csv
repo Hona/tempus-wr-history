@@ -1,0 +1,11 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2023-05-27,04:22.78,Waldo,jump_inimica_rc2,WR,FirstRecord,,,,false,2337199,76561198020256631,[U:1:59990903]
+2023-05-27,03:10.65,aaslas,jump_inimica_rc2,WR,IRC,,-00:45.96,,false,2337208,,
+2023-05-27,03:02.38,salsaa,jump_inimica_rc2,WR,IRC,,-00:01.90,,false,2337209,76561198149627108,[U:1:189361380]
+2023-05-27,02:56.79,salsaa,jump_inimica_rc2,WR,MapRecord,,-00:05.59,00:05.59,false,2337301,76561198149627108,[U:1:189361380]
+2023-05-28,02:54.01,NoEscape,jump_inimica_rc2,WR,IRC,,-00:01.59,,false,2338745,,
+2023-05-28,02:51.96,salsaa,jump_inimica_rc2,WR,IRC,,-00:02.05,,false,2338949,76561198149627108,[U:1:189361380]
+2023-05-29,02:43.97,VAVLIE,jump_inimica_rc2,WR,MapRun,19:12.39,+16:28.42,,true,2339066,76561198014713685,[U:1:54447957]
+2023-05-29,02:25.63,salsaa,jump_inimica_rc2,WR,MapRecord,,-00:14.20,00:14.20,false,2339267,76561198149627108,[U:1:189361380]
+2023-05-29,02:20.91,cander,jump_inimica_rc2,WR,MapRecord,,-00:04.72,00:21.39,false,2340009,,
+2025-06-14,02:20.90,canned growler,jump_inimica_rc2,WR,MapRun,07:30.88,+05:09.98,,true,3361828,76561198086660302,[U:1:126394574]

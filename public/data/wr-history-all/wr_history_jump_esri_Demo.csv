@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2017-11-15,01:52.75,Lyle,jump_esri,WR,MapRun,03:06.65,+01:13.90,01:29.91,true,503320,,
+2017-12-19,01:48.59,Zike1017 ツ,jump_esri,WR,MapRecord,,-00:04.15,00:07.25,false,529291,,
+2017-12-24,01:45.40,mojo jojo,jump_esri,WR,IRC,,-00:00.91,,false,534250,,
+2018-01-01,01:43.19,Zike1017 ツ,jump_esri,WR,IRC,,-00:02.20,,false,540491,,
+2019-01-15,01:39.88,newjuls,jump_esri,WR,MapRecord,,-00:03.31,00:35.60,false,867104,,
+2019-11-01,01:29.57,newjuls,jump_esri,WR,MapRecord,,-00:10.30,00:10.30,false,1093900,76561198396018338,[U:1:435752610]
+2020-04-29,01:27.07,pi,jump_esri,WR,IRC,,-00:02.50,,false,1237556,,
+2021-06-14,01:24.90,phancy,jump_esri,WR,MapRecord,,-00:02.17,00:07.15,false,1613291,76561198116189732,[U:1:155924004]
+2021-07-26,01:21.43,phancy,jump_esri,WR,MapRecord,,-00:03.12,00:03.12,false,1648354,76561198116189732,[U:1:155924004]
+2021-08-03,01:20.67,crops,jump_esri,WR,MapRecord,,-00:00.76,00:01.21,false,1656729,76561198222006144,[U:1:261740416]
+2021-08-25,01:19.36,phancy,jump_esri,WR,IRC,,-00:01.30,,false,1683382,,

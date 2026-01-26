@@ -1,0 +1,13 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-17,02:11.80,dd5f,jump_exile_v3,WR,MapRecord,,-00:02.14,00:05.54,false,11155,76561198059797692,STEAM_0:0:49765982
+2014-08-15,02:08.86,Kindreck,jump_exile_v3,WR,IRC,,-00:02.94,,false,15702,76561198044640267,STEAM_0:1:42187269
+2014-08-25,02:07.66,Aurora -tt,jump_exile_v3,WR,MapRecord,,-00:01.20,00:06.28,false,18031,76561198053067670,[U:1:92801942]
+2015-03-19,02:05.14,ßossßa ßanana,jump_exile_v3,WR,MapRun,12:28.88,+10:23.74,,true,72505,,
+2015-04-19,01:59.27,Aurora,jump_exile_v3,WR,MapRecord,,-00:01.16,00:04.44,false,84133,76561198053067670,[U:1:92801942]
+2017-11-30,01:45.83,Santa Chuck,jump_exile_v3,WR,MapRun,01:56.21,+00:10.38,00:10.12,true,514341,76561198064467753,[U:1:104202025]
+2018-03-30,01:43.84,Boshy,jump_exile_v3,WR,IRC,,-00:01.99,,false,612191,,
+2020-02-17,01:38.73,Bosh.,jump_exile_v3,WR,IRC,,-00:04.29,,false,1174897,,
+2020-02-17,01:35.85,Bosh.,jump_exile_v3,WR,MapRecord,,-00:01.85,00:01.85,false,1174924,76561198046601398,[U:1:86335670]
+2023-11-05,01:33.73,riotbz,jump_exile_v3,WR,MapRecord,,-00:01.38,00:03.06,false,2577320,,
+2025-05-25,01:32.84,utunen,jump_exile_v3,WR,IRC,,-00:00.90,,false,3333975,,
+2025-05-26,01:32.83,flo,jump_exile_v3,WR,MapRun,04:18.04,+02:45.21,,true,3334459,76561198039263466,[U:1:78997738]

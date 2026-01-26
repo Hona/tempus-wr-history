@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2023-05-10,03:49.02,spidda,jump_core_b1_zip,WR,MapRecord,,-00:25.31,02:10.41,false,2312197,76561198057436685,[U:1:97170957]
+2023-06-08,03:45.76,spidda,jump_core_b1_zip,WR,MapRecord,,-00:03.25,00:03.25,false,2354651,76561198057436685,[U:1:97170957]
+2023-06-14,03:25.47,spidda,jump_core_b1_zip,WR,MapRecord,,-00:20.29,00:20.29,false,2364474,76561198057436685,[U:1:97170957]
+2025-05-15,03:25.46,Pumpkin,jump_core_b1_zip,WR,MapRun,40:46.84,+37:21.38,,true,3319626,76561198278246947,[U:1:317981219]

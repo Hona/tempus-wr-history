@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2021-05-07,1:05:46.33,tomato tom,jump_ahrabaid_b2,WR,IRCSet,,,,false,1583052,,
+2021-05-07,13:54.18,seras,jump_ahrabaid_b2,WR,IRC,,-47:31.74,,false,1583056,,
+2021-05-08,08:03.13,tomato tom,jump_ahrabaid_b2,WR,IRC,,-01:00.60,,false,1583525,,
+2021-05-10,07:16.96,tomato tom,jump_ahrabaid_b2,WR,IRC,,-00:46.17,,false,1584807,,
+2021-05-10,06:13.86,riot,jump_ahrabaid_b2,WR,IRC,,-01:03.10,,false,1584978,,
+2021-05-10,05:23.10,tomato tom,jump_ahrabaid_b2,WR,MapRecord,,-00:50.76,01:53.86,false,1585407,,
+2022-08-21,04:59.55,Mr. Wallpogo IV,jump_ahrabaid_b2,WR,MapRecord,,-00:18.70,00:18.70,false,2033145,76561198178042934,[U:1:217777206]
+2022-08-22,04:03.21,Mr. Wallpogo IV,jump_ahrabaid_b2,WR,MapRecord,,-00:33.93,00:33.93,false,2034200,76561198178042934,[U:1:217777206]
+2025-11-11,04:03.20,Milk,jump_ahrabaid_b2,WR,MapRun,3:12:14.08,+3:08:10.88,,true,3571483,76561198046912204,[U:1:86646476]

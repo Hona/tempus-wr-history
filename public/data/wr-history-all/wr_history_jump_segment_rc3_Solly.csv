@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2019-12-30,29:18.52,Kyle,jump_segment_rc3,WR,IRCSet,,,,false,1136446,76561198065151241,[U:1:104885513]
+2019-12-30,04:09.47,Rue,jump_segment_rc3,WR,IRC,,-00:16.78,,false,1136463,76561198046601398,[U:1:86335670]
+2023-01-16,04:05.79,bunny.,jump_segment_rc3,WR,IRC,,-00:03.69,,false,2182931,76561198201985399,[U:1:241719671]
+2026-01-23,04:05.78,Ommfe,jump_segment_rc3,WR,MapRun,18:40.00,+14:34.22,,true,3726901,76561198144546345,[U:1:184280617]

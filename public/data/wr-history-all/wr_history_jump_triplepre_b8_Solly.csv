@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-05-01,02:30.57,Zam,jump_triplepre_b8,WR,MapRun,11:48.43,+09:17.86,,true,637940,76561198046021943,[U:1:85756215]
+2018-08-02,02:29.75,Steve,jump_triplepre_b8,WR,MapRecord,,-00:00.81,00:02.25,false,723552,76561198063901478,[U:1:103635750]
+2019-02-27,02:11.17,twitch.tv/boshyt,jump_triplepre_b8,WR,MapRecord,,-00:11.69,00:11.69,false,903788,,
+2021-12-04,02:07.66,tomato tom,jump_triplepre_b8,WR,MapRecord,,-00:03.51,00:19.99,false,1786712,76561198120374593,[U:1:160108865]

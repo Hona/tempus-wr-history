@@ -1,0 +1,17 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-06-21,02:13.90,guyyst,jump_facility,WR,MapRecord,,-00:50.48,,false,8584,,
+2014-08-19,02:12.10,Sunlit,jump_facility,WR,MapRecord,,-00:01.79,00:04.56,false,16610,76561198017342289,STEAM_0:1:28538280
+2014-08-20,02:11.45,Aurora,jump_facility,WR,MapRecord,,-00:00.65,00:02.70,false,16798,76561198053067670,STEAM_0:0:46400971
+2015-03-08,02:07.10,LTT,jump_facility,WR,MapRecord,,-00:04.34,00:08.62,false,68505,76561198066563951,[U:1:106298223]
+2015-03-10,01:59.31,das,jump_facility,WR,MapRecord,,-00:07.79,00:12.14,false,69184,,
+2018-03-28,01:47.59,Boshy,jump_facility,WR,MapRecord,,-00:05.47,00:17.59,false,610501,76561198046601398,[U:1:86335670]
+2018-08-09,01:43.93,newjuls -ttdark,jump_facility,WR,MapRecord,,-00:03.65,00:07.66,false,730240,76561198396018338,[U:1:435752610]
+2018-09-01,01:38.46,Boshy,jump_facility,WR,MapRecord,,-00:05.47,00:09.13,false,749760,76561198046601398,[U:1:86335670]
+2019-07-02,01:35.71,Shunix -tt,jump_facility,WR,MapRecord,,-00:02.74,00:02.74,false,1000298,76561198046601398,[U:1:86335670]
+2023-11-23,01:32.88,newjuls,jump_facility,WR,MapRecord,,-00:01.92,00:01.98,false,2603780,76561198396018338,[U:1:435752610]
+2025-04-13,01:32.08,Meti,jump_facility,WR,IRC,,-00:00.80,,false,3273119,,
+2025-04-18,01:31.29,Meti,jump_facility,WR,IRC,,-00:00.80,,false,3280951,,
+2025-04-19,01:30.82,Meti,jump_facility,WR,IRC,,-00:00.46,,false,3282318,,
+2025-04-21,01:30.52,Meti,jump_facility,WR,IRC,,-00:00.30,,false,3285106,,
+2025-04-25,01:30.33,Meti,jump_facility,WR,IRC,,-00:00.20,,false,3291213,,
+2025-04-27,01:30.32,kater,jump_facility,WR,MapRun,08:31.12,+07:00.80,12:52.08,true,3293979,76561198222006144,[U:1:261740416]

@@ -1,0 +1,11 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-06-14,02:49.59,Rob123,jump_excavation_final,WR,MapRecord,,-01:08.47,01:08.47,false,6772,76561198044015351,STEAM_0:1:41874811
+2014-12-09,02:43.03,Superchuck,jump_excavation_final,WR,MapRecord,,-00:06.55,00:20.74,false,35552,76561198064467753,[U:1:104202025]
+2014-12-09,02:21.68,lil big jon,jump_excavation_final,WR,MapRecord,,-00:17.01,00:17.01,false,35623,76561198055778722,[U:1:95512994]
+2015-08-02,02:13.88,func,jump_excavation_final,WR,IRC,,-00:07.80,,false,123266,,
+2018-07-26,01:55.08,Frosty remove cr,jump_excavation_final,WR,MapRun,10:47.88,+08:52.80,,true,717757,,
+2018-07-26,01:49.72,Boshy,jump_excavation_final,WR,MapRecord,,-00:02.92,00:05.35,false,717829,76561198046601398,[U:1:86335670]
+2021-02-08,01:40.08,Boshy,jump_excavation_final,WR,MapRecord,,-00:01.23,00:01.23,false,1502401,76561198046601398,[U:1:86335670]
+2022-03-18,01:39.60,Jeff Bezos,jump_excavation_final,WR,MapRun,08:38.10,+06:58.50,,true,1891325,76561198231320900,[U:1:271055172]
+2023-04-01,01:38.41,Cygnus -rng,jump_excavation_final,WR,IRC,,-00:01.18,,false,2255858,,
+2023-04-01,01:35.65,Cygnus -rng,jump_excavation_final,WR,MapRecord,,-00:02.64,00:02.64,false,2256065,,

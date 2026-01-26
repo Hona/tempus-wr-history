@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2021-07-09,12:18.75,Waldo,jump_naught_v3,WR,IRCSet,,,,false,1634073,,
+2021-07-09,07:39.03,phancy,jump_naught_v3,WR,IRC,,-04:39.72,,false,1634082,,
+2021-07-10,06:36.45,slime,jump_naught_v3,WR,MapRun,32:33.87,+25:57.42,,true,1634170,,
+2021-07-20,06:03.52,Matty,jump_naught_v3,WR,IRC,,-00:32.92,,false,1643536,76561198035204545,[U:1:74938817]

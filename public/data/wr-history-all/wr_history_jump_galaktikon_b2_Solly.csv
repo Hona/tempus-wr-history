@@ -1,0 +1,9 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2024-01-20,01:04.89,Waldo,jump_galaktikon_b2,WR,FirstRecord,,,,false,2692394,76561198020256631,[U:1:59990903]
+2024-01-20,00:37.75,fred -CC,jump_galaktikon_b2,WR,IRC,,-00:01.68,,false,2692412,,
+2024-01-20,00:35.71,Perky Pixie,jump_galaktikon_b2,WR,MapRun,02:29.14,+01:53.43,,true,2693238,76561197960889092,[U:1:623364]
+2024-01-20,00:34.80,Anti-Chungus Man,jump_galaktikon_b2,WR,MapRun,02:45.12,+02:10.32,,true,2693603,,
+2024-01-21,00:32.62,vice,jump_galaktikon_b2,WR,MapRecord,,-00:01.27,00:03.16,false,2694382,76561198366368448,[U:1:406102720]
+2024-01-21,00:32.61,Skye -rng,jump_galaktikon_b2,WR,IRC,,-00:00.01,,false,2695279,,
+2024-01-22,00:32.43,Skye -rng,jump_galaktikon_b2,WR,IRC,,-00:00.18,,false,2696376,,
+2024-02-01,00:32.04,Skye -rng,jump_galaktikon_b2,WR,IRC,,-00:00.39,,false,2711966,,

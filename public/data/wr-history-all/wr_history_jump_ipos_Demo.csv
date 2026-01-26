@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2021-07-02,05:15.64,ボビデバビ,jump_ipos,WR,IRCSet,,,,false,1627745,,
+2021-07-02,01:52.42,vice,jump_ipos,WR,IRC,,-01:21.13,,false,1627802,,
+2021-07-02,01:46.35,phancy,jump_ipos,WR,IRC,,-00:06.07,,false,1627926,,
+2021-07-03,01:13.86,Kingstripes,jump_ipos,WR,MapRun,21:57.18,+20:43.32,,true,1628239,76561198010999831,[U:1:50734103]
+2021-07-17,01:06.21,blumenkranz,jump_ipos,WR,IRC,,-00:07.65,,false,1641013,,
+2022-04-22,01:04.56,Matty,jump_ipos,WR,MapRecord,,-00:01.65,00:01.83,false,1925099,76561198035204545,[U:1:74938817]
+2024-11-07,01:01.47,vice,jump_ipos,WR,IRC,,-00:03.09,,false,3119203,,
+2024-12-29,00:57.63,cander,jump_ipos,WR,IRC,,-00:03.84,,false,3195188,,
+2025-05-19,00:57.62,Stanley KC-,jump_ipos,WR,MapRun,01:29.38,+00:31.76,00:16.36,true,3325184,76561198378196732,[U:1:417931004]

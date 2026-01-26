@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-01,05:58.96,Rob123,jump_deserted_b1,WR,MapRecord,,-03:09.74,,false,7485,76561198044015351,STEAM_0:1:41874811
+2014-10-17,05:19.93,Helpless_Soldier,jump_deserted_b1,WR,MapRecord,,-00:39.03,03:13.29,false,24153,76561198043137253,[U:1:82871525]
+2014-10-17,04:57.34,jondy,jump_deserted_b1,WR,MapRecord,,-00:22.58,02:14.52,false,24307,76561198055778722,[U:1:95512994]
+2015-01-04,04:16.15,Helpless_Soldier,jump_deserted_b1,WR,MapRecord,,-00:40.21,00:40.21,false,45526,76561198043137253,[U:1:82871525]
+2015-02-10,03:48.01,jdollo,jump_deserted_b1,WR,MapRecord,,-00:28.13,01:09.33,false,59858,76561198055778722,[U:1:95512994]
+2017-11-19,02:32.93,fox,jump_deserted_b1,WR,MapRecord,,-00:01.71,00:01.71,false,506606,76561198046601398,[U:1:86335670]
+2019-01-29,02:19.66,twitch.tv/boshyt,jump_deserted_b1,WR,MapRecord,,-00:11.61,00:11.61,false,879176,,
+2020-05-10,02:16.33,twitch.tv/boshyt,jump_deserted_b1,WR,IRC,,-00:03.32,,false,1246689,,
+2022-01-09,02:15.79,Rachello,jump_deserted_b1,WR,MapRecord,,-00:00.54,00:03.15,false,1821758,76561198815853361,[U:1:855587633]
+2022-01-15,02:12.46,ondkaja,jump_deserted_b1,WR,IRC,,-00:03.33,,false,1828138,,
+2022-04-23,01:56.89,tomatotom@goblin,jump_deserted_b1,WR,MapRun,03:31.36,+01:34.47,,true,1925278,,

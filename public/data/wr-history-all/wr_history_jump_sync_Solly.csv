@@ -1,0 +1,15 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-06-30,35:20.20,Aurora -tt,jump_sync,WR,MapRecord,,-1:09:20.20,,false,7397,76561198053067670,STEAM_0:0:46400971
+2014-08-30,30:05.62,Torii,jump_sync,WR,MapRecord,,-05:14.58,,false,19097,76561198017342289,[U:1:57076561]
+2014-12-25,21:49.19,Aurora -tt,jump_sync,WR,MapRecord,,-08:16.42,13:31.00,false,40601,,
+2015-08-22,18:50.86,LessThanThree |,jump_sync,WR,MapRecord,,-02:58.32,03:29.17,false,131328,,
+2018-02-20,14:40.49,dipp,jump_sync,WR,MapRun,1:55:25.18,+1:40:44.69,,true,581918,76561198135288367,[U:1:175022639]
+2018-12-07,13:41.32,Voyager,jump_sync,WR,MapRun,1:33:15.15,+1:19:33.83,,true,835330,,
+2018-12-28,12:44.27,Hass,jump_sync,WR,MapRecord,,-00:57.04,03:18.04,false,852554,76561198152719870,[U:1:192454142]
+2021-11-30,11:55.42,timotej_robček_,jump_sync,WR,MapRecord,,-00:48.85,03:17.05,false,1783453,,
+2023-03-16,11:07.89,ddavid9,jump_sync,WR,MapRun,1:08:01.03,+56:53.14,,true,2242409,76561198098074486,[U:1:137808758]
+2023-07-27,10:59.64,rubidus,jump_sync,WR,IRC,,-00:08.25,,false,2425830,,
+2023-11-23,10:49.06,rubidus,jump_sync,WR,MapRecord,,-00:10.57,00:10.57,false,2604092,76561198816817995,[U:1:856552267]
+2023-11-26,10:39.61,rubidus,jump_sync,WR,IRC,,-00:09.45,,false,2609008,,
+2023-11-26,10:06.93,rubidus,jump_sync,WR,MapRecord,,-00:32.68,00:32.68,false,2609088,76561198816817995,[U:1:856552267]
+2024-12-15,09:26.62,Tom Moose | Matt,jump_sync,WR,MapRun,1:46:41.89,+1:37:15.27,,true,3174182,,

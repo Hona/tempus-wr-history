@@ -1,0 +1,13 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2019-07-07,21:35.50,twitch.tv/vicetf,jump_ante,WR,IRCSet,,,,false,1004281,,
+2019-07-07,15:40.35,ȶɛǟʀքօօք,jump_ante,WR,IRC,,-00:37.33,,false,1004359,,
+2019-07-07,13:35.53,td,jump_ante,WR,IRC,,-02:04.81,,false,1004430,,
+2019-07-07,11:40.44,riot,jump_ante,WR,IRC,,-01:44.15,,false,1004569,,
+2019-07-08,11:34.00,I sync  therefor,jump_ante,WR,MapRun,4:27:56.53,+4:16:22.53,,true,1004858,,
+2019-07-08,10:02.32,bug_prophet,jump_ante,WR,IRC,,-01:04.29,,false,1005375,,
+2019-07-09,09:13.45,bug_prophet,jump_ante,WR,IRC,,-00:39.66,,false,1005976,,
+2019-08-05,08:24.65,Teardrop,jump_ante,WR,IRC,,-00:48.79,,false,1027054,,
+2019-11-03,08:20.00,Larry,jump_ante,WR,MapRecord,,-00:04.64,00:41.59,false,1095599,76561198060570011,[U:1:100304283]
+2022-04-10,07:55.54,ixam,jump_ante,WR,MapRecord,,-00:24.46,00:47.22,false,1912350,76561198082109328,[U:1:121843600]
+2023-11-23,07:36.49,Star,jump_ante,WR,IRC,,-00:19.05,,false,2604092,,
+2023-11-24,07:08.95,ixam -CC,jump_ante,WR,MapRecord,,-00:27.54,00:46.59,false,2605984,76561198082109328,[U:1:121843600]

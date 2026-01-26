@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-08-23,01:01.01,newjuls,jump_sleepy_redo,WR,MapRun,01:59.77,+00:58.76,00:10.61,true,741330,76561198396018338,[U:1:435752610]
+2019-02-05,01:01.00,2ask,jump_sleepy_redo,WR,MapRun,10:18.59,+09:17.59,,true,884856,76561198217959591,[U:1:257693863]
+2019-02-19,00:55.61,twitch.tv/boshyt,jump_sleepy_redo,WR,MapRecord,,-00:01.75,00:01.75,false,897217,,
+2021-03-20,00:55.41,vice,jump_sleepy_redo,WR,IRC,,-00:00.21,,false,1541145,,
+2021-03-22,00:54.88,vice,jump_sleepy_redo,WR,IRC,,-00:00.52,,false,1542675,,
+2023-09-10,00:54.33,nibs,jump_sleepy_redo,WR,MapRecord,,-00:00.55,00:01.83,false,2495461,76561198035282173,[U:1:75016445]
+2024-11-08,00:53.56,Syntax,jump_sleepy_redo,WR,MapRun,15:25.00,+14:31.44,,true,3120445,76561198231984924,[U:1:271719196]
+2025-09-05,00:48.87,syphilis,jump_sleepy_redo,WR,MapRun,02:43.20,+01:54.33,,true,3480123,76561198235977602,[U:1:275711874]
+2025-10-06,00:48.86,Unit Thai Kingdo,jump_sleepy_redo,WR,MapRun,03:09.16,+02:20.30,,true,3522466,,

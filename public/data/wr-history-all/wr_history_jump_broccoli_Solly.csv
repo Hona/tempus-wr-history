@@ -1,0 +1,19 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-27,09:11.65,Pluto,jump_broccoli,WR,MapRecord,,-37:49.13,37:49.13,false,12482,76561198044511072,STEAM_0:0:42122672
+2014-07-27,06:54.69,ReMaXeD,jump_broccoli,WR,MapRecord,,-02:16.95,05:05.58,false,12545,76561197996758942,STEAM_0:0:18246607
+2014-07-31,05:26.14,Aurora,jump_broccoli,WR,MapRecord,,-01:13.70,01:13.70,false,13015,76561198053067670,STEAM_0:0:46400971
+2014-08-01,04:31.82,bluebird,jump_broccoli,WR,MapRecord,,-00:54.31,,false,13359,76561197971599263,STEAM_0:1:5666767
+2014-08-12,04:14.96,Aurora,jump_broccoli,WR,MapRecord,,-00:16.85,00:16.93,false,15203,76561198053067670,STEAM_0:0:46400971
+2014-08-30,03:43.12,HLX,jump_broccoli,WR,IRC,,-00:31.84,,false,19133,,
+2015-03-26,03:39.90,j jiggy,jump_broccoli,WR,MapRecord,,-00:03.22,00:13.66,false,75108,76561198055778722,[U:1:95512994]
+2015-07-01,03:36.16,novacane,jump_broccoli,WR,MapRecord,,-00:03.73,00:38.80,false,112750,,
+2015-08-22,03:16.58,guyyst | tipofth,jump_broccoli,WR,MapRecord,,-00:19.57,,false,131608,,
+2018-08-27,02:35.41,ungato,jump_broccoli,WR,IRC,,-00:13.53,,false,745418,,
+2018-08-28,02:29.49,foxgloves,jump_broccoli,WR,MapRecord,,-00:05.92,00:07.04,false,746314,76561198046601398,[U:1:86335670]
+2021-09-14,02:29.20,t.tv/rachellotf,jump_broccoli,WR,MapRecord,,-00:00.29,00:10.98,false,1705786,76561198815853361,[U:1:855587633]
+2022-03-20,02:18.28,t.tv/rachellotf,jump_broccoli,WR,IRC,,-00:10.92,,false,1892708,76561198815853361,[U:1:855587633]
+2022-05-12,02:13.44,Rachello,jump_broccoli,WR,IRC,,-00:04.84,,false,1946112,,
+2024-01-03,02:04.14,fox,jump_broccoli,WR,IRC,,-00:09.30,,false,2668395,,
+2024-01-05,02:01.29,fox,jump_broccoli,WR,MapRecord,,-00:02.85,00:02.85,false,2671598,76561198046601398,[U:1:86335670]
+2024-01-09,01:59.25,fox,jump_broccoli,WR,MapRecord,,-00:02.04,00:02.04,false,2675987,76561198046601398,[U:1:86335670]
+2025-04-14,01:59.24,Zando,jump_broccoli,WR,MapRun,23:02.74,+21:03.50,,true,3275503,76561198992703346,[U:1:1032437618]

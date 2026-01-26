@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-01-20,02:01.15,Boshy,jump_rewind,WR,MapRun,03:22.81,+01:21.66,01:39.47,true,556422,76561198046601398,[U:1:86335670]
+2018-11-08,02:01.05,Boshy,jump_rewind,WR,MapRecord,,-00:00.10,00:05.98,false,810990,76561198046601398,[U:1:86335670]
+2019-01-08,02:00.10,vice,jump_rewind,WR,MapRecord,,-00:00.94,00:02.11,false,861334,76561198366368448,[U:1:406102720]
+2019-01-08,01:58.42,Boshy,jump_rewind,WR,IRC,,-00:01.67,,false,861803,,
+2019-01-09,01:56.26,vice,jump_rewind,WR,MapRecord,,-00:02.15,00:03.83,false,862141,76561198366368448,[U:1:406102720]
+2019-01-09,01:53.34,vice,jump_rewind,WR,MapRecord,,-00:02.92,00:02.92,false,862182,76561198366368448,[U:1:406102720]
+2023-08-17,01:50.65,phancy,jump_rewind,WR,MapRecord,,-00:02.69,00:03.49,false,2457473,76561198116189732,[U:1:155924004]
+2025-04-20,01:48.75,vice,jump_rewind,WR,IRC,,-00:01.90,,false,3284658,,
+2025-06-22,01:48.74,¥amborghini_Hig,jump_rewind,WR,MapRun,08:17.62,+06:28.88,,true,3373142,,

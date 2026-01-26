@@ -1,0 +1,15 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-12,01:51.86,Bane,jump_hexahedron,WR,MapRecord,,-00:47.59,00:47.59,false,10433,76561198040260189,STEAM_0:1:39997230
+2014-07-12,01:51.02,Xtra,jump_hexahedron,WR,MapRecord,,-00:00.83,00:02.97,false,10464,76561198041487315,STEAM_0:1:40610793
+2014-07-13,01:49.78,Superchuck,jump_hexahedron,WR,MapRecord,,-00:01.24,00:06.85,false,10534,76561198064467753,STEAM_0:1:52101012
+2014-07-13,01:34.87,raiin_down,jump_hexahedron,WR,MapRecord,,-00:12.94,00:12.94,false,10663,,
+2014-07-21,01:30.68,Seras,jump_hexahedron,WR,MapRecord,,-00:04.18,00:20.56,false,11651,,
+2014-08-19,01:26.81,learniciel,jump_hexahedron,WR,MapRecord,,-00:03.86,00:08.68,false,16656,76561198071336741,STEAM_0:1:55535506
+2014-10-20,01:24.22,cover blown,jump_hexahedron,WR,MapRecord,,-00:02.59,00:02.69,false,24956,,
+2014-11-07,01:17.84,Soup Can,jump_hexahedron,WR,MapRecord,,-00:03.39,00:03.39,false,29016,76561198029285343,[U:1:69019615]
+2017-12-06,01:10.40,newjuls,jump_hexahedron,WR,MapRun,01:25.97,+00:15.57,00:11.50,true,518657,,
+2017-12-24,01:10.28,Lyle,jump_hexahedron,WR,IRC,,-00:00.12,,false,534044,76561198035787281,[U:1:75521553]
+2019-02-15,01:09.55,transformation M,jump_hexahedron,WR,MapRecord,,-00:00.73,00:03.15,false,893249,,
+2019-07-15,01:06.42,newjuls,jump_hexahedron,WR,MapRecord,,-00:03.13,00:05.02,false,1010481,76561198396018338,[U:1:435752610]
+2020-05-06,01:05.07,crashed,jump_hexahedron,WR,MapRecord,,-00:01.35,00:04.48,false,1243265,76561198366368448,[U:1:406102720]
+2025-04-18,01:05.06,moth,jump_hexahedron,WR,MapRun,04:15.52,+03:10.46,,true,3281621,76561198848287180,[U:1:888021452]

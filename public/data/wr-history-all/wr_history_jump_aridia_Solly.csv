@@ -1,0 +1,20 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-14,02:18.07,guyyst,jump_aridia,WR,MapRecord,,-00:15.07,00:15.07,false,10756,76561198041343262,STEAM_0:0:40538767
+2014-09-05,02:11.64,Torii,jump_aridia,WR,MapRecord,,-00:06.43,00:11.38,false,20350,76561198017342289,[U:1:57076561]
+2014-11-26,02:06.98,guyyst,jump_aridia,WR,MapRecord,,-00:04.65,00:11.08,false,33234,76561198041343262,[U:1:81077534]
+2014-12-08,02:03.64,Aurora -tt @bron,jump_aridia,WR,MapRecord,,-00:03.34,00:09.86,false,35538,,
+2015-04-01,01:54.75,auroradroid,jump_aridia,WR,MapRecord,,-00:08.89,00:08.89,false,78035,,
+2018-09-02,01:48.82,un gato,jump_aridia,WR,MapRecord,,-00:07.54,00:20.37,false,750368,76561198066351321,[U:1:106085593]
+2019-05-06,01:46.30,Shunix -tt,jump_aridia,WR,MapRecord,,-00:02.52,00:02.62,false,956255,76561198047121805,[U:1:86856077]
+2019-06-18,01:44.74,Shunix -tt,jump_aridia,WR,IRC,,-00:01.55,,false,988998,,
+2019-06-18,01:44.23,Shunix -tt,jump_aridia,WR,MapRecord,,-00:00.51,00:00.51,false,989015,76561198047121805,[U:1:86856077]
+2019-07-15,01:41.99,Shunix -tt,jump_aridia,WR,MapRecord,,-00:02.23,00:02.23,false,1010331,76561198047121805,[U:1:86856077]
+2019-09-13,01:41.80,Shunix -tt,jump_aridia,WR,MapRecord,,-00:00.19,00:00.19,false,1056860,76561198047121805,[U:1:86856077]
+2019-11-06,01:41.46,Shunix -tt,jump_aridia,WR,IRC,,-00:00.34,,false,1097262,,
+2019-11-23,01:38.69,Shunix -tt,jump_aridia,WR,MapRecord,,-00:02.76,00:02.76,false,1108467,76561198047121805,[U:1:86856077]
+2022-12-14,01:38.50,fyg,jump_aridia,WR,MapRecord,,-00:00.19,00:01.39,false,2146475,76561198027610614,[U:1:67344886]
+2025-01-31,01:38.04,riotbz,jump_aridia,WR,MapRecord,,-00:00.46,00:06.49,false,3244305,76561198065169685,[U:1:104903957]
+2025-02-01,01:34.98,riotbz,jump_aridia,WR,MapRecord,,-00:03.06,00:03.06,false,3245996,76561198065169685,[U:1:104903957]
+2025-02-02,01:34.87,riotbz,jump_aridia,WR,IRC,,-00:00.10,,false,3247965,,
+2025-02-04,01:33.28,riotbz,jump_aridia,WR,IRC,,-00:01.59,,false,3251152,,
+2025-02-05,01:30.66,riotbz,jump_aridia,WR,IRC,,-00:02.62,,false,3252217,,

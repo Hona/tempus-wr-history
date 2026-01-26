@@ -1,0 +1,7 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2023-08-03,01:37.27,fred -CC,jump_rust_rc3,WR,IRC,,-00:06.70,,false,2435243,,
+2023-08-03,01:16.62,fig,jump_rust_rc3,WR,IRC,,-00:03.48,,false,2435250,,
+2023-08-03,01:12.42,turkeymaxxing,jump_rust_rc3,WR,IRC,,-00:02.80,,false,2435377,,
+2023-08-05,01:10.12,(rat castle) -CC,jump_rust_rc3,WR,IRC,,-00:01.09,,false,2439303,,
+2023-08-05,01:08.20,(rat castle) -CC,jump_rust_rc3,WR,MapRecord,,-00:01.24,00:01.24,false,2439420,76561198201985399,[U:1:241719671]
+2025-05-27,01:07.32,Can I Bounce On,jump_rust_rc3,WR,MapRun,02:14.01,+01:06.69,00:33.93,true,3335803,,

@@ -1,0 +1,15 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-07-15,02:32.07,cody,jump_heavy_b1,WR,MapRecord,,-00:00.04,00:00.04,false,10811,76561198078488228,STEAM_0:0:59111250
+2014-08-15,02:29.18,minte,jump_heavy_b1,WR,IRC,,-00:02.89,,false,15696,,
+2014-08-19,02:17.50,alle -tt,jump_heavy_b1,WR,MapRecord,,-00:11.68,,false,16554,,
+2015-05-31,02:12.35,kucino,jump_heavy_b1,WR,IRC,,-00:05.14,,false,100526,,
+2017-12-09,01:58.55,foster,jump_heavy_b1,WR,IRC,,-00:01.31,,false,520937,76561198199903739,[U:1:239638011]
+2018-02-10,01:57.22,gonk,jump_heavy_b1,WR,MapRecord,,-00:01.33,00:06.88,false,573924,76561198396018338,[U:1:435752610]
+2019-01-03,01:55.98,vice,jump_heavy_b1,WR,IRC,,-00:01.24,,false,857508,,
+2019-01-03,01:54.77,luck please,jump_heavy_b1,WR,MapRecord,,-00:01.20,00:05.47,false,857523,,
+2019-05-25,01:48.17,twitch.tv/vicetf,jump_heavy_b1,WR,MapRecord,,-00:06.33,00:06.33,false,970595,,
+2023-05-03,01:45.51,sam,jump_heavy_b1,WR,IRC,,-00:01.42,,false,2302791,,
+2023-10-19,01:44.71,Matty,jump_heavy_b1,WR,MapRecord,,-00:00.79,00:02.55,false,2552754,76561198035204545,[U:1:74938817]
+2024-03-28,01:44.50,sam,jump_heavy_b1,WR,IRC,,-00:00.21,,false,2793404,,
+2024-03-28,01:44.19,sam,jump_heavy_b1,WR,IRC,,-00:00.31,,false,2793329,,
+2025-04-21,01:44.18,moth,jump_heavy_b1,WR,MapRun,05:13.78,+03:29.60,,true,3286102,76561198848287180,[U:1:888021452]

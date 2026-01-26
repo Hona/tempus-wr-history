@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2020-07-21,01:11.20,wild,jump_lombardi,WR,IRC,,-00:07.00,,false,1306444,76561198299425567,[U:1:339159839]
+2020-07-21,01:07.87,Erik,jump_lombardi,WR,MapRun,03:23.26,+02:15.39,,true,1306695,76561198048698026,[U:1:88432298]
+2020-07-22,00:59.29,cander,jump_lombardi,WR,IRC,,-00:01.76,,false,1307059,,
+2020-07-23,00:57.36,cander,jump_lombardi,WR,IRC,,-00:01.36,,false,1307660,,
+2020-07-23,00:57.22,vice,jump_lombardi,WR,MapRecord,,-00:00.13,00:01.65,false,1307799,,
+2020-07-23,00:55.25,cander,jump_lombardi,WR,IRC,,-00:00.95,,false,1307910,,
+2020-07-23,00:53.30,vice,jump_lombardi,WR,IRC,,-00:01.95,,false,1308268,,
+2021-04-11,00:52.71,song,jump_lombardi,WR,MapRecord,,-00:00.60,00:01.05,false,1561152,76561198210286877,[U:1:250021149]
+2025-05-08,00:52.70,sebbers,jump_lombardi,WR,MapRun,05:41.50,+04:48.80,,true,3310858,76561198229432644,[U:1:269166916]

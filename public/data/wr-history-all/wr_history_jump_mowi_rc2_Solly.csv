@@ -1,0 +1,22 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2020-01-01,03:06.30,osplo -cg,jump_mowi_rc2,WR,IRCSet,,,,false,1138107,,
+2020-01-01,01:39.69,ミゾレ,jump_mowi_rc2,WR,MapRecord,,-01:26.60,,false,1138141,76561198055623250,[U:1:95357522]
+2020-01-01,01:13.49,Happy New Year's,jump_mowi_rc2,WR,MapRun,01:20.51,+00:07.02,00:07.90,true,1138144,,
+2020-01-01,01:12.57,Larry,jump_mowi_rc2,WR,IRC,,-00:00.92,,false,1138152,,
+2020-01-01,01:05.56,Rue,jump_mowi_rc2,WR,IRC,,-00:01.80,,false,1138171,,
+2020-01-01,01:00.46,Rue,jump_mowi_rc2,WR,IRC,,-00:00.52,,false,1138346,,
+2020-01-02,01:00.22,Rue,jump_mowi_rc2,WR,IRC,,-00:00.23,,false,1138940,,
+2020-01-02,00:58.66,Rue,jump_mowi_rc2,WR,IRC,,-00:01.12,,false,1138999,,
+2020-01-03,00:58.38,Rue,jump_mowi_rc2,WR,IRC,,-00:00.28,,false,1139814,,
+2020-01-03,00:57.78,Rue,jump_mowi_rc2,WR,IRC,,-00:00.60,,false,1139838,,
+2020-01-03,00:56.73,Rue,jump_mowi_rc2,WR,IRC,,-00:00.99,,false,1139910,,
+2020-01-04,00:56.65,Rue,jump_mowi_rc2,WR,MapRecord,,-00:00.07,00:00.07,false,1140666,76561198046601398,[U:1:86335670]
+2020-01-04,00:56.13,Rue,jump_mowi_rc2,WR,IRC,,-00:00.52,,false,1140706,,
+2020-01-04,00:55.51,Rue,jump_mowi_rc2,WR,MapRecord,,-00:00.61,00:00.61,false,1140720,76561198046601398,[U:1:86335670]
+2023-06-29,00:55.26,riotbz,jump_mowi_rc2,WR,MapRecord,,-00:01.48,00:01.48,false,2384893,76561198065169685,[U:1:104903957]
+2025-10-17,00:54.88,garf,jump_mowi_rc2,WR,IRC,,-00:00.38,,false,3538074,,
+2025-10-17,00:54.04,garf,jump_mowi_rc2,WR,IRC,,-00:00.84,,false,3538203,,
+2025-10-17,00:53.79,garf,jump_mowi_rc2,WR,IRC,,-00:00.26,,false,3538194,,
+2025-10-17,00:53.50,garf,jump_mowi_rc2,WR,IRC,,-00:00.28,,false,3538208,,
+2025-10-17,00:53.24,garf,jump_mowi_rc2,WR,IRC,,-00:00.27,,false,3538090,,
+2025-10-19,00:53.23,duckontop!,jump_mowi_rc2,WR,MapRun,03:29.26,+02:36.03,,true,3541468,76561198236471782,[U:1:276206054]

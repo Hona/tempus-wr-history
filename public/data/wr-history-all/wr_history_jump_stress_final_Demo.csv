@@ -1,0 +1,12 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-08-21,01:16.65,foxglove,jump_stress_final,WR,MapRun,03:46.84,+02:30.19,00:13.43,true,740261,76561198046601398,[U:1:86335670]
+2019-03-25,01:16.22,newjuls,jump_stress_final,WR,MapRecord,,-00:00.41,00:18.70,false,923901,76561198396018338,[U:1:435752610]
+2019-09-23,01:10.82,ุ,jump_stress_final,WR,IRC,,-00:05.40,,false,1064781,,
+2021-08-28,01:09.13,Matty,jump_stress_final,WR,MapRecord,,-00:01.69,00:02.46,false,1686166,76561198035204545,[U:1:74938817]
+2021-09-10,01:08.67,vice,jump_stress_final,WR,MapRecord,,-00:00.46,00:02.11,false,1701455,76561198366368448,[U:1:406102720]
+2021-09-13,01:08.05,Matty,jump_stress_final,WR,MapRecord,,-00:00.61,00:01.08,false,1705079,76561198035204545,[U:1:74938817]
+2023-08-02,01:07.23,phancy,jump_stress_final,WR,IRC,,-00:00.82,,false,2434821,,
+2023-08-25,01:05.44,Matty,jump_stress_final,WR,IRC,,-00:01.78,,false,2470935,,
+2023-12-26,01:04.72,phancy,jump_stress_final,WR,IRC,,-00:00.72,,false,2654808,,
+2024-01-04,01:02.79,Matty,jump_stress_final,WR,MapRecord,,-00:01.93,00:02.04,false,2669583,76561198035204545,[U:1:74938817]
+2025-08-09,01:02.78,baka,jump_stress_final,WR,MapRun,05:56.20,+04:53.42,,true,3443006,76561198149327330,[U:1:189061602]

@@ -1,0 +1,7 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-02-10,00:54.37,mesatech,jump_sick,WR,MapRecord,,-00:00.52,00:01.23,false,573854,76561198111845972,[U:1:151580244]
+2018-11-24,00:54.21,slair.,jump_sick,WR,MapRun,06:27.10,+05:32.89,,true,824246,76561198073524362,[U:1:113258634]
+2019-03-08,00:52.18,vice,jump_sick,WR,IRC,,-00:02.02,,false,910534,,
+2020-03-14,00:49.63,kater,jump_sick,WR,IRC,,-00:02.55,,false,1196486,,
+2023-11-12,00:48.51,phancy,jump_sick,WR,MapRun,00:52.77,+00:04.26,00:21.10,true,2588168,,
+2023-11-12,00:42.73,phancy,jump_sick,WR,MapRecord,,-00:01.68,00:01.68,false,2588547,76561198116189732,[U:1:155924004]

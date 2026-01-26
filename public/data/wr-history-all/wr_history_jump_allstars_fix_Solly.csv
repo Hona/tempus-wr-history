@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2022-12-16,01:54.16,TINSEL TOM,jump_allstars_fix,WR,MapRun,02:08.71,+00:14.55,00:02.23,true,2148539,76561198120374593,[U:1:160108865]
+2022-12-20,01:49.99,TINSEL TOM,jump_allstars_fix,WR,IRC,,-00:04.17,,false,2152539,,
+2025-10-07,01:46.22,Zando,jump_allstars_fix,WR,MapRun,36:35.66,+34:49.44,,true,3524396,76561198992703346,[U:1:1032437618]
+2025-10-13,01:46.21,norpy,jump_allstars_fix,WR,MapRun,25:39.10,+23:52.89,,true,3532243,76561198966140552,[U:1:1005874824]

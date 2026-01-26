@@ -1,0 +1,9 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2021-10-22,00:48.75,Waldo,jump_mazzo,WR,FirstRecord,,,,false,1741839,76561198020256631,[U:1:59990903]
+2021-10-22,00:35.70,leffunny,jump_mazzo,WR,IRC,,-00:00.90,,false,1741841,,
+2021-10-22,00:34.39,leffunny,jump_mazzo,WR,MapRecord,,-00:01.30,00:01.30,false,1741861,76561198963005416,[U:1:1002739688]
+2021-10-22,00:30.28,vice,jump_mazzo,WR,IRC,,-00:00.63,,false,1741891,,
+2021-10-28,00:30.07,Jaffxsman,jump_mazzo,WR,MapRecord,,-00:00.06,00:00.06,false,1747615,76561198091905306,[U:1:131639578]
+2021-10-28,00:29.55,Jaffxsman,jump_mazzo,WR,MapRecord,,-00:00.52,00:00.52,false,1747733,76561198091905306,[U:1:131639578]
+2022-11-16,00:28.83,Jaffxsman,jump_mazzo,WR,MapRecord,,-00:00.67,00:00.72,false,2118357,76561198091905306,[U:1:131639578]
+2025-07-30,00:28.82,poaa.,jump_mazzo,WR,MapRun,01:17.74,+00:48.92,,true,3428052,76561198069079480,[U:1:108813752]

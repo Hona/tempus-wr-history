@@ -1,0 +1,5 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2017-12-22,03:32.27,mesatech,jump_aigis_a4,WR,MapRecord,,-00:05.17,00:12.61,false,532217,76561198111845972,[U:1:151580244]
+2019-04-04,03:32.17,twitch.tv/vicetf,jump_aigis_a4,WR,MapRecord,,-00:00.10,00:07.88,false,931323,,
+2020-02-18,03:28.96,whats poppin,jump_aigis_a4,WR,IRC,,-00:03.21,,false,1175906,,
+2020-02-20,03:19.52,vice,jump_aigis_a4,WR,MapRecord,,-00:09.43,00:12.64,false,1177404,,

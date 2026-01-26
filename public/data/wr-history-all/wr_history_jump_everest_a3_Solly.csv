@@ -1,0 +1,13 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2014-12-24,05:20.11,jondeezy -tt,jump_everest_a3,WR,MapRecord,,-00:00.96,00:42.66,false,40170,76561198055778722,[U:1:95512994]
+2014-12-25,04:56.73,guyyst,jump_everest_a3,WR,MapRecord,,-00:23.38,00:24.34,false,40881,76561198041343262,[U:1:81077534]
+2015-02-17,04:03.79,LTT,jump_everest_a3,WR,MapRecord,,-00:52.93,01:48.11,false,62509,,
+2015-04-04,04:01.05,Aurora,jump_everest_a3,WR,MapRecord,,-00:02.74,00:14.39,false,79262,76561198053067670,[U:1:92801942]
+2015-08-18,03:36.67,LessThanThree |,jump_everest_a3,WR,MapRecord,,-00:24.37,00:27.12,false,129944,,
+2018-08-05,03:09.04,False_,jump_everest_a3,WR,MapRun,47:49.43,+44:40.39,,true,726247,76561198044272896,[U:1:84007168]
+2021-02-01,02:58.36,twitch.tv/boshyt,jump_everest_a3,WR,MapRecord,,-00:10.68,00:10.68,false,1495508,,
+2021-02-02,02:43.86,twitch.tv/boshyt,jump_everest_a3,WR,IRC,,-00:14.50,,false,1496417,,
+2022-07-19,02:35.34,IzzyHoP -tt,jump_everest_a3,WR,MapRecord,,-00:08.52,00:09.52,false,2006343,76561197995927883,[U:1:35662155]
+2023-09-23,02:34.66,Salty,jump_everest_a3,WR,MapRecord,,-00:00.67,00:02.22,false,2515327,76561198070497462,[U:1:110231734]
+2024-07-17,02:26.79,riotbz,jump_everest_a3,WR,IRC,,-00:07.87,,false,2952645,,
+2025-05-19,02:26.78,str,jump_everest_a3,WR,MapRun,04:34.84,+02:08.06,02:46.71,true,3324806,76561197997076969,[U:1:36811241]

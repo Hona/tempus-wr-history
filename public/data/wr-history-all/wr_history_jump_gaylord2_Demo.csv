@@ -1,0 +1,9 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2018-01-02,01:39.92,vice,jump_gaylord2,WR,MapRecord,,-00:02.29,00:08.07,false,541654,76561197960496196,[U:1:230468]
+2019-07-16,01:37.04,Skinny.,jump_gaylord2,WR,IRC,,-00:02.87,,false,1011137,,
+2019-07-19,01:35.08,vice,jump_gaylord2,WR,MapRecord,,-00:01.96,00:04.84,false,1013586,76561198366368448,[U:1:406102720]
+2019-07-19,01:32.08,Kip.,jump_gaylord2,WR,IRC,,-00:03.00,,false,1013754,,
+2019-07-20,01:31.96,DenDro,jump_gaylord2,WR,MapRecord,,-00:00.11,00:01.46,false,1014231,76561198366368448,[U:1:406102720]
+2020-10-12,01:30.70,Skinny inda Hood,jump_gaylord2,WR,MapRecord,,-00:01.26,00:01.38,false,1384939,,
+2023-09-20,01:29.61,cander,jump_gaylord2,WR,MapRecord,,-00:01.09,00:09.40,false,2510141,76561198318722879,[U:1:358457151]
+2025-10-30,01:29.60,Unit Thai Kingdo,jump_gaylord2,WR,MapRun,06:29.86,+05:00.26,,true,3554871,,

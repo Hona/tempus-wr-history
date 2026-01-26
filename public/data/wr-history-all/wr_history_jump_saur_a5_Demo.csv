@@ -1,0 +1,10 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2025-12-12,02:17.97,Waldo,jump_saur_a5,WR,IRCSet,,,,false,3674499,,
+2025-12-13,01:18.06,Charlie,jump_saur_a5,WR,IRC,,-00:59.91,,false,3674741,,
+2025-12-13,00:54.46,cander,jump_saur_a5,WR,IRC,,-00:12.58,,false,3674784,,
+2025-12-23,00:53.92,vice,jump_saur_a5,WR,IRC,,-00:00.54,,false,3688105,,
+2025-12-23,00:53.90,5* ship cleaner,jump_saur_a5,WR,IRC,,-00:00.03,,false,3687965,,
+2025-12-23,00:53.89,5* ship cleaner,jump_saur_a5,WR,MapRun,00:54.21,+00:00.32,,true,3688149,,
+2025-12-24,00:51.16,cander,jump_saur_a5,WR,MapRecord,,-00:02.73,00:03.30,false,3689205,76561198318722879,[U:1:358457151]
+2025-12-25,00:50.07,vice,jump_saur_a5,WR,IRC,,-00:01.10,,false,3690308,,
+2025-12-25,00:50.06,MERRY CHRISTMAS,jump_saur_a5,WR,MapRun,08:40.12,+07:50.06,,true,3691222,,

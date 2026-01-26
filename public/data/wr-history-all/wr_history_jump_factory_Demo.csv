@@ -1,0 +1,9 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2023-03-18,02:33.54,Waldo,jump_factory,WR,FirstRecord,,,,false,2244776,76561198020256631,[U:1:59990903]
+2023-03-18,01:39.00,Helmi.,jump_factory,WR,MapRun,03:48.25,+02:09.25,,true,2244788,76561198201985399,[U:1:241719671]
+2023-03-19,01:32.97,cander,jump_factory,WR,MapRecord,,-00:04.74,,false,2245109,76561198318722879,[U:1:358457151]
+2023-03-21,01:32.74,cander,jump_factory,WR,IRC,,-00:00.22,,false,2247426,,
+2023-03-26,01:32.05,salasa,jump_factory,WR,MapRecord,,-00:00.69,00:01.53,false,2248249,,
+2023-03-27,01:31.44,cander,jump_factory,WR,IRC,,-00:00.61,,false,2248621,,
+2023-04-03,01:30.66,jump_factory,jump_factory,WR,IRC,,-00:00.78,,false,2258042,,
+2023-04-03,01:28.66,cander,jump_factory,WR,MapRecord,,-00:01.99,00:02.25,false,2258146,76561198318722879,[U:1:358457151]

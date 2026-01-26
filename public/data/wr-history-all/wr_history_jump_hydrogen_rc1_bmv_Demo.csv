@@ -1,0 +1,9 @@
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
+2019-10-31,01:20.07,newjuls,jump_hydrogen_rc1_bmv,WR,MapRecord,,-00:00.73,00:00.73,false,1093243,76561198396018338,[U:1:435752610]
+2020-05-27,01:18.47,Zike.j2 -tt -ttd,jump_hydrogen_rc1_bmv,WR,MapRecord,,-00:01.59,00:03.01,false,1260474,,
+2020-08-02,01:14.98,gonk,jump_hydrogen_rc1_bmv,WR,MapRecord,,-00:03.49,00:14.14,false,1315935,76561198396018338,[U:1:435752610]
+2021-11-12,01:13.12,vice,jump_hydrogen_rc1_bmv,WR,IRC,,-00:01.86,,false,1763484,76561198366368448,[U:1:406102720]
+2023-08-23,01:12.49,newjuls,jump_hydrogen_rc1_bmv,WR,MapRecord,,-00:00.63,00:05.82,false,2467543,76561198396018338,[U:1:435752610]
+2023-09-06,01:11.89,newjuls,jump_hydrogen_rc1_bmv,WR,IRC,,-00:00.60,,false,2490039,,
+2023-09-07,01:09.06,newjuls,jump_hydrogen_rc1_bmv,WR,MapRecord,,-00:02.83,00:02.83,false,2490279,76561198396018338,[U:1:435752610]
+2024-06-09,01:06.88,vice,jump_hydrogen_rc1_bmv,WR,IRC,,-00:02.17,,false,2895956,,
