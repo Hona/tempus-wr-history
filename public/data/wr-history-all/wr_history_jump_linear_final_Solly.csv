@@ -1,2 +1,11 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2014-07-27,01:40.17,Soru,jump_linear_final,WR,IRC,,-00:13.23,,false,12542,,
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2014-07-27,01:40.17,Soru,jump_linear_final,WR,IRC,,-00:13.23,,false,12542,,,
+2014-07-27,01:53.40,Soru,jump_linear_final,WR,IRC,,-00:27.65,,false,12542,,,
+2014-07-27,02:21.05,Soru,jump_linear_final,WR,IRC,,-00:44.14,,false,12542,,,
+2014-07-27,03:05.20,Soru,jump_linear_final,WR,IRC,,-01:34.14,,false,12542,,,
+2014-07-27,04:39.34,Soru,jump_linear_final,WR,IRCSet,,,,false,12542,,,
+2014-07-27,01:40.17,Soru,jump_linear_final,WR,MapRecord,,-00:13.23,00:13.23,false,12543,76561198010844786,STEAM_0:0:25289529,
+2014-07-27,01:53.40,Soru,jump_linear_final,WR,MapRecord,,-00:27.65,00:27.65,false,12543,76561198010844786,STEAM_0:0:25289529,
+2014-07-27,02:21.05,Soru,jump_linear_final,WR,MapRecord,,-00:44.14,00:44.14,false,12543,76561198010844786,STEAM_0:0:25289529,
+2014-07-27,03:05.20,Soru,jump_linear_final,WR,MapRecord,,-01:34.14,01:34.14,false,12543,76561198010844786,STEAM_0:0:25289529,
+2014-07-27,04:39.34,Soru,jump_linear_final,WR,FirstRecord,,,,false,12543,76561198010844786,STEAM_0:0:25289529,

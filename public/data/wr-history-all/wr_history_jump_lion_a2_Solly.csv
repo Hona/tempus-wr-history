@@ -1,2 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2014-07-30,35:56.39,Gebobus,jump_lion_a2,WR,FirstRecord,,,,false,12890,76561198044263100,STEAM_0:0:41998686
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2014-07-30,35:56.39,Gebobus,jump_lion_a2,WR,FirstRecord,,,,false,12890,76561198044263100,STEAM_0:0:41998686,

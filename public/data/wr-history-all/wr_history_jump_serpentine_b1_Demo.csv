@@ -1,3 +1,3 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2014-07-09,01:32.01,cody,jump_serpentine_b1,WR,MapRecord,,-00:03.74,00:10.01,false,10000,76561198078488228,STEAM_0:0:59111250
-2014-08-11,01:19.76,sakagami,jump_serpentine_b1,WR,MapRecord,,-00:12.24,00:12.26,false,15011,,
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2014-07-09,01:32.01,cody,jump_serpentine_b1,WR,MapRecord,,-00:03.74,00:10.01,false,10000,76561198078488228,STEAM_0:0:59111250,
+2014-08-11,01:19.76,sakagami,jump_serpentine_b1,WR,MapRecord,,-00:12.24,00:12.26,false,15011,76561198070882254,STEAM_0:0:55308263,

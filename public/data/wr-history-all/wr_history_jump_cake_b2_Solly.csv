@@ -1,8 +1,22 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2014-07-11,07:15.92,Aurora -tt,jump_cake_b2,WR,MapRecord,,-03:01.76,,false,10357,76561198053067670,STEAM_0:0:46400971
-2014-10-16,06:53.96,jondy,jump_cake_b2,WR,IRC,,-00:21.95,,false,24106,,
-2015-02-24,06:40.59,Seras,jump_cake_b2,WR,MapRecord,,-00:13.37,02:30.06,false,64646,76561198070882254,[U:1:110616526]
-2015-02-26,06:36.03,j0nd-e_J,jump_cake_b2,WR,MapRecord,,-00:04.55,00:17.93,false,65099,76561198055778722,[U:1:95512994]
-2015-02-26,05:52.12,j0nd-e_J,jump_cake_b2,WR,MapRecord,,-00:43.91,00:43.91,false,65144,76561198055778722,[U:1:95512994]
-2018-06-05,04:46.39,and uhh  dog,jump_cake_b2,WR,MapRun,05:57.17,+01:10.78,01:42.28,true,669788,76561198396018338,[U:1:435752610]
-2019-03-17,04:23.80,twitch.tv/boshyt,jump_cake_b2,WR,MapRecord,,-00:22.58,00:22.58,false,916779,,
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2014-07-11,01:03.68,Aurora -tt,jump_cake_b2,WR,Course 1,,-00:01.35,00:03.30,false,10357,76561198053067670,STEAM_0:0:46400971,
+2014-07-11,07:15.92,Aurora -tt,jump_cake_b2,WR,MapRecord,,-03:01.76,,false,10357,76561198053067670,STEAM_0:0:46400971,
+2014-08-03,07:15.92,Aurora,jump_cake_b2,WR,Compact,,,,false,13588,76561198053067670,STEAM_0:0:46400971,
+2014-08-21,00:57.74,EXC0,jump_cake_b2,WR,Bonus 3,,-00:16.10,,false,17018,76561198018240879,STEAM_0:1:28987575,
+2014-08-21,04:59.33,EXC0,jump_cake_b2,WR,Course 2,,-00:20.66,00:51.31,false,17018,76561198018240879,STEAM_0:1:28987575,
+2014-10-16,06:53.96,jondy,jump_cake_b2,WR,IRC,,-00:21.95,,false,24106,,,
+2014-10-16,06:53.96,jondy,jump_cake_b2,WR,IRC,,-00:21.95,,false,24109,76561198055778722,[U:1:95512994],
+2014-10-16,06:53.96,jondy,jump_cake_b2,WR,MapRecord,,-00:21.95,00:43.42,false,24110,76561198055778722,[U:1:95512994],
+2015-02-24,06:40.59,Seras,jump_cake_b2,WR,MapRecord,,-00:13.37,02:30.06,false,64646,76561198070882254,[U:1:110616526],
+2015-02-26,06:36.03,j0nd-e_J,jump_cake_b2,WR,MapRecord,,-00:04.55,00:17.93,false,65099,76561198055778722,[U:1:95512994],
+2015-02-26,06:36.03,j0nd-e_J,jump_cake_b2,WR,Compact,,,,false,65099,76561198055778722,[U:1:95512994],
+2015-02-26,04:41.12,j0nd-e_J,jump_cake_b2,WR,Course 2,,-00:07.74,00:07.74,false,65144,76561198055778722,[U:1:95512994],
+2015-02-26,05:52.12,j0nd-e_J,jump_cake_b2,WR,MapRecord,,-00:43.91,00:43.91,false,65144,76561198055778722,[U:1:95512994],
+2018-06-05,04:46.39,and uhh  dog,jump_cake_b2,WR,MapRun,05:57.17,+01:10.78,01:42.28,true,669788,76561198396018338,[U:1:435752610],
+2018-09-11,04:46.39,Boshy,jump_cake_b2,WR,Compact,,,,false,759025,76561198046601398,[U:1:86335670],
+2019-03-17,00:52.24,twitch.tv/boshyt,jump_cake_b2,WR,Course 1,,-00:01.35,00:01.35,false,916779,,,
+2019-03-17,00:53.59,twitch.tv/boshyt,jump_cake_b2,WR,Course 1,,-00:00.46,00:00.46,false,916779,,,
+2019-03-17,00:54.06,twitch.tv/boshyt,jump_cake_b2,WR,Course 1,,-00:02.72,00:02.72,false,916779,,,
+2019-03-17,03:29.23,twitch.tv/boshyt,jump_cake_b2,WR,Course 2,,-00:16.85,00:16.85,false,916779,,,
+2019-03-17,04:23.80,twitch.tv/boshyt,jump_cake_b2,WR,MapRecord,,-00:22.58,00:22.58,false,916779,,,
+2019-03-17,04:46.39,Boshy,jump_cake_b2,WR,Compact,,,,false,916779,76561198046601398,[U:1:86335670],

@@ -1,3 +1,10 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2019-01-09,01:14.05,Jerome,jump_phobos,WR,MapRecord,,-00:00.71,00:03.48,false,862371,76561198046601398,[U:1:86335670]
-2019-06-17,01:11.71,vice,jump_phobos,WR,MapRecord,,-00:02.34,00:02.55,false,988603,,
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2019-01-09,01:14.05,Jerome,jump_phobos,WR,MapRecord,,-00:00.71,00:03.48,false,862371,76561198046601398,[U:1:86335670],
+2019-01-09,01:14.77,Jerome,jump_phobos,WR,MapRun,01:17.53,+00:02.76,00:12.26,true,862371,76561198046601398,[U:1:86335670],
+2019-01-09,01:14.77,Jerome,jump_phobos,WR,MapRun,01:35.33,+00:20.56,,true,862371,76561198046601398,[U:1:86335670],
+2019-01-09,01:14.78,Jerome,jump_phobos,WR,MapRun,01:17.61,+00:02.83,,true,862371,76561198046601398,[U:1:86335670],
+2019-06-17,01:11.71,vice,jump_phobos,WR,MapRecord,,-00:02.34,00:02.55,false,988603,76561198366368448,[U:1:406102720],
+2019-06-17,01:14.05,Boshy,jump_phobos,WR,Compact,,,,false,988603,,,
+2019-06-17,01:14.05,Boshy,jump_phobos,WR,Compact,,,,false,988603,,,
+2019-06-17,01:14.06,candre,jump_phobos,WR,MapRun,04:42.33,+03:28.27,,true,988603,76561198126091800,[U:1:165826072],
+2019-06-17,01:11.71,vice,jump_phobos,WR,IRC,,-00:02.34,,false,988637,76561198366368448,[U:1:406102720],

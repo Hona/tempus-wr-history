@@ -1,2 +1,6 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2019-02-17,01:51.99,Shock,jump_kinetics_d6,WR,MapRun,14:03.60,+12:11.61,,true,895106,76561198027443134,[U:1:67177406]
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2019-02-17,00:25.21,Boshy,jump_kinetics_d6,WR,Bonus 5,,,,false,895106,,,
+2019-02-17,01:51.99,Shock,jump_kinetics_d6,WR,MapRun,14:03.60,+12:11.61,,true,895106,76561198027443134,[U:1:67177406],
+2019-02-17,01:51.99,newjuls,jump_kinetics_d6,WR,MapRun,04:06.15,+02:14.16,,true,895106,76561198396018338,[U:1:435752610],
+2019-02-17,01:51.99,str,jump_kinetics_d6,WR,MapRun,04:28.78,+02:36.79,04:12.85,true,895106,76561197997076969,[U:1:36811241],
+2019-02-17,01:51.99,str,jump_kinetics_d6,WR,MapRun,08:41.63,+06:49.64,00:40.69,true,895106,76561197997076969,[U:1:36811241],

@@ -1,2 +1,8 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2018-03-31,03:14.48,one apple and on,jump_hydrogen_rc1,WR,MapRun,26:09.08,+22:54.60,,true,612856,,
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2018-03-31,03:14.48,Boshy,jump_hydrogen_rc1,WR,Compact,,,,false,612856,,,
+2018-03-31,03:14.48,one apple and on,jump_hydrogen_rc1,WR,MapRun,26:09.08,+22:54.60,,true,612856,,,
+2018-03-31,03:14.49,Meti ♥,jump_hydrogen_rc1,WR,MapRun,46:12.56,+42:58.07,,true,612856,76561198096749316,[U:1:136483588],
+2018-03-31,03:14.49,one apple and on,jump_hydrogen_rc1,WR,MapRun,08:37.00,+05:22.51,17:32.08,true,612856,,,
+2018-06-01,03:14.48,GalaxyMaster,jump_hydrogen_rc1,WR,MapRun,57:49.31,+54:34.83,,true,665921,76561198075923914,[U:1:115658186],
+2018-06-01,03:14.49,LJ,jump_hydrogen_rc1,WR,MapRun,44:08.95,+40:54.46,,true,665921,76561198043956413,[U:1:83690685],
+2018-07-20,03:14.48,Diller,jump_hydrogen_rc1,WR,MapRun,28:18.68,+25:04.20,,true,712015,76561198040963460,[U:1:80697732],

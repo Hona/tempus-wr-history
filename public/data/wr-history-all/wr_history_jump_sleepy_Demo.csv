@@ -1,2 +1,5 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2017-12-22,00:33.40,vice,jump_sleepy,WR,MapRecord,,-00:00.31,00:03.22,false,532113,76561197960496196,[U:1:230468]
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2017-12-22,00:33.40,vice,jump_sleepy,WR,MapRecord,,-00:00.31,00:03.22,false,532113,76561197960496196,[U:1:230468],
+2017-12-22,00:33.40,alpha,jump_sleepy,WR,MapRun,05:44.14,+05:10.74,,true,532113,76561198023227992,[U:1:62962264],
+2017-12-22,00:33.40,just track,jump_sleepy,WR,MapRun,00:34.30,+00:00.90,,true,532113,76561198096062185,[U:1:135796457],
+2017-12-22,00:33.40,vice,jump_sleepy,WR,IRC,,-00:00.31,,false,532120,76561197960496196,[U:1:230468],

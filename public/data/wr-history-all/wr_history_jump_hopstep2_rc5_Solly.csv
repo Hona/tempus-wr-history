@@ -1,5 +1,10 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2022-10-16,14:01.40,ixam,jump_hopstep2_rc5,WR,MapRun,52:49.20,+38:47.80,,true,2088786,,
-2022-10-18,14:01.39,Sparrow,jump_hopstep2_rc5,WR,MapRun,1:28:10.33,+1:14:08.94,,true,2090298,76561197980694523,[U:1:20428795]
-2022-12-14,13:21.58,Ronnie The Rat,jump_hopstep2_rc5,WR,MapRecord,,-00:39.81,01:07.23,false,2147274,76561198066947056,[U:1:106681328]
-2023-02-01,11:48.78,go kick some roc,jump_hopstep2_rc5,WR,MapRecord,,-01:32.80,01:32.80,false,2200428,,
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2022-10-16,14:01.40,ixam,jump_hopstep2_rc5,WR,MapRun,52:49.20,+38:47.80,,true,2088786,76561198082109328,[U:1:121843600],
+2022-10-16,14:01.40,♥spoopo,jump_hopstep2_rc5,WR,MapRun,1:03:36.69,+49:35.29,,true,2088999,76561198085486146,[U:1:125220418],
+2022-10-17,14:01.40,Dob dullard,jump_hopstep2_rc5,WR,MapRun,55:57.87,+41:56.47,,true,2089332,76561198410291183,[U:1:450025455],
+2022-10-18,14:01.39,Sparrow,jump_hopstep2_rc5,WR,MapRun,1:28:10.33,+1:14:08.94,,true,2090298,76561197980694523,[U:1:20428795],
+2022-10-18,14:01.39,Zen,jump_hopstep2_rc5,WR,MapRun,27:03.22,+13:01.83,31:54.87,true,2090298,76561198152759309,[U:1:192493581],
+2022-12-14,13:21.58,Ronnie The Rat,jump_hopstep2_rc5,WR,MapRecord,,-00:39.81,01:07.23,false,2147274,76561198066947056,[U:1:106681328],
+2022-12-14,14:01.39,Ronnie The Rat,jump_hopstep2_rc5,WR,MapRun,15:10.99,+01:09.60,,true,2147274,76561198066947056,[U:1:106681328],
+2022-12-14,13:21.58,Ronnie The Rat,jump_hopstep2_rc5,WR,IRC,,-00:39.81,,false,2147320,,,
+2023-02-01,11:48.78,go kick some roc,jump_hopstep2_rc5,WR,MapRecord,,-01:32.80,01:32.80,false,2200428,,,

@@ -1,2 +1,7 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2023-04-30,03:30.00,Exile,jump_insomnia_a5,WR,IRCSet,,,,false,2299083,76561198046776282,[U:1:86510554]
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2023-04-30,03:30.00,Exile,jump_insomnia_a5,WR,IRCSet,,,,false,2299083,76561198046776282,[U:1:86510554],
+2023-05-01,03:30.00,Exile,jump_insomnia_a5,WR,IRCSet,,,,false,2299112,,,
+2023-05-01,03:30.00,Exile,jump_insomnia_a5,WR,IRCSet,,,,false,2299133,,,
+2023-05-01,00:45.48,Waldo,jump_insomnia_a5,WR,Bonus 1 First,,,,false,2299161,76561198020256631,[U:1:59990903],
+2023-05-01,03:30.00,Exile,jump_insomnia_a5,WR,FirstRecord,,,,false,2299161,76561198046776282,[U:1:86510554],
+2023-05-01,03:30.00,Exile,jump_insomnia_a5,WR,IRCSet,,,,false,2299170,,,

@@ -1,9 +1,10 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2014-06-10,01:44.53,Rob123,jump_serpentine_b1,WR,IRC,,-00:07.50,,false,8059,,
-2014-07-02,01:35.96,Rob123,jump_serpentine_b1,WR,MapRecord,,-00:01.49,00:08.56,false,9067,76561198044015351,STEAM_0:1:41874811
-2014-07-09,01:31.13,Aurora -tt,jump_serpentine_b1,WR,MapRecord,,-00:04.83,00:08.99,false,10000,76561198053067670,STEAM_0:0:46400971
-2014-08-06,01:29.45,Kendrick,jump_serpentine_b1,WR,MapRecord,,-00:01.67,00:03.04,false,14101,76561198044640267,STEAM_0:1:42187269
-2014-08-07,01:26.26,Aurora.tv,jump_serpentine_b1,WR,MapRecord,,-00:02.69,00:02.69,false,14291,76561198053067670,STEAM_0:0:46400971
-2014-08-11,01:25.18,Zitters,jump_serpentine_b1,WR,MapRecord,,-00:01.08,00:18.26,false,15011,76561198045479800,STEAM_0:0:42607036
-2014-08-12,01:25.13,Aurora,jump_serpentine_b1,WR,MapRecord,,-00:00.04,00:01.13,false,15201,76561198053067670,STEAM_0:0:46400971
-2014-08-14,01:23.30,Aurora | SLAM TH...,jump_serpentine_b1,WR,MapRecord,,-00:01.83,00:01.83,false,15581,,
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2014-06-10,01:44.53,Rob123,jump_serpentine_b1,WR,IRC,,-00:07.50,,false,8059,,,
+2014-07-02,01:35.96,Rob123,jump_serpentine_b1,WR,MapRecord,,-00:01.49,00:08.56,false,9067,76561198044015351,STEAM_0:1:41874811,
+2014-07-09,01:31.13,Aurora -tt,jump_serpentine_b1,WR,MapRecord,,-00:04.83,00:08.99,false,10000,76561198053067670,STEAM_0:0:46400971,
+2014-08-06,01:29.45,Kendrick,jump_serpentine_b1,WR,MapRecord,,-00:01.67,00:03.04,false,14101,76561198044640267,STEAM_0:1:42187269,
+2014-08-07,01:26.26,Aurora.tv,jump_serpentine_b1,WR,MapRecord,,-00:02.69,00:02.69,false,14291,76561198053067670,STEAM_0:0:46400971,
+2014-08-07,01:28.96,Aurora.tv,jump_serpentine_b1,WR,MapRecord,,-00:00.49,00:02.16,false,14291,76561198053067670,STEAM_0:0:46400971,
+2014-08-11,01:25.18,Zitters,jump_serpentine_b1,WR,MapRecord,,-00:01.08,00:18.26,false,15011,76561198045479800,STEAM_0:0:42607036,
+2014-08-12,01:25.13,Aurora,jump_serpentine_b1,WR,MapRecord,,-00:00.04,00:01.13,false,15201,76561198053067670,STEAM_0:0:46400971,
+2014-08-14,01:23.30,Aurora | SLAM TH...,jump_serpentine_b1,WR,MapRecord,,-00:01.83,00:01.83,false,15581,76561198053067670,STEAM_0:0:46400971,

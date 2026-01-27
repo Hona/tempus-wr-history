@@ -1,4 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2014-07-01,02:10.43,alle -tt,jump_typh_a1,WR,MapRecord,,-00:01.89,00:08.38,false,9036,76561198040983512,STEAM_0:0:40358892
-2014-08-25,02:09.94,Kucino,jump_typh_a1,WR,MapRecord,,-00:00.49,00:09.46,false,17977,,
-2014-10-16,02:01.88,theMNT,jump_typh_a1,WR,MapRecord,,-00:08.05,00:12.81,false,23986,76561198050815941,[U:1:90550213]
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2014-07-01,02:10.43,alle -tt,jump_typh_a1,WR,MapRecord,,-00:01.89,00:08.38,false,9036,76561198040983512,STEAM_0:0:40358892,
+2014-08-25,02:09.94,Kucino,jump_typh_a1,WR,MapRecord,,-00:00.49,00:09.46,false,17977,,,
+2014-10-16,02:01.88,theMNT,jump_typh_a1,WR,MapRecord,,-00:08.05,00:12.81,false,23986,76561198050815941,[U:1:90550213],

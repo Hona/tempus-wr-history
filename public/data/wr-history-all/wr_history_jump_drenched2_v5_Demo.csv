@@ -1,3 +1,5 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2022-01-31,3:04:12.99,Ham and Cheese G,jump_drenched2_v5,WR,MapRun,6:52:55.44,+3:48:42.45,,true,1839921,,
-2022-03-23,43:04.42,Matty,jump_drenched2_v5,WR,IRC,,-2:21:08.56,,false,1895943,,
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2022-01-31,3:04:12.99,Ham and Cheese G,jump_drenched2_v5,WR,MapRun,6:52:55.44,+3:48:42.45,,true,1839921,,,
+2022-01-31,3:04:12.99,Waldo,jump_drenched2_v5,WR,Ranked,,,,true,1839921,,,
+2022-03-23,43:04.42,Matty,jump_drenched2_v5,WR,IRC,,-2:21:08.56,,false,1895943,,,
+2022-03-23,43:04.42,Matty,jump_drenched2_v5,WR,MapRecord,,-2:21:08.56,,false,1895950,76561198035204545,[U:1:74938817],

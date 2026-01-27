@@ -1,2 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2024-05-27,01:03.78,VAALVERDEE,jump_ice_v4_fix64,WR,MapRun,09:35.14,+08:31.36,,true,2875746,76561198104580254,[U:1:144314526]
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2024-05-27,01:03.78,VAALVERDEE,jump_ice_v4_fix64,WR,MapRun,09:35.14,+08:31.36,,true,2875746,76561198104580254,[U:1:144314526],

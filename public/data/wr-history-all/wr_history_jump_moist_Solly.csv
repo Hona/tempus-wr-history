@@ -1,4 +1,13 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2018-03-27,03:13.00,Kittaye,jump_moist,WR,MapRun,19:46.57,+16:33.57,,true,609862,76561198018540237,[U:1:58274509]
-2018-03-28,03:12.99,Chief,jump_moist,WR,MapRun,05:57.46,+02:44.47,00:11.41,true,610352,,
-2018-03-28,03:06.41,Boshy,jump_moist,WR,MapRecord,,-00:06.58,00:06.58,false,610654,76561198046601398,[U:1:86335670]
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2018-03-27,03:13.00,Kittaye,jump_moist,WR,MapRun,19:46.57,+16:33.57,,true,609862,76561198018540237,[U:1:58274509],
+2018-03-28,03:12.99,Chief,jump_moist,WR,MapRun,05:57.46,+02:44.47,00:11.41,true,610352,76561198122579111,[U:1:162313383],
+2018-03-28,03:12.99,Dylan is cool an,jump_moist,WR,MapRun,12:42.38,+09:29.39,,true,610352,,,
+2018-03-28,03:12.99,Steve,jump_moist,WR,MapRun,03:37.80,+00:24.81,00:09.03,true,610352,76561198063901478,[U:1:103635750],
+2018-03-28,03:12.99,Steve,jump_moist,WR,MapRun,03:46.84,+00:33.85,00:31.78,true,610352,76561198063901478,[U:1:103635750],
+2018-03-28,03:13.00,Steve,jump_moist,WR,MapRun,05:06.58,+01:53.58,,true,610352,76561198063901478,[U:1:103635750],
+2018-03-28,00:20.72,Boshy,jump_moist,WR,Course 1,,-00:00.13,00:00.13,false,610654,76561198046601398,[U:1:86335670],
+2018-03-28,00:20.86,Boshy,jump_moist,WR,Course 1,,-00:00.22,00:00.22,false,610654,76561198046601398,[U:1:86335670],
+2018-03-28,00:21.08,Boshy,jump_moist,WR,Course 1,,-00:00.55,00:00.55,false,610654,76561198046601398,[U:1:86335670],
+2018-03-28,02:32.57,Boshy,jump_moist,WR,Course 2,,-00:07.60,00:07.60,false,610654,76561198046601398,[U:1:86335670],
+2018-03-28,03:06.41,Boshy,jump_moist,WR,MapRecord,,-00:06.58,00:06.58,false,610654,76561198046601398,[U:1:86335670],
+2018-03-28,03:12.99,Boshy,jump_moist,WR,MapRun,03:19.51,+00:06.52,,true,610654,76561198046601398,[U:1:86335670],

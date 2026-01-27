@@ -1,5 +1,7 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2014-07-09,13:04.81,Gebobus,jump_lion_a2,WR,FirstRecord,,,,false,10108,76561198044263100,STEAM_0:0:41998686
-2014-07-16,11:20.26,cody,jump_lion_a2,WR,MapRecord,,-01:44.55,,false,10935,76561198078488228,STEAM_0:0:59111250
-2014-07-28,08:59.48,Ryou,jump_lion_a2,WR,MapRecord,,-02:20.77,14:29.85,false,12639,76561198070882254,STEAM_0:0:55308263
-2014-07-29,07:21.55,Cody -tt,jump_lion_a2,WR,MapRecord,,-01:37.93,03:58.70,false,12801,76561198078488228,STEAM_0:0:59111250
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2014-07-09,13:04.81,Gebobus,jump_lion_a2,WR,FirstRecord,,,,false,10108,76561198044263100,STEAM_0:0:41998686,
+2014-07-16,11:20.26,cody,jump_lion_a2,WR,MapRecord,,-01:44.55,,false,10935,76561198078488228,STEAM_0:0:59111250,
+2014-07-28,08:59.48,Ryou,jump_lion_a2,WR,MapRecord,,-02:20.77,14:29.85,false,12639,76561198070882254,STEAM_0:0:55308263,
+2014-07-29,07:21.55,Cody -tt,jump_lion_a2,WR,MapRecord,,-01:37.93,03:58.70,false,12801,76561198078488228,STEAM_0:0:59111250,
+2014-07-29,07:21.55,Cody -tt,jump_lion_a2,WR,Compact,,,,false,12801,76561198078488228,STEAM_0:0:59111250,
+2014-07-29,08:59.48,Seras,jump_lion_a2,WR,Compact,,,,false,12801,,,

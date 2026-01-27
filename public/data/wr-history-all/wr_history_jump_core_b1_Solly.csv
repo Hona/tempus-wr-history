@@ -1,2 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2019-02-10,03:40.33,twitch.tv/boshyt,jump_core_b1,WR,MapRecord,,-00:33.84,00:33.84,false,889809,,
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2019-02-10,03:40.33,twitch.tv/boshyt,jump_core_b1,WR,MapRecord,,-00:33.84,00:33.84,false,889809,,,
+2019-02-10,04:14.19,twitch.tv/boshyt,jump_core_b1,WR,MapRun,04:26.94,+00:12.75,,true,889809,,,
+2019-02-11,03:40.33,twitch.tv/boshyt,jump_core_b1,WR,IRC,,-00:33.84,,false,889898,,,

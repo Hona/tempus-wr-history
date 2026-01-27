@@ -1,3 +1,11 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2018-08-02,1:08:01.73,Koiso,jump_happygonk_b6,WR,FirstRecord,,,,false,724267,76561198071601578,[U:1:111335850]
-2018-08-02,42:03.25,LJ,jump_happygonk_b6,WR,MapRun,1:32:20.06,+50:16.81,,true,724287,76561198043956413,[U:1:83690685]
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2018-08-02,00:16.95,kaptain,jump_happygonk_b6,WR,Bonus 4,,-00:00.68,00:00.68,false,724267,76561198033727092,[U:1:73461364],
+2018-08-02,00:17.64,kaptain,jump_happygonk_b6,WR,Bonus 4,,-00:00.17,00:00.17,false,724267,76561198033727092,[U:1:73461364],
+2018-08-02,00:17.82,kaptain,jump_happygonk_b6,WR,Bonus 4,,-00:00.10,00:00.10,false,724267,76561198033727092,[U:1:73461364],
+2018-08-02,00:17.92,kaptain,jump_happygonk_b6,WR,Bonus 4,,-00:00.70,00:00.70,false,724267,76561198033727092,[U:1:73461364],
+2018-08-02,00:18.63,kaptain,jump_happygonk_b6,WR,Bonus 4,,-00:03.26,00:03.26,false,724267,76561198033727092,[U:1:73461364],
+2018-08-02,00:21.90,kaptain,jump_happygonk_b6,WR,Bonus 4,,-00:03.08,,false,724267,76561198033727092,[U:1:73461364],
+2018-08-02,1:08:01.73,Koiso,jump_happygonk_b6,WR,FirstRecord,,,,false,724267,76561198071601578,[U:1:111335850],
+2018-08-02,01:21.65,Dey,jump_happygonk_b6,WR,Bonus 3 First,,,,false,724287,76561198044680920,[U:1:84415192],
+2018-08-02,1:08:01.73,Koiso,jump_happygonk_b6,WR,IRCSet,,,,false,724287,76561198071601578,[U:1:111335850],
+2018-08-02,42:03.25,LJ,jump_happygonk_b6,WR,MapRun,1:32:20.06,+50:16.81,,true,724287,76561198043956413,[U:1:83690685],

@@ -1,2 +1,8 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2018-06-11,01:54.69,air,jump_lithium_fix,WR,MapRun,12:00.23,+10:05.54,,true,675186,76561198073524362,[U:1:113258634]
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2018-06-11,01:54.69,3+3=8,jump_lithium_fix,WR,Ranked,,,,true,675186,,,
+2018-06-11,01:54.69,air,jump_lithium_fix,WR,MapRun,12:00.23,+10:05.54,,true,675186,76561198073524362,[U:1:113258634],
+2018-06-11,01:54.69,deceptive,jump_lithium_fix,WR,MapRun,06:15.32,+04:20.63,,true,675186,76561198281755237,[U:1:321489509],
+2018-06-11,01:54.69,repulse,jump_lithium_fix,WR,MapRun,13:33.71,+11:39.02,05:26.86,true,675186,76561198015637663,[U:1:55371935],
+2018-06-11,01:54.69,repulse,jump_lithium_fix,WR,MapRun,19:00.58,+17:05.89,,true,675186,76561198015637663,[U:1:55371935],
+2018-06-11,01:54.69,zoinex,jump_lithium_fix,WR,MapRun,10:57.03,+09:02.34,,true,675186,76561198317441212,[U:1:357175484],
+2018-06-11,01:54.69,fusionn | bg5.tf,jump_lithium_fix,WR,MapRun,08:10.33,+06:15.64,,true,675191,76561198071739513,[U:1:111473785],

@@ -254,6 +254,74 @@
   border-bottom: 1px solid var(--border);
 }
 
+.player-cell {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+}
+
+.player-link {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.player-drawer {
+  width: 100%;
+}
+
+.player-drawer summary {
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+  color: var(--ink);
+}
+
+.player-drawer summary::-webkit-details-marker {
+  display: none;
+}
+
+.player-drawer summary em {
+  font-style: normal;
+  font-size: 0.7rem;
+  color: var(--muted);
+  padding: 0.1rem 0.4rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+}
+
+.player-drawer-list {
+  margin-top: 0.5rem;
+  background: var(--panel-strong);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 0.5rem 0.6rem;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.player-candidate {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+  font-size: 0.85rem;
+}
+
+.player-candidate a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.candidate-meta {
+  color: var(--muted);
+  font-size: 0.7rem;
+  white-space: nowrap;
+}
+
 .legend {
   color: var(--muted);
   font-size: 0.75rem;

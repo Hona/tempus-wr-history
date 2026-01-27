@@ -27,11 +27,18 @@ type CsvRow = {
   demo_id: string
   steam_id64: string
   steam_id: string
+  steam_candidates: string
 }
 
 type DataPoint = CsvRow & {
   dateValue: number
   recordSeconds: number
+}
+
+type SteamCandidate = {
+  name: string
+  steamId64?: string
+  steamId?: string
 }
 
 function App() {
@@ -318,7 +325,9 @@ function App() {
                       {row.record_time}
                       {row.inferred === 'true' ? ' *' : ''}
                     </span>
-                    <span>{row.player}</span>
+                    <div className="player-cell">
+                      <PlayerIdentity row={row} />
+                    </div>
                     <span>{row.source}</span>
                     <span>
                       {row.demo_id ? (
@@ -366,6 +375,69 @@ function parseTimeToSeconds(value: string): number | null {
   return hours * 3600 + minutes * 60 + seconds
 }
 
+const STEAM_ID64_BASE = 76561197960265728n
+
+function parseSteamCandidates(value: string): SteamCandidate[] {
+  if (!value) return []
+  return value
+    .split(';')
+    .map((entry) => {
+      const [name, steamId64, steamId] = entry.split('|')
+      const trimmedName = name?.trim()
+      if (!trimmedName) return null
+      return {
+        name: trimmedName,
+        steamId64: steamId64?.trim() || undefined,
+        steamId: steamId?.trim() || undefined
+      }
+    })
+    .filter(Boolean) as SteamCandidate[]
+}
+
+function normalizeSteamId64(value?: string): string | null {
+  if (!value) return null
+  const trimmed = value.trim()
+  if (!trimmed) return null
+  if (/^\d{16,17}$/.test(trimmed)) return trimmed
+  return null
+}
+
+function parseSteamId64(steamId?: string): string | null {
+  if (!steamId) return null
+  const trimmed = steamId.trim()
+  if (!trimmed) return null
+
+  const direct = normalizeSteamId64(trimmed)
+  if (direct) return direct
+
+  if (trimmed.startsWith('[U:') && trimmed.endsWith(']')) {
+    const lastColon = trimmed.lastIndexOf(':')
+    if (lastColon > 0) {
+      const value = trimmed.slice(lastColon + 1, -1)
+      if (/^\d+$/.test(value)) {
+        return (STEAM_ID64_BASE + BigInt(value)).toString()
+      }
+    }
+  }
+
+  if (trimmed.startsWith('STEAM_')) {
+    const parts = trimmed.slice('STEAM_'.length).split(':')
+    if (parts.length === 3 && /^\d+$/.test(parts[1]) && /^\d+$/.test(parts[2])) {
+      const y = BigInt(parts[1])
+      const z = BigInt(parts[2])
+      return (STEAM_ID64_BASE + z * 2n + y).toString()
+    }
+  }
+
+  return null
+}
+
+function buildSteamProfileUrl(steamId64?: string, steamId?: string): string | null {
+  const parsed = normalizeSteamId64(steamId64) ?? parseSteamId64(steamId)
+  if (!parsed) return null
+  return `https://steamcommunity.com/profiles/${parsed}`
+}
+
 function isSubrecord(source: string) {
   if (!source) return false
   return (
@@ -381,6 +453,53 @@ function formatDate(value: string) {
   const date = new Date(value)
   if (Number.isNaN(date.getTime())) return value
   return date.toISOString().slice(0, 10)
+}
+
+function PlayerIdentity({ row }: { row: CsvRow }) {
+  const candidates = parseSteamCandidates(row.steam_candidates)
+  const profileUrl = buildSteamProfileUrl(row.steam_id64, row.steam_id)
+
+  if (candidates.length > 0) {
+    return (
+      <details className="player-drawer">
+        <summary>
+          <span>{row.player}</span>
+          <em>{candidates.length} matches</em>
+        </summary>
+        <div className="player-drawer-list">
+          {candidates.map((candidate, index) => {
+            const url = buildSteamProfileUrl(candidate.steamId64, candidate.steamId)
+            const meta = candidate.steamId64 || candidate.steamId
+            return (
+              <div
+                key={`${candidate.name}-${candidate.steamId64 ?? candidate.steamId ?? index}`}
+                className="player-candidate"
+              >
+                {url ? (
+                  <a href={url} target="_blank" rel="noreferrer">
+                    {candidate.name}
+                  </a>
+                ) : (
+                  <span>{candidate.name}</span>
+                )}
+                {meta ? <span className="candidate-meta">{meta}</span> : null}
+              </div>
+            )
+          })}
+        </div>
+      </details>
+    )
+  }
+
+  if (profileUrl) {
+    return (
+      <a className="player-link" href={profileUrl} target="_blank" rel="noreferrer">
+        {row.player}
+      </a>
+    )
+  }
+
+  return <span>{row.player}</span>
 }
 
 function TimelineChart({ points, showRaw }: { points: DataPoint[]; showRaw: boolean }) {

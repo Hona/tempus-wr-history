@@ -1,7 +1,24 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2015-04-09,02:37.91,k2,jump_air_beta2,WR,MapRun,04:17.65,+01:39.74,,true,80688,76561198093605930,[U:1:133340202]
-2015-04-09,02:28.64,oh u gotta love,jump_air_beta2,WR,MapRecord,,-00:03.28,00:03.99,false,80855,,
-2015-06-29,02:08.96,alle,jump_air_beta2,WR,MapRecord,,-00:10.35,00:23.43,false,112050,76561198040983512,[U:1:80717784]
-2015-07-28,02:03.55,cody -tt | tipof,jump_air_beta2,WR,MapRecord,,-00:05.41,00:23.69,false,121231,,
-2017-12-05,01:43.51,newjuls,jump_air_beta2,WR,MapRun,02:16.51,+00:33.00,00:16.60,true,518578,76561198396018338,[U:1:435752610]
-2018-07-07,01:40.43,Soup -tt,jump_air_beta2,WR,IRC,,-00:03.07,,false,699012,,
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2015-04-09,02:37.91,k2,jump_air_beta2,WR,MapRun,04:17.65,+01:39.74,,true,80688,76561198093605930,[U:1:133340202],
+2015-04-09,02:28.64,oh u gotta love,jump_air_beta2,WR,MapRecord,,-00:03.28,00:03.99,false,80855,,,
+2015-04-09,02:31.93,oh u gotta love,jump_air_beta2,WR,MapRun,02:32.63,+00:00.70,00:05.27,true,80855,,,
+2015-04-09,02:31.94,b boogie,jump_air_beta2,WR,MapRun,05:22.93,+02:50.99,,true,80855,76561197998031854,[U:1:37766126],
+2015-06-29,02:08.96,alle,jump_air_beta2,WR,MapRecord,,-00:10.35,00:23.43,false,112050,76561198040983512,[U:1:80717784],
+2015-06-29,02:19.32,Soup Can,jump_air_beta2,WR,MapRecord,,-00:12.60,00:19.13,false,112050,76561198029285343,[U:1:69019615],
+2015-06-29,02:19.32,alle,jump_air_beta2,WR,MapRun,04:57.14,+02:37.82,,true,112050,76561198040983512,[U:1:80717784],
+2015-06-29,02:31.94,alle,jump_air_beta2,WR,MapRun,02:39.39,+00:07.45,,true,112050,76561198040983512,[U:1:80717784],
+2015-06-29,02:31.94,alle,jump_air_beta2,WR,MapRun,04:49.81,+02:17.87,,true,112050,76561198040983512,[U:1:80717784],
+2015-06-29,02:08.96,alle,jump_air_beta2,WR,IRC,,-00:10.35,,false,112055,,,
+2015-06-29,02:19.32,Soup Can,jump_air_beta2,WR,IRC,,-00:12.60,,false,112055,,,
+2015-07-28,02:03.55,cody -tt | tipof,jump_air_beta2,WR,MapRecord,,-00:05.41,00:23.69,false,121231,,,
+2015-07-28,02:08.97,- drAgOONNN ♥,jump_air_beta2,WR,MapRun,26:22.76,+24:13.79,,true,121231,76561198095639158,[U:1:135373430],
+2015-07-28,02:08.97,cody -tt | tipof,jump_air_beta2,WR,MapRun,02:27.25,+00:18.28,00:12.52,true,121231,,,
+2015-07-28,02:08.97,cody -tt | tipof,jump_air_beta2,WR,MapRun,02:39.77,+00:30.80,00:12.67,true,121231,,,
+2015-07-28,02:08.97,obeezy,jump_air_beta2,WR,MapRun,08:00.54,+05:51.57,,true,121231,76561198059596652,[U:1:99330924],
+2017-12-05,01:43.51,newjuls,jump_air_beta2,WR,MapRun,02:16.51,+00:33.00,00:16.60,true,518578,76561198396018338,[U:1:435752610],
+2017-12-05,01:43.51,newjuls,jump_air_beta2,WR,MapRun,02:33.11,+00:49.60,00:07.59,true,518578,76561198396018338,[U:1:435752610],
+2017-12-05,01:43.52,Consition,jump_air_beta2,WR,MapRun,55:02.34,+53:18.82,,true,518578,76561198045329479,[U:1:85063751],
+2017-12-05,01:43.52,newjuls,jump_air_beta2,WR,MapRun,03:15.67,+01:32.15,,true,518578,76561198396018338,[U:1:435752610],
+2018-07-07,01:40.43,Soup -tt,jump_air_beta2,WR,IRC,,-00:03.07,,false,699012,,,
+2018-07-07,01:40.43,Soup -tt,jump_air_beta2,WR,MapRecord,,-00:03.07,00:03.07,false,699038,76561198029285343,[U:1:69019615],
+2018-07-07,01:43.51,Soup -tt,jump_air_beta2,WR,MapRun,02:13.09,+00:29.58,,true,699038,76561198029285343,[U:1:69019615],

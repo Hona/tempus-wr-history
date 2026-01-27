@@ -1,5 +1,15 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2017-12-21,04:24.81,Larry,jump_ziggurat_b3,WR,MapRecord,,-00:06.35,00:18.92,false,530839,76561198060570011,[U:1:100304283]
-2017-12-21,04:12.13,Boshy,jump_ziggurat_b3,WR,MapRecord,,-00:12.67,00:19.03,false,531082,76561198046601398,[U:1:86335670]
-2018-06-27,03:47.75,Boshy,jump_ziggurat_b3,WR,MapRecord,,-00:14.91,00:24.37,false,690541,76561198046601398,[U:1:86335670]
-2018-11-29,03:19.96,Boshy,jump_ziggurat_b3,WR,MapRecord,,-00:27.79,00:27.79,false,828422,76561198046601398,[U:1:86335670]
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2017-12-21,04:24.81,Larry,jump_ziggurat_b3,WR,MapRecord,,-00:06.35,00:18.92,false,530839,76561198060570011,[U:1:100304283],
+2017-12-21,04:24.81,iTac,jump_ziggurat_b3,WR,MapRun,07:32.69,+03:07.88,,true,530839,76561198108602947,[U:1:148337219],
+2017-12-21,04:12.13,Boshy,jump_ziggurat_b3,WR,MapRecord,,-00:12.67,00:19.03,false,531082,76561198046601398,[U:1:86335670],
+2017-12-21,04:24.81,Larry,jump_ziggurat_b3,WR,Compact,,,,false,531082,,,
+2018-06-27,03:47.75,Boshy,jump_ziggurat_b3,WR,MapRecord,,-00:14.91,00:24.37,false,690541,76561198046601398,[U:1:86335670],
+2018-06-27,04:02.67,Jerome,jump_ziggurat_b3,WR,MapRecord,,-00:09.46,00:35.21,false,690541,76561198036170813,[U:1:75905085],
+2018-06-27,04:02.67,Jerome,jump_ziggurat_b3,WR,Compact,,,,false,690541,76561198036170813,[U:1:75905085],
+2018-06-27,04:02.67,Jerome,jump_ziggurat_b3,WR,IRC,,-00:09.46,,false,690547,,,
+2018-10-21,03:47.76,br3jni,jump_ziggurat_b3,WR,MapRun,11:49.51,+08:01.75,,true,795409,76561198100779421,[U:1:140513693],
+2018-11-14,03:47.75,Boshy,jump_ziggurat_b3,WR,Ranked,,,,true,816010,,,
+2018-11-29,03:02.36,Boshy,jump_ziggurat_b3,WR,Bonus 1,,-00:49.59,00:56.55,false,828422,76561198046601398,[U:1:86335670],
+2018-11-29,03:19.96,Boshy,jump_ziggurat_b3,WR,MapRecord,,-00:27.79,00:27.79,false,828422,76561198046601398,[U:1:86335670],
+2019-03-21,03:19.97,Red.,jump_ziggurat_b3,WR,MapRun,09:18.07,+05:58.10,,true,920054,76561198045832226,[U:1:85566498],
+2019-08-14,03:19.96,Van Dyke,jump_ziggurat_b3,WR,MapRun,09:15.52,+05:55.56,,true,1034176,76561198149289770,[U:1:189024042],

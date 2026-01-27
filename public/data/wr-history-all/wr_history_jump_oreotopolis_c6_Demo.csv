@@ -1,3 +1,18 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2018-10-22,08:05.77,879m,jump_oreotopolis_c6,WR,IRC,,-22:45.32,,false,796238,,
-2018-10-22,07:59.82,fig,jump_oreotopolis_c6,WR,MapRun,10:00.31,+02:00.49,,true,796607,76561198153842796,[U:1:193577068]
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2018-10-22,08:05.77,879m,jump_oreotopolis_c6,WR,IRC,,-22:45.32,,false,796238,,,
+2018-10-22,08:05.77,879m,jump_oreotopolis_c6,WR,IRC,,-22:45.32,,false,796240,76561198043793220,[U:1:83527492],
+2018-10-22,08:05.77,879m,jump_oreotopolis_c6,WR,IRC,,-22:45.32,,false,796286,,,
+2018-10-22,01:59.10,decapikater ツ,jump_oreotopolis_c6,WR,Course 1,,-00:22.22,04:04.78,false,796343,76561198222006144,[U:1:261740416],
+2018-10-22,08:05.77,879m,jump_oreotopolis_c6,WR,Compact,,,,false,796343,,,
+2018-10-22,08:05.77,879m,jump_oreotopolis_c6,WR,IRC,,-22:45.32,,false,796343,,,
+2018-10-22,08:05.78,Diabolical,jump_oreotopolis_c6,WR,MapRun,1:57:02.56,+1:48:56.78,,true,796343,76561198053794949,[U:1:93529221],
+2018-10-22,04:45.91,879m,jump_oreotopolis_c6,WR,Course 2,,-23:34.96,23:35.74,false,796348,76561198043793220,[U:1:83527492],
+2018-10-22,08:05.77,879m,jump_oreotopolis_c6,WR,MapRecord,,-22:45.32,22:45.32,false,796348,76561198043793220,[U:1:83527492],
+2018-10-22,08:05.77,879m,jump_oreotopolis_c6,WR,IRC,,-22:45.32,,false,796353,,,
+2018-10-22,08:05.77,Robin inda Hood,jump_oreotopolis_c6,WR,MapRun,32:07.78,+24:02.01,,true,796564,76561198020766438,[U:1:60500710],
+2018-10-22,07:59.82,False_,jump_oreotopolis_c6,WR,Compact,,,,false,796607,76561198044272896,[U:1:84007168],
+2018-10-22,07:59.82,False_,jump_oreotopolis_c6,WR,Compact,,,,false,796607,76561198044272896,[U:1:84007168],
+2018-10-22,07:59.82,fig,jump_oreotopolis_c6,WR,MapRun,10:00.31,+02:00.49,,true,796607,76561198153842796,[U:1:193577068],
+2018-10-22,08:05.77,879m,jump_oreotopolis_c6,WR,Compact,,,,false,796607,,,
+2018-10-22,08:05.78,Draxii,jump_oreotopolis_c6,WR,MapRun,26:31.99,+18:26.21,,true,796607,76561198273997526,[U:1:313731798],
+2018-10-22,08:05.78,False_,jump_oreotopolis_c6,WR,MapRun,1:15:55.90,+1:07:50.12,,true,796607,76561198044272896,[U:1:84007168],

@@ -1,2 +1,11 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id
-2021-01-05,01:57.28,pokemon player,jump_swizzle_rc3,WR,MapRun,02:41.38,+00:44.10,01:05.77,true,1468556,76561198109904512,[U:1:149638784]
+date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
+2021-01-05,33:39.64,diller,jump_swizzle_rc3,WR,Bonus 1 First,,,,false,1468389,76561198040963460,[U:1:80697732],
+2021-01-05,11:06.94,ondkaja,jump_swizzle_rc3,WR,Bonus 1,,,,false,1468519,76561198010123351,[U:1:49857623],
+2021-01-05,11:06.94,ondkaja,jump_swizzle_rc3,WR,Bonus 1,,-22:32.70,,false,1468519,76561198010123351,[U:1:49857623],
+2021-01-05,01:57.28,Gorge004,jump_swizzle_rc3,WR,Compact,,,,false,1468556,,,
+2021-01-05,01:57.28,pokemon player,jump_swizzle_rc3,WR,MapRun,02:41.38,+00:44.10,01:05.77,true,1468556,76561198109904512,[U:1:149638784],
+2021-01-05,01:57.28,pokemon player,jump_swizzle_rc3,WR,MapRun,05:44.65,+03:47.37,,true,1468556,76561198109904512,[U:1:149638784],
+2021-01-05,01:57.29,pokemon player,jump_swizzle_rc3,WR,MapRun,03:47.16,+01:49.87,01:42.43,true,1468556,76561198109904512,[U:1:149638784],
+2021-01-05,01:57.29,pokemon player,jump_swizzle_rc3,WR,MapRun,04:10.56,+02:13.27,,true,1468556,76561198109904512,[U:1:149638784],
+2021-01-05,01:57.29,pokemon player,jump_swizzle_rc3,WR,MapRun,05:47.55,+03:50.26,,true,1468556,76561198109904512,[U:1:149638784],
+2021-01-05,10:13.33,juup -rng,jump_swizzle_rc3,WR,Bonus 1,,-00:53.61,,false,1468902,76561198243952326,[U:1:283686598],

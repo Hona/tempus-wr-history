@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-26T11:17:59.402Z",
-  "count": 890,
+  "generatedAt": "2026-01-27T01:23:35.714Z",
+  "count": 893,
   "maps": [
     {
       "map": "conc_concept",
@@ -685,10 +685,12 @@
     {
       "map": "jump_armature_final",
       "classes": [
-        "Demo"
+        "Demo",
+        "Solly"
       ],
       "files": {
-        "Demo": "data/wr-history-all/wr_history_jump_armature_final_Demo.csv"
+        "Demo": "data/wr-history-all/wr_history_jump_armature_final_Demo.csv",
+        "Solly": "data/wr-history-all/wr_history_jump_armature_final_Solly.csv"
       }
     },
     {
@@ -2611,10 +2613,12 @@
     {
       "map": "jump_drought_b1",
       "classes": [
-        "Demo"
+        "Demo",
+        "Solly"
       ],
       "files": {
-        "Demo": "data/wr-history-all/wr_history_jump_drought_b1_Demo.csv"
+        "Demo": "data/wr-history-all/wr_history_jump_drought_b1_Demo.csv",
+        "Solly": "data/wr-history-all/wr_history_jump_drought_b1_Solly.csv"
       }
     },
     {
@@ -3619,9 +3623,11 @@
     {
       "map": "jump_happygonk_b6",
       "classes": [
+        "Demo",
         "Solly"
       ],
       "files": {
+        "Demo": "data/wr-history-all/wr_history_jump_happygonk_b6_Demo.csv",
         "Solly": "data/wr-history-all/wr_history_jump_happygonk_b6_Solly.csv"
       }
     },
@@ -4416,10 +4422,12 @@
     {
       "map": "jump_kinetics_d5",
       "classes": [
-        "Demo"
+        "Demo",
+        "Solly"
       ],
       "files": {
-        "Demo": "data/wr-history-all/wr_history_jump_kinetics_d5_Demo.csv"
+        "Demo": "data/wr-history-all/wr_history_jump_kinetics_d5_Demo.csv",
+        "Solly": "data/wr-history-all/wr_history_jump_kinetics_d5_Solly.csv"
       }
     },
     {
@@ -4599,10 +4607,12 @@
     {
       "map": "jump_lanc_final",
       "classes": [
-        "Demo"
+        "Demo",
+        "Solly"
       ],
       "files": {
-        "Demo": "data/wr-history-all/wr_history_jump_lanc_final_Demo.csv"
+        "Demo": "data/wr-history-all/wr_history_jump_lanc_final_Demo.csv",
+        "Solly": "data/wr-history-all/wr_history_jump_lanc_final_Solly.csv"
       }
     },
     {
@@ -4674,10 +4684,12 @@
     {
       "map": "jump_lilith",
       "classes": [
-        "Demo"
+        "Demo",
+        "Solly"
       ],
       "files": {
-        "Demo": "data/wr-history-all/wr_history_jump_lilith_Demo.csv"
+        "Demo": "data/wr-history-all/wr_history_jump_lilith_Demo.csv",
+        "Solly": "data/wr-history-all/wr_history_jump_lilith_Solly.csv"
       }
     },
     {
@@ -4749,10 +4761,12 @@
     {
       "map": "jump_lithium_fix",
       "classes": [
-        "Demo"
+        "Demo",
+        "Solly"
       ],
       "files": {
-        "Demo": "data/wr-history-all/wr_history_jump_lithium_fix_Demo.csv"
+        "Demo": "data/wr-history-all/wr_history_jump_lithium_fix_Demo.csv",
+        "Solly": "data/wr-history-all/wr_history_jump_lithium_fix_Solly.csv"
       }
     },
     {
@@ -4973,6 +4987,15 @@
       "files": {
         "Demo": "data/wr-history-all/wr_history_jump_marigold_Demo.csv",
         "Solly": "data/wr-history-all/wr_history_jump_marigold_Solly.csv"
+      }
+    },
+    {
+      "map": "jump_marigold_final",
+      "classes": [
+        "Demo"
+      ],
+      "files": {
+        "Demo": "data/wr-history-all/wr_history_jump_marigold_final_Demo.csv"
       }
     },
     {
@@ -7921,6 +7944,17 @@
       }
     },
     {
+      "map": "jump_spy101_rc2",
+      "classes": [
+        "Demo",
+        "Solly"
+      ],
+      "files": {
+        "Demo": "data/wr-history-all/wr_history_jump_spy101_rc2_Demo.csv",
+        "Solly": "data/wr-history-all/wr_history_jump_spy101_rc2_Solly.csv"
+      }
+    },
+    {
       "map": "jump_squared_b2",
       "classes": [
         "Demo",
@@ -8110,9 +8144,11 @@
     {
       "map": "jump_strikapult_v9",
       "classes": [
+        "Demo",
         "Solly"
       ],
       "files": {
+        "Demo": "data/wr-history-all/wr_history_jump_strikapult_v9_Demo.csv",
         "Solly": "data/wr-history-all/wr_history_jump_strikapult_v9_Solly.csv"
       }
     },
@@ -8262,10 +8298,23 @@
     {
       "map": "jump_swizzle_rc3",
       "classes": [
+        "Demo",
         "Solly"
       ],
       "files": {
+        "Demo": "data/wr-history-all/wr_history_jump_swizzle_rc3_Demo.csv",
         "Solly": "data/wr-history-all/wr_history_jump_swizzle_rc3_Solly.csv"
+      }
+    },
+    {
+      "map": "jump_swizzle_rc4",
+      "classes": [
+        "Demo",
+        "Solly"
+      ],
+      "files": {
+        "Demo": "data/wr-history-all/wr_history_jump_swizzle_rc4_Demo.csv",
+        "Solly": "data/wr-history-all/wr_history_jump_swizzle_rc4_Solly.csv"
       }
     },
     {
@@ -9171,9 +9220,11 @@
     {
       "map": "jump_virtuoso_final",
       "classes": [
+        "Demo",
         "Solly"
       ],
       "files": {
+        "Demo": "data/wr-history-all/wr_history_jump_virtuoso_final_Demo.csv",
         "Solly": "data/wr-history-all/wr_history_jump_virtuoso_final_Solly.csv"
       }
     },
