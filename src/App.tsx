@@ -425,7 +425,11 @@ function App() {
                     <span>{row.source}</span>
                     <span>
                       {row.demo_id ? (
-                        <a href={`https://tempus2.xyz/demos/${row.demo_id}`} target="_blank" rel="noreferrer">
+                        <a
+                          href={`https://demos.tf2jump.xyz/?demo=${row.demo_id}`}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
                           {row.demo_id}
                         </a>
                       ) : (
