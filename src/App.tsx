@@ -406,6 +406,9 @@ function App() {
 
               <div className="table">
                 <div className="table-head">
+                  <span className="watch-header" aria-label="Watch demo" title="Watch demo">
+                    <span className="watch-icon" aria-hidden="true" />
+                  </span>
                   <span>Date</span>
                   <span>Time</span>
                   <span>Player</span>
@@ -414,6 +417,22 @@ function App() {
                 </div>
                 {timeline.map((row) => (
                   <div key={`${row.demo_id}-${row.date}-${row.record_time}`} className="table-row">
+                    <span className="watch-cell">
+                      {row.demo_id ? (
+                        <a
+                          className="watch-button"
+                          href={`https://demos.tf2jump.xyz/?demo=${row.demo_id}`}
+                          target="_blank"
+                          rel="noreferrer"
+                          aria-label="Watch demo"
+                          title="Watch demo"
+                        >
+                          <span className="watch-icon" aria-hidden="true" />
+                        </a>
+                      ) : (
+                        <span className="watch-placeholder">-</span>
+                      )}
+                    </span>
                     <span>{row.date}</span>
                     <span>
                       {row.record_time}
@@ -426,7 +445,7 @@ function App() {
                     <span>
                       {row.demo_id ? (
                         <a
-                          href={`https://demos.tf2jump.xyz/?demo=${row.demo_id}`}
+                          href={`https://tempus2.xyz/demos/${row.demo_id}`}
                           target="_blank"
                           rel="noreferrer"
                         >
