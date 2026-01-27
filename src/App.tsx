@@ -46,7 +46,7 @@ type SteamCandidate = {
 type ZoneInfo = {
   id: string
   label: string
-  kind: 'bonus' | 'course' | 'segment' | 'ranked'
+  kind: 'bonus' | 'course' | 'segment'
   order: number
 }
 
@@ -563,10 +563,6 @@ function getZoneInfo(source: string): ZoneInfo | null {
     return { id: `segment-${order}`, label: `C${order}`, kind: 'segment', order }
   }
 
-  if (trimmed.startsWith('Ranked')) {
-    return { id: 'ranked', label: 'Ranked', kind: 'ranked', order: 0 }
-  }
-
   return null
 }
 
@@ -584,8 +580,6 @@ function compareZones(left: ZoneInfo, right: ZoneInfo) {
         return 1
       case 'segment':
         return 2
-      case 'ranked':
-        return 3
       default:
         return 99
     }

@@ -1,11 +1,4 @@
 date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
 2018-03-27,01:19.10,mesatech,jump_kinetics_d3,WR,MapRecord,,-00:01.39,00:01.87,false,610085,76561198111845972,[U:1:151580244],
-2018-03-27,01:20.50,hex,jump_kinetics_d3,WR,MapRun,06:26.44,+05:05.94,,true,610085,76561198181342094,[U:1:221076366],
-2018-03-27,01:20.50,iTac,jump_kinetics_d3,WR,MapRun,03:23.29,+02:02.79,,true,610085,76561198108602947,[U:1:148337219],
-2018-03-27,01:20.50,mesatech,jump_kinetics_d3,WR,MapRun,01:20.98,+00:00.48,00:15.67,true,610085,76561198111845972,[U:1:151580244],
-2018-03-27,01:20.50,mesatech,jump_kinetics_d3,WR,MapRun,01:36.65,+00:16.15,04:57.25,true,610085,76561198111845972,[U:1:151580244],
-2018-03-27,01:20.51,【Soalabe】,jump_kinetics_d3,WR,MapRun,06:45.61,+05:25.10,,true,610085,76561198058753054,[U:1:98487326],
-2018-07-07,01:19.10,Mack,jump_kinetics_d3,WR,MapRun,07:59.96,+06:40.86,,true,699157,76561198090088613,[U:1:129822885],
-2018-07-07,01:19.11,error.,jump_kinetics_d3,WR,MapRun,05:23.43,+04:04.32,,true,699157,76561198108434294,[U:1:148168566],
 2018-07-07,01:19.10,mesatech | bg5.t,jump_kinetics_d3,WR,Compact,,,,false,699239,,,
 2019-02-07,00:03.81,shakez,jump_kinetics_d3,WR,Bonus 2,,-00:00.07,00:00.13,false,886891,76561198312076035,[U:1:351810307],

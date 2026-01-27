@@ -1,6 +1,5 @@
 date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
 2020-10-31,07:23.08,Hass,jump_diamant_rc1,WR,MapRecord,,-01:22.48,01:22.48,false,1404093,76561198152719870,[U:1:192454142],
 2020-10-31,08:45.57,Hass,jump_diamant_rc1,WR,MapRecord,,-01:53.34,01:53.34,false,1404093,76561198152719870,[U:1:192454142],
-2020-10-31,08:45.57,maxxy,jump_diamant_rc1,WR,MapRun,13:22.48,+04:36.91,,true,1404093,76561198083235528,[U:1:122969800],
 2020-10-31,10:38.91,Hass,jump_diamant_rc1,WR,FirstRecord,,,,false,1404093,76561198152719870,[U:1:192454142],
 2020-10-31,06:29.55,Hass,jump_diamant_rc1,WR,FirstRecord,,,,false,1404324,76561198152719870,[U:1:192454142],
