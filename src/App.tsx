@@ -35,10 +35,19 @@ type DataPoint = CsvRow & {
   recordSeconds: number
 }
 
+type ViewMode = 'map' | 'zones'
+
 type SteamCandidate = {
   name: string
   steamId64?: string
   steamId?: string
+}
+
+type ZoneInfo = {
+  id: string
+  label: string
+  kind: 'bonus' | 'course' | 'segment' | 'ranked'
+  order: number
 }
 
 function App() {
@@ -46,10 +55,11 @@ function App() {
   const [query, setQuery] = useState('')
   const [selectedMap, setSelectedMap] = useState<string | null>(null)
   const [selectedClass, setSelectedClass] = useState<'Solly' | 'Demo'>('Solly')
+  const [view, setView] = useState<ViewMode>('map')
+  const [selectedZone, setSelectedZone] = useState<string | null>(null)
   const [rows, setRows] = useState<CsvRow[]>([])
   const [loading, setLoading] = useState(false)
   const [includeInferred, setIncludeInferred] = useState(true)
-  const [includeSubrecords, setIncludeSubrecords] = useState(false)
   const [showAllEntries, setShowAllEntries] = useState(false)
   const [showRawPoints, setShowRawPoints] = useState(false)
 
@@ -69,6 +79,8 @@ function App() {
     const params = new URLSearchParams(window.location.hash.replace(/^#/, ''))
     const mapParam = params.get('map')
     const classParam = params.get('class')
+    const viewParam = params.get('view')
+    const zoneParam = params.get('zone')
     const found = mapParam && index.maps.find((entry) => entry.map === mapParam)
     if (found) {
       setSelectedMap(found.map)
@@ -80,6 +92,14 @@ function App() {
     } else if (index.maps.length > 0) {
       setSelectedMap(index.maps[0].map)
     }
+
+    if (viewParam === 'zones' || viewParam === 'map') {
+      setView(viewParam)
+    }
+
+    if (zoneParam) {
+      setSelectedZone(zoneParam)
+    }
   }, [index])
 
   useEffect(() => {
@@ -87,8 +107,14 @@ function App() {
     const params = new URLSearchParams()
     params.set('map', selectedMap)
     params.set('class', selectedClass)
+    if (view === 'zones') {
+      params.set('view', 'zones')
+      if (selectedZone) {
+        params.set('zone', selectedZone)
+      }
+    }
     window.location.hash = params.toString()
-  }, [selectedMap, selectedClass])
+  }, [selectedMap, selectedClass, view, selectedZone])
 
   useEffect(() => {
     if (!index || !selectedMap) return
@@ -113,14 +139,55 @@ function App() {
       .finally(() => setLoading(false))
   }, [index, selectedMap, selectedClass])
 
+  const rowsWithZone = useMemo(() => {
+    return rows.map((row) => ({ row, zone: getZoneInfo(row.source) }))
+  }, [rows])
+
+  const zoneOptions = useMemo(() => {
+    const map = new Map<string, ZoneInfo>()
+    for (const item of rowsWithZone) {
+      if (!item.zone) continue
+      map.set(item.zone.id, item.zone)
+    }
+    return Array.from(map.values()).sort(compareZones)
+  }, [rowsWithZone])
+
+  const activeZone = useMemo(() => {
+    if (!selectedZone) return null
+    return zoneOptions.find((zone) => zone.id === selectedZone) ?? null
+  }, [selectedZone, zoneOptions])
+
+  useEffect(() => {
+    if (view !== 'zones') {
+      if (selectedZone !== null) {
+        setSelectedZone(null)
+      }
+      return
+    }
+
+    if (zoneOptions.length === 0) {
+      if (selectedZone !== null) {
+        setSelectedZone(null)
+      }
+      return
+    }
+
+    if (!selectedZone || !zoneOptions.some((zone) => zone.id === selectedZone)) {
+      setSelectedZone(zoneOptions[0].id)
+    }
+  }, [view, zoneOptions, selectedZone])
+
   const filtered = useMemo(() => {
-    const list = rows.filter((row) => {
-      if (!includeInferred && row.inferred === 'true') return false
-      if (!includeSubrecords && isSubrecord(row.source)) return false
-      return true
-    })
-    return list
-  }, [rows, includeInferred, includeSubrecords])
+    return rowsWithZone
+      .filter(({ row, zone }) => {
+        if (!includeInferred && row.inferred === 'true') return false
+        if (view === 'map') return zone == null
+        if (zone == null) return false
+        if (selectedZone && zone.id !== selectedZone) return false
+        return true
+      })
+      .map(({ row }) => row)
+  }, [rowsWithZone, includeInferred, view, selectedZone])
 
   const timeline = useMemo(() => {
     const points = filtered
@@ -138,7 +205,8 @@ function App() {
 
     let best = Number.POSITIVE_INFINITY
     return points.filter((row) => {
-      if (row.recordSeconds < best - 0.0001) {
+      const epsilon = row.inferred === 'true' ? 0.01 : 0.0001
+      if (row.recordSeconds < best - epsilon) {
         best = row.recordSeconds
         return true
       }
@@ -221,21 +289,35 @@ function App() {
           <div className="panel-header">
             <div>
               <h2>{selectedMap ?? 'Select a map'}</h2>
-              <p className="muted">WR timeline for {selectedClass}</p>
+              <p className="muted">
+                {view === 'zones'
+                  ? `Zone history for ${selectedClass}${activeZone ? ` · ${activeZone.label}` : ''}`
+                  : `WR timeline for ${selectedClass}`}
+              </p>
             </div>
-            <div className="class-toggle">
-              <button
-                className={selectedClass === 'Solly' ? 'active' : ''}
-                onClick={() => setSelectedClass('Solly')}
-              >
-                Solly
-              </button>
-              <button
-                className={selectedClass === 'Demo' ? 'active' : ''}
-                onClick={() => setSelectedClass('Demo')}
-              >
-                Demo
-              </button>
+            <div className="panel-controls">
+              <div className="class-toggle view-toggle">
+                <button className={view === 'map' ? 'active' : ''} onClick={() => setView('map')}>
+                  Map
+                </button>
+                <button className={view === 'zones' ? 'active' : ''} onClick={() => setView('zones')}>
+                  Zones
+                </button>
+              </div>
+              <div className="class-toggle">
+                <button
+                  className={selectedClass === 'Solly' ? 'active' : ''}
+                  onClick={() => setSelectedClass('Solly')}
+                >
+                  Solly
+                </button>
+                <button
+                  className={selectedClass === 'Demo' ? 'active' : ''}
+                  onClick={() => setSelectedClass('Demo')}
+                >
+                  Demo
+                </button>
+              </div>
             </div>
           </div>
 
@@ -246,16 +328,28 @@ function App() {
                 checked={includeInferred}
                 onChange={(event) => setIncludeInferred(event.target.checked)}
               />
-              Include inferred map runs
+              {view === 'zones' ? 'Include inferred runs' : 'Include inferred map runs'}
             </label>
-            <label>
-              <input
-                type="checkbox"
-                checked={includeSubrecords}
-                onChange={(event) => setIncludeSubrecords(event.target.checked)}
-              />
-              Include bonus/course/segment/ranked
-            </label>
+            {view === 'zones' ? (
+              <label className="zone-select">
+                <span>Zone</span>
+                <select
+                  value={selectedZone ?? ''}
+                  onChange={(event) => setSelectedZone(event.target.value)}
+                  disabled={zoneOptions.length === 0}
+                >
+                  {zoneOptions.length === 0 ? (
+                    <option value="">No zones</option>
+                  ) : (
+                    zoneOptions.map((zone) => (
+                      <option key={zone.id} value={zone.id}>
+                        {zone.label}
+                      </option>
+                    ))
+                  )}
+                </select>
+              </label>
+            ) : null}
             <label>
               <input
                 type="checkbox"
@@ -341,7 +435,7 @@ function App() {
                   </div>
                 ))}
               </div>
-              <p className="legend">* inferred from WR split in map-run message</p>
+              <p className="legend">* inferred from WR split in chat message</p>
             </>
           )}
         </section>
@@ -438,14 +532,68 @@ function buildSteamProfileUrl(steamId64?: string, steamId?: string): string | nu
   return `https://steamcommunity.com/profiles/${parsed}`
 }
 
-function isSubrecord(source: string) {
-  if (!source) return false
-  return (
-    source.startsWith('Bonus') ||
-    source.startsWith('Course') ||
-    source.startsWith('C') ||
-    source.startsWith('Ranked')
-  )
+function getZoneInfo(source: string): ZoneInfo | null {
+  if (!source) return null
+  const trimmed = source.trim()
+  if (!trimmed) return null
+
+  const bonusMatch = trimmed.match(/^Bonus\s+(\d+)/i)
+  if (bonusMatch) {
+    const order = Number.parseInt(bonusMatch[1], 10)
+    return { id: `bonus-${order}`, label: `Bonus ${order}`, kind: 'bonus', order }
+  }
+
+  const courseMatch = trimmed.match(/^Course\s+(\d+)/i)
+  if (courseMatch) {
+    const order = Number.parseInt(courseMatch[1], 10)
+    return { id: `course-${order}`, label: `Course ${order}`, kind: 'course', order }
+  }
+
+  const segmentMatch = trimmed.match(/^C(\d+)\s*-\s*(.+)$/i)
+  if (segmentMatch) {
+    const order = Number.parseInt(segmentMatch[1], 10)
+    const name = sanitizeSegmentName(segmentMatch[2])
+    const label = name ? `C${order} - ${name}` : `C${order}`
+    return { id: `segment-${order}`, label, kind: 'segment', order }
+  }
+
+  const segmentIndexMatch = trimmed.match(/^C(\d+)/i)
+  if (segmentIndexMatch) {
+    const order = Number.parseInt(segmentIndexMatch[1], 10)
+    return { id: `segment-${order}`, label: `C${order}`, kind: 'segment', order }
+  }
+
+  if (trimmed.startsWith('Ranked')) {
+    return { id: 'ranked', label: 'Ranked', kind: 'ranked', order: 0 }
+  }
+
+  return null
+}
+
+function sanitizeSegmentName(value: string) {
+  const trimmed = value.trim()
+  return trimmed.replace(/\s+First$/i, '').trim()
+}
+
+function compareZones(left: ZoneInfo, right: ZoneInfo) {
+  const rank = (zone: ZoneInfo) => {
+    switch (zone.kind) {
+      case 'bonus':
+        return 0
+      case 'course':
+        return 1
+      case 'segment':
+        return 2
+      case 'ranked':
+        return 3
+      default:
+        return 99
+    }
+  }
+
+  const rankDiff = rank(left) - rank(right)
+  if (rankDiff !== 0) return rankDiff
+  return left.order - right.order
 }
 
 function formatDate(value: string) {

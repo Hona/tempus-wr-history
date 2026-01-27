@@ -85,6 +85,14 @@
   gap: 1rem;
 }
 
+.panel-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
 .panel-header h2 {
   font-family: var(--font-display);
   margin: 0;
@@ -153,6 +161,10 @@
   overflow: hidden;
 }
 
+.view-toggle button {
+  min-width: 72px;
+}
+
 .class-toggle button {
   border: none;
   background: transparent;
@@ -180,6 +192,18 @@
   display: flex;
   gap: 0.4rem;
   align-items: center;
+}
+
+.zone-select {
+  gap: 0.6rem;
+}
+
+.zone-select select {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.2rem 0.6rem;
+  background: #fffdf9;
+  color: var(--ink);
 }
 
 .stats {
