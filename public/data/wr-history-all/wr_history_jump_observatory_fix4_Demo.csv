@@ -1,6 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2023-01-14,14:17.50,Exile,jump_observatory_fix4,WR,Map,record,first_record,,,,2181104,76561198046776282,[U:1:86510554],
 2023-01-14,05:08.10,Waldo,jump_observatory_fix4,WR,Map,record,map_record,,-07:29.23,,2181104,76561198020256631,[U:1:59990903],
+2023-01-14,12:37.33,F8RK9N -TCM,jump_observatory_fix4,WR,Map,record,map_record,,-01:40.17,,2181113,76561198104888831,[U:1:144623103],
 2023-01-14,04:43.60,yung goon teeny,jump_observatory_fix4,WR,Map,record,map_record,,-01:48.36,01:48.36,2181125,76561198103598619,[U:1:143332891],
 2023-01-14,03:41.95,yung goon teeny,jump_observatory_fix4,WR,Map,record,map_record,,-01:01.65,01:01.65,2181125,76561198103598619,[U:1:143332891],
 2023-01-14,02:42.90,yung goon teeny,jump_observatory_fix4,WR,Map,record,map_record,,-00:59.05,00:59.05,2181125,76561198103598619,[U:1:143332891],
@@ -8,6 +9,7 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2023-01-14,02:21.16,Waldo,jump_observatory_fix4,WR,Map,record,map_record,,-02:46.93,02:46.93,2181125,76561198020256631,[U:1:59990903],
 2023-01-14,02:15.63,sam,jump_observatory_fix4,WR,Map,record,map_record,,-00:05.56,00:05.56,2181136,76561198045707908,[U:1:85442180],
 2023-01-14,02:13.57,sam,jump_observatory_fix4,WR,Map,record,map_record,,-00:02.05,00:02.05,2181136,76561198045707908,[U:1:85442180],
+2023-01-14,02:37.75,vash,jump_observatory_fix4,WR,Map,record,map_record,,-00:02.19,00:26.58,2181145,76561198377607948,[U:1:417342220],
 2023-01-20,02:12.76,Matty,jump_observatory_fix4,WR,Map,record,map_record,,-00:00.81,00:07.92,2187228,76561198035204545,[U:1:74938817],
 2023-01-20,02:11.41,Matty,jump_observatory_fix4,WR,Map,record,map_record,,-00:01.35,00:01.35,2187228,76561198035204545,[U:1:74938817],
 2023-01-20,02:10.44,Matty,jump_observatory_fix4,WR,Map,record,map_record,,-00:00.97,00:00.97,2187228,76561198035204545,[U:1:74938817],

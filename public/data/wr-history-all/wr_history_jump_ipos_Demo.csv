@@ -1,6 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2021-07-02,03:13.56,Luna,jump_ipos,WR,Map,record,map_record,,-03:40.06,03:40.06,1627796,76561198070375398,[U:1:110109670],
 2021-07-02,00:23.47,Luna,jump_ipos,WR,Bonus 3,record,zone_first,,,,1627796,76561198070375398,[U:1:110109670],
+2021-07-02,05:15.64,ボビデバビ,jump_ipos,WR,Map,record,first_record,,,,1627800,,,
 2021-07-02,00:09.45,vice,jump_ipos,WR,Bonus 3,record,zone_record,,-00:04.06,,1627881,76561198366368448,[U:1:406102720],
 2021-07-02,01:52.42,vice,jump_ipos,WR,Map,record,map_record,,-01:21.13,01:26.88,1627881,76561198366368448,[U:1:406102720],
 2021-07-02,00:02.77,Kratos -kfc,jump_ipos,WR,Bonus 3,record,zone_record,,-00:06.67,,1627881,76561198930334128,[U:1:970068400],

@@ -1,6 +1,12 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2025-11-17,06:16.80,Waldo,jump_boron_b3,WR,Map,record,first_record,,,,3587725,76561198020256631,[U:1:59990903],
 2025-11-17,00:04.50,Waldo,jump_boron_b3,WR,Bonus 1,record,zone_record,,-00:00.20,00:00.20,3587725,76561198020256631,[U:1:59990903],
+2025-11-17,00:06.00,cander,jump_boron_b3,WR,Bonus 1,record,zone_first,,,,3587732,76561198318722879,[U:1:358457151],
+2025-11-17,00:05.02,cander,jump_boron_b3,WR,Bonus 1,record,zone_record,,-00:00.98,00:00.98,3587732,76561198318722879,[U:1:358457151],
+2025-11-17,00:04.94,cander,jump_boron_b3,WR,Bonus 1,record,zone_record,,-00:00.09,00:00.09,3587732,76561198318722879,[U:1:358457151],
+2025-11-17,00:04.72,cander,jump_boron_b3,WR,Bonus 1,record,zone_record,,-00:00.21,00:00.21,3587732,76561198318722879,[U:1:358457151],
+2025-11-17,00:04.70,cander,jump_boron_b3,WR,Bonus 1,record,zone_record,,-00:00.03,00:00.03,3587732,76561198318722879,[U:1:358457151],
+2025-11-17,00:04.59,cander,jump_boron_b3,WR,Bonus 1,record,zone_record,,-00:00.10,00:00.10,3587732,76561198318722879,[U:1:358457151],
 2025-11-17,04:58.76,cander,jump_boron_b3,WR,Map,record,map_record,,-01:18.04,04:08.98,3587732,76561198318722879,[U:1:358457151],
 2025-11-17,00:04.34,Waldo,jump_boron_b3,WR,Bonus 1,record,zone_record,,-00:00.16,00:00.16,3587791,76561198020256631,[U:1:59990903],
 2025-11-17,04:52.12,5* ship cleaner,jump_boron_b3,WR,Map,announcement,irc,,-00:06.63,,,76561198096062185,[U:1:135796457],

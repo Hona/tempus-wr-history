@@ -1,6 +1,10 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2023-07-29,07:21.99,Waldo,jump_andromeda,WR,Map,record,first_record,,,,2429076,76561198020256631,[U:1:59990903],
 2023-07-29,02:57.42,samburger,jump_andromeda,WR,Map,record,map_record,,-00:32.95,00:36.16,2429094,76561198045707908,[U:1:85442180],
+2023-07-29,07:21.13,Jaff,jump_andromeda,WR,Map,record,map_record,,-00:00.85,05:27.00,2429102,76561198091905306,[U:1:131639578],
+2023-07-29,05:22.14,Jaff,jump_andromeda,WR,Map,record,map_record,,-01:58.99,01:58.99,2429102,76561198091905306,[U:1:131639578],
+2023-07-29,03:34.66,Jaff,jump_andromeda,WR,Map,record,map_record,,-01:47.47,01:47.47,2429102,76561198091905306,[U:1:131639578],
+2023-07-29,03:30.37,Jaff,jump_andromeda,WR,Map,record,map_record,,-00:04.29,00:04.29,2429102,76561198091905306,[U:1:131639578],
 2023-07-30,02:46.53,phancy,jump_andromeda,WR,Map,record,map_record,,-00:10.89,00:17.98,2430287,76561198116189732,[U:1:155924004],
 2023-08-05,02:37.42,cander,jump_andromeda,WR,Map,record,map_record,,-00:09.10,00:30.61,2438710,76561198318722879,[U:1:358457151],
 2023-08-05,02:27.24,vice,jump_andromeda,WR,Map,record,map_record,,-00:10.18,00:46.48,2439303,76561198366368448,[U:1:406102720],

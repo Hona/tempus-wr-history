@@ -57,6 +57,7 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2021-12-19,00:02.08,Kratos,jump_benroads2_a3,WR,Bonus 3,record,zone_record,,-00:00.03,00:00.03,1800209,76561198930334128,[U:1:970068400],
 2021-12-19,00:01.21,Kratos,jump_benroads2_a3,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.01,1800209,76561198930334128,[U:1:970068400],
 2021-12-20,00:02.02,mois,jump_benroads2_a3,WR,Bonus 3,record,zone_record,,-00:00.09,00:00.09,1800908,76561198081447195,[U:1:121181467],
+2021-12-20,00:05.19,mois,jump_benroads2_a3,WR,Bonus 2,record,zone_record,,-00:01.18,00:01.18,1800908,76561198081447195,[U:1:121181467],
 2021-12-20,00:01.99,Kratos -sb,jump_benroads2_a3,WR,Bonus 3,record,zone_record,,-00:00.03,00:00.03,1801225,76561198930334128,[U:1:970068400],
 2022-03-27,00:02.17,Kratos,jump_benroads2_a3,WR,Bonus 4,record,zone_record,,-00:00.06,00:00.12,1899948,76561198930334128,[U:1:970068400],
 2022-07-31,00:01.08,Jorge,jump_benroads2_a3,WR,Bonus 7,record,zone_record,,-00:00.04,00:00.10,2017549,76561198101198779,[U:1:140933051],
@@ -64,3 +65,4 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2023-05-27,01:37.33,samburger,jump_benroads2_a3,WR,Map,record,map_record,,-00:00.76,00:01.71,2336735,76561198045707908,[U:1:85442180],
 2023-05-27,01:36.48,samburger,jump_benroads2_a3,WR,Map,record,map_record,,-00:00.85,00:00.85,2336735,76561198045707908,[U:1:85442180],
 2023-12-20,00:01.11,VAVLIE,jump_benroads2_a3,WR,Bonus 5,record,zone_record,,-00:00.03,00:00.03,2646875,76561198014713685,[U:1:54447957],
+2024-10-19,00:02.65,Waldo,jump_benroads2_a3,WR,Bonus 6,record,zone_record,,-00:00.09,00:00.09,3090587,76561198020256631,[U:1:59990903],

@@ -1,5 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2022-01-23,03:48.55,Waldo,jump_and_rc1,WR,Map,announcement,irc,,-02:21.36,,,76561198020256631,[U:1:59990903],
+2022-01-23,22:05.35,GTAB Jt,jump_and_rc1,WR,Map,record,first_record,,,,1834280,76561198059575962,[U:1:99310234],
+2022-01-23,10:20.85,crazy -rng,jump_and_rc1,WR,Map,record,map_record,,-11:44.50,,1834286,76561198059437813,[U:1:99172085],
+2022-01-23,08:46.80,vi -rng,jump_and_rc1,WR,Map,record,map_record,,-01:34.05,,1834286,76561198172607493,[U:1:212341765],
+2022-01-23,06:09.91,crazy -rng,jump_and_rc1,WR,Map,record,map_record,,-04:10.93,04:10.93,1834286,76561198059437813,[U:1:99172085],
 2022-01-23,00:39.79,Waldo,jump_and_rc1,WR,Bonus 1,record,zone_record,,-00:04.21,,1834438,76561198020256631,[U:1:59990903],
 2022-01-23,00:35.49,Waldo,jump_and_rc1,WR,Bonus 1,record,zone_record,,-00:04.30,00:04.30,1834438,76561198020256631,[U:1:59990903],
 2022-01-23,00:30.01,Waldo,jump_and_rc1,WR,Bonus 1,record,zone_record,,-00:05.47,00:05.47,1834438,76561198020256631,[U:1:59990903],

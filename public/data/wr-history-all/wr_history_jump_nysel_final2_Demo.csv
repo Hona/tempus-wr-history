@@ -1,5 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2020-12-12,04:22.24,Elandi!! cheese,jump_nysel_final2,WR,Map,record,map_record,,-01:18.04,,1445127,,,
+2020-12-12,08:03.60,Kratos,jump_nysel_final2,WR,Map,record,first_record,,,,1445132,76561198930334128,[U:1:970068400],
+2020-12-12,05:40.29,Kratos,jump_nysel_final2,WR,Map,record,map_record,,-02:23.31,02:23.31,1445132,76561198930334128,[U:1:970068400],
 2020-12-13,00:22.68,daelin,jump_nysel_final2,WR,Bonus 1,record,zone_first,,,,1445155,76561198083131259,[U:1:122865531],
 2020-12-13,00:19.47,daelin,jump_nysel_final2,WR,Bonus 1,record,zone_record,,-00:03.21,00:03.21,1445155,76561198083131259,[U:1:122865531],
 2020-12-13,04:17.61,nbc,jump_nysel_final2,WR,Map,record,map_record,,-00:10.78,00:10.78,1445155,76561198021621842,[U:1:61356114],

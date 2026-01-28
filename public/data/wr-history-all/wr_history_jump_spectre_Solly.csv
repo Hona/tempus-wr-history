@@ -1,6 +1,8 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2018-11-04,1:17:54.05,maxxy,jump_spectre,WR,Map,record,first_record,,,,807647,76561198083235528,[U:1:122969800],
 2018-11-04,18:59.23,🦆,jump_spectre,WR,Map,record,map_record,,-1:44:06.35,1:44:06.35,807745,76561198053562434,[U:1:93296706],
+2018-11-04,44:16.59,maxxy,jump_spectre,WR,Map,record,map_record,,-33:37.46,33:37.46,807807,76561198083235528,[U:1:122969800],
+2018-11-04,25:58.86,maxxy,jump_spectre,WR,Map,record,map_record,,-18:17.72,18:17.72,807807,76561198083235528,[U:1:122969800],
 2018-11-04,16:38.25,maxxy,jump_spectre,WR,Map,record,map_record,,-02:20.98,09:20.61,807807,76561198083235528,[U:1:122969800],
 2018-11-04,08:49.47,un gato,jump_spectre,WR,Map,record,map_record,,-07:48.77,09:16.43,807891,76561198066351321,[U:1:106085593],
 2018-11-05,08:26.95,iTac,jump_spectre,WR,Map,record,map_record,,-03:11.25,03:11.25,808681,76561198108602947,[U:1:148337219],

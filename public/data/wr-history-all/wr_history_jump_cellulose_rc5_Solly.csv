@@ -1,11 +1,13 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2025-06-21,05:49.72,riotbz,jump_cellulose_rc5,WR,Map,record,map_record,,-04:57.44,,3371086,76561198065169685,[U:1:104903957],
+2025-06-21,10:47.16,Grendal,jump_cellulose_rc5,WR,Map,record,first_record,,,,3371067,76561197995231895,[U:1:34966167],
 2025-06-21,00:08.74,Grendal,jump_cellulose_rc5,WR,Bonus 1,record,zone_first,,,,3371067,76561197995231895,[U:1:34966167],
 2025-06-21,00:06.32,Grendal,jump_cellulose_rc5,WR,Bonus 3,record,zone_first,,,,3371067,76561197995231895,[U:1:34966167],
 2025-06-21,00:08.46,52-,jump_cellulose_rc5,WR,Bonus 1,record,zone_record,,-00:00.26,,3371067,76561198231320900,[U:1:271055172],
 2025-06-21,00:06.22,52-,jump_cellulose_rc5,WR,Bonus 3,record,zone_record,,-00:00.63,00:00.63,3371067,76561198231320900,[U:1:271055172],
 2025-06-21,00:08.37,52-,jump_cellulose_rc5,WR,Bonus 1,record,zone_record,,-00:00.09,00:00.09,3371067,76561198231320900,[U:1:271055172],
 2025-06-21,03:41.24,wow,jump_cellulose_rc5,WR,Map,record,map_record,,-02:08.49,,3371118,76561198307184206,[U:1:346918478],
+2025-06-21,00:08.72,wow,jump_cellulose_rc5,WR,Bonus 1,record,zone_record,,-00:00.03,,3371118,76561198307184206,[U:1:346918478],
 2025-06-21,00:16.86,wow,jump_cellulose_rc5,WR,Bonus 2,record,zone_first,,,,3371118,76561198307184206,[U:1:346918478],
 2025-06-21,02:15.60,Jay,jump_cellulose_rc5,WR,Map,record,map_record,,-01:25.64,01:27.42,3371116,76561198148815032,[U:1:188549304],
 2025-06-21,02:13.56,Dennis -rng,jump_cellulose_rc5,WR,Map,record,map_record,,-01:29.14,01:29.14,3371179,76561199001307670,[U:1:1041041942],

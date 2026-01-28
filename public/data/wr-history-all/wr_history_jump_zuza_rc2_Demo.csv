@@ -1,6 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2021-05-13,01:25.75,Exile,jump_zuza_rc2,WR,Map,announcement,irc_set,,,,,,,
 2021-05-13,00:44.38,Exile,jump_zuza_rc2,WR,Map,announcement,irc,,-00:41.37,,,,,
+2021-05-14,01:08.94,Luna,jump_zuza_rc2,WR,Map,record,first_record,,,,1588616,76561198070375398,[U:1:110109670],
 2021-05-14,00:42.87,Luna,jump_zuza_rc2,WR,Map,record,map_record,,-00:26.07,00:26.07,1588616,76561198070375398,[U:1:110109670],
 2021-05-14,00:37.59,Waldo,jump_zuza_rc2,WR,Map,record,map_record,,-00:06.37,00:06.37,1588616,76561198020256631,[U:1:59990903],
 2021-05-14,00:05.83,Waldo,jump_zuza_rc2,WR,Bonus 1,record,zone_record,,-00:00.12,00:00.12,1588616,76561198020256631,[U:1:59990903],

@@ -1,6 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2018-12-25,08:03.64,Boshy,jump_dread_a3,WR,Map,record,map_record,,-01:05.11,,850149,76561198046601398,[U:1:86335670],
 2018-12-25,00:03.92,Boshy,jump_dread_a3,WR,Bonus 1,record,zone_record,,-00:00.31,,850149,76561198046601398,[U:1:86335670],
+2018-12-25,09:08.76,riot,jump_dread_a3,WR,Map,record,first_record,,,,850166,76561198065169685,[U:1:104903957],
 2018-12-25,05:18.20,jtravs,jump_dread_a3,WR,Map,record,map_record,,-02:45.43,,850166,76561198117262056,[U:1:156996328],
 2018-12-25,00:07.69,jtravs,jump_dread_a3,WR,Bonus 2,record,zone_record,,-00:03.64,,850166,76561198117262056,[U:1:156996328],
 2018-12-25,02:46.09,vice,jump_dread_a3,WR,Map,record,map_record,,-02:32.11,,850225,76561198366368448,[U:1:406102720],

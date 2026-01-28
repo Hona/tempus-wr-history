@@ -1,6 +1,8 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2025-09-27,06:15.68,riotbz,jump_wisp_v1,WR,Map,record,first_record,,,,3509995,76561198065169685,[U:1:104903957],
 2025-09-27,01:49.00,dnd,jump_wisp_v1,WR,Bonus 1,record,zone_record,,-00:09.52,,3510092,76561198143568244,[U:1:183302516],
+2025-09-27,02:54.99,osplo,jump_wisp_v1,WR,Bonus 1,record,zone_first,,,,3510051,76561198047229461,[U:1:86963733],
+2025-09-27,01:58.53,Waldo,jump_wisp_v1,WR,Bonus 1,record,zone_record,,-00:56.46,,3510051,76561198020256631,[U:1:59990903],
 2025-09-27,05:50.01,osplo,jump_wisp_v1,WR,Map,record,map_record,,-00:54.36,00:54.36,3510051,76561198047229461,[U:1:86963733],
 2025-09-27,01:37.76,abelicio,jump_wisp_v1,WR,Bonus 1,record,zone_record,,-00:11.25,,3510051,76561198379602900,[U:1:419337172],
 2025-09-27,01:33.42,dreary realm of,jump_wisp_v1,WR,Bonus 1,record,zone_record,,-00:04.34,,3510051,,,
@@ -13,6 +15,7 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2025-09-27,03:41.30,celeztial,jump_wisp_v1,WR,Map,record,map_record,,-00:40.59,00:40.59,3510168,76561198996378868,[U:1:1036113140],
 2025-09-27,03:17.24,celeztial,jump_wisp_v1,WR,Map,record,map_record,,-00:24.06,00:24.06,3510462,76561198996378868,[U:1:1036113140],
 2025-09-27,00:49.86,th14 marisaB lif,jump_wisp_v1,WR,Bonus 1,record,zone_record,,-00:11.19,00:11.19,3510292,,,
+2025-09-27,03:20.86,th14 marisaB lif,jump_wisp_v1,WR,Map,record,map_record,,-00:25.24,00:25.24,3510292,,,
 2025-09-27,00:33.80,fred,jump_wisp_v1,WR,Bonus 1,record,zone_record,,-00:16.06,00:37.72,3510292,76561198016044075,[U:1:55778347],
 2025-09-27,03:11.92,th14 marisaB lif,jump_wisp_v1,WR,Map,record,map_record,,-00:08.94,00:08.94,3510292,,,
 2025-09-27,00:30.48,fred,jump_wisp_v1,WR,Bonus 1,record,zone_record,,-00:03.32,00:03.32,3510292,76561198016044075,[U:1:55778347],

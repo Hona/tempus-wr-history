@@ -1,5 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2019-01-25,02:13.99,maxxy,jump_mire,WR,Map,record,map_record,,-00:36.15,00:36.15,876134,76561198083235528,[U:1:122969800],
+2019-01-25,03:43.58,LJ,jump_mire,WR,Map,record,first_record,,,,876137,76561198043956413,[U:1:83690685],
+2019-01-25,02:50.14,maxxy,jump_mire,WR,Map,record,map_record,,-00:53.44,,876137,76561198083235528,[U:1:122969800],
 2019-01-25,02:03.13,maxxy,jump_mire,WR,Map,record,map_record,,-00:10.86,00:10.86,876137,76561198083235528,[U:1:122969800],
 2019-01-25,01:38.44,maxxy,jump_mire,WR,Map,record,map_record,,-00:24.68,00:24.68,876137,76561198083235528,[U:1:122969800],
 2019-01-26,01:38.14,porkie,jump_mire,WR,Map,record,map_record,,-00:00.29,00:05.32,876647,76561198054239403,[U:1:93973675],

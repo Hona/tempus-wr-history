@@ -20,6 +20,8 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2019-08-01,00:15.18,879m,jump_how,WR,Bonus 3,command,wr_command,,,,,,,
 2019-08-01,00:13.19,maz,jump_how,WR,Bonus 3,record,zone_record,,-00:01.98,00:03.44,1023623,76561198040531861,[U:1:80266133],
 2019-08-01,00:12.45,maz,jump_how,WR,Bonus 3,record,zone_record,,-00:00.74,00:00.74,1023623,76561198040531861,[U:1:80266133],
+2019-08-01,00:24.02,song,jump_how,WR,Bonus 3,record,zone_first,,,,1023623,76561198210286877,[U:1:250021149],
+2019-08-01,00:12.90,maz,jump_how,WR,Bonus 3,record,zone_record,,-00:11.12,,1023623,76561198040531861,[U:1:80266133],
 2019-08-01,00:11.02,maz,jump_how,WR,Bonus 3,record,zone_record,,-00:01.87,00:01.42,1023623,76561198040531861,[U:1:80266133],
 2019-08-09,00:10.48,mazlli,jump_how,WR,Bonus 3,record,zone_record,,-00:00.53,00:00.53,1030442,76561198040531861,[U:1:80266133],
 2019-08-12,00:10.42,mazlli,jump_how,WR,Bonus 3,record,zone_record,,-00:00.05,00:00.05,1032281,76561198040531861,[U:1:80266133],

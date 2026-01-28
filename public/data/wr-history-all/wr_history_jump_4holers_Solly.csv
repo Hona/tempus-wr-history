@@ -1,6 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2021-04-30,1:03:59.97,Katto -rng,jump_4holers,WR,Map,announcement,irc_set,,,,,,,
 2021-04-30,41:14.79,Cygnus -rng,jump_4holers,WR,Map,announcement,irc,,-22:45.18,,,,,
+2021-05-01,41:14.79,Cygnus -rng,jump_4holers,WR,Map,announcement,irc,,-22:45.18,,,,,
 2021-05-01,00:14.44,arcade,jump_4holers,WR,Bonus 1,record,zone_first,,,,1577584,76561198047636129,[U:1:87370401],
 2021-05-01,00:24.55,Pauthen,jump_4holers,WR,Bonus 5,record,zone_first,,,,1577584,76561198875190290,[U:1:914924562],
 2021-05-01,00:13.77,Pauthen,jump_4holers,WR,Bonus 2,record,zone_first,,,,1577584,76561198875190290,[U:1:914924562],

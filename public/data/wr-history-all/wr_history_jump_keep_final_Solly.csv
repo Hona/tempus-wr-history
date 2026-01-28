@@ -1,9 +1,11 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2020-04-29,14:05.05,PinkiLuna,jump_keep_final,WR,Map,announcement,irc_set,,,,,76561198063239281,[U:1:102973553],
 2020-04-29,05:42.22,PinkiLuna,jump_keep_final,WR,Map,announcement,irc,,-08:22.83,,,76561198063239281,[U:1:102973553],
-2020-04-29,05:23.18,maxxy,jump_keep_final,WR,Map,announcement,irc,,-00:19.03,,,,,
-2020-04-29,05:16.81,ADJ,jump_keep_final,WR,Map,announcement,irc,,-03:49.82,,,,,
+2020-04-29,05:23.18,maxxy,jump_keep_final,WR,Map,announcement,irc,,-00:19.03,,,76561198083235528,[U:1:122969800],
+2020-04-29,05:16.81,ADJ,jump_keep_final,WR,Map,announcement,irc,,-03:49.82,,,76561198046155437,[U:1:85889709],
 2020-04-29,01:53.95,yeye,jump_keep_final,WR,Map,record,map_record,,-00:14.95,00:14.95,1237803,76561198120630343,[U:1:160364615],
+2020-04-29,03:46.36,aaa,jump_keep_final,WR,Map,record,map_record,,-01:30.44,05:12.79,1237822,76561197992998578,[U:1:32732850],
+2020-04-29,02:01.44,aaa,jump_keep_final,WR,Map,record,map_record,,-01:44.92,01:44.92,1237822,76561197992998578,[U:1:32732850],
 2020-04-29,01:53.32,CrackuhJax,jump_keep_final,WR,Map,record,map_record,,-00:00.63,00:02.05,1237909,76561198066650704,[U:1:106384976],
 2020-04-30,01:41.27,yeye,jump_keep_final,WR,Map,record,map_record,,-00:12.67,00:12.67,1238542,76561198120630343,[U:1:160364615],
 2020-05-01,01:38.58,CrackuhJax,jump_keep_final,WR,Map,record,map_record,,-00:02.69,00:14.74,1239669,76561198066650704,[U:1:106384976],
