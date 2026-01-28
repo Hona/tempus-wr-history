@@ -1,7 +1,11 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-04-14,02:29.21,Boshy,jump_dan2,WR,Map,observed,wr_split,,,,,76561198046601398,[U:1:86335670],
+2018-04-14,02:29.21,Boshy,jump_dan2,WR,Map,command,rank_command,,,,,76561198046601398,[U:1:86335670],
 2019-01-02,02:27.46,Boshy,jump_dan2,WR,Map,record,map_record,,-00:01.75,00:01.75,856908,76561198046601398,[U:1:86335670],
 2019-01-02,02:25.26,Boshy,jump_dan2,WR,Map,record,map_record,,-00:02.20,00:02.20,856908,76561198046601398,[U:1:86335670],
-2022-04-21,02:15.28,ondkaja,jump_dan2,WR,Map,announcement,irc,,-00:09.30,,,76561198010123351,[U:1:49857623],
+2021-02-04,00:06.48,Bonzi,jump_dan2,WR,Bonus 1,record,zone_record,,-00:00.48,00:00.48,1497882,76561198175838507,[U:1:215572779],
+2022-03-06,02:24.58,Hoes Mad [x24],jump_dan2,WR,Map,record,map_record,,-00:17.65,00:17.65,1879013,76561198178042934,[U:1:217777206],
+2022-04-21,02:15.28,ondkaja,jump_dan2,WR,Map,record,map_record,,-00:09.30,00:16.38,1923711,76561198010123351,[U:1:49857623],
 2023-01-27,00:06.46,ondkaja,jump_dan2,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.01,2195146,76561198010123351,[U:1:49857623],
+2023-06-15,00:06.40,VAVLIE,jump_dan2,WR,Bonus 1,record,zone_record,,-00:00.07,00:00.07,2365243,76561198014713685,[U:1:54447957],
+2023-06-15,00:06.36,VAVLIE,jump_dan2,WR,Bonus 1,record,zone_record,,-00:00.04,00:00.04,2365243,76561198014713685,[U:1:54447957],
 2024-03-10,00:06.27,フワちゃん,jump_dan2,WR,Bonus 1,record,zone_record,,-00:00.09,00:00.16,2768014,,,

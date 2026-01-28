@@ -1,8 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-09-14,02:18.24,unknown,jump_oreotachi_b3,WR,Map,observed,wr_split,,,,,,,
 2018-09-19,02:16.00,Starkie,jump_oreotachi_b3,WR,Map,record,map_record,,-00:02.23,00:42.64,766614,76561198008003429,[U:1:47737701],
-2018-09-19,02:13.12,Starkie,jump_oreotachi_b3,WR,Map,announcement,irc,,-00:02.87,,,76561198008003429,[U:1:47737701],
-2018-09-19,02:00.41,Starkie,jump_oreotachi_b3,WR,Map,announcement,irc,,-00:12.70,,,76561198008003429,[U:1:47737701],
+2018-09-19,02:13.12,Starkie,jump_oreotachi_b3,WR,Map,record,map_record,,-00:02.87,00:02.87,766639,76561198008003429,[U:1:47737701],
+2018-09-19,02:00.41,Starkie,jump_oreotachi_b3,WR,Map,record,map_record,,-00:12.70,00:12.70,766644,76561198008003429,[U:1:47737701],
 2019-08-26,01:47.77,chiyo,jump_oreotachi_b3,WR,Map,record,map_record,,-00:12.64,00:13.95,1043513,76561198046582124,[U:1:86316396],
 2020-08-07,01:45.43,Matty,jump_oreotachi_b3,WR,Map,record,map_record,,-00:02.33,01:00.70,1320362,76561198035204545,[U:1:74938817],
 2020-08-12,01:37.81,chiyo,jump_oreotachi_b3,WR,Map,record,map_record,,-00:07.62,00:09.96,1324329,76561198046582124,[U:1:86316396],

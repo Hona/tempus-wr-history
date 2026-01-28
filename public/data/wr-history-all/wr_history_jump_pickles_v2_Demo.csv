@@ -1,5 +1,4 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-03-23,01:49.28,unknown,jump_pickles_v2,WR,Map,observed,wr_split,,,,,,,
 2019-05-30,00:32.92,mesatech,jump_pickles_v2,WR,Course 1,record,zone_record,,-00:00.32,00:00.76,974745,76561198111845972,[U:1:151580244],
 2019-05-30,00:31.92,mesatech,jump_pickles_v2,WR,Course 1,record,zone_record,,-00:01.00,00:01.00,974745,76561198111845972,[U:1:151580244],
 2019-06-29,01:49.27,---,jump_pickles_v2,WR,Map,command,wr_command,,,,,76561198366368448,[U:1:406102720],

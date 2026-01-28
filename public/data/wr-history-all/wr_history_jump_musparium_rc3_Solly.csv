@@ -1,7 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2020-07-21,04:09.52,Luke.,jump_musparium_rc3,WR,Map,announcement,irc_set,,,,,76561198098414676,[U:1:138148948],
-2020-07-21,03:03.46,Aventador,jump_musparium_rc3,WR,Map,observed,wr_split,,,,,,,
-2020-07-22,02:10.39,kabper,jump_musparium_rc3,WR,Map,announcement,irc,,-00:53.06,,,76561198258272074,[U:1:298006346],
+2020-07-21,04:09.52,Luke.,jump_musparium_rc3,WR,Map,record,first_record,,,,1306730,76561198098414676,[U:1:138148948],
+2020-07-21,03:03.46,Aventador,jump_musparium_rc3,WR,Map,record,map_record,,-01:38.62,01:38.62,1306752,76561198254280928,[U:1:294015200],
+2020-07-22,02:10.39,kabper,jump_musparium_rc3,WR,Map,record,map_record,,-00:53.06,01:09.62,1306922,76561198258272074,[U:1:298006346],
+2020-07-22,01:58.37,Makly,jump_musparium_rc3,WR,Map,record,map_record,,-00:16.36,00:16.36,1307387,76561197976761681,[U:1:16495953],
+2020-07-23,01:57.55,beag,jump_musparium_rc3,WR,Map,record,map_record,,-00:48.34,00:48.34,1308036,76561198084406120,[U:1:124140392],
 2020-07-23,01:42.27,beagle,jump_musparium_rc3,WR,Map,record,map_record,,-00:15.28,00:15.28,1308036,76561198084406120,[U:1:124140392],
 2020-07-25,01:32.22,dino,jump_musparium_rc3,WR,Map,record,map_record,,-00:10.04,00:16.96,1309686,76561198070882254,[U:1:110616526],
 2020-08-03,01:28.50,tomato tom,jump_musparium_rc3,WR,Map,record,map_record,,-00:03.72,01:47.56,1316756,76561198120374593,[U:1:160108865],
@@ -9,4 +11,4 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2021-10-21,01:27.55,IzzyHoP,jump_musparium_rc3,WR,Map,record,map_record,,-00:00.48,00:00.48,1740641,76561197995927883,[U:1:35662155],
 2022-10-23,01:25.80,Rellort,jump_musparium_rc3,WR,Map,record,map_record,,-00:01.75,00:09.16,2095252,76561198090668406,[U:1:130402678],
 2022-10-23,01:25.53,bunny.,jump_musparium_rc3,WR,Map,record,map_record,,-00:00.27,00:05.50,2095693,76561198201985399,[U:1:241719671],
-2024-04-13,01:21.79,Helmi. -CC,jump_musparium_rc3,WR,Map,announcement,irc,,-00:03.73,,,76561198201985399,[U:1:241719671],
+2024-04-13,01:21.79,Helmi. -CC,jump_musparium_rc3,WR,Map,record,map_record,,-00:03.73,00:03.73,2815365,76561198201985399,[U:1:241719671],

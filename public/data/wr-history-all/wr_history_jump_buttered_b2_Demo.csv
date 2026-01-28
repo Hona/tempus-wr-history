@@ -1,5 +1,4 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-03-29,01:39.84,unknown,jump_buttered_b2,WR,Map,observed,wr_split,,,,,,,
 2018-03-29,01:39.83,gancho,jump_buttered_b2,WR,Map,command,wr_command,,,,,,,
 2018-03-29,01:36.57,mesatech,jump_buttered_b2,WR,Map,record,map_record,,-00:03.26,00:03.78,611699,76561198111845972,[U:1:151580244],
 2019-03-08,01:36.52,kater,jump_buttered_b2,WR,Map,record,map_record,,-00:00.04,00:11.89,910069,76561198222006144,[U:1:261740416],

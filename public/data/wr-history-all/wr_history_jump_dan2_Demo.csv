@@ -1,8 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-04-14,01:33.65,unknown,jump_dan2,WR,Map,observed,wr_split,,,,,,,
 2018-04-14,01:31.57,Starkie,jump_dan2,WR,Map,record,map_record,,-00:02.06,00:02.23,624458,76561198008003429,[U:1:47737701],
 2018-07-17,01:30.58,Meti ♥,jump_dan2,WR,Map,record,map_record,,-00:00.98,00:14.32,709398,,,Meti ♥|76561198396018338|[U:1:435752610];Meti ♥|76561198046601398|[U:1:86335670]
-2019-02-12,01:30.24,unknown,jump_dan2,WR,Map,observed,wr_split,,,,,,,
+2019-02-12,01:30.23,kater,jump_dan2,WR,Map,record,map_record,,-00:06.79,00:06.79,890711,76561198222006144,[U:1:261740416],
 2019-02-12,01:29.90,Starkie,jump_dan2,WR,Map,record,map_record,,-00:00.33,00:01.66,891237,76561198008003429,[U:1:47737701],
 2019-02-13,01:25.95,kater,jump_dan2,WR,Map,record,map_record,,-00:03.95,00:04.28,891518,76561198222006144,[U:1:261740416],
 2019-02-13,01:24.86,Starkie,jump_dan2,WR,Map,record,map_record,,-00:01.08,00:01.44,892195,76561198008003429,[U:1:47737701],
@@ -11,7 +10,7 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2019-10-06,00:05.67,revontulet,jump_dan2,WR,Bonus 1,record,zone_record,,-00:00.29,00:00.31,1074998,76561198046601398,[U:1:86335670],
 2019-11-18,01:19.30,hfk$ lilekinz,jump_dan2,WR,Map,record,map_record,,-00:03.75,00:04.58,1105513,76561198222006144,[U:1:261740416],
 2019-11-18,01:16.74,hfk$ lilekinz,jump_dan2,WR,Map,record,map_record,,-00:02.56,00:02.56,1105513,76561198222006144,[U:1:261740416],
-2021-08-01,01:15.63,phancy,jump_dan2,WR,Map,announcement,irc,,-00:01.11,,,76561198116189732,[U:1:155924004],
+2021-08-01,01:15.63,phancy,jump_dan2,WR,Map,record,map_record,,-00:01.11,00:06.67,1654608,76561198116189732,[U:1:155924004],
 2021-08-01,01:14.38,crops,jump_dan2,WR,Map,record,map_record,,-00:01.24,00:01.51,1654699,76561198222006144,[U:1:261740416],
 2021-08-01,01:14.22,crops,jump_dan2,WR,Map,record,map_record,,-00:00.16,00:00.16,1654699,76561198222006144,[U:1:261740416],
 2021-08-01,01:12.49,crops,jump_dan2,WR,Map,record,map_record,,-00:01.72,00:01.72,1654699,76561198222006144,[U:1:261740416],

@@ -1,6 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-03-25,01:31.00,newjuls,jump_arc_b1_tmps,WR,Map,announcement,irc,,-00:00.27,,,76561198396018338,[U:1:435752610],
-2018-06-05,01:22.41,"and uhh, dog",jump_arc_b1_tmps,WR,Map,announcement,irc,,-00:08.59,,,76561198396018338,[U:1:435752610],
+2018-03-25,01:31.00,newjuls,jump_arc_b1_tmps,WR,Map,record,map_record,,-00:00.27,00:24.82,608084,76561198396018338,[U:1:435752610],
+2018-06-05,01:22.41,"and uhh, dog",jump_arc_b1_tmps,WR,Map,record,map_record,,-00:08.59,00:08.59,669259,76561198396018338,[U:1:435752610],
 2019-02-14,00:09.80,879m,jump_arc_b1_tmps,WR,Bonus 1,record,zone_record,,-00:00.13,00:00.15,893031,76561198043793220,[U:1:83527492],
 2019-03-01,00:09.56,879m,jump_arc_b1_tmps,WR,Bonus 1,record,zone_record,,-00:00.09,00:00.18,904612,76561198043793220,[U:1:83527492],
 2019-03-09,01:20.08,vice,jump_arc_b1_tmps,WR,Map,record,map_record,,-00:02.32,00:22.51,911056,76561198366368448,[U:1:406102720],
@@ -8,8 +8,8 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2019-12-19,00:09.47,foxgirl,jump_arc_b1_tmps,WR,Bonus 1,record,zone_record,,-00:00.08,00:00.32,1127886,76561198046601398,[U:1:86335670],
 2019-12-19,00:09.37,foxgirl,jump_arc_b1_tmps,WR,Bonus 1,record,zone_record,,-00:00.10,00:00.10,1127886,76561198046601398,[U:1:86335670],
 2019-12-19,01:14.26,foxgirl,jump_arc_b1_tmps,WR,Map,record,map_record,,-00:02.15,00:06.04,1128104,76561198046601398,[U:1:86335670],
+2021-03-10,01:14.17,Waldo,jump_arc_b1_tmps,WR,Map,record,map_record,,-00:03.60,00:03.60,1531519,76561198020256631,[U:1:59990903],
 2021-05-13,00:09.10,879m,jump_arc_b1_tmps,WR,Bonus 1,record,zone_record,,-00:00.31,00:00.31,1587529,76561198043793220,[U:1:83527492],
-2021-07-21,01:14.17,unknown,jump_arc_b1_tmps,WR,Map,observed,wr_split,,,,,,,
 2022-09-06,00:09.09,Kratos,jump_arc_b1_tmps,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.04,2048919,76561198930334128,[U:1:970068400],
 2022-09-06,00:08.97,Kratos,jump_arc_b1_tmps,WR,Bonus 1,record,zone_record,,-00:00.12,00:00.12,2048919,76561198930334128,[U:1:970068400],
 2022-10-15,00:08.92,879m,jump_arc_b1_tmps,WR,Bonus 1,record,zone_record,,-00:00.04,00:00.18,2087370,76561198043793220,[U:1:83527492],

@@ -1,5 +1,4 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2019-10-23,03:40.31,unknown,jump_tensor_a2_zip,WR,Map,observed,wr_split,,,,,,,
 2019-10-23,03:25.62,CLIPPERS IN 4,jump_tensor_a2_zip,WR,Map,record,map_record,,-00:14.68,00:16.88,1087238,76561198222006144,[U:1:261740416],
 2020-03-02,00:14.70,song,jump_tensor_a2_zip,WR,Bonus 2,record,zone_record,,-00:00.55,,1186332,76561198210286877,[U:1:250021149],
 2020-03-02,00:14.08,song,jump_tensor_a2_zip,WR,Bonus 2,record,zone_record,,-00:00.61,00:00.61,1186332,76561198210286877,[U:1:250021149],
@@ -32,4 +31,4 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2023-07-20,02:57.58,phancy,jump_tensor_a2_zip,WR,Map,record,map_record,,-00:04.50,00:11.44,2415236,76561198116189732,[U:1:155924004],
 2024-11-11,02:50.61,phancy,jump_tensor_a2_zip,WR,Map,record,map_record,,-00:06.97,00:06.97,3125224,76561198116189732,[U:1:155924004],
 2025-08-31,02:41.10,kater,jump_tensor_a2_zip,WR,Map,record,map_record,,-00:09.51,00:14.98,3474087,76561198222006144,[U:1:261740416],
-2025-09-28,02:39.88,phancy,jump_tensor_a2_zip,WR,Map,announcement,irc,,-00:01.22,,,76561198116189732,[U:1:155924004],
+2025-09-28,02:39.88,phancy,jump_tensor_a2_zip,WR,Map,record,map_record,,-00:01.22,00:10.72,3511883,76561198116189732,[U:1:155924004],

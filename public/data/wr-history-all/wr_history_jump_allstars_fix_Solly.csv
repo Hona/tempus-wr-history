@@ -1,5 +1,4 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2022-12-16,01:54.16,unknown,jump_allstars_fix,WR,Map,observed,wr_split,,,,,,,
 2022-12-16,01:00.60,TINSEL TOM,jump_allstars_fix,WR,Course 1,record,zone_record,,-00:00.33,00:02.34,2148539,76561198120374593,[U:1:160108865],
 2022-12-16,01:00.19,TINSEL TOM,jump_allstars_fix,WR,Course 1,record,zone_record,,-00:00.40,00:00.40,2148595,76561198120374593,[U:1:160108865],
 2022-12-16,00:59.73,TINSEL TOM,jump_allstars_fix,WR,Course 1,record,zone_record,,-00:00.46,00:00.46,2148595,76561198120374593,[U:1:160108865],
@@ -7,5 +6,9 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2022-12-18,00:57.36,TINSEL TOM,jump_allstars_fix,WR,Course 1,record,zone_record,,-00:00.79,00:00.79,2150511,76561198120374593,[U:1:160108865],
 2022-12-20,01:49.99,TINSEL TOM,jump_allstars_fix,WR,Map,record,map_record,,-00:04.17,00:18.72,2152547,76561198120374593,[U:1:160108865],
 2022-12-20,00:42.24,TINSEL TOM,jump_allstars_fix,WR,Course 2,record,zone_record,,-00:00.69,00:07.08,2152547,76561198120374593,[U:1:160108865],
-2024-02-04,00:01.72,Waldo,jump_allstars_fix,WR,Bonus 1,command,rank_command,,,,,,,
-2025-10-07,01:46.22,unknown,jump_allstars_fix,WR,Map,observed,wr_split,,,,,,,
+2023-04-19,00:01.72,Waldo,jump_allstars_fix,WR,Bonus 1,record,zone_record,,-00:00.33,00:00.33,2281441,76561198020256631,[U:1:59990903],
+2025-09-15,00:37.90,sammy -rng,jump_allstars_fix,WR,Course 2,record,zone_record,,-00:27.26,00:27.26,3493331,76561199001307670,[U:1:1041041942],
+2025-10-04,00:35.12,nikita@gosuslugi,jump_allstars_fix,WR,Course 2,record,zone_record,,-02:30.81,02:30.81,3519301,,,
+2025-10-04,00:34.12,nikita@gosuslugi,jump_allstars_fix,WR,Course 2,record,zone_record,,-00:00.99,00:00.99,3519301,,,
+2025-10-04,01:46.22,sammy -rng,jump_allstars_fix,WR,Map,record,map_record,,-00:04.47,00:04.47,3520376,76561199001307670,[U:1:1041041942],
+2025-10-04,00:56.30,sammy -rng,jump_allstars_fix,WR,Course 1,record,zone_record,,-00:01.08,00:01.08,3520470,76561199001307670,[U:1:1041041942],

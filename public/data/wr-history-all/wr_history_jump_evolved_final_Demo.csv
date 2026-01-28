@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2020-03-25,03:40.39,chiyo,jump_evolved_final,WR,Map,observed,wr_split,,,,,,,
 2020-03-26,00:02.66,cander,jump_evolved_final,WR,Bonus 1,record,zone_record,,-00:00.00,00:00.01,1206700,76561198318722879,[U:1:358457151],
 2020-03-26,00:02.63,cander,jump_evolved_final,WR,Bonus 1,record,zone_record,,-00:00.02,00:00.02,1206700,76561198318722879,[U:1:358457151],
+2020-04-03,03:40.39,chiyo,jump_evolved_final,WR,Map,command,wr_command,,,,,,,
 2020-04-03,03:34.21,Mattp,jump_evolved_final,WR,Map,record,map_record,,-00:06.17,00:15.28,1213968,76561198035204545,[U:1:74938817],
 2020-04-15,03:29.63,pi,jump_evolved_final,WR,Map,record,map_record,,-00:04.57,,1225090,76561198222006144,[U:1:261740416],
 2020-04-16,03:22.45,chiyo,jump_evolved_final,WR,Map,record,map_record,,-00:07.18,00:17.93,1226259,76561198046582124,[U:1:86316396],

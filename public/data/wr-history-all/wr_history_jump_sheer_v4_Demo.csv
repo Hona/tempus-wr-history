@@ -1,5 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2021-09-02,00:00.19,nia,jump_sheer_v4,WR,Map,announcement,irc_set,,,,,,,
+2021-09-02,00:00.10,nia,jump_sheer_v4,WR,Map,announcement,irc,,-00:00.09,,,,,
+2021-09-03,00:00.57,uufyfuu,jump_sheer_v4,WR,Bonus 1,record,zone_record,,-00:00.09,00:00.09,1693595,76561198142787212,[U:1:182521484],
 2021-09-04,00:00.46,Kratos,jump_sheer_v4,WR,Bonus 1,record,zone_record,,-00:00.10,00:00.12,1694254,76561198930334128,[U:1:970068400],
 2021-09-04,00:00.45,Kratos,jump_sheer_v4,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.01,1694254,76561198930334128,[U:1:970068400],
 2021-09-04,00:00.43,Kratos,jump_sheer_v4,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.01,1694254,76561198930334128,[U:1:970068400],

@@ -1,9 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2018-06-19,05:40.62,Zike1017 ツ | b,jump_elite,WR,Map,command,wr_command,,,,,,,
-2019-01-26,05:19.52,기만적인💓,jump_elite,WR,Map,record,map_record,,-00:21.09,01:11.71,876312,76561198281755237,[U:1:321489509],
 2019-01-26,00:39.97,twitch.tv/zike10,jump_elite,WR,Course 1,command,wr_command,,,,,,,
 2019-01-26,01:02.89,DR.Alpha tight n,jump_elite,WR,Course 2,command,wr_command,,,,,,,
 2019-01-26,01:45.52,DR.Alpha tight n,jump_elite,WR,Course 4,command,wr_command,,,,,,,
+2019-01-26,05:19.52,기만적인💓,jump_elite,WR,Map,record,map_record,,-00:21.09,01:11.71,876312,76561198281755237,[U:1:321489509],
 2019-06-12,04:57.61,0,jump_elite,WR,Map,record,map_record,,-00:21.91,01:23.06,984304,76561198222006144,[U:1:261740416],
 2019-06-12,00:38.98,0,jump_elite,WR,C1 - Grassy Grove,record,zone_record,,-00:00.98,00:02.10,984304,76561198222006144,[U:1:261740416],
 2019-06-14,00:38.78,twitch.tv/zike10,jump_elite,WR,C1 - Grassy Grove,record,zone_record,,-00:00.19,00:00.45,985800,,,
@@ -13,6 +13,7 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2020-02-17,00:58.00,whats poppin,jump_elite,WR,C2 - Hardware Hurtles,record,zone_record,,-00:00.32,00:00.32,1175234,76561198222006144,[U:1:261740416],
 2020-02-17,01:32.72,whats poppin,jump_elite,WR,Course 4,command,wr_command,,,,,76561198222006144,[U:1:261740416],
 2020-07-10,04:55.79,you're really pr,jump_elite,WR,Map,record,map_record,,-00:01.82,00:03.71,1296934,,,
+2021-04-04,00:41.76,chiyo,jump_elite,WR,C3 - Cyberspace Cell,record,zone_record,,-00:03.40,00:03.40,1555287,76561198046582124,[U:1:86316396],
 2021-08-14,04:45.27,phancy,jump_elite,WR,Map,record,map_record,,-00:12.35,00:21.16,1669703,76561198116189732,[U:1:155924004],
 2021-08-14,01:27.64,phancy,jump_elite,WR,C4 - Ruinous Realm,record,zone_record,,-00:05.08,00:08.43,1669703,76561198116189732,[U:1:155924004],
 2021-08-14,00:54.54,phancy,jump_elite,WR,C2 - Hardware Hurtles,record,zone_record,,-00:03.47,00:03.57,1669703,76561198116189732,[U:1:155924004],

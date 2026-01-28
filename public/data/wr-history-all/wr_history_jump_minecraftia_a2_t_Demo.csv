@@ -1,11 +1,12 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2020-09-01,00:33.13,cander,jump_minecraftia_a2_t,WR,C1 - Plains,record,zone_record,,-00:00.62,00:01.01,1343981,76561198318722879,[U:1:358457151],
-2020-09-01,07:53.44,Boshy,jump_minecraftia_a2_t,WR,Map,observed,wr_split,,,,,76561198046601398,[U:1:86335670],
+2020-09-01,07:53.44,Boshy,jump_minecraftia_a2_t,WR,Map,command,wr_command,,,,,76561198046601398,[U:1:86335670],
 2020-09-01,00:32.50,Boshy,jump_minecraftia_a2_t,WR,C1 - Plains,record,zone_record,,-00:00.63,00:01.26,1344121,76561198046601398,[U:1:86335670],
 2021-01-21,01:52.23,asdasdasd,jump_minecraftia_a2_t,WR,C4 - Nether,record,zone_record,,-00:01.05,00:12.07,1484388,76561198366368448,[U:1:406102720],
 2021-01-21,00:40.92,asdasdasd,jump_minecraftia_a2_t,WR,C5 - Sky,record,zone_record,,-00:01.52,00:02.64,1484388,76561198366368448,[U:1:406102720],
 2021-04-06,07:28.57,Matty,jump_minecraftia_a2_t,WR,Map,record,map_record,,-00:24.87,00:27.06,1557275,76561198035204545,[U:1:74938817],
 2021-05-24,01:16.59,Boshy,jump_minecraftia_a2_t,WR,Course 2,command,wr_command,,,,,,,
+2021-05-24,01:16.14,Waldo,jump_minecraftia_a2_t,WR,C2 - Caves,record,zone_record,,-13:41.85,13:41.85,1595866,76561198020256631,[U:1:59990903],
 2021-10-16,01:38.38,vice,jump_minecraftia_a2_t,WR,C3 - Desert,record,zone_record,,-00:03.63,00:08.10,1734862,76561198366368448,[U:1:406102720],
 2022-03-31,00:06.49,cander,jump_minecraftia_a2_t,WR,Bonus 1,command,wr_command,,,,,,,
 2022-06-21,00:32.08,Kratos,jump_minecraftia_a2_t,WR,C1 - Plains,record,zone_record,,-00:00.42,00:00.99,1981885,76561198930334128,[U:1:970068400],

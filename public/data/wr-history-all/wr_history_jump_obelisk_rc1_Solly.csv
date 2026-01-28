@@ -1,10 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-06-10,38:27.21,Kittaye,jump_obelisk_rc1,WR,Map,announcement,irc_set,,,,,76561198018540237,[U:1:58274509],
-2018-06-10,12:02.86,jtravs,jump_obelisk_rc1,WR,Map,announcement,irc,,-26:24.34,,,76561198117262056,[U:1:156996328],
+2018-06-10,38:27.21,Kittaye,jump_obelisk_rc1,WR,Map,record,first_record,,,,674355,76561198018540237,[U:1:58274509],
+2018-06-10,12:02.86,jtravs,jump_obelisk_rc1,WR,Map,record,map_record,,-26:24.34,,674355,76561198117262056,[U:1:156996328],
 2018-06-10,07:19.66,Chief,jump_obelisk_rc1,WR,Map,record,map_record,,-04:43.19,,674355,76561198122579111,[U:1:162313383],
 2018-06-12,06:27.85,Hass,jump_obelisk_rc1,WR,Map,record,map_record,,-00:51.81,,676539,76561198152719870,[U:1:192454142],
-2018-06-12,05:22.89,Superchuck | bg5,jump_obelisk_rc1,WR,Map,announcement,irc,,-01:04.95,,,,,
-2018-06-26,05:03.07,bg5.tf | Diller,jump_obelisk_rc1,WR,Map,announcement,irc,,-00:19.82,,,76561198040963460,[U:1:80697732],
+2018-06-13,05:22.89,Superchuck | bg5,jump_obelisk_rc1,WR,Map,record,map_record,,-01:04.95,,676747,,,
 2018-06-26,04:58.03,Boshy,jump_obelisk_rc1,WR,Map,record,map_record,,-00:05.04,00:43.97,689279,76561198046601398,[U:1:86335670],
 2018-06-27,04:39.19,Boshy,jump_obelisk_rc1,WR,Map,record,map_record,,-00:18.84,00:18.84,690083,76561198046601398,[U:1:86335670],
 2018-06-28,04:31.66,Boshy,jump_obelisk_rc1,WR,Map,record,map_record,,-00:07.52,00:07.52,691038,76561198046601398,[U:1:86335670],

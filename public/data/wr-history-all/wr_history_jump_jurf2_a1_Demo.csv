@@ -1,6 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2017-12-08,02:56.26,unknown,jump_jurf2_a1,WR,Map,observed,wr_split,,,,,,,
-2017-12-10,02:52.61,pissy,jump_jurf2_a1,WR,Map,command,wr_command,,,,,,,
+2017-12-08,02:56.25,mesatech,jump_jurf2_a1,WR,Map,command,rank_command,,,,,,,
+2017-12-08,02:55.15,pissy,jump_jurf2_a1,WR,Map,record,map_record,,-00:03.71,00:03.71,520779,,,
+2017-12-08,02:52.61,pissy,jump_jurf2_a1,WR,Map,record,map_record,,-00:02.53,00:02.53,520779,,,
 2019-05-04,02:50.21,vice,jump_jurf2_a1,WR,Map,announcement,irc,,-00:02.40,,,,,
 2019-07-15,02:47.71,Boshy,jump_jurf2_a1,WR,Map,record,map_record,,-00:02.50,00:22.26,1010675,76561198046601398,[U:1:86335670],
 2019-07-15,02:45.11,Boshy,jump_jurf2_a1,WR,Map,record,map_record,,-00:02.59,00:02.59,1010675,76561198046601398,[U:1:86335670],

@@ -1,9 +1,10 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2018-03-28,07:22.42,Boshy,jump_over_beta,WR,Map,command,rank_command,,,,,76561198046601398,[U:1:86335670],
 2018-03-28,06:25.35,Boshy,jump_over_beta,WR,Map,record,map_record,,-00:57.07,00:57.07,610693,76561198046601398,[U:1:86335670],
+2020-12-10,06:21.51,juup,jump_over_beta,WR,Map,record,map_record,,-00:35.25,00:35.25,1442679,76561198243952326,[U:1:283686598],
 2020-12-10,06:08.49,Boshy,jump_over_beta,WR,Map,record,map_record,,-00:13.02,00:16.86,1442820,76561198046601398,[U:1:86335670],
 2020-12-31,05:52.15,Makly,jump_over_beta,WR,Map,record,map_record,,-00:16.33,00:55.03,1464254,76561197976761681,[U:1:16495953],
-2020-12-31,05:45.09,Boshy,jump_over_beta,WR,Map,announcement,irc,,-00:07.06,,,76561198046601398,[U:1:86335670],
-2022-01-04,05:40.80,t.tv/rachellotf,jump_over_beta,WR,Map,announcement,irc,,-00:04.29,,,,,
-2022-01-04,05:23.52,t.tv/rachellotf,jump_over_beta,WR,Map,announcement,irc,,-00:17.28,,,,,
+2021-01-01,05:45.09,Boshy,jump_over_beta,WR,Map,record,map_record,,-00:07.06,00:23.40,1464506,76561198046601398,[U:1:86335670],
+2022-01-04,05:40.80,t.tv/rachellotf,jump_over_beta,WR,Map,record,map_record,,-00:04.29,00:05.64,1816840,,,
+2022-01-04,05:23.52,t.tv/rachellotf,jump_over_beta,WR,Map,record,map_record,,-00:17.28,00:17.28,1816840,,,
 2023-02-24,05:10.41,bunny.,jump_over_beta,WR,Map,record,map_record,,-00:13.11,00:21.81,2223929,76561198201985399,[U:1:241719671],

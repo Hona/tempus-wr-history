@@ -1,5 +1,4 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2017-12-02,05:58.99,unknown,jump_aggregate,WR,Map,observed,wr_split,,,,,,,
 2017-12-02,01:59.03,Santa Chuck,jump_aggregate,WR,Course 2,record,zone_record,,-00:01.10,00:17.92,515814,76561198064467753,[U:1:104202025],
 2017-12-02,05:58.98,Boshy,jump_aggregate,WR,Map,command,wr_command,,,,,,,
 2017-12-02,05:54.17,Santa Chuck,jump_aggregate,WR,Map,record,map_record,,-00:04.80,00:56.60,515814,76561198064467753,[U:1:104202025],

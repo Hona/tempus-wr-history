@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2018-01-25,00:04.07,Nando53rd,jump_valley_final,WR,Bonus 2,record,zone_record,,-00:00.01,00:00.04,560563,76561198057187867,[U:1:96922139],
-2018-01-25,02:37.89,gancho,jump_valley_final,WR,Map,observed,wr_split,,,,,,,
 2018-02-08,00:03.29,mega,jump_valley_final,WR,Bonus 3,record,zone_record,,-00:00.01,00:00.04,571799,76561198045778439,[U:1:85512711],
+2018-02-08,02:37.89,gancho,jump_valley_final,WR,Map,command,wr_command,,,,,,,
 2018-03-30,02:37.24,mesatech,jump_valley_final,WR,Map,record,map_record,,-00:00.64,00:04.63,611913,76561198111845972,[U:1:151580244],
 2018-07-22,00:03.26,Boshy,jump_valley_final,WR,Bonus 3,record,zone_record,,-00:00.02,00:00.08,713925,76561198046601398,[U:1:86335670],
 2018-07-22,00:03.16,Boshy,jump_valley_final,WR,Bonus 1,record,zone_record,,-00:00.00,00:00.49,713925,76561198046601398,[U:1:86335670],
@@ -12,7 +12,7 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2019-09-09,00:02.77,Madeline,jump_valley_final,WR,Bonus 1,record,zone_record,,-00:00.13,00:00.13,1054196,76561198046601398,[U:1:86335670],
 2019-09-10,00:03.22,Madeline,jump_valley_final,WR,Bonus 3,record,zone_record,,-00:00.00,00:00.01,1054766,76561198046601398,[U:1:86335670],
 2019-11-09,00:04.06,song,jump_valley_final,WR,Bonus 2,record,zone_record,,-00:00.01,00:00.03,1099200,76561198210286877,[U:1:250021149],
-2020-03-08,00:04.03,yuji,jump_valley_final,WR,Bonus 2,record,zone_record,,-00:00.00,00:00.00,1191320,76561198318722879,[U:1:358457151],
+2019-12-11,00:04.03,cander ุ ุ,jump_valley_final,WR,Bonus 2,record,zone_record,,-00:00.02,00:00.02,1121718,,,
 2021-03-26,02:32.10,kater,jump_valley_final,WR,Map,record,map_record,,-00:00.87,00:05.65,1546550,76561198222006144,[U:1:261740416],
 2021-03-26,02:24.33,kater,jump_valley_final,WR,Map,record,map_record,,-00:07.77,00:07.77,1546550,76561198222006144,[U:1:261740416],
 2023-09-02,02:21.58,Matty,jump_valley_final,WR,Map,record,map_record,,-00:02.74,00:15.37,2483218,76561198035204545,[U:1:74938817],

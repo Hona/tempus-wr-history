@@ -1,6 +1,8 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2017-12-03,03:45.77,Boshy's nescient,jump_ofthehats,WR,Map,command,wr_command,,,,,,,
 2017-12-03,03:45.15,furry slayer,jump_ofthehats,WR,Map,record,map_record,,-00:00.62,00:03.07,517001,76561198120366659,[U:1:160100931],
 2017-12-03,03:31.27,furry slayer,jump_ofthehats,WR,Map,record,map_record,,-00:13.87,00:13.87,517001,76561198120366659,[U:1:160100931],
+2017-12-03,00:04.39,pöissy,jump_ofthehats,WR,Bonus 1,record,zone_record,,-00:00.09,00:00.09,517001,76561198045707908,[U:1:85442180],
 2017-12-03,03:30.72,furry slayer,jump_ofthehats,WR,Map,record,map_record,,-00:00.55,00:00.55,517115,76561198120366659,[U:1:160100931],
 2018-01-01,03:28.98,Zike1017 ツ,jump_ofthehats,WR,Map,record,map_record,,-00:01.74,00:13.06,540503,76561198050366275,[U:1:90100547],
 2018-01-30,00:19.13,Skinny.,jump_ofthehats,WR,Bonus 2,command,wr_command,,,,,76561198180610262,[U:1:220344534],
@@ -9,7 +11,7 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2018-01-30,00:18.79,879m,jump_ofthehats,WR,Bonus 2,record,zone_record,,-00:00.23,00:00.23,564331,76561198043793220,[U:1:83527492],
 2018-01-30,00:18.73,879m,jump_ofthehats,WR,Bonus 2,record,zone_record,,-00:00.05,00:00.05,564331,76561198043793220,[U:1:83527492],
 2018-04-13,03:22.39,Soup -tt,jump_ofthehats,WR,Map,record,map_record,,-00:06.58,,623608,76561198029285343,[U:1:69019615],
-2019-07-27,03:18.80,mesatech,jump_ofthehats,WR,Map,command,wr_command,,,,,76561198366368448,[U:1:406102720],
+2018-07-09,03:18.80,Zike1017 ツ | b,jump_ofthehats,WR,Map,record,map_record,,-00:03.59,00:03.59,701747,,,
 2019-01-04,00:04.18,vice,jump_ofthehats,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.03,858275,76561198366368448,[U:1:406102720],
 2019-01-04,00:04.11,vice,jump_ofthehats,WR,Bonus 1,record,zone_record,,-00:00.06,00:00.06,858275,76561198366368448,[U:1:406102720],
 2019-07-27,00:03.94,mesatech,jump_ofthehats,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.01,1020114,76561198366368448,[U:1:406102720],

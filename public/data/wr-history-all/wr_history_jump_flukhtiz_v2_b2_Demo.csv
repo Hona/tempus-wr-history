@@ -1,8 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2017-12-31,01:11.88,Lyle,jump_flukhtiz_v2_b2,WR,Map,command,wr_command,,,,,76561198035787281,[U:1:75521553],
 2018-01-10,00:01.70,neon,jump_flukhtiz_v2_b2,WR,Bonus 1,command,wr_command,,,,,,,
-2018-01-10,01:08.47,unknown,jump_flukhtiz_v2_b2,WR,Map,observed,wr_split,,,,,,,
-2018-12-26,01:07.66,vice,jump_flukhtiz_v2_b2,WR,Map,announcement,irc,,-00:00.80,,,76561198366368448,[U:1:406102720],
+2018-01-10,01:08.47,jennie,jump_flukhtiz_v2_b2,WR,Map,record,map_record,,-00:04.13,00:04.13,548301,76561198152617188,[U:1:192351460],
+2018-12-26,01:07.66,vice,jump_flukhtiz_v2_b2,WR,Map,record,map_record,,-00:00.80,00:05.82,850604,76561198366368448,[U:1:406102720],
+2019-08-26,00:01.54,Ramen,jump_flukhtiz_v2_b2,WR,Bonus 1,record,zone_record,,-00:00.27,00:00.27,1043302,76561198066589108,[U:1:106323380],
 2019-10-25,00:01.53,song,jump_flukhtiz_v2_b2,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.07,1088874,76561198210286877,[U:1:250021149],
 2019-10-25,00:01.51,song,jump_flukhtiz_v2_b2,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.01,1088874,76561198210286877,[U:1:250021149],
 2019-10-25,00:01.44,song,jump_flukhtiz_v2_b2,WR,Bonus 1,record,zone_record,,-00:00.07,00:00.07,1088874,76561198210286877,[U:1:250021149],

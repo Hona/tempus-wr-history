@@ -1,9 +1,10 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2017-12-03,03:44.72,unknown,jump_recall,WR,Map,observed,wr_split,,,,,,,
-2017-12-03,03:28.60,unknown,jump_recall,WR,Map,observed,wr_split,,,,,,,
+2017-12-03,03:28.60,iTac,jump_recall,WR,Map,record,map_record,,-02:02.56,02:02.56,516913,76561198108602947,[U:1:148337219],
 2017-12-03,03:15.50,kaptain,jump_recall,WR,Map,record,map_record,,-00:13.09,00:29.21,516913,76561198033727092,[U:1:73461364],
+2019-02-02,03:12.00,iTac,jump_recall,WR,Map,record,map_record,,-00:16.59,00:16.59,882718,76561198108602947,[U:1:148337219],
 2019-02-03,02:59.45,kaptain,jump_recall,WR,Map,record,map_record,,-00:12.54,00:16.04,883819,76561198033727092,[U:1:73461364],
-2022-02-17,02:35.07,iTac,jump_recall,WR,Map,command,wr_command,,,,,,,
+2019-05-29,02:56.71,iTac,jump_recall,WR,Map,record,map_record,,-00:15.29,00:15.29,973990,76561198108602947,[U:1:148337219],
+2019-05-29,02:35.07,iTac,jump_recall,WR,Map,record,map_record,,-00:21.64,00:21.64,973990,76561198108602947,[U:1:148337219],
 2024-05-06,02:32.91,Helmi. -CC,jump_recall,WR,Map,announcement,irc,,-00:02.16,,,,,
 2024-05-06,02:25.98,Helmi. -CC,jump_recall,WR,Map,announcement,irc,,-00:06.93,,,,,
 2024-05-07,02:23.08,Helmi. -CC,jump_recall,WR,Map,announcement,irc,,-00:02.89,,,,,

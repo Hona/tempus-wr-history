@@ -1,6 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2014-07-01,03:12.67,alle -tt,jump_natural_b2,WR,Map,record,map_record,,-00:38.64,00:49.14,9000,76561198040983512,STEAM_0:0:40358892,
-2014-07-06,02:55.18,HOTTUDOGGU,jump_natural_b2,WR,Map,announcement,irc,,-00:17.48,,,,,
+2014-07-06,02:55.18,HOTTUDOGGU,jump_natural_b2,WR,Map,record,map_record,,-00:17.48,00:56.13,9702,,,
 2014-08-16,02:36.48,od,jump_natural_b2,WR,Map,record,map_record,,-00:18.70,00:18.70,15811,76561198078488228,STEAM_0:0:59111250,
 2014-08-16,02:33.59,moonbears,jump_natural_b2,WR,Map,record,map_record,,-00:02.88,01:29.66,15811,76561197989807231,STEAM_0:1:14770751,
 2014-10-15,02:17.74,my feelings 4 u,jump_natural_b2,WR,Map,record,map_record,,-00:15.85,00:18.73,23902,76561198078488228,[U:1:118222500],
@@ -10,6 +10,8 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2015-05-15,01:50.38,Soup Can,jump_natural_b2,WR,Map,record,map_record,,-00:09.69,00:09.69,93772,76561198029285343,[U:1:69019615],
 2017-11-21,01:37.81,Lyle,jump_natural_b2,WR,Map,record,map_record,,-00:04.30,00:28.31,507797,76561198035787281,[U:1:75521553],
 2018-01-10,01:33.43,mr.deagle,jump_natural_b2,WR,Map,record,map_record,,-00:04.38,,548471,76561198029285343,[U:1:69019615],
+2020-07-04,01:31.20,sam,jump_natural_b2,WR,Map,record,map_record,,-00:06.32,00:06.32,1292075,76561198045707908,[U:1:85442180],
+2020-07-12,01:29.55,Therese Johaug,jump_natural_b2,WR,Map,record,map_record,,-00:03.88,00:03.88,1298737,76561198029285343,[U:1:69019615],
 2021-11-14,01:28.05,cander,jump_natural_b2,WR,Map,record,map_record,,-00:01.50,00:02.55,1765740,76561198318722879,[U:1:358457151],
 2021-11-14,01:26.95,cander,jump_natural_b2,WR,Map,record,map_record,,-00:01.09,00:01.09,1765740,76561198318722879,[U:1:358457151],
 2022-02-18,01:26.52,Soup -tt,jump_natural_b2,WR,Map,record,map_record,,-00:00.43,00:03.03,1861803,76561198029285343,[U:1:69019615],

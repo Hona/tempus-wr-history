@@ -1,9 +1,10 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2019-07-07,03:09.97,Starkie,jump_manifestation_fix,WR,Map,announcement,irc_set,,,,,76561198008003429,[U:1:47737701],
-2019-07-07,02:11.87,Starkie,jump_manifestation_fix,WR,Map,announcement,irc,,-00:58.09,,,76561198008003429,[U:1:47737701],
+2019-07-07,03:09.97,Starkie,jump_manifestation_fix,WR,Map,record,first_record,,,,1004427,76561198008003429,[U:1:47737701],
+2019-07-07,02:11.87,Starkie,jump_manifestation_fix,WR,Map,record,map_record,,-00:58.09,00:58.09,1004427,76561198008003429,[U:1:47737701],
 2019-07-07,01:59.00,gegepa,jump_manifestation_fix,WR,Map,record,map_record,,-00:12.86,00:26.30,1004447,76561198058846478,[U:1:98580750],
 2019-07-07,01:42.56,gegepa,jump_manifestation_fix,WR,Map,record,map_record,,-00:16.43,00:16.43,1004447,76561198058846478,[U:1:98580750],
-2019-07-08,01:38.33,twitch.tv/vicetf,jump_manifestation_fix,WR,Map,announcement,irc,,-00:03.22,,,,,
+2019-07-08,01:41.56,im off to return,jump_manifestation_fix,WR,Map,record,map_record,,-00:02.17,00:02.17,1004957,,,
+2019-07-08,01:38.33,twitch.tv/vicetf,jump_manifestation_fix,WR,Map,record,map_record,,-00:03.22,01:30.57,1005174,,,
 2019-07-12,01:37.87,Boshy,jump_manifestation_fix,WR,Map,record,map_record,,-00:00.46,00:32.32,1008677,76561198046601398,[U:1:86335670],
 2019-07-12,01:30.54,Boshy,jump_manifestation_fix,WR,Map,record,map_record,,-00:07.33,00:07.33,1008677,76561198046601398,[U:1:86335670],
 2019-07-13,01:29.11,vice,jump_manifestation_fix,WR,Map,record,map_record,,-00:01.42,00:09.22,1008940,76561198366368448,[U:1:406102720],

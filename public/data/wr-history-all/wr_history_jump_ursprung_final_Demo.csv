@@ -1,8 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2021-10-22,03:53.82,Waldo,jump_ursprung_final,WR,Map,record,first_record,,,,1741845,76561198020256631,[U:1:59990903],
-2021-10-22,03:06.98,unknown,jump_ursprung_final,WR,Map,observed,wr_split,,,,,,,
-2021-10-23,03:06.15,crazy -rng,jump_ursprung_final,WR,Map,record,map_record,,-00:00.82,00:10.33,1741942,76561198059437813,[U:1:99172085],
-2021-10-22,02:58.94,unknown,jump_ursprung_final,WR,Map,observed,wr_split,,,,,,,
+2021-10-22,03:06.97,Waldo,jump_ursprung_final,WR,Map,record,map_record,,-00:46.84,00:46.84,1741845,76561198020256631,[U:1:59990903],
 2021-10-22,02:45.36,eat pant,jump_ursprung_final,WR,Map,record,map_record,,-00:13.57,00:33.75,1741891,76561198149627108,[U:1:189361380],
 2021-10-22,02:39.25,eat pant,jump_ursprung_final,WR,Map,record,map_record,,-00:06.10,00:06.10,1741891,76561198149627108,[U:1:189361380],
 2021-10-23,02:20.68,cander,jump_ursprung_final,WR,Map,record,map_record,,-00:18.57,,1742060,76561198318722879,[U:1:358457151],
@@ -10,6 +8,6 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2021-10-23,02:07.15,cander,jump_ursprung_final,WR,Map,record,map_record,,-00:07.32,00:07.32,1742060,76561198318722879,[U:1:358457151],
 2021-10-23,02:06.94,vice,jump_ursprung_final,WR,Map,record,map_record,,-00:00.21,00:30.94,1742356,76561198366368448,[U:1:406102720],
 2021-10-24,02:02.73,cander,jump_ursprung_final,WR,Map,record,map_record,,-00:04.21,00:04.42,1743306,76561198318722879,[U:1:358457151],
-2024-03-08,01:56.85,Tia,jump_ursprung_final,WR,Map,observed,wr_split,,,,,,,
-2024-04-27,01:56.70,kratos,jump_ursprung_final,WR,Map,announcement,irc,,-00:00.15,,,76561198930334128,[U:1:970068400],
+2024-03-07,01:56.85,HYPERSCHALL,jump_ursprung_final,WR,Map,record,map_record,,-00:15.12,00:15.12,2763842,76561198094197569,[U:1:133931841],
+2024-04-27,01:56.70,kratos,jump_ursprung_final,WR,Map,record,map_record,,-00:00.15,00:00.28,2834713,76561198930334128,[U:1:970068400],
 2024-12-17,01:54.78,cander,jump_ursprung_final,WR,Map,record,map_record,,-00:01.92,00:07.95,3177296,76561198318722879,[U:1:358457151],

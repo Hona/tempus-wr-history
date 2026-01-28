@@ -1,6 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2019-01-19,01:43.43,unknown,jump_sketchy2_rc1,WR,Map,observed,wr_split,,,,,,,
 2019-02-15,00:02.51,879m,jump_sketchy2_rc1,WR,Bonus 2,record,zone_record,,-00:00.03,00:00.04,893089,76561198043793220,[U:1:83527492],
+2019-02-15,00:02.48,HIV,jump_sketchy2_rc1,WR,Bonus 2,record,zone_record,,-00:00.02,00:00.02,893645,76561198066589108,[U:1:106323380],
 2019-03-31,00:29.73,Soup -tt,jump_sketchy2_rc1,WR,Course 2,record,zone_record,,-00:00.83,00:01.22,928592,76561198029285343,[U:1:69019615],
 2019-03-31,00:38.52,Soup -tt,jump_sketchy2_rc1,WR,Course 3,record,zone_record,,-00:00.92,00:02.15,928592,76561198029285343,[U:1:69019615],
 2019-07-29,01:43.42,Soup -tt,jump_sketchy2_rc1,WR,Map,command,wr_command,,,,,,,

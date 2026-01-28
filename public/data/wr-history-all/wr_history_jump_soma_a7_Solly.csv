@@ -1,10 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-01-14,01:44.85,unknown,jump_soma_a7,WR,Map,observed,wr_split,,,,,,,
 2018-11-16,01:44.84,Boshy,jump_soma_a7,WR,Map,command,wr_command,,,,,,,
 2019-06-23,01:42.44,kaptain,jump_soma_a7,WR,Map,record,map_record,,-00:02.39,00:02.76,993293,76561198033727092,[U:1:73461364],
 2019-06-23,01:40.71,Boshy,jump_soma_a7,WR,Map,record,map_record,,-00:01.72,00:04.12,993394,76561198046601398,[U:1:86335670],
 2019-06-25,01:29.70,Boshy,jump_soma_a7,WR,Map,record,map_record,,-00:11.01,00:11.01,994592,76561198046601398,[U:1:86335670],
 2022-05-13,01:28.87,riot,jump_soma_a7,WR,Map,record,map_record,,-00:00.83,00:03.67,1946831,76561198065169685,[U:1:104903957],
-2023-08-18,01:28.44,hayley,jump_soma_a7,WR,Map,announcement,irc,,-00:00.43,,,,,
-2023-08-18,01:24.49,hayley,jump_soma_a7,WR,Map,announcement,irc,,-00:03.94,,,,,
-2023-08-18,01:22.72,hayley,jump_soma_a7,WR,Map,announcement,irc,,-00:01.77,,,,,
+2023-08-18,01:28.44,hayley,jump_soma_a7,WR,Map,record,map_record,,-00:00.43,00:03.37,2458863,,,
+2023-08-18,01:24.49,hayley,jump_soma_a7,WR,Map,record,map_record,,-00:03.94,00:03.94,2458863,,,
+2023-08-18,01:22.72,hayley,jump_soma_a7,WR,Map,record,map_record,,-00:01.77,00:01.77,2458863,,,

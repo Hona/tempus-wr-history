@@ -1,7 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2018-11-25,01:37.74,twitch.tv/newjul,jump_air,WR,Map,record,map_record,,-00:02.69,00:03.85,825383,,,
 2019-03-25,01:37.73,Soup -tt,jump_air,WR,Map,record,map_record,,-00:00.00,00:02.70,923691,76561198029285343,[U:1:69019615],
-2021-02-22,01:32.70,suh,jump_air,WR,Map,observed,wr_split,,,,,,,
-2024-06-18,01:31.90,Matty,jump_air,WR,Map,announcement,irc,,-00:00.79,,,76561198035204545,[U:1:74938817],
+2020-06-28,01:35.56,s,jump_air,WR,Map,record,map_record,,-00:02.17,00:02.17,1287057,76561198029285343,[U:1:69019615],
+2021-02-06,01:35.53,soup -tt,jump_air,WR,Map,record,map_record,,-00:00.03,00:00.03,1499963,76561198029285343,[U:1:69019615],
+2021-02-06,01:32.70,soup -tt,jump_air,WR,Map,record,map_record,,-00:02.83,00:02.83,1499963,76561198029285343,[U:1:69019615],
+2024-06-18,01:31.90,Matty,jump_air,WR,Map,announcement,irc,,-00:00.79,,,,,
 2024-06-20,01:29.71,Matty,jump_air,WR,Map,announcement,irc,,-00:02.19,,,,,
 2024-07-03,01:28.17,Matty,jump_air,WR,Map,record,map_record,,-00:01.54,00:01.54,2931636,76561198035204545,[U:1:74938817],

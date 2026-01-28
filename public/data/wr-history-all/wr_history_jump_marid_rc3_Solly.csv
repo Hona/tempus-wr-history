@@ -1,7 +1,8 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2025-11-10,03:28.32,Waldo,jump_marid_rc3,WR,Map,record,first_record,,,,3569640,76561198020256631,[U:1:59990903],
-2025-11-10,01:24.64,unknown,jump_marid_rc3,WR,Map,observed,wr_split,,,,,,,
-2025-11-10,01:24.62,unknown,jump_marid_rc3,WR,Map,observed,wr_split,,,,,,,
-2025-11-16,01:23.17,unknown,jump_marid_rc3,WR,Map,observed,wr_split,,,,,,,
-2025-11-17,01:21.32,unknown,jump_marid_rc3,WR,Map,observed,wr_split,,,,,,,
-2025-11-18,01:16.22,unknown,jump_marid_rc3,WR,Map,observed,wr_split,,,,,,,
+2025-11-10,02:23.10,else,jump_marid_rc3,WR,Map,record,map_record,,-01:54.62,01:54.62,3569688,76561198307184206,[U:1:346918478],
+2025-11-10,02:03.26,else,jump_marid_rc3,WR,Map,record,map_record,,-00:19.84,00:19.84,3569688,76561198307184206,[U:1:346918478],
+2025-11-10,01:35.72,th14 marisaB lif,jump_marid_rc3,WR,Map,record,map_record,,-00:11.04,00:11.04,3569688,,,
+2025-11-10,01:24.63,th14 marisaB lif,jump_marid_rc3,WR,Map,record,map_record,,-00:11.08,00:11.08,3569688,,,
+2025-11-16,01:21.32,sammy -rng,jump_marid_rc3,WR,Map,record,map_record,,-00:05.38,00:05.38,3587372,76561199001307670,[U:1:1041041942],
+2025-11-17,01:16.22,wj,jump_marid_rc3,WR,Map,record,map_record,,-00:06.96,00:06.96,3588027,76561198108844256,[U:1:148578528],

@@ -1,4 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2019-03-28,01:42.86,unknown,jump_karelia_b1,WR,Map,observed,wr_split,,,,,,,
-2023-02-14,01:35.62,unknown,jump_karelia_b1,WR,Map,observed,wr_split,,,,,,,
+2021-03-28,01:42.75,yeye,jump_karelia_b1,WR,Map,record,map_record,,-00:03.71,00:03.71,1548693,76561198120630343,[U:1:160364615],
+2021-03-29,01:42.63,yeye,jump_karelia_b1,WR,Map,record,map_record,,-00:00.12,00:00.12,1549525,76561198120630343,[U:1:160364615],
+2021-03-29,01:38.91,yeye,jump_karelia_b1,WR,Map,record,map_record,,-00:03.72,00:03.72,1549525,76561198120630343,[U:1:160364615],
+2021-03-29,01:35.62,yeye,jump_karelia_b1,WR,Map,record,map_record,,-00:03.28,00:03.28,1549525,76561198120630343,[U:1:160364615],
 2023-02-14,01:34.09,bunny.,jump_karelia_b1,WR,Map,record,map_record,,-00:01.53,00:02.79,2214061,76561198201985399,[U:1:241719671],

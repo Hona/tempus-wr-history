@@ -1,7 +1,8 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2014-11-07,02:16.95,alle,jump_ayers2_a8,WR,Map,record,map_record,,-00:10.47,,28941,76561198040983512,[U:1:80717784],
-2014-11-07,02:11.92,maserati and vro,jump_ayers2_a8,WR,Map,announcement,irc,,-00:05.03,,,,,
+2014-11-07,02:11.92,maserati and vro,jump_ayers2_a8,WR,Map,record,map_record,,-00:05.03,00:15.51,29084,,,
 2016-05-08,02:09.37,mr. vac,jump_ayers2_a8,WR,Map,record,map_record,,-00:03.06,,248235,76561198200984075,[U:1:240718347],
-2018-01-03,01:59.10,unknown,jump_ayers2_a8,WR,Map,observed,wr_split,,,,,,,
+2016-05-08,02:06.88,mr. vac,jump_ayers2_a8,WR,Map,record,map_record,,-00:02.48,00:02.48,248235,76561198200984075,[U:1:240718347],
 2018-01-03,01:58.31,Soup -tt,jump_ayers2_a8,WR,Map,record,map_record,,-00:00.77,00:00.77,542772,76561198029285343,[U:1:69019615],
 2018-02-21,01:52.91,Soup -tt,jump_ayers2_a8,WR,Map,record,map_record,,-00:05.39,00:05.39,582886,76561198029285343,[U:1:69019615],
+2019-06-01,01:50.36,give demo a gloc,jump_ayers2_a8,WR,Map,record,map_record,,-00:02.55,00:02.55,976303,,,

@@ -1,10 +1,10 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2017-11-12,02:44.35,fox,jump_jorgelayja_tmps,WR,Map,command,wr_command,,,,,76561198046601398,[U:1:86335670],
-2018-07-19,02:42.29,Steve,jump_jorgelayja_tmps,WR,Map,announcement,irc,,-00:02.05,,,76561198063901478,[U:1:103635750],
+2018-07-19,02:42.29,Steve,jump_jorgelayja_tmps,WR,Map,record,map_record,,-00:02.05,00:31.78,710684,76561198063901478,[U:1:103635750],
 2018-07-19,02:34.80,Boshy,jump_jorgelayja_tmps,WR,Map,record,map_record,,-00:07.49,00:09.55,710799,76561198046601398,[U:1:86335670],
 2018-08-13,02:26.09,Steve -ttdark,jump_jorgelayja_tmps,WR,Map,record,map_record,,-00:08.70,00:16.19,732976,76561198063901478,[U:1:103635750],
 2018-08-20,02:22.84,hibiscus,jump_jorgelayja_tmps,WR,Map,record,map_record,,-00:03.25,00:11.95,738960,76561198046601398,[U:1:86335670],
-2022-01-23,02:16.87,ondkaja,jump_jorgelayja_tmps,WR,Map,announcement,irc,,-00:05.97,,,76561198010123351,[U:1:49857623],
-2023-02-12,02:15.88,unknown,jump_jorgelayja_tmps,WR,Map,observed,wr_split,,,,,,,
+2022-01-23,02:16.87,ondkaja,jump_jorgelayja_tmps,WR,Map,record,map_record,,-00:05.97,00:17.32,1834449,76561198010123351,[U:1:49857623],
+2022-11-09,02:15.88,speedyll,jump_jorgelayja_tmps,WR,Map,record,map_record,,-00:11.83,00:11.83,2112494,76561198207307879,[U:1:247042151],
 2023-07-21,02:13.41,ondkaja,jump_jorgelayja_tmps,WR,Map,record,map_record,,-00:02.47,00:03.46,2416248,76561198010123351,[U:1:49857623],
 2023-10-05,01:55.75,Salty,jump_jorgelayja_tmps,WR,Map,record,map_record,,-00:17.65,00:22.17,2532463,76561198070497462,[U:1:110231734],

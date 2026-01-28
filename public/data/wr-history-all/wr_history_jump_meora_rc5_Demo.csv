@@ -1,8 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2020-03-24,54:30.16,brotherman bill,jump_meora_rc5,WR,Map,announcement,irc_set,,,,,76561198065169685,[U:1:104903957],
 2020-03-24,28:20.05,neon,jump_meora_rc5,WR,Map,record,map_record,,-26:10.10,,1204706,76561198041137841,[U:1:80872113],
-2020-03-24,14:54.02,unknown,jump_meora_rc5,WR,Map,observed,wr_split,,,,,,,
-2020-03-24,14:54.01,neon,jump_meora_rc5,WR,Map,command,wr_command,,,,,,,
+2020-03-24,14:54.01,neon,jump_meora_rc5,WR,Map,record,map_record,,-13:26.03,13:26.03,1204706,76561198041137841,[U:1:80872113],
+2020-03-24,14:27.13,neon,jump_meora_rc5,WR,Map,record,map_record,,-00:26.88,00:26.88,1204706,76561198041137841,[U:1:80872113],
 2020-03-24,00:13.23,vice,jump_meora_rc5,WR,Bonus 1,record,zone_record,,-00:00.25,00:03.58,1204816,76561198366368448,[U:1:406102720],
 2020-03-24,00:13.20,yuji,jump_meora_rc5,WR,Bonus 1,record,zone_record,,-00:00.03,00:00.47,1204816,76561198318722879,[U:1:358457151],
 2020-03-24,00:13.00,vice,jump_meora_rc5,WR,Bonus 1,record,zone_record,,-00:00.19,00:00.22,1204816,76561198366368448,[U:1:406102720],

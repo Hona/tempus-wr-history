@@ -1,5 +1,8 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2018-08-10,01:18.73,CJ,jump_dad,WR,Map,record,map_record,,-00:02.68,00:04.54,730990,76561198064467753,[U:1:104202025],
 2018-08-21,01:16.88,hibiscus,jump_dad,WR,Map,record,map_record,,-00:01.84,00:04.53,739646,76561198046601398,[U:1:86335670],
-2023-02-17,01:10.34,unknown,jump_dad,WR,Map,observed,wr_split,,,,,,,
+2023-02-14,01:15.12,Rellort,jump_dad,WR,Map,record,map_record,,-01:25.44,01:25.44,2214381,76561198090668406,[U:1:130402678],
+2023-02-14,01:14.80,Rellort,jump_dad,WR,Map,record,map_record,,-00:00.31,00:00.31,2214381,76561198090668406,[U:1:130402678],
+2023-02-14,01:14.65,Rellort,jump_dad,WR,Map,record,map_record,,-00:00.15,00:00.15,2214381,76561198090668406,[U:1:130402678],
+2023-02-17,01:10.33,Rellort,jump_dad,WR,Map,record,map_record,,-00:04.32,00:04.32,2216537,76561198090668406,[U:1:130402678],
 2024-02-03,01:10.00,Fix You,jump_dad,WR,Map,record,map_record,,-00:00.33,00:01.56,2715125,76561198366368448,[U:1:406102720],

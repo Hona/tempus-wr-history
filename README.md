@@ -10,7 +10,6 @@ To refresh data:
 
 1) Re-run the export from `tempus-demo-archive`:
 ```
-TEMPUS_WR_INCLUDE_INFERRED=1 TEMPUS_WR_INCLUDE_SUBRECORDS=1 TEMPUS_WR_INCLUDE_ALL=1 \
 TEMPUS_SKIP_MIGRATIONS=1 \
 dotnet run -c Release --project TempusDemoArchive.Jobs -- --job wr-history-all
 ```
@@ -26,6 +25,13 @@ npm run data:index
 ```
 
 4) Commit + push. GitHub Pages will redeploy automatically.
+
+CSV semantics:
+- One file per `(map, class)`.
+- Timeline is monotonic per `(map, class, segment)`.
+- `demo_id` is only present for `evidence=record` (record-setting demo). Play links are hidden otherwise.
+- `segment`: `Map`, `Bonus N`, `Course N`, `C# - Name`.
+- `evidence`: `record` | `announcement` | `command` | `observed`.
 
 ## Development
 ```

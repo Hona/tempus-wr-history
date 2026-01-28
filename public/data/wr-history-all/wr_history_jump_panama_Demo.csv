@@ -1,8 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-02-27,01:09.75,unknown,jump_panama,WR,Map,observed,wr_split,,,,,,,
 2018-02-27,01:09.31,killmonger,jump_panama,WR,Map,record,map_record,,-00:00.43,00:01.42,586493,76561197960496196,[U:1:230468],
 2018-09-21,01:09.13,snoozejuls,jump_panama,WR,Map,record,map_record,,-00:00.17,00:00.42,767960,76561198069991227,[U:1:109725499],
-2018-09-21,01:08.74,vice,jump_panama,WR,Map,record,map_record,,-00:00.38,00:00.56,768049,76561198366368448,[U:1:406102720],
 2018-09-21,01:08.05,snoozejuls,jump_panama,WR,Map,record,map_record,,-00:00.69,00:01.08,767960,76561198069991227,[U:1:109725499],
 2018-09-21,01:05.88,vice,jump_panama,WR,Map,record,map_record,,-00:02.17,00:02.86,768049,76561198366368448,[U:1:406102720],
 2019-09-27,01:05.77,mix˅,jump_panama,WR,Map,record,map_record,,-00:00.10,00:00.17,1067776,76561198318722879,[U:1:358457151],

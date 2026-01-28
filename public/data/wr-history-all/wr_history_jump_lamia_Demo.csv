@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2021-09-03,03:17.31,i struggle with,jump_lamia,WR,Map,announcement,irc_set,,,,,,,
-2021-09-03,02:05.37,phancy,jump_lamia,WR,Map,announcement,irc,,-01:11.94,,,76561198116189732,[U:1:155924004],
-2021-09-03,01:29.01,phancy,jump_lamia,WR,Map,announcement,irc,,-00:36.36,,,76561198116189732,[U:1:155924004],
+2021-09-03,03:17.31,i struggle with,jump_lamia,WR,Map,record,first_record,,,,1693471,,,
+2021-09-03,02:05.37,phancy,jump_lamia,WR,Map,record,map_record,,-01:11.94,,1693538,76561198116189732,[U:1:155924004],
+2021-09-03,01:29.01,phancy,jump_lamia,WR,Map,record,map_record,,-00:36.36,00:36.36,1693538,76561198116189732,[U:1:155924004],
 2021-09-05,01:26.73,goofy inda hood,jump_lamia,WR,Map,record,map_record,,-00:02.28,00:31.51,1695541,76561198204967912,[U:1:244702184],
 2021-09-12,01:20.53,kツter,jump_lamia,WR,Map,record,map_record,,-00:06.19,00:21.52,1703211,76561198222006144,[U:1:261740416],
 2022-04-17,01:18.03,Jorge,jump_lamia,WR,Map,record,map_record,,-00:02.50,00:08.47,1919245,76561198101198779,[U:1:140933051],

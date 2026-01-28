@@ -1,11 +1,12 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2019-12-18,00:49.00,Boshy,jump_cubic_zip,WR,Map,observed,wr_split,,,,,,,
 2019-12-18,00:25.45,newjuls,jump_cubic_zip,WR,Bonus 2,command,wr_command,,,,,,,
 2019-12-18,00:24.91,foxgirl,jump_cubic_zip,WR,Bonus 2,record,zone_record,,-00:00.54,00:02.42,1127099,76561198046601398,[U:1:86335670],
 2020-04-07,00:00.96,hiei,jump_cubic_zip,WR,Bonus 1,record,zone_record,,-00:00.00,00:00.00,1218019,76561198113927027,[U:1:153661299],
 2020-04-07,00:00.95,hiei,jump_cubic_zip,WR,Bonus 1,record,zone_record,,-00:00.00,00:00.00,1218019,76561198113927027,[U:1:153661299],
 2020-04-07,00:00.92,cander,jump_cubic_zip,WR,Bonus 1,record,zone_record,,-00:00.02,00:00.05,1218019,76561198318722879,[U:1:358457151],
+2020-12-02,00:22.59,Waldo,jump_cubic_zip,WR,Bonus 2,record,zone_record,,-00:00.55,00:00.55,1435930,76561198020256631,[U:1:59990903],
 2021-03-01,00:20.83,phancy,jump_cubic_zip,WR,Bonus 2,record,zone_record,,-00:01.24,00:01.29,1523200,76561198116189732,[U:1:155924004],
+2021-06-10,00:49.00,Boshy,jump_cubic_zip,WR,Map,command,rank_command,,,,,,,
 2021-06-10,00:48.24,Green Dog,jump_cubic_zip,WR,Map,record,map_record,,-00:00.76,00:00.88,1609620,76561198045707908,[U:1:85442180],
 2023-01-24,00:20.73,Jorge,jump_cubic_zip,WR,Bonus 2,record,zone_record,,-00:00.10,00:00.15,2192150,76561198101198779,[U:1:140933051],
 2023-01-24,00:20.35,Jorge,jump_cubic_zip,WR,Bonus 2,record,zone_record,,-00:00.37,00:00.37,2192150,76561198101198779,[U:1:140933051],

@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2021-01-09,02:46.28,unknown,jump_swizzle_rc5,WR,Map,observed,wr_split,,,,,,,
 2022-04-02,04:06.10,Waldo,jump_swizzle_rc5,WR,Bonus 1,command,wr_command,,,,,,,
 2022-04-02,03:10.62,unravel,jump_swizzle_rc5,WR,Bonus 1,record,zone_record,,-00:55.48,08:43.27,1905297,76561198366368448,[U:1:406102720],
-2024-05-26,02:10.90,kjr,jump_swizzle_rc5,WR,Map,command,wr_command,,,,,,,
-2024-06-18,02:40.83,kjr,jump_swizzle_rc5,WR,Bonus 1,command,wr_command,,,,,,,
-2024-07-29,02:04.18,newjuls,jump_swizzle_rc5,WR,Map,announcement,irc,,-00:06.72,,,76561198396018338,[U:1:435752610],
+2022-09-06,02:28.93,kjr :d,jump_swizzle_rc5,WR,Map,record,map_record,,-00:20.22,00:20.22,2048728,76561198206903132,[U:1:246637404],
+2022-09-06,02:10.90,kjr :d,jump_swizzle_rc5,WR,Map,record,map_record,,-00:18.03,00:18.03,2048728,76561198206903132,[U:1:246637404],
+2023-09-14,02:40.83,kjr :d,jump_swizzle_rc5,WR,Bonus 1,record,zone_record,,-02:41.14,02:41.14,2501027,76561198206903132,[U:1:246637404],
+2024-07-29,02:04.18,newjuls,jump_swizzle_rc5,WR,Map,record,map_record,,-00:06.72,00:10.99,2969646,76561198396018338,[U:1:435752610],

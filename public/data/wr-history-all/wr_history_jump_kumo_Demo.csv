@@ -1,7 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2019-09-14,04:32.66,im beta,jump_kumo,WR,Map,record,first_record,,,,1058005,76561198396018338,[U:1:435752610],
-2019-09-14,04:24.16,candy,jump_kumo,WR,Map,announcement,irc,,-00:08.50,,,76561198366368448,[U:1:406102720],
-2019-09-14,04:22.83,jtravs,jump_kumo,WR,Map,announcement,irc,,-00:01.33,,,76561198117262056,[U:1:156996328],
+2019-09-14,04:24.16,candy,jump_kumo,WR,Map,record,map_record,,-00:08.50,,1058081,76561198366368448,[U:1:406102720],
 2019-09-14,03:51.84,chiyo,jump_kumo,WR,Map,record,map_record,,-00:30.98,,1058081,76561198046582124,[U:1:86316396],
 2019-09-14,02:42.93,chiyo,jump_kumo,WR,Map,record,map_record,,-01:08.91,01:08.91,1058081,76561198046582124,[U:1:86316396],
 2019-09-14,01:53.83,chiyo,jump_kumo,WR,Map,record,map_record,,-00:49.09,00:49.09,1058081,76561198046582124,[U:1:86316396],
@@ -12,5 +11,5 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2020-05-19,01:34.15,Matty,jump_kumo,WR,Map,record,map_record,,-00:07.03,00:13.78,1253901,76561198035204545,[U:1:74938817],
 2020-08-13,01:30.56,chiyo,jump_kumo,WR,Map,record,map_record,,-00:03.58,00:08.63,1325172,76561198046582124,[U:1:86316396],
 2020-08-23,01:27.15,yttaM,jump_kumo,WR,Map,record,map_record,,-00:03.41,00:07.00,1334408,76561198035204545,[U:1:74938817],
-2024-12-23,01:21.42,unknown,jump_kumo,WR,Map,observed,wr_split,,,,,,,
-2024-12-26,01:19.71,stigma,jump_kumo,WR,Map,command,wr_command,,,,,76561198092993736,[U:1:132728008],
+2024-12-23,01:21.42,stigma,jump_kumo,WR,Map,record,map_record,,-00:17.80,00:17.80,3186051,76561198092993736,[U:1:132728008],
+2024-12-26,01:19.71,stigma,jump_kumo,WR,Map,record,map_record,,-00:01.71,00:01.71,3190418,76561198092993736,[U:1:132728008],

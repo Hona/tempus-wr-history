@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-10-22,14:27.14,Olaf the Skary S,jump_fart_final,WR,Map,announcement,irc_set,,,,,,,
-2018-10-22,10:02.47,resistance is sp,jump_fart_final,WR,Map,announcement,irc,,-04:24.67,,,,,
-2018-10-22,09:55.84,Fake Steve,jump_fart_final,WR,Map,announcement,irc,,-00:06.62,,,76561198063901478,[U:1:103635750],
+2018-10-22,14:27.14,Olaf the Skary S,jump_fart_final,WR,Map,record,first_record,,,,796211,,,
+2018-10-22,10:02.47,resistance is sp,jump_fart_final,WR,Map,record,map_record,,-04:24.67,,796238,,,
+2018-10-22,09:55.84,Fake Steve,jump_fart_final,WR,Map,record,map_record,,-00:06.62,,796353,76561198063901478,[U:1:103635750],
 2018-10-22,04:50.83,Booshy,jump_fart_final,WR,Map,record,map_record,,-05:05.01,06:48.23,796368,76561198046601398,[U:1:86335670],
 2021-04-11,04:48.21,tomato tom,jump_fart_final,WR,Map,record,map_record,,-00:02.63,00:14.44,1560979,76561198120374593,[U:1:160108865],
 2022-11-05,04:44.20,x_ray2700,jump_fart_final,WR,Map,record,map_record,,-00:04.00,00:10.84,2108563,76561198979680671,[U:1:1019414943],

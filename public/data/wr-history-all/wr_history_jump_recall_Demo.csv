@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2017-12-03,01:57.90,gancho,jump_recall,WR,Map,observed,wr_split,,,,,,,
+2018-11-17,01:57.90,gancho,jump_recall,WR,Map,command,wr_command,,,,,,,
 2018-11-17,01:52.59,topkek,jump_recall,WR,Map,record,map_record,,-00:05.30,00:06.29,818320,76561198070783552,[U:1:110517824],
-2019-02-03,01:50.56,unknown,jump_recall,WR,Map,observed,wr_split,,,,,,,
+2018-11-26,01:50.56,Regular,jump_recall,WR,Map,record,map_record,,-00:02.92,00:02.92,825716,76561198152617188,[U:1:192351460],
 2022-02-17,01:49.60,cander,jump_recall,WR,Map,record,map_record,,-00:00.96,00:08.76,1860813,76561198318722879,[U:1:358457151],
 2023-12-15,01:47.89,Luffin,jump_recall,WR,Map,record,map_record,,-00:01.71,00:05.41,2638010,76561198094197569,[U:1:133931841],
 2024-05-02,01:45.60,cander,jump_recall,WR,Map,record,map_record,,-00:02.29,00:03.96,2841888,76561198318722879,[U:1:358457151],

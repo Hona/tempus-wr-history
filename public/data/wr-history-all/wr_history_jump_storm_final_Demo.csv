@@ -1,10 +1,10 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2017-12-01,02:35.29,pwn,jump_storm_final,WR,Map,announcement,irc,,-00:35.43,,,76561198120366659,[U:1:160100931],
+2017-12-01,02:35.29,pwn,jump_storm_final,WR,Map,record,map_record,,-00:35.43,00:51.20,515695,76561198120366659,[U:1:160100931],
 2018-07-14,02:10.68,newjuls,jump_storm_final,WR,Map,record,map_record,,-00:24.61,01:11.56,705877,76561198396018338,[U:1:435752610],
 2018-10-19,02:00.27,newjuls -ttdark,jump_storm_final,WR,Map,record,map_record,,-00:10.40,00:10.40,793206,76561198396018338,[U:1:435752610],
 2019-06-15,01:58.63,0,jump_storm_final,WR,Map,record,map_record,,-00:01.63,00:14.95,986637,76561198222006144,[U:1:261740416],
-2019-09-08,01:57.18,ุ,jump_storm_final,WR,Map,announcement,irc,,-00:01.45,,,76561198222006144,[U:1:261740416],
-2019-09-08,01:56.98,ุ,jump_storm_final,WR,Map,announcement,irc,,-00:00.19,,,76561198222006144,[U:1:261740416],
+2019-09-08,01:57.18,ุ,jump_storm_final,WR,Map,record,map_record,,-00:01.45,00:01.45,1053349,76561198222006144,[U:1:261740416],
+2019-09-08,01:56.98,ุ,jump_storm_final,WR,Map,record,map_record,,-00:00.19,00:00.19,1053349,76561198222006144,[U:1:261740416],
 2019-09-09,01:50.50,ุ,jump_storm_final,WR,Map,record,map_record,,-00:06.48,00:06.48,1053803,76561198222006144,[U:1:261740416],
 2019-09-09,01:47.48,ุ,jump_storm_final,WR,Map,record,map_record,,-00:03.01,00:03.01,1053803,76561198222006144,[U:1:261740416],
 2019-11-20,01:45.44,hfk$ lilekinz,jump_storm_final,WR,Map,record,map_record,,-00:02.03,00:02.03,1106627,76561198222006144,[U:1:261740416],

@@ -1,5 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2021-01-05,33:39.64,diller,jump_swizzle_rc3,WR,Bonus 1,record,zone_first,,,,1468389,76561198040963460,[U:1:80697732],
 2021-01-05,11:06.94,ondkaja,jump_swizzle_rc3,WR,Bonus 1,record,zone_record,,-22:32.70,,1468519,76561198010123351,[U:1:49857623],
-2021-01-05,01:57.28,Gorge004,jump_swizzle_rc3,WR,Map,observed,wr_split,,,,,,,
+2021-01-05,01:57.28,Gorge004,jump_swizzle_rc3,WR,Map,command,wr_command,,,,,,,
 2021-01-05,10:13.33,juup -rng,jump_swizzle_rc3,WR,Bonus 1,record,zone_record,,-00:53.61,,1468902,76561198243952326,[U:1:283686598],

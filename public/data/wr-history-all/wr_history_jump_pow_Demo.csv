@@ -1,8 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2022-10-06,21:29.38,EV,jump_pow,WR,Map,record,first_record,,,,2079200,76561198073154044,[U:1:112888316],
-2022-10-06,09:57.22,Waldo,jump_pow,WR,Map,announcement,irc,,-11:32.16,,,76561198020256631,[U:1:59990903],
-2022-10-06,07:52.36,🜏 Mvd ⛧,jump_pow,WR,Map,record,map_record,,-00:02.53,,2079218,76561198069991227,[U:1:109725499],
-2022-10-06,07:08.76,zz DD,jump_pow,WR,Map,observed,wr_split,,,,,76561198304312775,[U:1:344047047],
+2022-10-06,07:08.76,zz DD,jump_pow,WR,Map,record,map_record,,-02:44.61,02:44.61,2079200,76561198304312775,[U:1:344047047],
 2022-10-06,05:45.85,Grimm,jump_pow,WR,Map,record,map_record,,-01:22.90,01:54.78,2079200,76561198089240119,[U:1:128974391],
 2022-10-06,05:29.14,cander,jump_pow,WR,Map,record,map_record,,-00:16.71,05:21.10,2079312,76561198318722879,[U:1:358457151],
 2022-10-06,05:06.72,cander,jump_pow,WR,Map,record,map_record,,-00:22.42,00:22.42,2079312,76561198318722879,[U:1:358457151],

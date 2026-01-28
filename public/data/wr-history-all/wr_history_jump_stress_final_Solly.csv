@@ -1,9 +1,8 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-08-13,02:46.43,unknown,jump_stress_final,WR,Map,observed,wr_split,,,,,,,
 2018-08-13,02:39.95,scotch,jump_stress_final,WR,Map,record,map_record,,-00:06.46,00:09.25,733209,76561198041597961,[U:1:81332233],
 2018-08-21,02:37.67,foxglove,jump_stress_final,WR,Map,record,map_record,,-00:02.28,00:02.62,740261,76561198046601398,[U:1:86335670],
-2020-01-31,02:30.15,maxxy,jump_stress_final,WR,Map,announcement,irc,,-00:07.52,,,,,
-2022-11-03,02:25.05,unknown,jump_stress_final,WR,Map,observed,wr_split,,,,,,,
+2020-01-31,02:30.15,maxxy,jump_stress_final,WR,Map,record,map_record,,-00:07.52,00:07.52,1162416,,,
+2022-03-19,02:25.05,Makly,jump_stress_final,WR,Map,record,map_record,,-00:16.80,00:16.80,1891353,76561197976761681,[U:1:16495953],
 2023-02-23,02:23.56,bunny.,jump_stress_final,WR,Map,record,map_record,,-00:02.13,00:25.09,2223163,76561198201985399,[U:1:241719671],
 2023-02-23,02:21.94,makly,jump_stress_final,WR,Map,record,map_record,,-00:01.62,00:02.01,2223333,76561197976761681,[U:1:16495953],
-2023-02-23,02:09.46,bunny.,jump_stress_final,WR,Map,announcement,irc,,-00:12.48,,,76561198201985399,[U:1:241719671],
+2023-02-23,02:09.46,bunny.,jump_stress_final,WR,Map,record,map_record,,-00:12.48,00:14.10,2223349,76561198201985399,[U:1:241719671],

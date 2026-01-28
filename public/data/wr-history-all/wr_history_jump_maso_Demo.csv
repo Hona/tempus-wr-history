@@ -1,8 +1,10 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-01-25,05:26.91,newjuls,jump_maso,WR,Map,announcement,irc_set,,,,,76561198396018338,[U:1:435752610],
+2018-01-25,05:26.91,newjuls,jump_maso,WR,Map,record,first_record,,,,560351,76561198396018338,[U:1:435752610],
 2018-01-25,03:23.17,gancho,jump_maso,WR,Map,record,map_record,,-02:03.73,,560351,76561198050815941,[U:1:90550213],
-2018-01-25,01:25.62,newjuls,jump_maso,WR,Map,announcement,irc,,-01:57.55,,,76561198396018338,[U:1:435752610],
-2018-01-25,00:51.17,mojo jojo,jump_maso,WR,Map,announcement,irc,,-00:10.61,,,76561198008003429,[U:1:47737701],
+2018-01-25,01:25.62,newjuls,jump_maso,WR,Map,record,map_record,,-01:57.55,04:01.29,560351,76561198396018338,[U:1:435752610],
+2018-01-25,01:24.92,neon,jump_maso,WR,Map,record,map_record,,-00:07.87,00:07.87,560495,76561198041137841,[U:1:80872113],
+2018-01-25,01:01.79,neon,jump_maso,WR,Map,record,map_record,,-00:23.12,00:23.12,560495,76561198041137841,[U:1:80872113],
+2018-01-25,00:51.17,mojo jojo,jump_maso,WR,Map,record,map_record,,-00:10.61,00:28.57,560495,76561198008003429,[U:1:47737701],
 2018-01-25,00:45.80,mojo jojo,jump_maso,WR,Map,record,map_record,,-00:05.36,00:05.36,560495,76561198008003429,[U:1:47737701],
 2018-01-25,00:42.88,mojo jojo,jump_maso,WR,Map,record,map_record,,-00:02.92,00:02.92,560495,76561198008003429,[U:1:47737701],
 2018-01-28,00:41.18,Cube,jump_maso,WR,Map,record,map_record,,-00:01.69,00:11.52,562865,76561197960496196,[U:1:230468],

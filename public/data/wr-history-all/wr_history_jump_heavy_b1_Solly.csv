@@ -1,11 +1,11 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2014-07-14,02:37.43,Aurora -tt,jump_heavy_b1,WR,Map,record,map_record,,-00:01.26,00:04.37,10737,76561198053067670,STEAM_0:0:46400971,
-2014-07-14,02:34.26,Zato,jump_heavy_b1,WR,Map,announcement,irc,,-00:03.17,,,76561198045479800,STEAM_0:0:42607036,
+2014-07-14,02:34.26,Zato,jump_heavy_b1,WR,Map,record,map_record,,-00:03.17,00:14.95,10773,76561198045479800,STEAM_0:0:42607036,
 2014-07-15,02:27.55,Aurora -tt,jump_heavy_b1,WR,Map,record,map_record,,-00:06.70,00:19.81,10811,76561198047849609,STEAM_0:1:43791940,
 2014-12-27,02:24.28,Aurora -tt,jump_heavy_b1,WR,Map,record,map_record,,-00:03.26,00:04.15,41509,76561198053067670,[U:1:92801942],
 2015-03-06,02:18.76,Afterglow -tt,jump_heavy_b1,WR,Map,record,map_record,,-00:05.51,00:12.49,67535,76561198103469081,[U:1:143203353],
 2015-03-06,02:16.90,rg7,jump_heavy_b1,WR,Map,record,map_record,,-00:01.86,00:04.40,67535,76561198053067670,[U:1:92801942],
-2017-12-09,02:12.73,un gato,jump_heavy_b1,WR,Map,observed,wr_split,,,,,,,
+2018-02-10,02:12.73,un gato,jump_heavy_b1,WR,Map,command,wr_command,,,,,,,
 2018-06-09,02:02.32,MR. big Painis,jump_heavy_b1,WR,Map,record,map_record,,-00:10.40,00:10.40,673572,76561198066351321,[U:1:106085593],
 2018-06-09,01:58.22,MR. big Painis,jump_heavy_b1,WR,Map,record,map_record,,-00:04.09,00:04.09,673572,76561198066351321,[U:1:106085593],
 2023-05-03,01:58.09,sam,jump_heavy_b1,WR,Map,record,map_record,,-00:00.13,00:01.42,2302808,76561198045707908,[U:1:85442180],

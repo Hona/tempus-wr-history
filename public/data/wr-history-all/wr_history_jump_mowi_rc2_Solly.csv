@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2020-01-01,03:06.30,osplo -cg,jump_mowi_rc2,WR,Map,record,first_record,,,,1138141,76561198047229461,[U:1:86963733],
 2020-01-01,01:39.69,ミゾレ,jump_mowi_rc2,WR,Map,record,map_record,,-01:26.60,,1138141,76561198055623250,[U:1:95357522],
-2020-01-01,01:13.50,unknown,jump_mowi_rc2,WR,Map,observed,wr_split,,,,,,,
+2020-01-01,01:13.49,ミゾレ,jump_mowi_rc2,WR,Map,record,map_record,,-00:26.19,00:26.19,1138141,76561198055623250,[U:1:95357522],
 2020-01-01,01:12.57,Larry,jump_mowi_rc2,WR,Map,record,map_record,,-00:00.92,00:01.06,1138191,76561198060570011,[U:1:100304283],
 2020-01-01,01:11.88,maxxy,jump_mowi_rc2,WR,Map,record,map_record,,-00:00.68,00:01.90,1138191,76561198083235528,[U:1:122969800],
 2020-01-01,01:09.34,maxxy,jump_mowi_rc2,WR,Map,record,map_record,,-00:02.53,00:02.53,1138191,76561198083235528,[U:1:122969800],

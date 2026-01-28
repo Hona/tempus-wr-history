@@ -1,6 +1,8 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2025-04-26,04:01.05,Waldo,jump_nyx,WR,Map,record,first_record,,,,3292284,76561198020256631,[U:1:59990903],
-2025-04-26,03:37.78,Exile,jump_nyx,WR,Map,observed,wr_split,,,,,,,
+2025-04-26,03:37.78,Exile,jump_nyx,WR,Map,record,map_record,,-00:53.62,00:53.62,3292284,76561198046776282,[U:1:86510554],
 2025-04-26,03:08.14,cander,jump_nyx,WR,Map,record,map_record,,-00:29.64,,3292605,76561198318722879,[U:1:358457151],
-2025-04-26,02:59.25,Hubert,jump_nyx,WR,Map,command,rank_command,,,,,76561198019003403,[U:1:58737675],
-2025-04-28,01:59.14,cander,jump_nyx,WR,Map,observed,wr_split,,,,,76561198318722879,[U:1:358457151],
+2025-04-26,02:59.25,Hubert,jump_nyx,WR,Map,record,map_record,,-00:12.21,00:12.21,3293483,76561198019003403,[U:1:58737675],
+2025-04-28,02:14.84,cander,jump_nyx,WR,Map,record,map_record,,-00:41.12,00:53.31,3295499,76561198318722879,[U:1:358457151],
+2025-04-28,02:03.40,cander,jump_nyx,WR,Map,record,map_record,,-00:11.43,00:11.43,3295499,76561198318722879,[U:1:358457151],
+2025-04-28,01:59.14,cander,jump_nyx,WR,Map,record,map_record,,-00:04.26,00:04.26,3295499,76561198318722879,[U:1:358457151],

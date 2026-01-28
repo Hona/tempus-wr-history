@@ -1,10 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2016-05-08,02:52.73,mr. vac,jump_tf,WR,Map,record,map_record,,-00:11.68,,248257,76561198200984075,[U:1:240718347],
-2018-03-15,02:39.40,unknown,jump_tf,WR,Map,observed,wr_split,,,,,,,
 2018-03-15,02:37.78,twitch.tv/vicetf,jump_tf,WR,Map,record,map_record,,-00:01.62,00:03.05,599504,,,
 2018-09-09,02:31.79,newjuls,jump_tf,WR,Map,record,map_record,,-00:05.98,00:28.79,757002,76561198396018338,[U:1:435752610],
 2018-09-09,02:26.89,newjuls,jump_tf,WR,Map,record,map_record,,-00:04.90,00:04.90,757002,76561198396018338,[U:1:435752610],
 2019-07-07,02:26.36,twitch.tv/vicetf,jump_tf,WR,Map,record,map_record,,-00:00.52,00:11.41,1004088,,,
 2019-07-16,02:21.74,taniwha,jump_tf,WR,Map,record,map_record,,-00:04.61,00:05.14,1011249,76561198396018338,[U:1:435752610],
 2020-02-16,02:17.88,cander,jump_tf,WR,Map,record,map_record,,-00:03.86,00:04.51,1174616,76561198222006144,[U:1:261740416],
-2024-08-19,02:16.08,8=D,jump_tf,WR,Map,announcement,irc,,-00:01.80,,,76561198035204545,[U:1:74938817],
+2024-08-19,02:16.08,8=D,jump_tf,WR,Map,record,map_record,,-00:01.80,00:09.94,3000341,76561198035204545,[U:1:74938817],

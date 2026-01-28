@@ -1,6 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-09-15,01:09.76,vice,jump_lotus_fix,WR,Map,announcement,irc,,-00:00.99,,,76561198366368448,[U:1:406102720],
-2018-10-06,01:07.57,newjuls,jump_lotus_fix,WR,Map,announcement,irc,,-00:02.19,,,76561198396018338,[U:1:435752610],
+2018-09-15,01:09.76,vice,jump_lotus_fix,WR,Map,record,map_record,,-00:00.99,00:08.71,762899,76561198366368448,[U:1:406102720],
+2018-10-07,01:07.57,newjuls,jump_lotus_fix,WR,Map,record,map_record,,-00:02.19,00:06.37,782448,76561198396018338,[U:1:435752610],
 2019-01-18,01:07.32,vice,jump_lotus_fix,WR,Map,record,map_record,,-00:00.25,00:01.09,869570,76561198366368448,[U:1:406102720],
 2019-08-05,01:06.53,Boshy,jump_lotus_fix,WR,Map,record,map_record,,-00:00.78,00:02.02,1027099,76561198046601398,[U:1:86335670],
 2019-08-05,01:05.86,maxxy,jump_lotus_fix,WR,Map,record,map_record,,-00:00.67,00:01.45,1027145,76561198366368448,[U:1:406102720],

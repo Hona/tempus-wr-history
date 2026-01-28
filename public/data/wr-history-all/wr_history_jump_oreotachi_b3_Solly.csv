@@ -1,9 +1,10 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-09-14,04:06.99,Ded,jump_oreotachi_b3,WR,Map,announcement,irc,,-00:08.63,,,76561198044680920,[U:1:84415192],
+2018-09-14,04:06.99,Ded,jump_oreotachi_b3,WR,Map,record,map_record,,-00:08.63,,761965,76561198044680920,[U:1:84415192],
 2018-09-14,03:57.58,Ded,jump_oreotachi_b3,WR,Map,record,map_record,,-00:09.40,00:09.40,761965,76561198044680920,[U:1:84415192],
 2018-09-14,03:33.31,stevey wunda,jump_oreotachi_b3,WR,Map,record,map_record,,-00:24.27,04:21.87,761988,76561198063901478,[U:1:103635750],
 2018-09-14,03:26.43,Ded,jump_oreotachi_b3,WR,Map,record,map_record,,-00:06.88,00:17.80,762094,76561198044680920,[U:1:84415192],
 2018-09-14,02:56.86,Boshy,jump_oreotachi_b3,WR,Map,record,map_record,,-00:29.56,05:49.06,762276,76561198046601398,[U:1:86335670],
 2021-11-30,02:41.28,tomato tom,jump_oreotachi_b3,WR,Map,record,map_record,,-00:15.58,10:40.26,1783788,76561198120374593,[U:1:160108865],
 2021-11-30,02:25.65,tomato tom,jump_oreotachi_b3,WR,Map,record,map_record,,-00:15.63,00:15.63,1783788,76561198120374593,[U:1:160108865],
-2025-01-12,02:12.88,sammy -rng,jump_oreotachi_b3,WR,Map,observed,wr_split,,,,,,,
+2025-01-07,02:21.97,sammy #4jake,jump_oreotachi_b3,WR,Map,record,map_record,,-00:04.81,00:04.81,3209335,76561199001307670,[U:1:1041041942],
+2025-01-07,02:12.88,sammy #4jake,jump_oreotachi_b3,WR,Map,record,map_record,,-00:09.09,00:09.09,3209335,76561199001307670,[U:1:1041041942],

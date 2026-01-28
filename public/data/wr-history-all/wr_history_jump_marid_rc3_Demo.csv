@@ -1,6 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2025-11-10,02:09.40,Matty,jump_marid_rc3,WR,Map,record,first_record,,,,3569617,76561198035204545,[U:1:74938817],
-2025-11-10,01:23.54,Waldo,jump_marid_rc3,WR,Map,announcement,irc,,-00:45.87,,,76561198020256631,[U:1:59990903],
+2025-11-10,01:23.54,Waldo,jump_marid_rc3,WR,Map,record,map_record,,-00:45.87,,3569640,76561198020256631,[U:1:59990903],
+2025-11-10,01:11.08,Waldo,jump_marid_rc3,WR,Map,record,map_record,,-00:12.45,00:12.45,3569640,76561198020256631,[U:1:59990903],
+2025-11-10,01:05.64,Waldo,jump_marid_rc3,WR,Map,record,map_record,,-00:05.44,00:05.44,3569640,76561198020256631,[U:1:59990903],
 2025-11-10,01:04.72,Matty,jump_marid_rc3,WR,Map,record,map_record,,-00:00.92,00:03.08,3569617,76561198035204545,[U:1:74938817],
 2025-11-10,00:58.66,Matty,jump_marid_rc3,WR,Map,record,map_record,,-00:06.06,00:06.06,3569617,76561198035204545,[U:1:74938817],
 2025-11-10,00:57.98,cander,jump_marid_rc3,WR,Map,record,map_record,,-00:00.69,,3569788,76561198318722879,[U:1:358457151],

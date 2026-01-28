@@ -1,6 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2017-12-28,05:01.65,unknown,jump_arugula_b4,WR,Map,observed,wr_split,,,,,,,
 2018-11-28,04:51.87,Boshy,jump_arugula_b4,WR,Map,record,map_record,,-00:09.77,00:09.77,827423,76561198046601398,[U:1:86335670],
 2018-11-28,04:17.01,Boshy,jump_arugula_b4,WR,Map,record,map_record,,-00:34.86,00:34.86,827423,76561198046601398,[U:1:86335670],
-2022-06-17,04:10.65,tomatotom@goblin,jump_arugula_b4,WR,Map,announcement,irc,,-00:06.36,,,,,
+2022-06-17,04:10.65,tomatotom@goblin,jump_arugula_b4,WR,Map,record,map_record,,-00:06.36,03:48.91,1978133,,,
 2023-09-22,03:43.93,x_ray2700,jump_arugula_b4,WR,Map,record,map_record,,-00:26.71,01:24.73,2513710,76561198979680671,[U:1:1019414943],

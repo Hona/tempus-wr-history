@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-28T00:33:45.159Z",
-  "count": 893,
+  "generatedAt": "2026-01-28T03:52:25.676Z",
+  "count": 892,
   "maps": [
     {
       "map": "conc_concept",
@@ -958,11 +958,9 @@
     {
       "map": "jump_ayers2_a8_zip",
       "classes": [
-        "Demo",
         "Solly"
       ],
       "files": {
-        "Demo": "data/wr-history-all/wr_history_jump_ayers2_a8_zip_Demo.csv",
         "Solly": "data/wr-history-all/wr_history_jump_ayers2_a8_zip_Solly.csv"
       }
     },
@@ -1211,12 +1209,10 @@
     {
       "map": "jump_beryllium_v4",
       "classes": [
-        "Demo",
-        "Solly"
+        "Demo"
       ],
       "files": {
-        "Demo": "data/wr-history-all/wr_history_jump_beryllium_v4_Demo.csv",
-        "Solly": "data/wr-history-all/wr_history_jump_beryllium_v4_Solly.csv"
+        "Demo": "data/wr-history-all/wr_history_jump_beryllium_v4_Demo.csv"
       }
     },
     {
@@ -3926,15 +3922,6 @@
       "files": {
         "Demo": "data/wr-history-all/wr_history_jump_ice_v4_Demo.csv",
         "Solly": "data/wr-history-all/wr_history_jump_ice_v4_Solly.csv"
-      }
-    },
-    {
-      "map": "jump_ice_v4_fix64",
-      "classes": [
-        "Solly"
-      ],
-      "files": {
-        "Solly": "data/wr-history-all/wr_history_jump_ice_v4_fix64_Solly.csv"
       }
     },
     {
@@ -7673,12 +7660,10 @@
     {
       "map": "jump_sleepy",
       "classes": [
-        "Demo",
-        "Solly"
+        "Demo"
       ],
       "files": {
-        "Demo": "data/wr-history-all/wr_history_jump_sleepy_Demo.csv",
-        "Solly": "data/wr-history-all/wr_history_jump_sleepy_Solly.csv"
+        "Demo": "data/wr-history-all/wr_history_jump_sleepy_Demo.csv"
       }
     },
     {

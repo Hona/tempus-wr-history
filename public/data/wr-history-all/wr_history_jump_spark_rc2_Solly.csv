@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2019-06-05,01:50.97,unknown,jump_spark_rc2,WR,Map,observed,wr_split,,,,,,,
+2019-06-23,01:50.87,ye ye,jump_spark_rc2,WR,Map,record,map_record,,-00:07.83,00:07.83,993322,76561198120630343,[U:1:160364615],
 2019-06-23,01:44.31,Boshy,jump_spark_rc2,WR,Map,record,map_record,,-00:06.56,00:06.65,993404,76561198046601398,[U:1:86335670],
-2022-04-02,01:42.22,jump_armature_fi,jump_spark_rc2,WR,Map,announcement,irc,,-00:02.09,,,,,
+2022-04-02,01:42.22,jump_armature_fi,jump_spark_rc2,WR,Map,record,map_record,,-00:02.09,00:07.38,1905544,,,
 2023-07-01,01:39.85,Helmi.,jump_spark_rc2,WR,Map,record,map_record,,-00:02.37,00:12.43,2387459,76561198201985399,[U:1:241719671],
 2023-07-01,01:39.58,Helmi.,jump_spark_rc2,WR,Map,record,map_record,,-00:00.27,00:00.27,2387459,76561198201985399,[U:1:241719671],
 2023-07-01,01:37.20,Helmi.,jump_spark_rc2,WR,Map,record,map_record,,-00:02.38,00:02.38,2387459,76561198201985399,[U:1:241719671],

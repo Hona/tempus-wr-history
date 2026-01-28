@@ -1,6 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2020-07-21,09:11.73,banana,jump_musparium_rc3,WR,Map,record,first_record,,,,1306727,76561198095278714,[U:1:135012986],
-2020-07-21,02:30.25,Luke.,jump_musparium_rc3,WR,Map,announcement,irc,,-06:41.47,,,76561198098414676,[U:1:138148948],
+2020-07-21,02:30.25,Luke.,jump_musparium_rc3,WR,Map,record,map_record,,-06:41.47,,1306730,76561198098414676,[U:1:138148948],
 2020-07-22,02:28.59,cander,jump_musparium_rc3,WR,Map,record,map_record,,-00:01.66,,1306875,76561198318722879,[U:1:358457151],
 2020-07-22,01:47.41,cander,jump_musparium_rc3,WR,Map,record,map_record,,-00:41.17,00:41.17,1307124,76561198318722879,[U:1:358457151],
 2020-07-25,01:46.76,dino,jump_musparium_rc3,WR,Map,record,map_record,,-00:00.64,,1309686,76561198070882254,[U:1:110616526],

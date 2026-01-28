@@ -1,9 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2022-05-22,02:09.22,Waldo,jump_celeriix,WR,Map,announcement,irc_set,,,,,76561198020256631,[U:1:59990903],
+2022-05-22,02:09.22,Waldo,jump_celeriix,WR,Map,record,first_record,,,,1954381,76561198020256631,[U:1:59990903],
 2022-05-22,02:02.14,Jaffxsman,jump_celeriix,WR,Map,record,map_record,,-00:07.08,00:12.75,1954692,76561198091905306,[U:1:131639578],
 2022-05-22,01:42.33,Jaffxsman,jump_celeriix,WR,Map,record,map_record,,-00:19.81,00:19.81,1954692,76561198091905306,[U:1:131639578],
-2022-05-22,01:34.18,unknown,jump_celeriix,WR,Map,observed,wr_split,,,,,,,
-2022-05-23,01:27.39,unknown,jump_celeriix,WR,Map,observed,wr_split,,,,,,,
+2022-05-22,01:34.18,Waldo,jump_celeriix,WR,Map,record,map_record,,-00:09.22,00:09.22,1954921,76561198020256631,[U:1:59990903],
+2022-05-22,01:27.39,Waldo,jump_celeriix,WR,Map,record,map_record,,-00:06.79,00:06.79,1954921,76561198020256631,[U:1:59990903],
 2022-06-01,01:22.54,daelin,jump_celeriix,WR,Map,record,map_record,,-00:04.84,00:06.13,1963118,76561198083131259,[U:1:122865531],
 2022-06-07,01:21.75,cander,jump_celeriix,WR,Map,record,map_record,,-00:00.79,00:18.45,1968960,76561198318722879,[U:1:358457151],
 2022-06-07,01:20.86,cander,jump_celeriix,WR,Map,record,map_record,,-00:00.88,00:00.88,1968960,76561198318722879,[U:1:358457151],

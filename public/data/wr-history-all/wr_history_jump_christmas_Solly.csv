@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2015-05-16,06:43.87,naykenn,jump_christmas,WR,Map,record,first_record,,,,94350,76561198035188834,[U:1:74923106],
 2015-05-16,00:15.62,func,jump_christmas,WR,Bonus 1,record,zone_first,,,,94350,76561198088581265,[U:1:128315537],
 2015-05-16,00:22.17,Sir Nukeman,jump_christmas,WR,Bonus 2,record,zone_first,,,,94350,76561198140826293,[U:1:180560565],
+2015-05-16,06:43.87,naykenn,jump_christmas,WR,Map,record,first_record,,,,94350,76561198035188834,[U:1:74923106],
 2015-05-16,00:13.97,porkie,jump_christmas,WR,Bonus 1,record,zone_record,,-00:01.65,,94350,76561198054239403,[U:1:93973675],
 2015-05-16,00:14.31,porkie,jump_christmas,WR,Bonus 2,record,zone_record,,-00:07.85,,94350,76561198054239403,[U:1:93973675],
 2015-05-16,00:13.64,func,jump_christmas,WR,Bonus 1,record,zone_record,,-00:00.33,00:01.98,94350,76561198088581265,[U:1:128315537],
@@ -14,3 +14,4 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2015-05-19,06:20.56,naykenn,jump_christmas,WR,Map,record,map_record,,-00:20.05,00:23.31,95749,76561198035188834,[U:1:74923106],
 2015-05-19,05:48.52,naykenn,jump_christmas,WR,Map,record,map_record,,-00:32.04,00:32.04,95749,76561198035188834,[U:1:74923106],
 2018-03-19,04:49.87,un gato,jump_christmas,WR,Map,command,wr_command,,,,,,,
+2019-02-07,04:37.15,twitch.tv/boshyt,jump_christmas,WR,Map,record,map_record,,-00:46.78,00:46.78,886504,,,

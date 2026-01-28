@@ -1,10 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2019-03-11,01:35.91,unknown,jump_bojack_v2,WR,Map,observed,wr_split,,,,,,,
 2019-03-11,01:35.90,------------,jump_bojack_v2,WR,Map,command,wr_command,,,,,,,
 2019-10-29,01:32.87,Michael Jackson',jump_bojack_v2,WR,Map,record,map_record,,-00:03.02,00:04.32,1091530,,,
 2019-11-29,01:30.08,Pootis_Fazbear,jump_bojack_v2,WR,Map,record,map_record,,-00:02.79,00:02.94,1112733,76561198066947056,[U:1:106681328],
 2019-11-29,01:28.43,Pootis_Fazbear,jump_bojack_v2,WR,Map,record,map_record,,-00:01.65,00:01.65,1112733,76561198066947056,[U:1:106681328],
-2022-05-27,01:25.05,Judy Hopps ๑,jump_bojack_v2,WR,Map,announcement,irc,,-00:03.39,,,,,
+2022-05-27,01:25.05,Judy Hopps ๑,jump_bojack_v2,WR,Map,record,map_record,,-00:03.39,00:06.03,1958588,,,
 2023-07-24,01:22.35,vice,jump_bojack_v2,WR,Map,record,map_record,,-00:02.70,00:04.17,2420877,76561198366368448,[U:1:406102720],
 2023-11-28,01:22.33,Helmi. -CC,jump_bojack_v2,WR,Map,record,map_record,,-00:00.01,00:02.71,2613139,76561198201985399,[U:1:241719671],
-2023-11-30,01:19.74,Helmi. -CC,jump_bojack_v2,WR,Map,announcement,irc,,-00:02.59,,,76561198201985399,[U:1:241719671],
+2023-11-30,01:19.74,Helmi. -CC,jump_bojack_v2,WR,Map,record,map_record,,-00:02.59,00:02.59,2615740,76561198201985399,[U:1:241719671],

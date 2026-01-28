@@ -1,5 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2021-06-10,08:49.62,Gorge004,jump_skyscraper,WR,Map,announcement,irc_set,,,,,,,
-2021-06-11,08:09.84,unknown,jump_skyscraper,WR,Map,observed,wr_split,,,,,,,
-2021-06-11,07:57.69,unknown,jump_skyscraper,WR,Map,observed,wr_split,,,,,,,
-2021-06-11,07:30.51,IzzyHoP,jump_skyscraper,WR,Map,observed,wr_split,,,,,76561197995927883,[U:1:35662155],
+2021-06-11,08:09.84,IzzyHoP,jump_skyscraper,WR,Map,record,map_record,,-01:13.62,01:13.62,1610948,76561197995927883,[U:1:35662155],
+2021-06-11,07:57.69,IzzyHoP,jump_skyscraper,WR,Map,record,map_record,,-00:12.15,00:12.15,1610979,76561197995927883,[U:1:35662155],
+2021-06-11,07:30.51,IzzyHoP,jump_skyscraper,WR,Map,record,map_record,,-00:27.18,00:27.18,1610979,76561197995927883,[U:1:35662155],

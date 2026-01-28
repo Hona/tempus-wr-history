@@ -1,11 +1,11 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2017-12-15,09:57.29,Boshy,jump_speed2,WR,Map,observed,wr_split,,,,,,,
+2018-11-22,09:57.29,Boshy,jump_speed2,WR,Map,command,wr_command,,,,,,,
 2019-01-24,09:14.08,Boshy,jump_speed2,WR,Map,record,map_record,,-00:43.21,00:43.21,874915,76561198046601398,[U:1:86335670],
 2019-01-24,06:06.78,Boshy,jump_speed2,WR,Map,record,map_record,,-03:07.30,03:07.30,874915,76561198046601398,[U:1:86335670],
 2019-04-25,05:59.69,Boshy,jump_speed2,WR,Map,record,map_record,,-00:07.08,00:07.08,948412,76561198046601398,[U:1:86335670],
 2019-04-25,04:22.86,Boshy,jump_speed2,WR,Map,record,map_record,,-01:36.83,01:36.83,948438,76561198046601398,[U:1:86335670],
 2022-04-05,04:20.92,Cygnus,jump_speed2,WR,Map,record,map_record,,-00:01.94,00:16.06,1907402,76561198178042934,[U:1:217777206],
-2022-04-09,04:03.23,unknown,jump_speed2,WR,Map,observed,wr_split,,,,,,,
+2022-04-06,04:03.22,Cygnus,jump_speed2,WR,Map,record,map_record,,-00:17.70,00:17.70,1908228,76561198178042934,[U:1:217777206],
 2023-02-05,03:45.66,Cygnus -rng,jump_speed2,WR,Map,record,map_record,,-00:17.56,00:17.56,2204365,76561198178042934,[U:1:217777206],
 2023-05-17,03:33.93,Cygnus -rng,jump_speed2,WR,Map,record,map_record,,-00:11.73,00:11.73,2321708,76561198178042934,[U:1:217777206],
 2023-05-19,03:21.25,Cygnus -rng,jump_speed2,WR,Map,record,map_record,,-00:12.67,00:12.67,2324460,76561198178042934,[U:1:217777206],

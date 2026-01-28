@@ -1,5 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2023-10-07,11:12.60,riotbz,jump_balls_fix,WR,Map,announcement,irc_set,,,,,76561198065169685,[U:1:104903957],
+2023-10-07,11:12.60,riotbz,jump_balls_fix,WR,Map,record,first_record,,,,2534380,76561198065169685,[U:1:104903957],
 2023-10-07,07:14.98,5cheeseburgers,jump_balls_fix,WR,Map,record,map_record,,-03:57.61,,2534421,76561198059082549,[U:1:98816821],
 2023-10-07,06:05.46,5cheeseburgers,jump_balls_fix,WR,Map,record,map_record,,-01:09.52,01:09.52,2534421,76561198059082549,[U:1:98816821],
 2023-10-07,04:20.62,song,jump_balls_fix,WR,Map,record,map_record,,-01:44.83,09:48.06,2534758,76561198210286877,[U:1:250021149],

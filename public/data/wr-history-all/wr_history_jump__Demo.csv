@@ -1,9 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2021-06-03,07:08.65,Gorge004,jump_,WR,Map,announcement,irc_set,,,,,,,
-2021-06-04,06:33.45,phancy,jump_,WR,Map,announcement,irc_set,,,,,76561198116189732,[U:1:155924004],
-2021-06-04,05:22.47,phancy,jump_,WR,Map,announcement,irc,,-01:10.98,,,76561198116189732,[U:1:155924004],
-2021-06-04,05:14.74,phancy,jump_,WR,Map,announcement,irc,,-00:07.72,,,76561198116189732,[U:1:155924004],
-2021-06-04,04:51.27,phancy,jump_,WR,Map,announcement,irc,,-00:23.47,,,76561198116189732,[U:1:155924004],
 2021-06-04,04:08.01,lvl 100 menace,jump_,WR,Map,announcement,irc,,-00:43.26,,,,,
 2021-06-04,03:06.01,lvl 100 menace,jump_,WR,Map,announcement,irc,,-01:01.99,,,,,
 2021-06-05,02:59.43,lvl 100 menace,jump_,WR,Map,announcement,irc,,-00:06.58,,,,,

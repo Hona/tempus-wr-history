@@ -1,5 +1,4 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-01-03,01:01.44,unknown,jump_descent_v5,WR,Map,observed,wr_split,,,,,,,
 2018-01-03,00:58.91,vice,jump_descent_v5,WR,Map,record,map_record,,-00:02.52,00:04.78,542249,76561197960496196,[U:1:230468],
 2019-08-07,00:58.64,newjuls,jump_descent_v5,WR,Map,record,map_record,,-00:00.26,00:01.07,1028323,76561198396018338,[U:1:435752610],
 2019-08-07,00:58.53,cander,jump_descent_v5,WR,Map,record,map_record,,-00:00.11,00:08.71,1028495,76561198318722879,[U:1:358457151],

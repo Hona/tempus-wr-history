@@ -1,6 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2020-07-21,10:45.36,Smoothie.,jump_vertuosic_rc5,WR,Map,announcement,irc_set,,,,,76561198150908404,[U:1:190642676],
 2020-07-21,00:03.78,banana,jump_vertuosic_rc5,WR,Course 1,record,zone_first,,,,1306632,76561198095278714,[U:1:135012986],
 2020-07-21,00:16.66,Phancy,jump_vertuosic_rc5,WR,Bonus 3,record,zone_first,,,,1306737,76561198116189732,[U:1:155924004],
+2020-07-21,02:29.52,Smoothie.,jump_vertuosic_rc5,WR,Course 2,record,zone_record,,-01:02.58,01:02.58,1306737,76561198150908404,[U:1:190642676],
 2020-07-21,04:29.05,Smoothie.,jump_vertuosic_rc5,WR,Course 3,record,zone_first,,,,1306737,76561198150908404,[U:1:190642676],
+2020-07-21,10:45.36,Smoothie.,jump_vertuosic_rc5,WR,Map,record,first_record,,,,1306737,76561198150908404,[U:1:190642676],
 2020-07-21,00:16.40,Smoothie.,jump_vertuosic_rc5,WR,Bonus 3,record,zone_record,,-00:00.25,,1306737,76561198150908404,[U:1:190642676],

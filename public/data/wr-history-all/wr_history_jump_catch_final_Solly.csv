@@ -1,10 +1,11 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-09-06,01:58.47,unknown,jump_catch_final,WR,Map,observed,wr_split,,,,,,,
 2018-09-06,01:55.61,steve-o-licious,jump_catch_final,WR,Map,record,map_record,,-00:02.84,00:11.64,754164,76561198063901478,[U:1:103635750],
 2018-11-10,00:02.37,bernt,jump_catch_final,WR,Bonus 1,command,wr_command,,,,,,,
 2019-01-23,01:52.26,teardrop -pr,jump_catch_final,WR,Map,record,map_record,,-00:03.35,00:12.12,874368,76561198066947056,[U:1:106681328],
+2019-06-16,00:02.35,rose-tinted glas,jump_catch_final,WR,Bonus 1,record,zone_record,,-00:00.04,00:00.04,987620,,,
 2020-08-21,00:02.33,song,jump_catch_final,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.07,1332106,76561198210286877,[U:1:250021149],
 2021-07-13,01:51.57,Betteroffx,jump_catch_final,WR,Map,record,map_record,,-00:00.69,00:00.97,1637280,76561198111359203,[U:1:151093475],
+2021-09-16,00:02.29,arcade,jump_catch_final,WR,Bonus 1,record,zone_record,,-00:00.09,00:00.09,1708217,76561198047636129,[U:1:87370401],
 2022-07-29,01:49.14,Tupikas,jump_catch_final,WR,Map,record,map_record,,-00:02.43,00:03.15,2015716,76561198391066129,[U:1:430800401],
 2022-07-29,00:02.26,Skye,jump_catch_final,WR,Bonus 1,record,zone_record,,-00:00.03,00:00.42,2016183,76561197988619397,[U:1:28353669],
 2023-08-11,01:48.04,spidda,jump_catch_final,WR,Map,record,map_record,,-00:01.09,00:04.15,2448959,76561198057436685,[U:1:97170957],
@@ -12,4 +13,4 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2023-10-29,00:02.25,nibs,jump_catch_final,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.31,2567205,76561198035282173,[U:1:75016445],
 2024-08-02,00:02.23,vice,jump_catch_final,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.15,2975592,76561198366368448,[U:1:406102720],
 2024-09-13,01:44.04,spidda,jump_catch_final,WR,Map,record,map_record,,-00:01.27,00:04.00,3038276,76561198057436685,[U:1:97170957],
-2025-05-19,01:43.16,nikita@gosuslugi,jump_catch_final,WR,Map,announcement,irc,,-00:00.88,,,,,
+2025-05-19,01:43.16,nikita@gosuslugi,jump_catch_final,WR,Map,record,map_record,,-00:00.88,00:03.68,3325282,,,

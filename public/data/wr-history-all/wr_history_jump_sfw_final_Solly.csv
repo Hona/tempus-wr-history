@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-01-27,03:44.08,kidder,jump_sfw_final,WR,Map,observed,wr_split,,,,,76561198000949987,[U:1:40684259],
+2018-09-05,03:44.08,kidder,jump_sfw_final,WR,Map,command,wr_command,,,,,76561198000949987,[U:1:40684259],
 2018-09-05,01:34.93,birdhero420,jump_sfw_final,WR,Course 3,record,zone_record,,-00:13.84,00:31.95,753529,76561198066947056,[U:1:106681328],
-2018-09-06,03:31.11,birdhero420,jump_sfw_final,WR,Map,announcement,irc,,-00:12.97,,,76561198066947056,[U:1:106681328],
+2018-09-06,03:31.11,birdhero420,jump_sfw_final,WR,Map,record,map_record,,-00:12.97,00:40.00,754422,76561198066947056,[U:1:106681328],
 2018-09-08,00:48.64,Blurgie Johnson,jump_sfw_final,WR,Course 1,record,zone_record,,-00:00.32,00:02.35,756293,76561198066947056,[U:1:106681328],
 2018-09-08,03:25.93,p4rk,jump_sfw_final,WR,Map,record,map_record,,-00:05.17,00:05.17,756293,,,
 2018-09-16,00:47.97,Pokemon Go,jump_sfw_final,WR,Course 1,record,zone_record,,-00:00.67,00:00.67,764108,76561198066947056,[U:1:106681328],

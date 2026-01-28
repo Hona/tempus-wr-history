@@ -1,5 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-07-16,02:33.88,crocket | bg5.tf,jump_composite,WR,Map,observed,wr_split,,,,,,,
+2018-07-16,02:33.88,crocket | bg5.tf,jump_composite,WR,Map,command,wr_command,,,,,,,
 2018-07-16,02:33.49,newjuls,jump_composite,WR,Map,record,map_record,,-00:00.39,00:31.17,708019,76561198396018338,[U:1:435752610],
 2019-01-29,00:14.02,Jorge,jump_composite,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.65,879132,76561198101198779,[U:1:140933051],
 2019-02-12,02:26.36,Starkie,jump_composite,WR,Map,record,map_record,,-00:07.12,00:21.58,891202,76561198008003429,[U:1:47737701],
@@ -17,6 +17,7 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2020-02-24,00:09.70,song,jump_composite,WR,Bonus 3,record,zone_record,,-00:00.24,00:00.70,1180470,76561198210286877,[U:1:250021149],
 2020-03-07,00:12.52,Seras,jump_composite,WR,Bonus 1,record,zone_record,,-00:00.37,00:02.59,1190598,,,
 2020-06-16,00:03.46,cander,jump_composite,WR,Bonus 2,record,zone_record,,-00:00.05,00:00.05,1277056,76561198318722879,[U:1:358457151],
+2020-09-18,00:03.44,piano man,jump_composite,WR,Bonus 2,record,zone_record,,-00:00.19,00:00.19,1361622,76561198312076035,[U:1:351810307],
 2021-02-22,02:20.53,Tears in RaiiN,jump_composite,WR,Map,record,map_record,,-00:02.86,00:04.90,1516369,76561198035204545,[U:1:74938817],
 2021-03-18,02:01.72,watch me get thi,jump_composite,WR,Map,record,map_record,,-00:18.81,00:21.67,1538896,,,
 2021-03-18,01:52.68,watch me get thi,jump_composite,WR,Map,record,map_record,,-00:09.04,00:09.04,1538896,,,

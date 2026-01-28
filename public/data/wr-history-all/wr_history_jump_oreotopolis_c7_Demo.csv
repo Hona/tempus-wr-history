@@ -1,5 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-10-26,05:08.26,neon,jump_oreotopolis_c7,WR,Map,command,wr_command,,,,,,,
+2018-10-25,02:48.50,neon,jump_oreotopolis_c7,WR,Course 2,record,zone_record,,-01:58.44,01:58.44,799135,76561198041137841,[U:1:80872113],
+2018-10-25,05:08.26,neon,jump_oreotopolis_c7,WR,Map,record,map_record,,-02:41.43,02:41.43,799135,76561198041137841,[U:1:80872113],
 2018-10-26,02:31.65,twitch.tv/zike10,jump_oreotopolis_c7,WR,Course 2,record,zone_record,,-00:16.85,01:46.52,799963,,,
 2018-10-26,04:28.48,twitch.tv/zike10,jump_oreotopolis_c7,WR,Map,record,map_record,,-00:39.78,03:22.75,799963,,,
 2018-10-26,01:31.85,twitch.tv/zike10,jump_oreotopolis_c7,WR,Course 1,record,zone_record,,-00:04.23,00:05.17,799963,,,
@@ -20,8 +21,8 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2019-10-09,01:08.42,Zike1017 ツ -tt,jump_oreotopolis_c7,WR,Course 1,record,zone_record,,-00:00.86,00:00.86,1077306,,,
 2019-10-09,01:06.61,Zike1017 ツ -tt,jump_oreotopolis_c7,WR,Course 1,record,zone_record,,-00:01.80,00:01.80,1077306,,,
 2019-10-12,01:44.86,ุ,jump_oreotopolis_c7,WR,Course 2,record,zone_record,,-00:02.77,00:05.74,1079460,76561198222006144,[U:1:261740416],
-2021-03-29,03:09.85,t.tv,jump_oreotopolis_c7,WR,Map,record,map_record,,-00:13.93,00:56.43,1549813,76561198035204545,[U:1:74938817],
 2021-03-29,01:04.08,t.tv,jump_oreotopolis_c7,WR,Course 1,record,zone_record,,-00:02.53,00:02.71,1549813,76561198035204545,[U:1:74938817],
+2021-03-29,03:09.85,t.tv,jump_oreotopolis_c7,WR,Map,record,map_record,,-00:13.93,00:56.43,1549813,76561198035204545,[U:1:74938817],
 2021-08-08,01:33.43,phancy,jump_oreotopolis_c7,WR,Course 2,record,zone_record,,-00:11.43,00:22.00,1663153,76561198116189732,[U:1:155924004],
 2025-08-01,01:02.42,Matty,jump_oreotopolis_c7,WR,Course 1,record,zone_record,,-00:00.48,00:01.66,3430976,76561198035204545,[U:1:74938817],
 2025-10-25,01:00.10,PFC D. Clanker [,jump_oreotopolis_c7,WR,Course 1,record,zone_record,,-00:02.31,00:02.79,3549128,,,

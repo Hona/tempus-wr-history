@@ -1,7 +1,8 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-12-23,05:22.74,Boshy,jump_schadenfreude_rc1,WR,Map,announcement,irc,,-00:52.24,,,76561198046601398,[U:1:86335670],
+2018-12-23,06:14.98,Jerome,jump_schadenfreude_rc1,WR,Map,record,map_record,,-01:35.49,01:35.49,848545,76561198036170813,[U:1:75905085],
+2018-12-23,05:22.74,Boshy,jump_schadenfreude_rc1,WR,Map,record,map_record,,-00:52.24,01:02.42,848613,76561198046601398,[U:1:86335670],
 2021-07-31,05:20.35,KuzmaFan,jump_schadenfreude_rc1,WR,Map,record,map_record,,-00:02.39,00:36.96,1653156,76561198109904512,[U:1:149638784],
-2022-09-25,05:04.02,ondkaja,jump_schadenfreude_rc1,WR,Map,announcement,irc,,-00:16.33,,,76561198010123351,[U:1:49857623],
+2022-09-25,05:04.02,ondkaja,jump_schadenfreude_rc1,WR,Map,record,map_record,,-00:16.33,00:19.14,2068396,76561198010123351,[U:1:49857623],
 2023-09-11,04:58.27,tripbwai,jump_schadenfreude_rc1,WR,Map,record,map_record,,-00:05.74,00:22.08,2496591,76561198109904512,[U:1:149638784],
 2024-03-09,04:54.94,makly,jump_schadenfreude_rc1,WR,Map,record,map_record,,-00:03.33,00:59.07,2766819,76561197976761681,[U:1:16495953],
 2024-05-13,04:26.55,x_ray2700,jump_schadenfreude_rc1,WR,Map,record,map_record,,-00:28.39,00:29.91,2858074,76561198979680671,[U:1:1019414943],

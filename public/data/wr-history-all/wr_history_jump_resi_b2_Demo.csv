@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2018-04-13,01:42.60,Soup -tt,jump_resi_b2,WR,Map,record,map_record,,-00:00.46,,623826,76561198029285343,[U:1:69019615],
-2018-08-20,01:40.88,newjuls,jump_resi_b2,WR,Map,announcement,irc,,-00:01.71,,,76561198396018338,[U:1:435752610],
-2019-04-28,01:40.35,vice,jump_resi_b2,WR,Map,announcement,irc,,-00:00.53,,,76561198366368448,[U:1:406102720],
+2018-08-20,01:40.88,newjuls,jump_resi_b2,WR,Map,record,map_record,,-00:01.71,00:02.22,739362,76561198396018338,[U:1:435752610],
+2019-04-28,01:40.35,vice,jump_resi_b2,WR,Map,record,map_record,,-00:00.53,00:06.88,950296,76561198366368448,[U:1:406102720],
 2019-07-12,01:37.65,newjuls,jump_resi_b2,WR,Map,record,map_record,,-00:02.70,00:02.86,1008204,76561198396018338,[U:1:435752610],
 2019-08-09,00:03.49,basil,jump_resi_b2,WR,Bonus 1,record,zone_record,,-00:00.05,00:00.45,1030052,76561198041977504,[U:1:81711776],
 2019-08-16,00:03.47,ed,jump_resi_b2,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.06,1035613,76561198222006144,[U:1:261740416],
@@ -14,4 +14,4 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2020-02-08,00:02.81,cander -cg ุ,jump_resi_b2,WR,Bonus 1,record,zone_record,,-00:00.11,00:00.16,1168456,,,
 2020-02-08,01:34.82,ryan tedder,jump_resi_b2,WR,Map,record,map_record,,-00:02.82,00:04.04,1168456,76561198366368448,[U:1:406102720],
 2020-03-29,00:02.77,song -cg,jump_resi_b2,WR,Bonus 1,record,zone_record,,-00:00.04,00:00.05,1209309,76561198210286877,[U:1:250021149],
-2021-12-11,01:31.00,Soup -tt,jump_resi_b2,WR,Map,observed,wr_split,,,,,,,
+2021-02-26,01:31.00,Armin van Buuren,jump_resi_b2,WR,Map,record,map_record,,-00:06.82,00:06.82,1519961,,,

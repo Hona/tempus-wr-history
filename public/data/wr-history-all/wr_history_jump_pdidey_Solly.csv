@@ -1,4 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-05-22,01:44.76,LJ,jump_pdidey,WR,Map,record,map_record,,-00:02.75,00:02.75,656657,76561198043956413,[U:1:83690685],
 2018-05-23,01:44.32,jdizzle,jump_pdidey,WR,Map,record,map_record,,-00:00.44,00:00.63,656858,76561198046601398,[U:1:86335670],
 2018-05-23,01:42.35,jdizzle,jump_pdidey,WR,Map,record,map_record,,-00:01.96,00:01.96,656858,76561198046601398,[U:1:86335670],
 2018-05-23,01:40.45,jdizzle,jump_pdidey,WR,Map,record,map_record,,-00:01.90,00:01.90,656858,76561198046601398,[U:1:86335670],
@@ -6,8 +7,8 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2019-01-31,01:39.53,twitch.tv/boshyt,jump_pdidey,WR,Map,record,map_record,,-00:00.13,00:00.13,880868,,,
 2019-01-31,01:35.89,twitch.tv/boshyt,jump_pdidey,WR,Map,record,map_record,,-00:03.64,00:03.64,880868,,,
 2019-01-31,01:35.15,twitch.tv/boshyt,jump_pdidey,WR,Map,record,map_record,,-00:00.73,00:00.73,880868,,,
-2021-10-20,01:33.69,unknown,jump_pdidey,WR,Map,observed,wr_split,,,,,,,
+2021-02-28,01:33.69,Ninja Cookie,jump_pdidey,WR,Map,record,map_record,,-00:02.14,00:02.14,1522446,76561197961575317,[U:1:1309589],
 2022-02-26,01:33.16,3gud5mi,jump_pdidey,WR,Map,record,map_record,,-00:00.52,00:01.39,1871680,76561198273087357,[U:1:312821629],
 2022-02-26,01:32.52,3gud5mi,jump_pdidey,WR,Map,record,map_record,,-00:00.64,00:00.64,1872140,76561198273087357,[U:1:312821629],
 2022-02-26,01:31.21,3gud5mi,jump_pdidey,WR,Map,record,map_record,,-00:01.30,00:01.30,1872140,76561198273087357,[U:1:312821629],
-2025-10-24,01:29.28,headed horseless,jump_pdidey,WR,Map,announcement,irc,,-00:01.94,,,,,
+2025-10-24,01:29.28,headed horseless,jump_pdidey,WR,Map,record,map_record,,-00:01.94,01:14.24,3547485,,,

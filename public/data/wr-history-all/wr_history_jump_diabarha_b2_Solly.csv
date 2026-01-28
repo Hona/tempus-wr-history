@@ -1,6 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2017-11-28,1:46:15.17,MrHappyCamper,jump_diabarha_b2,WR,Map,announcement,irc_set,,,,,76561198053056815,[U:1:92791087],
 2017-11-28,00:05.71,POOTIS OF DOOM,jump_diabarha_b2,WR,Bonus 1,record,zone_first,,,,513443,76561198046601398,[U:1:86335670],
+2017-11-28,1:46:15.17,MrHappyCamper,jump_diabarha_b2,WR,Map,record,first_record,,,,513586,76561198053056815,[U:1:92791087],
 2017-11-29,59:34.24,goooork,jump_diabarha_b2,WR,Map,record,map_record,,-46:40.92,,513865,76561198000949987,[U:1:40684259],
 2017-11-29,37:37.30,Boshy,jump_diabarha_b2,WR,Map,record,map_record,,-21:56.94,,513871,76561198046601398,[U:1:86335670],
 2017-11-29,28:53.38,Larry,jump_diabarha_b2,WR,Map,record,map_record,,-08:43.92,1:31:15.75,514154,76561198060570011,[U:1:100304283],
@@ -13,6 +13,6 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2019-02-28,09:11.67,twitch.tv/boshyt,jump_diabarha_b2,WR,Map,record,map_record,,-02:21.35,02:21.35,904496,,,
 2021-05-13,07:17.10,tomato tom,jump_diabarha_b2,WR,Map,record,map_record,,-01:54.57,12:16.26,1587302,76561198120374593,[U:1:160108865],
 2022-07-17,06:59.41,www.speedwalkers,jump_diabarha_b2,WR,Map,record,map_record,,-00:17.68,00:44.22,2004138,,,
-2022-07-18,05:14.70,www.speedwalkers,jump_diabarha_b2,WR,Map,announcement,irc,,-01:44.71,,,,,
+2022-07-18,05:14.70,www.speedwalkers,jump_diabarha_b2,WR,Map,record,map_record,,-01:44.71,01:44.71,2005108,,,
 2023-06-13,05:08.19,Cygnus -rng,jump_diabarha_b2,WR,Map,record,map_record,,-00:06.51,00:06.51,2361819,76561198178042934,[U:1:217777206],
 2023-06-13,04:34.83,Cygnus -rng,jump_diabarha_b2,WR,Map,record,map_record,,-00:33.36,00:33.36,2361819,76561198178042934,[U:1:217777206],

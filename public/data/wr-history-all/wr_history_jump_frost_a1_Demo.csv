@@ -1,9 +1,11 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-04-17,06:25.03,Robin inda Hood,jump_frost_a1,WR,Map,command,wr_command,,,,,76561198020766438,[U:1:60500710],
+2018-04-15,02:18.65,Robin inda Hood,jump_frost_a1,WR,Course 2,record,zone_record,,-00:08.16,00:08.16,624906,76561198020766438,[U:1:60500710],
+2018-04-17,02:19.80,Robin inda Hood,jump_frost_a1,WR,Course 3,record,zone_record,,-00:11.16,00:11.16,626710,76561198020766438,[U:1:60500710],
+2018-04-17,06:25.03,Robin inda Hood,jump_frost_a1,WR,Map,record,map_record,,-01:29.47,01:29.47,626789,76561198020766438,[U:1:60500710],
 2018-07-24,06:20.97,Nycryte,jump_frost_a1,WR,Map,record,map_record,,-00:04.06,01:55.28,715484,76561198105277071,[U:1:145011343],
+2018-07-25,05:33.98,Robin inda Hood,jump_frost_a1,WR,Map,record,map_record,,-00:51.04,00:51.04,716146,76561198020766438,[U:1:60500710],
 2018-08-26,01:41.62,Nycryte,jump_frost_a1,WR,Course 2,record,zone_record,,-00:01.50,00:05.19,744175,76561198105277071,[U:1:145011343],
 2019-09-27,00:12.74,mix˅,jump_frost_a1,WR,Course 1,record,zone_record,,-00:00.01,00:00.07,1067878,76561198318722879,[U:1:358457151],
-2020-01-04,05:33.98,Robin inda Hood,jump_frost_a1,WR,Map,command,wr_command,,,,,,,
 2020-01-04,00:12.51,song -cg,jump_frost_a1,WR,Course 1,record,zone_record,,-00:00.23,00:00.39,1140569,76561198210286877,[U:1:250021149],
 2021-02-17,01:21.40,v.v.v.v.v.v.,jump_frost_a1,WR,Course 2,record,zone_record,,-00:10.82,00:12.43,1511167,76561198035204545,[U:1:74938817],
 2021-02-17,01:17.94,v.v.v.v.v.v.,jump_frost_a1,WR,Course 2,record,zone_record,,-00:03.46,00:03.46,1511167,76561198035204545,[U:1:74938817],

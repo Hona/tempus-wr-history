@@ -1,6 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2018-09-14,02:19.60,newjuls,jump_sohr_a5,WR,Map,record,first_record,,,,761679,76561198396018338,[U:1:435752610],
-2018-09-14,02:14.89,vice,jump_sohr_a5,WR,Map,announcement,irc,,-00:04.71,,,76561198366368448,[U:1:406102720],
+2018-09-14,02:14.89,vice,jump_sohr_a5,WR,Map,record,map_record,,-00:04.71,,761701,76561198366368448,[U:1:406102720],
 2018-09-14,01:26.66,vice,jump_sohr_a5,WR,Map,record,map_record,,-00:48.22,00:48.22,761701,76561198366368448,[U:1:406102720],
 2018-10-06,01:23.63,Starkie,jump_sohr_a5,WR,Map,record,map_record,,-00:03.03,00:13.92,781845,76561198008003429,[U:1:47737701],
 2018-12-29,01:17.39,aaaaaaah,jump_sohr_a5,WR,Map,record,map_record,,-00:06.24,00:14.64,853019,,,
@@ -8,4 +8,4 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2020-09-11,01:14.52,pî,jump_sohr_a5,WR,Map,record,map_record,,-00:02.35,00:02.87,1354247,76561198222006144,[U:1:261740416],
 2020-09-11,01:11.74,pî,jump_sohr_a5,WR,Map,record,map_record,,-00:02.77,00:02.77,1354247,76561198222006144,[U:1:261740416],
 2023-11-11,01:11.08,Matty,jump_sohr_a5,WR,Map,record,map_record,,-00:00.66,00:01.80,2586159,76561198035204545,[U:1:74938817],
-2024-11-14,01:08.13,cander,jump_sohr_a5,WR,Map,announcement,irc,,-00:02.95,,,76561198318722879,[U:1:358457151],
+2024-11-14,01:08.13,cander,jump_sohr_a5,WR,Map,record,map_record,,-00:02.95,00:04.08,3129478,76561198318722879,[U:1:358457151],

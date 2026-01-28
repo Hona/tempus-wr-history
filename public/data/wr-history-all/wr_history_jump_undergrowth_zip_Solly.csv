@@ -1,5 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2021-10-31,01:08.70,Boshy,jump_undergrowth_zip,WR,Map,observed,wr_split,,,,,,,
+2021-11-04,01:08.70,Boshy,jump_undergrowth_zip,WR,Map,command,wr_command,,,,,,,
 2021-11-06,01:07.71,DenDro,jump_undergrowth_zip,WR,Map,record,map_record,,-00:00.99,00:02.26,1757741,76561198126091800,[U:1:165826072],
-2023-05-13,01:07.65,Helmi.,jump_undergrowth_zip,WR,Map,record,map_record,,-00:00.06,00:06.61,2316715,76561198201985399,[U:1:241719671],
+2021-12-01,01:06.58,FF73,jump_undergrowth_zip,WR,Map,record,map_record,,-00:02.12,00:02.12,1784811,76561198046601398,[U:1:86335670],
+2021-12-02,01:06.31,FF73,jump_undergrowth_zip,WR,Map,record,map_record,,-00:00.27,00:00.27,1785375,76561198046601398,[U:1:86335670],
+2021-12-02,01:06.10,FF73,jump_undergrowth_zip,WR,Map,record,map_record,,-00:00.21,00:00.21,1785556,76561198046601398,[U:1:86335670],
+2021-12-03,01:05.68,hidechat,jump_undergrowth_zip,WR,Map,record,map_record,,-00:00.42,00:00.42,1786140,76561198046601398,[U:1:86335670],
+2021-12-03,01:04.90,hidechat,jump_undergrowth_zip,WR,Map,record,map_record,,-00:00.78,00:00.78,1786161,76561198046601398,[U:1:86335670],
 2023-05-14,01:04.15,Helmi.,jump_undergrowth_zip,WR,Map,record,map_record,,-00:03.49,00:03.49,2317884,76561198201985399,[U:1:241719671],

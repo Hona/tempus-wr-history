@@ -1,5 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2024-07-07,02:27.96,vice,jump_dreamy_final_fix,WR,Map,observed,wr_split,,,,,76561198366368448,[U:1:406102720],
+2024-07-07,02:27.96,vice,jump_dreamy_final_fix,WR,Map,command,wr_command,,,,,,,
 2024-07-11,00:01.66,kratos,jump_dreamy_final_fix,WR,Bonus 4,command,wr_command,,,,,76561198930334128,[U:1:970068400],
 2024-07-17,00:02.22,₍ᐢᐢ₎. us,jump_dreamy_final_fix,WR,Bonus 5,command,rank_command,,,,,,,
 2024-07-19,00:44.05,sam,jump_dreamy_final_fix,WR,Course 3,record,zone_record,,-00:01.26,00:02.56,2955499,76561198045707908,[U:1:85442180],
@@ -14,8 +14,9 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2024-11-04,00:01.27,₍ᐢᐢ₎. us,jump_dreamy_final_fix,WR,Bonus 6,record,zone_record,,-00:00.07,00:00.15,3114910,,,
 2024-11-04,00:02.53,₍ᐢᐢ₎. us,jump_dreamy_final_fix,WR,Bonus 3,record,zone_record,,-00:00.06,00:00.21,3114910,,,
 2024-11-06,00:02.37,₍ᐢᐢ₎. us,jump_dreamy_final_fix,WR,Bonus 3,record,zone_record,,-00:00.03,00:00.03,3117505,,,
+2024-11-07,00:02.28,Waldo,jump_dreamy_final_fix,WR,Bonus 3,record,zone_record,,-00:00.12,00:00.12,3118694,76561198020256631,[U:1:59990903],
 2024-11-07,00:02.25,₍ᐢᐢ₎. us,jump_dreamy_final_fix,WR,Bonus 3,record,zone_record,,-00:00.03,00:00.06,3118906,,,
 2025-09-12,00:29.98,kater,jump_dreamy_final_fix,WR,Course 1,record,zone_record,,-00:00.06,00:01.68,3489781,76561198222006144,[U:1:261740416],
 2025-09-12,00:39.86,kater,jump_dreamy_final_fix,WR,Course 3,record,zone_record,,-00:00.22,00:01.68,3489781,76561198222006144,[U:1:261740416],
-2025-10-25,00:29.74,PFC D. Clanker [,jump_dreamy_final_fix,WR,Course 1,record,zone_record,,-00:00.06,00:00.06,3548567,,,
+2025-10-25,00:29.18,5* ship cleaner,jump_dreamy_final_fix,WR,Course 1,record,zone_record,,-00:00.87,00:00.87,3548510,76561198096062185,[U:1:135796457],
 2025-10-25,00:28.98,PFC D. Clanker [,jump_dreamy_final_fix,WR,Course 1,record,zone_record,,-00:00.20,00:00.76,3548567,,,

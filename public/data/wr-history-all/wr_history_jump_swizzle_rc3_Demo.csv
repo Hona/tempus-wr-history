@@ -1,4 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2021-01-05,16:19.89,riot,jump_swizzle_rc3,WR,Bonus 1,record,zone_first,,,,1468389,76561198065169685,[U:1:104903957],
 2021-01-05,09:04.89,Waldo,jump_swizzle_rc3,WR,Bonus 1,record,zone_record,,-07:15.00,,1468556,76561198020256631,[U:1:59990903],
-2021-01-05,04:06.10,Waldo,jump_swizzle_rc3,WR,Bonus 1,command,wr_command,,,,,,,
+2021-01-05,05:12.66,Waldo,jump_swizzle_rc3,WR,Bonus 1,record,zone_record,,-03:52.23,03:52.23,1468556,76561198020256631,[U:1:59990903],
+2021-01-05,04:06.10,Waldo,jump_swizzle_rc3,WR,Bonus 1,record,zone_record,,-01:06.55,01:06.55,1468556,76561198020256631,[U:1:59990903],

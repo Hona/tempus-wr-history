@@ -1,9 +1,8 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2020-07-13,00:01.87,╚(•⌂•),jump_prostate_b4,WR,Bonus 4,record,zone_record,,-00:00.00,00:00.00,1299524,,,
 2020-07-13,00:01.84,╚(•⌂•),jump_prostate_b4,WR,Bonus 4,record,zone_record,,-00:00.02,00:00.02,1299524,,,
-2020-07-13,02:54.03,unknown,jump_prostate_b4,WR,Map,observed,wr_split,,,,,,,
 2020-11-20,00:01.86,Phancy,jump_prostate_b4,WR,Bonus 2,record,zone_record,,-00:00.06,,1423553,76561198116189732,[U:1:155924004],
 2021-01-03,00:01.84,cander,jump_prostate_b4,WR,Bonus 2,record,zone_record,,-00:00.01,00:00.01,1466562,76561198318722879,[U:1:358457151],
+2021-05-01,00:08.47,Waldo,jump_prostate_b4,WR,Bonus 1,record,zone_record,,-02:15.36,02:15.36,1577699,76561198020256631,[U:1:59990903],
 2021-09-25,02:49.90,phancy,jump_prostate_b4,WR,Map,record,map_record,,-00:04.13,00:16.78,1712845,76561198116189732,[U:1:155924004],
-2023-06-06,00:08.47,Waldo,jump_prostate_b4,WR,Bonus 1,command,wr_command,,,,,,,
-2025-09-14,02:46.26,cander,jump_prostate_b4,WR,Map,announcement,irc,,-00:03.64,,,76561198318722879,[U:1:358457151],
+2025-09-14,02:46.26,cander,jump_prostate_b4,WR,Map,record,map_record,,-00:03.64,00:25.12,3492284,76561198318722879,[U:1:358457151],

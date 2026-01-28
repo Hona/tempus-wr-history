@@ -1,11 +1,11 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2014-07-26,00:44.17,oka | poop acade...,jump_wallclimb_v1alpha,WR,Map,record,map_record,,-00:02.59,00:02.59,12401,76561198070882254,STEAM_0:0:55308263,
 2014-08-04,00:40.54,Seras,jump_wallclimb_v1alpha,WR,Map,record,map_record,,-00:03.63,00:03.63,13888,76561198070882254,STEAM_0:0:55308263,
-2018-02-10,00:36.14,gonk,jump_wallclimb_v1alpha,WR,Map,announcement,irc,,-00:00.94,,,76561198396018338,[U:1:435752610],
+2018-02-10,00:36.14,gonk,jump_wallclimb_v1alpha,WR,Map,record,map_record,,-00:00.94,00:01.16,573980,76561198396018338,[U:1:435752610],
 2018-06-03,00:35.92,twitch.tv/zike10,jump_wallclimb_v1alpha,WR,Map,record,map_record,,-00:00.22,00:00.33,667500,,,
 2019-10-28,00:35.26,Arthur Fleck,jump_wallclimb_v1alpha,WR,Map,record,map_record,,-00:00.65,00:06.23,1090868,76561198366368448,[U:1:406102720],
 2020-01-10,00:33.99,song -cg,jump_wallclimb_v1alpha,WR,Map,record,map_record,,-00:01.26,00:06.20,1145054,76561198210286877,[U:1:250021149],
-2021-04-17,00:33.24,unknown,jump_wallclimb_v1alpha,WR,Map,observed,wr_split,,,,,,,
+2020-12-29,00:33.24,Zike1017,jump_wallclimb_v1alpha,WR,Map,record,map_record,,-00:01.35,00:01.35,1462462,76561198050366275,[U:1:90100547],
 2021-08-07,00:33.01,kajasumthing,jump_wallclimb_v1alpha,WR,Map,record,map_record,,-00:00.22,00:00.39,1661989,76561198091590767,[U:1:131325039],
 2024-07-23,00:32.91,sam,jump_wallclimb_v1alpha,WR,Map,record,map_record,,-00:00.10,00:00.34,2962000,76561198045707908,[U:1:85442180],
 2024-09-07,00:32.01,Kajasumthing,jump_wallclimb_v1alpha,WR,Map,record,map_record,,-00:00.90,00:01.00,3029715,76561198091590767,[U:1:131325039],

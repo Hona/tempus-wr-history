@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2014-07-27,02:54.61,rock on,jump_jakey_a2,WR,Map,announcement,irc_set,,,,,,,
-2014-07-27,02:29.59,rock on,jump_jakey_a2,WR,Map,announcement,irc,,-00:25.02,,,,,
-2014-07-27,01:59.80,rock on,jump_jakey_a2,WR,Map,announcement,irc,,-00:29.78,,,,,
+2014-07-27,02:54.61,rock on,jump_jakey_a2,WR,Map,record,first_record,,,,12475,,,
+2014-07-27,02:29.59,rock on,jump_jakey_a2,WR,Map,record,map_record,,-00:25.02,00:25.02,12475,,,
+2014-07-27,01:59.80,rock on,jump_jakey_a2,WR,Map,record,map_record,,-00:29.78,00:29.78,12475,,,
 2014-07-27,01:48.75,rock on,jump_jakey_a2,WR,Map,record,map_record,,-00:11.05,00:11.05,12475,,,
 2014-07-27,01:41.48,Kucino,jump_jakey_a2,WR,Map,record,map_record,,-00:07.26,00:07.26,12475,76561198045405184,STEAM_0:0:42569728,
 2014-07-27,01:34.69,oka | poop acade...,jump_jakey_a2,WR,Map,record,map_record,,-00:06.79,00:11.90,12480,76561198070882254,STEAM_0:0:55308263,
@@ -14,6 +14,6 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2015-08-16,01:21.44,kokoro :>,jump_jakey_a2,WR,Map,record,map_record,,-00:02.31,00:05.67,129022,76561198035787281,[U:1:75521553],
 2015-09-08,01:20.86,Soup Can,jump_jakey_a2,WR,Map,record,map_record,,-00:00.58,00:03.55,138206,76561198029285343,[U:1:69019615],
 2015-09-08,01:18.37,Soup Can,jump_jakey_a2,WR,Map,record,map_record,,-00:02.48,00:02.48,138206,76561198029285343,[U:1:69019615],
-2018-09-19,01:09.35,vice,jump_jakey_a2,WR,Map,announcement,irc,,-00:04.25,,,76561198366368448,[U:1:406102720],
+2018-09-19,01:09.35,vice,jump_jakey_a2,WR,Map,record,map_record,,-00:04.25,00:04.57,766514,76561198366368448,[U:1:406102720],
 2023-07-26,01:09.00,samburger,jump_jakey_a2,WR,Map,record,map_record,,-00:00.36,00:00.84,2424819,76561198045707908,[U:1:85442180],
 2023-08-26,01:07.11,hayley,jump_jakey_a2,WR,Map,record,map_record,,-00:01.89,00:02.25,2472143,76561198366368448,[U:1:406102720],

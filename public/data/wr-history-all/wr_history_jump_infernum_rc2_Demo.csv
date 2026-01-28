@@ -1,5 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2023-05-27,02:02.92,Waldo,jump_infernum_rc2,WR,Map,announcement,irc_set,,,,,76561198020256631,[U:1:59990903],
+2023-05-27,02:02.92,Waldo,jump_infernum_rc2,WR,Map,record,first_record,,,,2337218,76561198020256631,[U:1:59990903],
 2023-05-27,01:51.61,aaslas,jump_infernum_rc2,WR,Map,record,map_record,,-00:11.31,,2337218,76561198149627108,[U:1:189361380],
 2023-05-27,01:36.40,aaslas,jump_infernum_rc2,WR,Map,record,map_record,,-00:15.21,00:15.21,2337218,76561198149627108,[U:1:189361380],
 2023-05-27,01:28.33,aaslas,jump_infernum_rc2,WR,Map,record,map_record,,-00:08.07,00:08.07,2337218,76561198149627108,[U:1:189361380],

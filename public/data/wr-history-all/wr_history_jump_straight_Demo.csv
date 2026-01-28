@@ -1,6 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-01-06,00:49.83,unknown,jump_straight,WR,Map,observed,wr_split,,,,,,,
-2018-01-06,00:49.57,jichu,jump_straight,WR,Map,command,wr_command,,,,,76561198152617188,[U:1:192351460],
+2018-01-06,00:49.57,jichu,jump_straight,WR,Map,record,map_record,,-00:08.12,00:08.12,545270,76561198152617188,[U:1:192351460],
+2018-01-06,00:10.18,jichu,jump_straight,WR,Course 1,record,zone_record,,-00:00.21,00:00.21,545270,76561198152617188,[U:1:192351460],
 2018-02-26,00:49.28,killmonger,jump_straight,WR,Map,record,map_record,,-00:00.28,00:00.32,586091,76561197960496196,[U:1:230468],
 2018-09-03,00:48.82,kater ツ,jump_straight,WR,Map,record,map_record,,-00:00.46,00:01.00,751627,76561198222006144,[U:1:261740416],
 2018-09-03,00:10.33,kater ツ,jump_straight,WR,Course 3,record,zone_record,,-00:00.05,00:00.19,751627,76561198222006144,[U:1:261740416],
@@ -11,7 +11,7 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2019-04-05,00:10.03,kater,jump_straight,WR,Course 3,record,zone_record,,-00:00.01,00:00.12,932196,76561198222006144,[U:1:261740416],
 2019-04-05,00:48.46,kater,jump_straight,WR,Map,record,map_record,,-00:00.28,00:00.36,932196,76561198222006144,[U:1:261740416],
 2019-04-05,00:10.02,kater,jump_straight,WR,Course 1,record,zone_record,,-00:00.02,00:00.04,932196,76561198222006144,[U:1:261740416],
-2019-04-07,00:47.68,vice,jump_straight,WR,Map,announcement,irc,,-00:00.78,,,76561198366368448,[U:1:406102720],
+2019-04-07,00:47.68,vice,jump_straight,WR,Map,record,map_record,,-00:00.78,00:01.06,933828,76561198366368448,[U:1:406102720],
 2019-04-07,00:09.96,vice,jump_straight,WR,Course 3,record,zone_record,,-00:00.07,00:00.08,933828,76561198366368448,[U:1:406102720],
 2019-05-02,00:47.31,cander,jump_straight,WR,Map,record,map_record,,-00:00.37,00:01.48,953434,76561198318722879,[U:1:358457151],
 2019-05-03,00:45.72,vice,jump_straight,WR,Map,record,map_record,,-00:01.59,00:01.96,954227,76561198366368448,[U:1:406102720],

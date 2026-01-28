@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-08-24,04:00.70,unknown,jump_demonstrationman_a4,WR,Map,observed,wr_split,,,,,,,
-2018-08-25,03:39.84,unknown,jump_demonstrationman_a4,WR,Map,observed,wr_split,,,,,,,
-2018-08-25,03:20.34,newjuls,jump_demonstrationman_a4,WR,Map,announcement,irc,,-00:19.49,,,76561198396018338,[U:1:435752610],
+2018-08-24,03:45.85,pissybwai :3,jump_demonstrationman_a4,WR,Map,record,map_record,,-04:48.74,04:48.74,742993,76561198045707908,[U:1:85442180],
+2018-08-25,03:39.83,pissybwai :3,jump_demonstrationman_a4,WR,Map,record,map_record,,-00:06.01,00:06.01,743199,76561198045707908,[U:1:85442180],
+2018-08-25,03:20.34,newjuls,jump_demonstrationman_a4,WR,Map,record,map_record,,-00:19.49,04:41.53,743380,76561198396018338,[U:1:435752610],
 2018-08-25,02:41.53,newjuls,jump_demonstrationman_a4,WR,Map,record,map_record,,-00:38.80,00:38.80,743380,76561198396018338,[U:1:435752610],
 2018-10-05,02:33.40,shpeengas,jump_demonstrationman_a4,WR,Map,record,map_record,,-00:08.13,00:16.78,781025,76561198008003429,[U:1:47737701],
 2019-01-31,00:11.06,Jorge,jump_demonstrationman_a4,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.71,880712,76561198101198779,[U:1:140933051],

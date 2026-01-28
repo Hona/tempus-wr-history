@@ -1,8 +1,10 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2018-05-27,02:52.94,neon,jump_pdidey,WR,Map,command,wr_command,,,,,,,
-2018-05-27,02:50.35,shlab,jump_pdidey,WR,Map,command,wr_command,,,,,76561198099670197,[U:1:139404469],
-2018-05-27,02:46.20,shlab,jump_pdidey,WR,Map,command,rank_command,,,,,76561198099670197,[U:1:139404469],
-2018-06-09,02:32.98,neon,jump_pdidey,WR,Map,command,wr_command,,,,,76561198041137841,[U:1:80872113],
+2018-05-27,02:50.35,shlab,jump_pdidey,WR,Map,record,map_record,,-00:02.97,00:02.97,660796,76561198099670197,[U:1:139404469],
+2018-05-27,02:46.20,shlab,jump_pdidey,WR,Map,record,map_record,,-00:04.15,00:04.15,660796,76561198099670197,[U:1:139404469],
+2018-06-07,02:41.58,neon,jump_pdidey,WR,Map,record,map_record,,-00:06.28,00:06.28,671620,76561198041137841,[U:1:80872113],
+2018-06-09,02:39.34,neon,jump_pdidey,WR,Map,record,map_record,,-00:02.23,00:02.23,673420,76561198041137841,[U:1:80872113],
+2018-06-09,02:32.98,neon,jump_pdidey,WR,Map,record,map_record,,-00:06.35,00:06.35,673420,76561198041137841,[U:1:80872113],
 2018-07-03,02:32.34,newjuls,jump_pdidey,WR,Map,record,map_record,,-00:00.63,01:25.43,695968,76561198396018338,[U:1:435752610],
 2019-01-02,02:29.62,vice,jump_pdidey,WR,Map,record,map_record,,-00:02.72,01:01.68,856749,76561198366368448,[U:1:406102720],
 2019-07-28,02:25.58,Boshy,jump_pdidey,WR,Map,record,map_record,,-00:04.03,00:04.03,1021251,76561198046601398,[U:1:86335670],

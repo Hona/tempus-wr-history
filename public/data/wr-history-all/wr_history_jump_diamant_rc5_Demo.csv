@@ -1,5 +1,4 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2021-04-23,02:34.85,unknown,jump_diamant_rc5,WR,Map,observed,wr_split,,,,,,,
 2021-05-09,00:20.64,cander,jump_diamant_rc5,WR,Bonus 1,record,zone_record,,-00:00.16,00:00.22,1584543,76561198318722879,[U:1:358457151],
 2021-07-19,00:20.40,cander,jump_diamant_rc5,WR,Bonus 1,record,zone_record,,-00:00.16,00:00.24,1642114,76561198318722879,[U:1:358457151],
 2022-10-01,02:34.84,もふもふ,jump_diamant_rc5,WR,Map,command,wr_command,,,,,,,
@@ -8,6 +7,6 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2023-01-26,02:25.51,sam,jump_diamant_rc5,WR,Map,record,map_record,,-00:04.38,00:04.38,2194130,76561198045707908,[U:1:85442180],
 2023-11-08,02:22.33,Luffin,jump_diamant_rc5,WR,Map,record,map_record,,-00:03.18,00:07.27,2581743,76561198094197569,[U:1:133931841],
 2023-11-22,02:20.59,Matty,jump_diamant_rc5,WR,Map,record,map_record,,-00:01.74,00:09.57,2602771,76561198035204545,[U:1:74938817],
-2023-12-09,02:17.82,LuffinOnBoat,jump_diamant_rc5,WR,Map,announcement,irc,,-00:02.77,,,76561198094197569,[U:1:133931841],
+2023-12-09,02:17.82,LuffinOnBoat,jump_diamant_rc5,WR,Map,record,map_record,,-00:02.77,00:04.51,2628554,76561198094197569,[U:1:133931841],
 2023-12-15,02:14.38,Luffin,jump_diamant_rc5,WR,Map,record,map_record,,-00:03.43,00:03.43,2638186,76561198094197569,[U:1:133931841],
 2024-04-21,02:08.38,vice,jump_diamant_rc5,WR,Map,record,map_record,,-00:06.00,00:44.14,2824621,76561198366368448,[U:1:406102720],

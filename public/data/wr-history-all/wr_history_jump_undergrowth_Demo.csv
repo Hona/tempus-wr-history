@@ -1,5 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2017-12-17,01:19.76,mesatech,jump_undergrowth,WR,Map,observed,wr_split,,,,,,,
+2018-02-05,01:19.76,mesatech,jump_undergrowth,WR,Map,command,wr_command,,,,,,,
 2018-02-05,01:18.84,gonk,jump_undergrowth,WR,Map,record,map_record,,-00:00.92,00:03.08,569292,76561198396018338,[U:1:435752610],
 2018-05-18,01:16.28,mesatech,jump_undergrowth,WR,Map,record,map_record,,-00:02.55,00:03.48,652212,76561198111845972,[U:1:151580244],
 2019-01-04,01:14.84,vice,jump_undergrowth,WR,Map,record,map_record,,-00:01.44,00:02.50,858121,76561198366368448,[U:1:406102720],

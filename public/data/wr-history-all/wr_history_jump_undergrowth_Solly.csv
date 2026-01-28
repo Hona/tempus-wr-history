@@ -1,6 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2017-12-17,01:23.08,Santa Chuck,jump_undergrowth,WR,Map,announcement,irc,,-00:02.76,,,76561198064467753,[U:1:104202025],
-2017-12-17,01:20.93,Boshy,jump_undergrowth,WR,Map,announcement,irc,,-00:02.14,,,76561198046601398,[U:1:86335670],
+2017-12-17,01:23.08,Santa Chuck,jump_undergrowth,WR,Map,record,map_record,,-00:02.76,01:59.66,528128,76561198064467753,[U:1:104202025],
+2017-12-17,01:20.93,Boshy,jump_undergrowth,WR,Map,record,map_record,,-00:02.14,00:02.25,528156,76561198046601398,[U:1:86335670],
 2018-02-01,01:19.54,Diller,jump_undergrowth,WR,Map,record,map_record,,-00:01.39,00:03.84,566313,76561198040963460,[U:1:80697732],
 2018-02-02,01:18.20,Boshy,jump_undergrowth,WR,Map,record,map_record,,-00:01.33,00:02.73,566644,76561198046601398,[U:1:86335670],
 2018-03-03,01:15.50,Diller,jump_undergrowth,WR,Map,record,map_record,,-00:02.69,00:02.95,589717,76561198040963460,[U:1:80697732],

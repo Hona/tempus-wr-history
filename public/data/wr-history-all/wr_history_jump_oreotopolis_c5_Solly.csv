@@ -1,2 +1,5 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-10-22,02:34.38,osplo,jump_oreotopolis_c5,WR,Map,observed,wr_split,,,,,76561198047229461,[U:1:86963733],
+2018-10-22,01:19.38,pikaboo,jump_oreotopolis_c5,WR,Course 2,record,zone_record,,-01:03.46,01:03.46,796294,76561198066589108,[U:1:106323380],
+2018-10-22,02:34.38,osplo,jump_oreotopolis_c5,WR,Map,command,wr_command,,,,,76561198047229461,[U:1:86963733],
+2018-10-22,00:51.88,pikaboo,jump_oreotopolis_c5,WR,Course 1,record,zone_record,,-00:05.45,00:05.45,796294,76561198066589108,[U:1:106323380],
+2018-10-22,02:20.50,pikaboo,jump_oreotopolis_c5,WR,Map,record,map_record,,-02:07.85,02:07.85,796294,76561198066589108,[U:1:106323380],

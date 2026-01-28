@@ -1,9 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2020-01-08,29:29.20,VAVLIE,jump_luminous_rc5,WR,Map,record,first_record,,,,1143696,76561198014713685,[U:1:54447957],
-2020-01-08,26:45.07,Frusciante is BA,jump_luminous_rc5,WR,Map,announcement,irc,,-02:44.13,,,,,
-2020-01-08,08:48.96,Toph,jump_luminous_rc5,WR,Map,announcement,irc,,-17:56.11,,,76561198066589108,[U:1:106323380],
-2020-01-08,05:25.80,doodle,jump_luminous_rc5,WR,Map,announcement,irc,,-00:44.55,,,76561198049293816,[U:1:89028088],
-2020-01-08,04:58.11,azula,jump_luminous_rc5,WR,Map,announcement,irc,,-00:27.68,,,,,
-2020-01-08,04:43.39,azula,jump_luminous_rc5,WR,Map,announcement,irc,,-00:09.22,,,,,
+2020-01-08,26:45.07,Frusciante is BA,jump_luminous_rc5,WR,Map,record,map_record,,-02:44.13,,1143692,,,
+2020-01-08,08:48.96,Toph,jump_luminous_rc5,WR,Map,record,map_record,,-17:56.11,,1143714,76561198066589108,[U:1:106323380],
+2020-01-08,04:52.62,Ww! Darkknio™,jump_luminous_rc5,WR,Map,record,map_record,,-02:45.92,02:45.92,1143764,76561198063242136,[U:1:102976408],
+2020-01-08,04:43.39,azula,jump_luminous_rc5,WR,Map,record,map_record,,-00:09.22,00:14.71,1143795,,,
 2020-01-08,03:28.30,Rue,jump_luminous_rc5,WR,Map,record,map_record,,-01:15.09,,1143863,76561198046601398,[U:1:86335670],
 2022-11-27,03:05.44,TOMATO TOM,jump_luminous_rc5,WR,Map,record,map_record,,-00:22.86,00:28.74,2129301,76561198120374593,[U:1:160108865],

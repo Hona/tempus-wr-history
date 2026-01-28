@@ -1,5 +1,4 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-01-23,03:13.30,unknown,jump_ascent_final,WR,Map,observed,wr_split,,,,,,,
 2018-01-23,03:06.46,Steve,jump_ascent_final,WR,Map,record,map_record,,-00:06.82,,558576,76561198063901478,[U:1:103635750],
 2018-01-23,03:05.38,Chief,jump_ascent_final,WR,Map,record,map_record,,-00:01.07,00:02.44,558576,76561198122579111,[U:1:162313383],
 2018-02-04,03:01.60,Steve,jump_ascent_final,WR,Map,record,map_record,,-00:03.78,00:04.85,568482,76561198063901478,[U:1:103635750],
@@ -9,4 +8,4 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2020-12-03,02:33.93,twitch.tv/boshyt,jump_ascent_final,WR,Map,record,map_record,,-00:04.47,00:04.47,1436856,,,
 2020-12-03,02:33.90,twitch.tv/boshyt,jump_ascent_final,WR,Map,record,map_record,,-00:00.03,00:00.03,1436856,,,
 2020-12-04,02:23.04,twitch.tv/boshyt,jump_ascent_final,WR,Map,record,map_record,,-00:10.86,00:10.86,1437361,,,
-2024-02-09,02:13.66,Rellort -fwo -gu,jump_ascent_final,WR,Map,announcement,irc,,-00:12.84,,,,,
+2024-02-09,02:13.66,Rellort -fwo -gu,jump_ascent_final,WR,Map,record,map_record,,-00:12.84,00:41.79,2724516,,,

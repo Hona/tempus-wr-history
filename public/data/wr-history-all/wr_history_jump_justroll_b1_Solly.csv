@@ -1,7 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2021-09-02,00:29.59,Gorge004,jump_justroll_b1,WR,Map,announcement,irc_set,,,,,,,
 2021-09-04,00:57.87,Solomon,jump_justroll_b1,WR,Bonus 1,record,zone_first,,,,1693831,76561198040927024,[U:1:80661296],
-2021-09-04,00:43.90,Solomon,jump_justroll_b1,WR,Bonus 1,command,wr_command,,,,,76561198040927024,[U:1:80661296],
+2021-09-04,00:43.90,Solomon,jump_justroll_b1,WR,Bonus 1,record,zone_record,,-00:13.96,00:13.96,1693831,76561198040927024,[U:1:80661296],
 2021-09-04,00:39.90,💗 ⁧⁧ Meti,jump_justroll_b1,WR,Bonus 1,record,zone_record,,-00:04.00,00:04.93,1693831,76561198096749316,[U:1:136483588],
 2021-09-06,00:38.02,Slammed on some,jump_justroll_b1,WR,Bonus 1,record,zone_record,,-00:01.87,,1696979,,,
 2021-09-12,00:37.62,Meti,jump_justroll_b1,WR,Bonus 1,record,zone_record,,-00:00.40,00:02.28,1703216,76561198096749316,[U:1:136483588],

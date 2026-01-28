@@ -1,5 +1,4 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-07-28,04:27.54,unknown,jump_prostate_b3,WR,Map,observed,wr_split,,,,,,,
 2018-07-28,00:03.01,mesatech,jump_prostate_b3,WR,Bonus 2,record,zone_first,,,,718912,76561198111845972,[U:1:151580244],
 2018-07-28,00:02.23,mesatech,jump_prostate_b3,WR,Bonus 3,record,zone_record,,-00:00.04,,718912,76561198111845972,[U:1:151580244],
 2018-07-28,00:02.23,mesatech,jump_prostate_b3,WR,Bonus 4,record,zone_record,,-00:00.03,,718912,76561198111845972,[U:1:151580244],
@@ -13,9 +12,10 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2018-08-03,00:08.69,Dark,jump_prostate_b3,WR,Bonus 1,record,zone_record,,-00:00.03,00:00.03,724875,76561198198339378,[U:1:238073650],
 2018-08-03,00:08.56,Dark,jump_prostate_b3,WR,Bonus 1,record,zone_record,,-00:00.13,00:00.13,724875,76561198198339378,[U:1:238073650],
 2018-08-03,00:08.53,Dark,jump_prostate_b3,WR,Bonus 1,record,zone_record,,-00:00.02,00:00.02,724875,76561198198339378,[U:1:238073650],
+2018-08-08,00:01.94,shakez,jump_prostate_b3,WR,Bonus 4,record,zone_record,,-00:00.00,00:00.00,729132,76561198312076035,[U:1:351810307],
 2018-11-28,03:25.47,twitch.tv/newjul,jump_prostate_b3,WR,Map,record,map_record,,-00:14.09,00:14.09,827173,,,
-2019-07-04,03:12.95,chiyo,jump_prostate_b3,WR,Map,record,map_record,,-00:12.51,00:14.83,1001922,76561198046582124,[U:1:86316396],
 2019-07-04,00:01.90,cander,jump_prostate_b3,WR,Bonus 4,record,zone_record,,-00:00.01,00:00.02,1001922,76561198318722879,[U:1:358457151],
+2019-07-04,03:12.95,chiyo,jump_prostate_b3,WR,Map,record,map_record,,-00:12.51,00:14.83,1001922,76561198046582124,[U:1:86316396],
 2019-07-07,03:08.42,newjuls,jump_prostate_b3,WR,Map,record,map_record,,-00:04.52,00:17.04,1003905,76561198396018338,[U:1:435752610],
 2019-08-25,00:01.86,cander,jump_prostate_b3,WR,Bonus 3,record,zone_record,,-00:00.02,00:00.10,1042588,76561198318722879,[U:1:358457151],
 2019-08-25,00:02.09,vice,jump_prostate_b3,WR,Bonus 2,command,wr_command,,,,,76561198366368448,[U:1:406102720],

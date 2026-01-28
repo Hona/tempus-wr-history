@@ -1,7 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2014-12-15,02:43.36,Aurora -tt,jump_rook_beta,WR,Map,record,map_record,,-00:03.67,00:05.05,36778,76561198053067670,[U:1:92801942],
 2015-08-29,02:41.09,LessThanThree |,jump_rook_beta,WR,Map,record,map_record,,-00:02.26,00:29.67,134147,,,
-2018-01-18,02:20.01,unknown,jump_rook_beta,WR,Map,observed,wr_split,,,,,,,
 2018-01-18,02:20.00,WJ,jump_rook_beta,WR,Map,command,wr_command,,,,,,,
 2018-01-18,00:05.48,nygaard,jump_rook_beta,WR,Bonus 1,record,zone_record,,-00:00.34,00:00.40,555668,76561198029285343,[U:1:69019615],
 2018-01-18,00:05.36,nygaard,jump_rook_beta,WR,Bonus 1,record,zone_record,,-00:00.12,00:00.12,555668,76561198029285343,[U:1:69019615],

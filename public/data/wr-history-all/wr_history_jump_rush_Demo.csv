@@ -1,6 +1,6 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2014-07-07,00:52.74,groovy,jump_rush,WR,Map,record,map_record,,-00:00.19,00:03.72,9811,76561198078488228,STEAM_0:0:59111250,
-2014-07-30,00:50.00,alle -tt,jump_rush,WR,Map,announcement,irc,,-00:02.73,,,76561198040983512,STEAM_0:0:40358892,
+2014-07-30,00:50.00,alle -tt,jump_rush,WR,Map,record,map_record,,-00:02.73,00:02.93,12929,76561198040983512,STEAM_0:0:40358892,
 2015-01-24,00:49.79,ＫＵＣＩＮ,jump_rush,WR,Map,record,map_record,,-00:00.21,00:01.79,53924,,,
 2015-01-24,00:47.23,@_@,jump_rush,WR,Map,record,map_record,,-00:02.56,00:04.01,53924,76561198044263100,[U:1:83997372],
 2017-11-23,00:42.20,Soup -tt,jump_rush,WR,Map,command,wr_command,,,,,76561198029285343,[U:1:69019615],
@@ -13,8 +13,8 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2019-03-24,00:39.67,Soup -tt,jump_rush,WR,Map,record,map_record,,-00:00.70,00:00.70,922506,76561198029285343,[U:1:69019615],
 2019-04-14,00:39.60,nem,jump_rush,WR,Map,record,map_record,,-00:00.07,00:00.07,939138,76561198029285343,[U:1:69019615],
 2019-04-14,00:38.74,nem,jump_rush,WR,Map,record,map_record,,-00:00.85,00:00.85,939138,76561198029285343,[U:1:69019615],
-2021-03-29,00:38.29,unknown,jump_rush,WR,Map,observed,wr_split,,,,,,,
-2024-10-23,00:37.96,Soup -tt,jump_rush,WR,Map,announcement,irc,,-00:00.33,,,76561198029285343,[U:1:69019615],
+2021-03-27,00:38.29,soup -tt,jump_rush,WR,Map,record,map_record,,-00:00.45,00:00.45,1547664,76561198029285343,[U:1:69019615],
+2024-10-23,00:37.96,Soup -tt,jump_rush,WR,Map,announcement,irc,,-00:00.33,,,,,
 2024-10-28,00:37.83,-.-,jump_rush,WR,Map,record,map_record,,-00:00.13,00:00.13,3104740,76561198029285343,[U:1:69019615],
 2024-10-29,00:37.77,-.-,jump_rush,WR,Map,announcement,irc,,-00:00.06,,,,,
 2024-10-30,00:37.51,-.-,jump_rush,WR,Map,record,map_record,,-00:00.25,00:00.25,3106628,76561198029285343,[U:1:69019615],

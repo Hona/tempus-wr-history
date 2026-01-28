@@ -1,9 +1,9 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
 2019-07-07,26:37.01,riot,jump_thorn_b5,WR,Map,record,first_record,,,,1004375,76561198065169685,[U:1:104903957],
-2019-07-07,24:49.39,Mac,jump_thorn_b5,WR,Map,announcement,irc,,-01:47.62,,,76561198001371660,[U:1:41105932],
+2019-07-07,24:49.39,Mac,jump_thorn_b5,WR,Map,record,map_record,,-01:47.62,,1004558,76561198001371660,[U:1:41105932],
 2019-07-07,18:57.70,...,jump_thorn_b5,WR,Map,record,map_record,,-05:51.69,,1004665,76561197976761681,[U:1:16495953],
-2019-07-07,06:32.54,Boshy,jump_thorn_b5,WR,Map,announcement,irc,,-12:25.15,,,76561198046601398,[U:1:86335670],
-2021-08-20,06:19.15,My child just ca,jump_thorn_b5,WR,Map,announcement,irc,,-00:13.39,,,,,
+2019-07-07,06:32.54,Boshy,jump_thorn_b5,WR,Map,record,map_record,,-12:25.15,,1004678,76561198046601398,[U:1:86335670],
+2021-08-20,06:19.15,My child just ca,jump_thorn_b5,WR,Map,record,map_record,,-00:13.39,01:33.01,1676549,,,
 2022-10-09,06:14.41,x_ray2700,jump_thorn_b5,WR,Map,record,map_record,,-00:04.74,01:21.84,2082855,76561198979680671,[U:1:1019414943],
 2022-10-10,06:05.20,x_ray2700,jump_thorn_b5,WR,Map,record,map_record,,-00:09.21,00:09.21,2083480,76561198979680671,[U:1:1019414943],
 2022-10-12,05:44.22,x_ray2700,jump_thorn_b5,WR,Map,record,map_record,,-00:20.98,00:20.98,2085615,76561198979680671,[U:1:1019414943],

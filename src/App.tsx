@@ -20,7 +20,7 @@ type CsvRow = {
   map: string
   record_type: string
   segment: string
-  evidence: string
+  evidence: EvidenceKind
   evidence_source: string
   run_time: string
   split: string
@@ -36,7 +36,32 @@ type DataPoint = CsvRow & {
   recordSeconds: number
 }
 
-type ViewMode = 'map' | 'zones'
+const VIEW_MODE = {
+  Map: 'map',
+  Zones: 'zones',
+} as const
+
+type ViewMode = (typeof VIEW_MODE)[keyof typeof VIEW_MODE]
+
+const EVIDENCE_KIND = {
+  Record: 'record',
+  Command: 'command',
+  Observed: 'observed',
+  Announcement: 'announcement',
+} as const
+
+type EvidenceKind = (typeof EVIDENCE_KIND)[keyof typeof EVIDENCE_KIND]
+
+const SEGMENT_LABEL = {
+  Map: 'Map',
+} as const
+
+const URL_PARAM = {
+  Map: 'map',
+  Class: 'class',
+  View: 'view',
+  Zone: 'zone',
+} as const
 
 type SteamCandidate = {
   name: string
@@ -56,7 +81,7 @@ function App() {
   const [query, setQuery] = useState('')
   const [selectedMap, setSelectedMap] = useState<string | null>(null)
   const [selectedClass, setSelectedClass] = useState<'Solly' | 'Demo'>('Solly')
-  const [view, setView] = useState<ViewMode>('map')
+  const [view, setView] = useState<ViewMode>(VIEW_MODE.Map)
   const [selectedZone, setSelectedZone] = useState<string | null>(null)
   const [rows, setRows] = useState<CsvRow[]>([])
   const [loading, setLoading] = useState(false)
@@ -75,10 +100,10 @@ function App() {
   useEffect(() => {
     if (!index) return
     const params = new URLSearchParams(window.location.hash.replace(/^#/, ''))
-    const mapParam = params.get('map')
-    const classParam = params.get('class')
-    const viewParam = params.get('view')
-    const zoneParam = params.get('zone')
+    const mapParam = params.get(URL_PARAM.Map)
+    const classParam = params.get(URL_PARAM.Class)
+    const viewParam = params.get(URL_PARAM.View)
+    const zoneParam = params.get(URL_PARAM.Zone)
     const found = mapParam && index.maps.find((entry) => entry.map === mapParam)
     if (found) {
       setSelectedMap(found.map)
@@ -91,7 +116,7 @@ function App() {
       setSelectedMap(index.maps[0].map)
     }
 
-    if (viewParam === 'zones' || viewParam === 'map') {
+    if (viewParam === VIEW_MODE.Zones || viewParam === VIEW_MODE.Map) {
       setView(viewParam)
     }
 
@@ -103,12 +128,12 @@ function App() {
   useEffect(() => {
     if (!selectedMap) return
     const params = new URLSearchParams()
-    params.set('map', selectedMap)
-    params.set('class', selectedClass)
-    if (view === 'zones') {
-      params.set('view', 'zones')
+    params.set(URL_PARAM.Map, selectedMap)
+    params.set(URL_PARAM.Class, selectedClass)
+    if (view === VIEW_MODE.Zones) {
+      params.set(URL_PARAM.View, VIEW_MODE.Zones)
       if (selectedZone) {
-        params.set('zone', selectedZone)
+        params.set(URL_PARAM.Zone, selectedZone)
       }
     }
     window.location.hash = params.toString()
@@ -156,7 +181,7 @@ function App() {
   }, [selectedZone, zoneOptions])
 
   useEffect(() => {
-    if (view !== 'zones') {
+    if (view !== VIEW_MODE.Zones) {
       if (selectedZone !== null) {
         setSelectedZone(null)
       }
@@ -178,7 +203,7 @@ function App() {
   const filtered = useMemo(() => {
     return rowsWithZone
       .filter(({ zone }) => {
-        if (view === 'map') return zone == null
+        if (view === VIEW_MODE.Map) return zone == null
         if (zone == null) return false
         if (selectedZone && zone.id !== selectedZone) return false
         return true
@@ -236,7 +261,7 @@ function App() {
           <h1>World records, mapped over time.</h1>
           <p className="lede">
             Browse deterministic WR history across every map. Switch between Solly and Demo,
-            filter inferred runs, and export CSVs you can share.
+            explore map vs zone records, and export CSVs you can share.
           </p>
         </div>
         <div className="hero-meta">
@@ -285,17 +310,23 @@ function App() {
             <div>
               <h2>{selectedMap ?? 'Select a map'}</h2>
               <p className="muted">
-                {view === 'zones'
+                {view === VIEW_MODE.Zones
                   ? `Zone history for ${selectedClass}${activeZone ? ` · ${activeZone.label}` : ''}`
                   : `WR timeline for ${selectedClass}`}
               </p>
             </div>
             <div className="panel-controls">
               <div className="class-toggle view-toggle">
-                <button className={view === 'map' ? 'active' : ''} onClick={() => setView('map')}>
+                <button
+                  className={view === VIEW_MODE.Map ? 'active' : ''}
+                  onClick={() => setView(VIEW_MODE.Map)}
+                >
                   Map
                 </button>
-                <button className={view === 'zones' ? 'active' : ''} onClick={() => setView('zones')}>
+                <button
+                  className={view === VIEW_MODE.Zones ? 'active' : ''}
+                  onClick={() => setView(VIEW_MODE.Zones)}
+                >
                   Zones
                 </button>
               </div>
@@ -317,7 +348,7 @@ function App() {
           </div>
 
           <div className="filters">
-            {view === 'zones' ? (
+            {view === VIEW_MODE.Zones ? (
               <label className="zone-select">
                 <span>Zone</span>
                 <select
@@ -392,7 +423,8 @@ function App() {
                     className="table-row"
                   >
                     <span className="watch-cell">
-                      {row.demo_id && row.evidence === 'record' ? (
+                      {/* Only record-setting demos get a stable demo_id; keep links gated to avoid mislinking. */}
+                      {row.demo_id && row.evidence === EVIDENCE_KIND.Record ? (
                         <a
                           className="watch-button"
                           href={`https://demos.tf2jump.xyz/?demo=${row.demo_id}`}
@@ -416,7 +448,7 @@ function App() {
                     </div>
                     <span>{formatDetails(row)}</span>
                     <span>
-                      {row.demo_id && row.evidence === 'record' ? (
+                      {row.demo_id && row.evidence === EVIDENCE_KIND.Record ? (
                         <a
                           href={`https://tempus2.xyz/demos/${row.demo_id}`}
                           target="_blank"
@@ -457,6 +489,8 @@ function parseCsv(text: string): CsvRow[] {
 }
 
 function parseCsvRows(text: string): string[][] {
+  // Minimal RFC4180-ish CSV parser.
+  // We need proper handling of quoted fields (commas/newlines) without taking on a CSV dependency.
   const rows: string[][] = []
   let row: string[] = []
   let field = ''
@@ -674,7 +708,7 @@ function formatEvidence(row: CsvRow) {
 function formatDetails(row: CsvRow) {
   const segment = (row.segment ?? '').trim()
   const evidence = formatEvidence(row)
-  if (segment && segment.toLowerCase() !== 'map') {
+  if (segment && segment !== SEGMENT_LABEL.Map) {
     return `${segment} · ${evidence}`
   }
   return evidence
@@ -746,14 +780,14 @@ function TimelineChart({ points }: { points: DataPoint[] }) {
 
   const stepPath = buildStepPath(points, scaleX, scaleY)
   const pointColor = (point: DataPoint) => {
-    switch ((point.evidence ?? '').toLowerCase()) {
-      case 'record':
+    switch (point.evidence) {
+      case EVIDENCE_KIND.Record:
         return 'var(--accent)'
-      case 'announcement':
+      case EVIDENCE_KIND.Announcement:
         return 'var(--accent-soft)'
-      case 'command':
+      case EVIDENCE_KIND.Command:
         return 'var(--muted)'
-      case 'observed':
+      case EVIDENCE_KIND.Observed:
         return 'var(--warn)'
       default:
         return 'var(--accent)'

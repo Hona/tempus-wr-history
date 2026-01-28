@@ -1,6 +1,7 @@
 date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
-2018-09-06,00:01.15,Meowse*,jump_catch_final,WR,Bonus 1,command,wr_command,,,,,76561198066589108,[U:1:106323380],
-2018-09-06,01:25.17,nov rain,jump_catch_final,WR,Map,observed,wr_split,,,,,,,
+2017-11-30,00:01.21,Ochotona,jump_catch_final,WR,Bonus 1,record,zone_record,,-00:00.08,00:00.08,514541,76561198066589108,[U:1:106323380],
+2018-01-26,00:01.15,Pik,jump_catch_final,WR,Bonus 1,record,zone_record,,-00:00.05,00:00.05,560896,76561198066589108,[U:1:106323380],
+2018-11-10,01:25.17,nov rain,jump_catch_final,WR,Map,command,wr_command,,,,,,,
 2018-11-10,01:25.11,Boshy,jump_catch_final,WR,Map,record,map_record,,-00:00.05,00:00.16,812641,76561198046601398,[U:1:86335670],
 2018-11-10,01:23.74,Boshy,jump_catch_final,WR,Map,record,map_record,,-00:01.36,00:01.36,812641,76561198046601398,[U:1:86335670],
 2019-05-23,01:21.01,vice,jump_catch_final,WR,Map,record,map_record,,-00:02.72,00:02.82,969341,76561198366368448,[U:1:406102720],
@@ -8,4 +9,4 @@ date,record_time,player,map,record_type,segment,evidence,evidence_source,run_tim
 2019-09-25,00:01.04,song,jump_catch_final,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.01,1066132,76561198210286877,[U:1:250021149],
 2019-09-25,00:00.99,song,jump_catch_final,WR,Bonus 1,record,zone_record,,-00:00.05,00:00.05,1066132,76561198210286877,[U:1:250021149],
 2020-01-12,00:00.97,cander -cg ุ,jump_catch_final,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.21,1146800,,,
-2024-11-21,01:20.24,unknown,jump_catch_final,WR,Map,observed,wr_split,,,,,,,
+2024-11-20,01:20.23,Luffin,jump_catch_final,WR,Map,record,map_record,,-00:01.87,00:01.87,3138323,76561198094197569,[U:1:133931841],
