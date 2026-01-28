@@ -1,7 +1,6 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-03-27,02:00.14,CJ,jump_kinetics_d3,WR,MapRun,02:22.13,+00:21.99,,true,610085,76561198064467753,[U:1:104202025],
-2018-07-07,01:57.06,bg5.tf | Diller,jump_kinetics_d3,WR,MapRecord,,-00:03.08,00:10.76,false,699157,76561198040963460,[U:1:80697732],
-2018-07-07,01:57.06,bg5.tf | Diller,jump_kinetics_d3,WR,IRC,,-00:03.08,,false,699209,,,
-2018-07-07,00:08.85,FastFox73,jump_kinetics_d3,WR,Bonus 1,,-00:00.02,00:00.02,false,699239,76561198046601398,[U:1:86335670],
-2018-07-07,00:08.87,FastFox73,jump_kinetics_d3,WR,Bonus 1,,-00:00.01,00:00.01,false,699239,76561198046601398,[U:1:86335670],
-2018-07-07,01:51.98,FastFox73,jump_kinetics_d3,WR,MapRecord,,-00:05.07,00:06.44,false,699239,76561198046601398,[U:1:86335670],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-03-27,02:00.15,unknown,jump_kinetics_d3,WR,Map,observed,wr_split,,,,,,,
+2018-07-07,01:57.06,bg5.tf | Diller,jump_kinetics_d3,WR,Map,record,map_record,,-00:03.08,00:10.76,699157,76561198040963460,[U:1:80697732],
+2018-07-07,01:51.98,FastFox73,jump_kinetics_d3,WR,Map,record,map_record,,-00:05.07,00:06.44,699239,76561198046601398,[U:1:86335670],
+2018-07-07,00:08.87,FastFox73,jump_kinetics_d3,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.01,699239,76561198046601398,[U:1:86335670],
+2018-07-07,00:08.85,FastFox73,jump_kinetics_d3,WR,Bonus 1,record,zone_record,,-00:00.02,00:00.02,699239,76561198046601398,[U:1:86335670],

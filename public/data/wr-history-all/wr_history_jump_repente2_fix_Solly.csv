@@ -1,7 +1,5 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2023-04-23,01:46.63,5cheeseburgers,jump_repente2_fix,WR,MapRecord,,-00:03.99,00:06.70,false,2288376,76561198059082549,[U:1:98816821],
-2024-07-16,01:46.63,5cheeseburgers,jump_repente2_fix,WR,Compact,,,,false,2950407,76561198059082549,[U:1:98816821],
-2025-09-06,01:46.64,5cheeseburgers,jump_repente2_fix,WR,Compact,,,,false,3482118,,,
-2025-09-06,01:46.64,5cheeseburgers,jump_repente2_fix,WR,Compact,,,,false,3482118,,,
-2025-09-11,01:43.84,HelplessSoldier,jump_repente2_fix,WR,MapRun,51:44.42,+50:00.58,,true,3488218,76561198043137253,[U:1:82871525],
-2025-11-22,01:43.82,+=[::::::::::>,jump_repente2_fix,WR,MapRun,1:04:37.24,+1:02:53.42,,true,3594762,76561198259071247,[U:1:298805519],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2023-04-23,01:50.63,unknown,jump_repente2_fix,WR,Map,observed,wr_split,,,,,,,
+2023-04-23,01:46.63,5cheeseburgers,jump_repente2_fix,WR,Map,record,map_record,,-00:03.99,00:06.70,2288376,76561198059082549,[U:1:98816821],
+2025-09-11,01:43.84,unknown,jump_repente2_fix,WR,Map,observed,wr_split,,,,,,,
+2025-11-22,01:43.82,unknown,jump_repente2_fix,WR,Map,observed,wr_split,,,,,,,

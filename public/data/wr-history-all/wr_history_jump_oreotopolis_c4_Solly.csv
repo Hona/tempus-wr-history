@@ -1,12 +1,6 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-10-22,06:18.25,osplo,jump_oreotopolis_c4,WR,IRCSet,,,,false,796208,,,
-2018-10-22,06:18.25,osplo,jump_oreotopolis_c4,WR,IRCSet,,,,false,796211,,,
-2018-10-22,06:18.25,osplo,jump_oreotopolis_c4,WR,IRCSet,,,,false,796221,,,
-2018-10-22,02:12.75,Mayhem,jump_oreotopolis_c4,WR,Course 2,,-00:29.92,,false,796237,76561198046934792,[U:1:86669064],
-2018-10-22,02:51.22,osplo,jump_oreotopolis_c4,WR,Course 2 First,,,,false,796237,76561198047229461,[U:1:86963733],
-2018-10-22,03:12.77,osplo,jump_oreotopolis_c4,WR,Course 1 First,,,,false,796237,76561198047229461,[U:1:86963733],
-2018-10-22,03:58.23,Mayhem,jump_oreotopolis_c4,WR,MapRun,05:39.16,+01:40.93,,true,796237,76561198046934792,[U:1:86669064],
-2018-10-22,06:18.25,osplo,jump_oreotopolis_c4,WR,FirstRecord,,,,false,796237,76561198047229461,[U:1:86963733],
-2018-10-22,06:18.25,osplo,jump_oreotopolis_c4,WR,IRCSet,,,,false,796238,76561198047229461,[U:1:86963733],
-2018-10-22,06:18.25,osplo,jump_oreotopolis_c4,WR,IRCSet,,,,false,796240,,,
-2018-10-22,06:18.25,osplo,jump_oreotopolis_c4,WR,IRCSet,,,,false,796241,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-10-22,06:18.25,osplo,jump_oreotopolis_c4,WR,Map,record,first_record,,,,796237,76561198047229461,[U:1:86963733],
+2018-10-22,03:12.77,osplo,jump_oreotopolis_c4,WR,Course 1,record,zone_first,,,,796237,76561198047229461,[U:1:86963733],
+2018-10-22,02:51.22,osplo,jump_oreotopolis_c4,WR,Course 2,record,zone_first,,,,796237,76561198047229461,[U:1:86963733],
+2018-10-22,02:12.75,Mayhem,jump_oreotopolis_c4,WR,Course 2,record,zone_record,,-00:29.92,,796237,76561198046934792,[U:1:86669064],
+2018-10-22,03:58.23,unknown,jump_oreotopolis_c4,WR,Map,observed,wr_split,,,,,,,

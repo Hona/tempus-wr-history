@@ -1,7 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2022-09-23,04:15.13,Exile,jump_hopstep2_rc4,WR,FirstRecord,,,,false,2066645,76561198046776282,[U:1:86510554],
-2022-09-23,24:37.71,Chi,jump_hopstep2_rc4,WR,IRCSet,,,,false,2066645,,,
-2022-09-23,24:37.71,Chi,jump_hopstep2_rc4,WR,IRCSet,,,,false,2066724,,,
-2022-09-24,24:37.71,Chi,jump_hopstep2_rc4,WR,IRCSet,,,,false,2066743,,,
-2022-09-24,24:37.71,Chi,jump_hopstep2_rc4,WR,FirstRecord,,,,false,2066747,76561198121085178,[U:1:160819450],
-2022-09-24,05:18.69,cander,jump_hopstep2_rc4,WR,MapRecord,,-00:58.11,01:01.86,false,2067109,76561198318722879,[U:1:358457151],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2022-09-23,04:15.13,Exile,jump_hopstep2_rc4,WR,Map,record,first_record,,,,2066645,76561198046776282,[U:1:86510554],

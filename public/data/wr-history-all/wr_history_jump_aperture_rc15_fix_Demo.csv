@@ -1,3 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2025-04-13,00:55.09,Pepa,jump_aperture_rc15_fix,WR,MapRun,04:54.58,+03:59.49,,true,3273458,76561198180893991,[U:1:220628263],
-2025-08-12,00:55.10,sam,jump_aperture_rc15_fix,WR,Compact,,,,false,3447984,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2025-04-13,00:55.09,unknown,jump_aperture_rc15_fix,WR,Map,observed,wr_split,,,,,,,

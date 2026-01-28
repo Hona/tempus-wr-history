@@ -1,2 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2021-01-09,09:04.21,Gorge004,jump_swizzle_rc4,WR,Bonus 1,,-02:02.73,,false,1472170,76561198056605260,[U:1:96339532],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2021-01-09,09:04.21,Gorge004,jump_swizzle_rc4,WR,Bonus 1,record,zone_record,,-02:02.73,,1472170,76561198056605260,[U:1:96339532],

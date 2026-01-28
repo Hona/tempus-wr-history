@@ -1,10 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-07-23,05:47.05,Boshy,jump_weekly_rc2,WR,MapRecord,,-00:58.06,02:00.31,false,714535,76561198046601398,[U:1:86335670],
-2022-06-20,05:20.07,F8RK9N,jump_weekly_rc2,WR,MapRun,12:07.06,+06:46.99,,true,1981642,76561198104888831,[U:1:144623103],
-2023-06-02,04:28.09,うさぎ。,jump_weekly_rc2,WR,MapRecord,,-00:51.97,09:09.25,false,2345323,76561198210286877,[U:1:250021149],
-2023-06-02,04:28.09,うさぎ。,jump_weekly_rc2,WR,Compact,,,,false,2345323,76561198210286877,[U:1:250021149],
-2023-06-02,05:20.07,poco hayer,jump_weekly_rc2,WR,Compact,,,,false,2345323,,,
-2023-06-02,04:28.09,うさぎ。,jump_weekly_rc2,WR,IRC,,-00:51.97,,false,2345375,,,
-2023-06-02,04:28.09,うさぎ。,jump_weekly_rc2,WR,IRC,,-00:51.97,,false,2345394,,,
-2025-06-09,04:28.10,₍ᐢᐢ₎. us,jump_weekly_rc2,WR,Compact,,,,false,3355295,,,
-2025-08-29,04:28.10,₍ᐢᐢ₎. us,jump_weekly_rc2,WR,Compact,,,,false,3470986,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-07-23,05:47.05,Boshy,jump_weekly_rc2,WR,Map,record,map_record,,-00:58.06,02:00.31,714535,76561198046601398,[U:1:86335670],
+2022-06-20,05:20.07,poco hayer,jump_weekly_rc2,WR,Map,observed,wr_split,,,,,,,
+2023-06-02,04:28.09,うさぎ。,jump_weekly_rc2,WR,Map,record,map_record,,-00:51.97,09:09.25,2345323,76561198210286877,[U:1:250021149],

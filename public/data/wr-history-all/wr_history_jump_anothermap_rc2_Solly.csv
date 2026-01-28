@@ -1,2 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2023-01-09,13:39.13,mur,jump_anothermap_rc2,WR,FirstRecord,,,,false,2174644,76561198368715869,[U:1:408450141],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2023-01-09,13:39.13,mur,jump_anothermap_rc2,WR,Map,record,first_record,,,,2174644,76561198368715869,[U:1:408450141],

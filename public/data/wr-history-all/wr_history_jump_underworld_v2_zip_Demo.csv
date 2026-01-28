@@ -1,8 +1,6 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2019-10-26,00:01.37,song,jump_underworld_v2_zip,WR,Bonus 2,,-00:00.01,00:00.01,false,1089349,76561198210286877,[U:1:250021149],
-2019-10-26,01:50.20,vanilla_,jump_underworld_v2_zip,WR,MapRun,08:29.47,+06:39.27,,true,1089349,76561198131135797,[U:1:170870069],
-2019-12-04,00:01.23,super song,jump_underworld_v2_zip,WR,Bonus 1,,-00:00.01,00:00.07,false,1116361,76561198210286877,[U:1:250021149],
-2023-01-30,01:49.75,newjuls,jump_underworld_v2_zip,WR,MapRecord,,-00:00.45,00:01.74,false,2198786,76561198396018338,[U:1:435752610],
-2023-01-30,01:50.20,vice,jump_underworld_v2_zip,WR,Compact,,,,false,2198786,,,
-2023-07-23,01:46.80,vice,jump_underworld_v2_zip,WR,IRC,,-00:02.95,,false,2419249,,,
-2023-07-23,01:46.80,vice,jump_underworld_v2_zip,WR,MapRecord,,-00:02.95,00:03.40,false,2419351,76561198366368448,[U:1:406102720],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2019-10-26,00:01.37,song,jump_underworld_v2_zip,WR,Bonus 2,record,zone_record,,-00:00.01,00:00.01,1089349,76561198210286877,[U:1:250021149],
+2019-10-26,01:50.20,vice,jump_underworld_v2_zip,WR,Map,observed,wr_split,,,,,,,
+2019-12-04,00:01.23,super song,jump_underworld_v2_zip,WR,Bonus 1,record,zone_record,,-00:00.01,00:00.07,1116361,76561198210286877,[U:1:250021149],
+2023-01-30,01:49.75,newjuls,jump_underworld_v2_zip,WR,Map,record,map_record,,-00:00.45,00:01.74,2198786,76561198396018338,[U:1:435752610],
+2023-07-23,01:46.80,vice,jump_underworld_v2_zip,WR,Map,record,map_record,,-00:02.95,00:03.40,2419351,76561198366368448,[U:1:406102720],

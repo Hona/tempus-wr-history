@@ -1,11 +1,5 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-09-22,01:12.53,vice,jump_free_b2,WR,IRC,,-00:02.15,,false,768875,76561198366368448,[U:1:406102720],
-2018-09-22,01:14.69,vice,jump_free_b2,WR,IRC,,-00:02.62,,false,768875,76561198366368448,[U:1:406102720],
-2018-09-22,01:12.53,vice,jump_free_b2,WR,MapRecord,,-00:02.15,00:02.15,false,769000,76561198366368448,[U:1:406102720],
-2018-09-22,01:14.69,vice,jump_free_b2,WR,MapRecord,,-00:02.62,00:06.03,false,769000,76561198366368448,[U:1:406102720],
-2019-02-12,01:12.53,transformation M,jump_free_b2,WR,Compact,,,,false,890639,,,
-2022-03-24,01:08.97,johan,jump_free_b2,WR,MapRecord,,-00:02.04,00:03.57,false,1896618,76561198366368448,[U:1:406102720],
-2022-03-24,01:11.01,cander,jump_free_b2,WR,MapRecord,,-00:01.53,00:04.66,false,1896618,76561198318722879,[U:1:358457151],
-2022-03-24,01:08.97,johan,jump_free_b2,WR,IRC,,-00:02.04,,false,1896692,,,
-2022-03-24,01:08.97,johan,jump_free_b2,WR,IRC,,-00:02.04,,false,1896728,,,
-2024-10-30,01:08.97,vice,jump_free_b2,WR,Compact,,,,false,3106639,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-09-22,01:14.69,vice,jump_free_b2,WR,Map,announcement,irc,,-00:02.62,,,76561198366368448,[U:1:406102720],
+2018-09-22,01:12.53,vice,jump_free_b2,WR,Map,announcement,irc,,-00:02.15,,,76561198366368448,[U:1:406102720],
+2022-03-24,01:11.01,cander,jump_free_b2,WR,Map,record,map_record,,-00:01.53,00:04.66,1896618,76561198318722879,[U:1:358457151],
+2022-03-24,01:08.97,johan,jump_free_b2,WR,Map,record,map_record,,-00:02.04,00:03.57,1896618,76561198366368448,[U:1:406102720],

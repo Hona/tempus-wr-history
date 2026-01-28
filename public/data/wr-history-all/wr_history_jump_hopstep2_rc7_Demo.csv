@@ -1,4 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2024-02-16,05:44.49,k'yukito,jump_hopstep2_rc7,WR,MapRun,10:46.78,+05:02.29,,true,2733852,76561198974495826,[U:1:1014230098],
-2024-04-22,05:44.49,cander,jump_hopstep2_rc7,WR,Compact,,,,false,2826826,,,
-2024-08-04,05:44.49,cander,jump_hopstep2_rc7,WR,Compact,,,,false,2978999,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2024-02-16,05:44.49,cander,jump_hopstep2_rc7,WR,Map,observed,wr_split,,,,,,,

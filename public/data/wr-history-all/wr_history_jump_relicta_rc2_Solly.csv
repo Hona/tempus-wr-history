@@ -1,12 +1,5 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2022-04-06,01:12.66,GreenShaDow,jump_relicta_rc2,WR,MapRun,04:49.30,+03:36.64,,true,1908352,76561198332240680,[U:1:371974952],
-2022-05-30,01:12.33,Rachello,jump_relicta_rc2,WR,MapRecord,,-00:00.33,00:00.69,false,1961508,76561198815853361,[U:1:855587633],
-2024-01-17,01:06.42,fox,jump_relicta_rc2,WR,IRC,,-00:03.25,,false,2687723,,,
-2024-01-17,01:09.67,fox,jump_relicta_rc2,WR,IRC,,-00:00.09,,false,2687723,,,
-2024-01-17,01:06.42,fox,jump_relicta_rc2,WR,MapRecord,,-00:03.25,00:03.25,false,2687588,76561198046601398,[U:1:86335670],
-2024-01-17,01:09.67,fox,jump_relicta_rc2,WR,MapRecord,,-00:00.09,00:00.09,false,2687588,76561198046601398,[U:1:86335670],
-2024-05-20,01:06.42,kurai yo kowai y,jump_relicta_rc2,WR,Compact,,,,false,2866999,,,
-2024-12-30,01:06.42,fox,jump_relicta_rc2,WR,Compact,,,,false,3196959,,,
-2025-02-15,01:06.42,Boshy,jump_relicta_rc2,WR,Compact,,,,false,3267048,,,
-2025-08-11,01:06.42,Cog in the Machi,jump_relicta_rc2,WR,Compact,,,,false,3446104,,,
-2025-10-03,01:06.42,lc50,jump_relicta_rc2,WR,Compact,,,,false,3519174,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2022-04-06,01:12.66,unknown,jump_relicta_rc2,WR,Map,observed,wr_split,,,,,,,
+2022-05-30,01:12.33,Rachello,jump_relicta_rc2,WR,Map,record,map_record,,-00:00.33,00:00.69,1961508,76561198815853361,[U:1:855587633],
+2024-01-17,01:09.67,fox,jump_relicta_rc2,WR,Map,record,map_record,,-00:00.09,00:00.09,2687588,76561198046601398,[U:1:86335670],
+2024-01-17,01:06.42,fox,jump_relicta_rc2,WR,Map,record,map_record,,-00:03.25,00:03.25,2687588,76561198046601398,[U:1:86335670],

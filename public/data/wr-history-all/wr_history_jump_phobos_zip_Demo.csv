@@ -1,10 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2021-10-10,01:11.72,RechEllo,jump_phobos_zip,WR,MapRun,02:02.52,+00:50.80,,true,1728634,76561198815853361,[U:1:855587633],
-2023-01-08,01:08.97,cander,jump_phobos_zip,WR,IRC,,-00:00.94,,false,2173489,,,
-2023-01-08,01:09.91,cander,jump_phobos_zip,WR,IRC,,-00:01.80,,false,2173489,,,
-2023-01-08,01:08.97,cander,jump_phobos_zip,WR,MapRecord,,-00:00.94,00:00.94,false,2173567,76561198318722879,[U:1:358457151],
-2023-01-08,01:09.91,cander,jump_phobos_zip,WR,MapRecord,,-00:01.80,00:10.81,false,2173567,76561198318722879,[U:1:358457151],
-2024-10-31,01:08.97,cander,jump_phobos_zip,WR,Compact,,,,false,3108406,,,
-2025-12-14,01:08.97,cander,jump_phobos_zip,WR,Compact,,,,false,3676444,76561198318722879,[U:1:358457151],
-2025-12-14,01:08.97,cander,jump_phobos_zip,WR,Compact,,,,false,3676911,76561198318722879,[U:1:358457151],
-2025-12-14,01:08.97,cander,jump_phobos_zip,WR,Compact,,,,false,3677200,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2021-10-10,01:11.72,unknown,jump_phobos_zip,WR,Map,observed,wr_split,,,,,,,
+2023-01-08,01:09.91,cander,jump_phobos_zip,WR,Map,record,map_record,,-00:01.80,00:10.81,2173567,76561198318722879,[U:1:358457151],
+2023-01-08,01:08.97,cander,jump_phobos_zip,WR,Map,record,map_record,,-00:00.94,00:00.94,2173567,76561198318722879,[U:1:358457151],

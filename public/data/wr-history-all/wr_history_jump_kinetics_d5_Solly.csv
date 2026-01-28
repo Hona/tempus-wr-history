@@ -1,2 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2019-02-16,02:28.73,Boshy,jump_kinetics_d5,WR,Bonus 3,,,,false,894156,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2019-02-16,02:28.73,Boshy,jump_kinetics_d5,WR,Bonus 3,command,wr_command,,,,,,,

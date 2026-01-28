@@ -1,10 +1,8 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-03-18,03:27.34,Boshy,jump_contact,WR,Compact,,,,false,602370,,,
-2018-11-20,02:31.30,Boshy,jump_contact,WR,MapRecord,,-00:15.65,00:15.65,false,821101,76561198046601398,[U:1:86335670],
-2018-11-20,02:46.96,Boshy,jump_contact,WR,MapRecord,,-00:13.06,00:13.06,false,821101,76561198046601398,[U:1:86335670],
-2018-11-20,03:00.03,Boshy,jump_contact,WR,MapRecord,,-00:27.31,00:27.31,false,821101,76561198046601398,[U:1:86335670],
-2024-02-11,02:28.28,cute kitty girl,jump_contact,WR,MapRun,47:03.51,+44:35.23,,true,2726676,,,
-2024-05-24,02:28.27,train go boom,jump_contact,WR,Compact,,,,false,2872666,,,
-2024-09-22,02:28.27,johnsonjohnjohn,jump_contact,WR,Compact,,,,false,3051151,,,
-2024-10-18,02:28.27,johnsonjohnjohn,jump_contact,WR,Compact,,,,false,3090176,,,
-2024-10-21,02:10.54,Blue,jump_contact,WR,MapRun,51:36.43,+49:25.89,,true,3094548,76561198149162816,[U:1:188897088],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-03-18,03:27.34,Boshy,jump_contact,WR,Map,command,wr_command,,,,,,,
+2018-11-20,03:00.03,Boshy,jump_contact,WR,Map,record,map_record,,-00:27.31,00:27.31,821101,76561198046601398,[U:1:86335670],
+2018-11-20,02:46.96,Boshy,jump_contact,WR,Map,record,map_record,,-00:13.06,00:13.06,821101,76561198046601398,[U:1:86335670],
+2018-11-20,02:31.30,Boshy,jump_contact,WR,Map,record,map_record,,-00:15.65,00:15.65,821101,76561198046601398,[U:1:86335670],
+2024-02-11,02:28.28,unknown,jump_contact,WR,Map,observed,wr_split,,,,,,,
+2024-05-24,02:28.27,train go boom,jump_contact,WR,Map,command,wr_command,,,,,,,
+2024-10-21,02:10.54,sammy,jump_contact,WR,Map,observed,wr_split,,,,,76561199001307670,[U:1:1041041942],

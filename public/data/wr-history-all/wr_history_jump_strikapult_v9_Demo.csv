@@ -1,2 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-08-30,03:09.31,newjuls,jump_strikapult_v9,WR,Bonus 1,,-19:21.32,,false,748088,76561198396018338,[U:1:435752610],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-08-30,03:09.31,newjuls,jump_strikapult_v9,WR,Bonus 1,record,zone_record,,-19:21.32,,748088,76561198396018338,[U:1:435752610],

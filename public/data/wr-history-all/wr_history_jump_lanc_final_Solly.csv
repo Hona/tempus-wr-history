@@ -1,4 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2014-07-06,01:03.38,Exile,jump_lanc_final,WR,Bonus 3 First,,,,false,9699,76561198046776282,STEAM_0:0:43255277,
-2014-07-06,01:10.18,Exile,jump_lanc_final,WR,Bonus 1 First,,,,false,9699,76561198046776282,STEAM_0:0:43255277,
-2014-07-06,01:32.56,Exile,jump_lanc_final,WR,Bonus 2 First,,,,false,9699,76561198046776282,STEAM_0:0:43255277,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2014-07-06,01:10.18,Exile,jump_lanc_final,WR,Bonus 1,record,zone_first,,,,9699,76561198046776282,STEAM_0:0:43255277,
+2014-07-06,01:32.56,Exile,jump_lanc_final,WR,Bonus 2,record,zone_first,,,,9699,76561198046776282,STEAM_0:0:43255277,
+2014-07-06,01:03.38,Exile,jump_lanc_final,WR,Bonus 3,record,zone_first,,,,9699,76561198046776282,STEAM_0:0:43255277,

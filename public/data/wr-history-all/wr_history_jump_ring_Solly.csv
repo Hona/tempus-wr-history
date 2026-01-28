@@ -1,9 +1,9 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2014-05-31,05:25.59,HeliX,jump_ring,WR,IRC,,-02:56.79,,false,1720,,,
-2014-06-29,03:16.13,sora,jump_ring,WR,MapRecord,,-00:23.04,00:23.04,false,8908,76561197971599263,STEAM_0:1:5666767,
-2014-06-29,03:39.17,sora,jump_ring,WR,MapRecord,,-00:36.88,00:36.88,false,8908,76561197971599263,STEAM_0:1:5666767,
-2014-06-29,04:16.06,sora,jump_ring,WR,MapRecord,,-01:09.53,01:09.53,false,8908,76561197971599263,STEAM_0:1:5666767,
-2015-02-16,02:43.42,Aurora -tt,jump_ring,WR,MapRecord,,-00:01.09,00:04.87,false,62095,76561198053067670,[U:1:92801942],
-2015-02-16,02:43.42,Aurora -tt,jump_ring,WR,Compact,,,,false,62095,76561198053067670,[U:1:92801942],
-2015-04-07,02:33.65,jondyj,jump_ring,WR,MapRecord,,-00:09.76,02:08.98,false,80278,76561198055778722,[U:1:95512994],
-2018-02-14,02:03.44,porkie,jump_ring,WR,MapRun,02:55.55,+00:52.11,00:33.77,true,577063,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2014-05-31,05:25.59,HeliX,jump_ring,WR,Map,announcement,irc,,-02:56.79,,,,,
+2014-06-29,04:16.06,sora,jump_ring,WR,Map,record,map_record,,-01:09.53,01:09.53,8908,76561197971599263,STEAM_0:1:5666767,
+2014-06-29,03:39.17,sora,jump_ring,WR,Map,record,map_record,,-00:36.88,00:36.88,8908,76561197971599263,STEAM_0:1:5666767,
+2014-06-29,03:16.13,sora,jump_ring,WR,Map,record,map_record,,-00:23.04,00:23.04,8908,76561197971599263,STEAM_0:1:5666767,
+2015-02-16,02:44.51,unknown,jump_ring,WR,Map,observed,wr_split,,,,,,,
+2015-02-16,02:43.42,Aurora -tt,jump_ring,WR,Map,record,map_record,,-00:01.09,00:04.87,62095,76561198053067670,[U:1:92801942],
+2015-04-07,02:33.65,jondyj,jump_ring,WR,Map,record,map_record,,-00:09.76,02:08.98,80278,76561198055778722,[U:1:95512994],
+2018-02-14,02:03.44,unknown,jump_ring,WR,Map,observed,wr_split,,,,,,,

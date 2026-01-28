@@ -1,10 +1,6 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-06-22,05:54.76,CrackuhJax | bg5,jump_compound,WR,MapRun,15:48.89,+09:54.13,,true,685407,,,
-2018-08-18,00:07.51,QUACK LIKE A DUC,jump_compound,WR,Bonus 1,,-00:06.17,00:13.23,false,737076,,,
-2018-08-18,00:06.80,hibiscus,jump_compound,WR,Bonus 1,,-00:00.70,00:00.93,false,737171,76561198046601398,[U:1:86335670],
-2018-08-18,00:07.51,QUACK LIKE A DUC,jump_compound,WR,Bonus 1,,,,false,737171,,,
-2021-03-26,05:02.44,twitch.tv/ondkaj,jump_compound,WR,MapRecord,,-00:52.32,01:20.74,false,1546887,,,
-2021-08-13,00:07.15,💗 ⁧⁧ Meti,jump_compound,WR,Bonus 1,,-00:00.36,00:02.07,false,1668792,76561198096749316,[U:1:136483588],
-2022-09-14,00:07.14,ondkaja,jump_compound,WR,Bonus 1,,-00:00.01,00:00.88,false,2057538,76561198010123351,[U:1:49857623],
-2023-04-07,04:01.54,Helmi.,jump_compound,WR,MapRecord,,-01:00.90,01:02.01,false,2264783,76561198201985399,[U:1:241719671],
-2024-05-12,04:01.54,Helmi. -CC,jump_compound,WR,Compact,,,,false,2856036,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-06-22,05:54.76,hibiscus,jump_compound,WR,Map,observed,wr_split,,,,,,,
+2018-08-18,00:07.51,QUACK LIKE A DUC,jump_compound,WR,Bonus 1,record,zone_record,,-00:06.17,00:13.23,737076,,,
+2018-08-18,00:06.80,hibiscus,jump_compound,WR,Bonus 1,record,zone_record,,-00:00.70,00:00.93,737171,76561198046601398,[U:1:86335670],
+2021-03-26,05:02.44,twitch.tv/ondkaj,jump_compound,WR,Map,record,map_record,,-00:52.32,01:20.74,1546887,,,
+2023-04-07,04:01.54,Helmi.,jump_compound,WR,Map,record,map_record,,-01:00.90,01:02.01,2264783,76561198201985399,[U:1:241719671],

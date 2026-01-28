@@ -1,2 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2023-02-15,02:06.83,vanta,jump_beryllium_v4,WR,MapRun,11:15.33,+09:08.50,,true,2214477,76561198084317504,[U:1:124051776],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2023-02-15,02:06.83,unknown,jump_beryllium_v4,WR,Map,observed,wr_split,,,,,,,

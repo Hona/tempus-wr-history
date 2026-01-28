@@ -1,14 +1,3 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2023-06-08,03:07.41,what,jump_core_b1_zip,WR,MapRun,53:34.17,+50:26.76,,true,2354651,76561198018630221,[U:1:58364493],
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,IRC,,-00:12.37,,false,3162498,,,
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,IRC,,-00:12.37,,false,3162421,,,
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,MapRecord,,-00:12.37,00:24.10,false,3162536,76561198318722879,[U:1:358457151],
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,IRC,,-00:12.37,,false,3162524,,,
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,IRC,,-00:12.37,,false,3162518,,,
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,IRC,,-00:12.37,,false,3162509,,,
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,IRC,,-00:12.37,,false,3162615,,,
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,IRC,,-00:12.37,,false,3162621,,,
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,IRC,,-00:12.37,,false,3162627,,,
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,IRC,,-00:12.37,,false,3162602,,,
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,IRC,,-00:12.37,,false,3162612,,,
-2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,IRC,,-00:12.37,,false,3162633,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2023-06-08,03:07.41,Waldo,jump_core_b1_zip,WR,Map,observed,wr_split,,,,,,,
+2024-12-07,02:55.03,cander,jump_core_b1_zip,WR,Map,record,map_record,,-00:12.37,00:24.10,3162536,76561198318722879,[U:1:358457151],

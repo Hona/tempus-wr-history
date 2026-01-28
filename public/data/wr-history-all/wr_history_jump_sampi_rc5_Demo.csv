@@ -1,11 +1,5 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2021-05-11,04:40.71,the battle for H,jump_sampi_rc5,WR,MapRun,21:12.70,+16:31.99,,true,1586298,,,
-2021-05-14,04:36.49,e,jump_sampi_rc5,WR,MapRecord,,-00:04.21,01:06.94,false,1588114,76561198222006144,[U:1:261740416],
-2021-05-14,04:40.71,kajasumthing,jump_sampi_rc5,WR,Compact,,,,false,1588114,,,
-2021-05-14,04:23.61,kajasumthing,jump_sampi_rc5,WR,MapRecord,,-00:12.88,00:17.10,false,1588282,76561198091590767,[U:1:131325039],
-2021-05-14,04:23.61,kajasumthing,jump_sampi_rc5,WR,IRC,,-00:12.88,,false,1588289,,,
-2023-01-31,04:20.77,Matty,jump_sampi_rc5,WR,IRC,,-00:02.83,,false,2199038,,,
-2023-01-31,04:20.77,Matty,jump_sampi_rc5,WR,MapRecord,,-00:02.83,00:09.67,false,2199042,76561198035204545,[U:1:74938817],
-2024-04-21,04:20.77,Matty,jump_sampi_rc5,WR,Compact,,,,false,2825013,76561198035204545,[U:1:74938817],
-2024-06-20,04:20.77,Matty,jump_sampi_rc5,WR,Compact,,,,false,2912502,76561198035204545,[U:1:74938817],
-2024-07-13,04:20.77,4g,jump_sampi_rc5,WR,Compact,,,,false,2946308,76561198035204545,[U:1:74938817],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2021-05-11,04:40.71,kajasumthing,jump_sampi_rc5,WR,Map,observed,wr_split,,,,,,,
+2021-05-14,04:36.49,e,jump_sampi_rc5,WR,Map,record,map_record,,-00:04.21,01:06.94,1588114,76561198222006144,[U:1:261740416],
+2021-05-14,04:23.61,kajasumthing,jump_sampi_rc5,WR,Map,record,map_record,,-00:12.88,00:17.10,1588282,76561198091590767,[U:1:131325039],
+2023-01-31,04:20.77,Matty,jump_sampi_rc5,WR,Map,record,map_record,,-00:02.83,00:09.67,2199042,76561198035204545,[U:1:74938817],

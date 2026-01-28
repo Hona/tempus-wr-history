@@ -1,9 +1,8 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2014-07-16,00:03.94,kil boy 1,jump_ring2_a5,WR,Bonus 4,,-00:00.37,00:00.49,false,10993,76561198040983512,STEAM_0:0:40358892,
-2014-07-16,00:07.67,kil boy 1,jump_ring2_a5,WR,Bonus 1,,-00:00.34,00:00.34,false,10993,76561198040983512,STEAM_0:0:40358892,
-2014-07-16,00:25.48,kil boy 1,jump_ring2_a5,WR,Bonus 3,,-00:10.00,00:10.00,false,10993,76561198040983512,STEAM_0:0:40358892,
-2014-07-16,02:36.61,kil boy 1,jump_ring2_a5,WR,MapRecord,,-00:08.16,00:19.12,false,10993,76561198040983512,STEAM_0:0:40358892,
-2014-07-17,02:24.39,WILL SMITH BEST ...,jump_ring2_a5,WR,MapRecord,,-00:12.22,00:20.38,false,11143,76561198078488228,STEAM_0:0:59111250,
-2014-11-11,02:01.90,a°,jump_ring2_a5,WR,MapRecord,,-00:19.37,00:19.37,false,29906,76561198078488228,[U:1:118222500],
-2014-11-11,02:21.28,a°,jump_ring2_a5,WR,MapRecord,,-00:03.10,00:03.10,false,29906,76561198078488228,[U:1:118222500],
-2015-06-17,02:20.68,The Sandvich eat,jump_ring2_a5,WR,MapRecord,,-00:15.93,01:35.95,false,107590,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2014-07-16,02:36.61,kil boy 1,jump_ring2_a5,WR,Map,record,map_record,,-00:08.16,00:19.12,10993,76561198040983512,STEAM_0:0:40358892,
+2014-07-16,00:03.94,kil boy 1,jump_ring2_a5,WR,Bonus 4,record,zone_record,,-00:00.37,00:00.49,10993,76561198040983512,STEAM_0:0:40358892,
+2014-07-16,00:07.67,kil boy 1,jump_ring2_a5,WR,Bonus 1,record,zone_record,,-00:00.34,00:00.34,10993,76561198040983512,STEAM_0:0:40358892,
+2014-07-16,00:25.48,kil boy 1,jump_ring2_a5,WR,Bonus 3,record,zone_record,,-00:10.00,00:10.00,10993,76561198040983512,STEAM_0:0:40358892,
+2014-07-17,02:24.39,WILL SMITH BEST ...,jump_ring2_a5,WR,Map,record,map_record,,-00:12.22,00:20.38,11143,76561198078488228,STEAM_0:0:59111250,
+2014-11-11,02:21.28,a°,jump_ring2_a5,WR,Map,record,map_record,,-00:03.10,00:03.10,29906,76561198078488228,[U:1:118222500],
+2014-11-11,02:01.90,a°,jump_ring2_a5,WR,Map,record,map_record,,-00:19.37,00:19.37,29906,76561198078488228,[U:1:118222500],

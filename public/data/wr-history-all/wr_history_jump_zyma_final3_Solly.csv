@@ -1,4 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2020-10-31,06:45.63,Hass,jump_zyma_final3,WR,FirstRecord,,,,false,1404222,76561198152719870,[U:1:192454142],
-2020-10-31,06:45.63,Hass,jump_zyma_final3,WR,IRCSet,,,,false,1404233,,,
-2020-10-31,06:48.27,Hass,jump_zyma_final3,WR,FirstRecord,,,,false,1404306,76561198152719870,[U:1:192454142],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2020-10-31,06:45.63,Hass,jump_zyma_final3,WR,Map,record,first_record,,,,1404222,76561198152719870,[U:1:192454142],

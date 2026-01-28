@@ -1,7 +1,7 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-03-27,03:13.00,Kittaye,jump_moist,WR,MapRun,19:46.57,+16:33.57,,true,609862,76561198018540237,[U:1:58274509],
-2018-03-28,00:20.72,Boshy,jump_moist,WR,Course 1,,-00:00.13,00:00.13,false,610654,76561198046601398,[U:1:86335670],
-2018-03-28,00:20.86,Boshy,jump_moist,WR,Course 1,,-00:00.22,00:00.22,false,610654,76561198046601398,[U:1:86335670],
-2018-03-28,00:21.08,Boshy,jump_moist,WR,Course 1,,-00:00.55,00:00.55,false,610654,76561198046601398,[U:1:86335670],
-2018-03-28,02:32.57,Boshy,jump_moist,WR,Course 2,,-00:07.60,00:07.60,false,610654,76561198046601398,[U:1:86335670],
-2018-03-28,03:06.41,Boshy,jump_moist,WR,MapRecord,,-00:06.58,00:06.58,false,610654,76561198046601398,[U:1:86335670],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-03-27,03:13.00,unknown,jump_moist,WR,Map,observed,wr_split,,,,,,,
+2018-03-28,00:21.08,Boshy,jump_moist,WR,Course 1,record,zone_record,,-00:00.55,00:00.55,610654,76561198046601398,[U:1:86335670],
+2018-03-28,00:20.86,Boshy,jump_moist,WR,Course 1,record,zone_record,,-00:00.22,00:00.22,610654,76561198046601398,[U:1:86335670],
+2018-03-28,00:20.72,Boshy,jump_moist,WR,Course 1,record,zone_record,,-00:00.13,00:00.13,610654,76561198046601398,[U:1:86335670],
+2018-03-28,02:32.57,Boshy,jump_moist,WR,Course 2,record,zone_record,,-00:07.60,00:07.60,610654,76561198046601398,[U:1:86335670],
+2018-03-28,03:06.41,Boshy,jump_moist,WR,Map,record,map_record,,-00:06.58,00:06.58,610654,76561198046601398,[U:1:86335670],

@@ -1,9 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2023-04-19,01:17.16,miguel,jump_allstars_fix,WR,MapRun,03:34.21,+02:17.05,,true,2281441,76561198158054484,[U:1:197788756],
-2023-09-30,00:24.88,vice,jump_allstars_fix,WR,Course 2,,-00:01.33,00:02.25,false,2524272,76561198366368448,[U:1:406102720],
-2023-11-14,01:15.99,Matty,jump_allstars_fix,WR,MapRecord,,-00:01.17,00:08.16,false,2591746,76561198035204545,[U:1:74938817],
-2023-11-14,01:17.16,:kater:,jump_allstars_fix,WR,Compact,,,,false,2591746,,,
-2023-11-14,01:17.16,:kater:,jump_allstars_fix,WR,Compact,,,,false,2591746,,,
-2023-11-15,01:15.99,Matty,jump_allstars_fix,WR,IRC,,-00:01.17,,false,2591911,,,
-2023-11-15,01:15.99,Matty,jump_allstars_fix,WR,IRC,,-00:01.17,,false,2591989,,,
-2024-06-30,01:15.99,Matty,jump_allstars_fix,WR,Compact,,,,false,2927285,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2023-04-19,01:17.16,:kater:,jump_allstars_fix,WR,Map,observed,wr_split,,,,,,,
+2023-09-30,00:24.88,vice,jump_allstars_fix,WR,Course 2,record,zone_record,,-00:01.33,00:02.25,2524272,76561198366368448,[U:1:406102720],
+2023-11-14,01:15.99,Matty,jump_allstars_fix,WR,Map,record,map_record,,-00:01.17,00:08.16,2591746,76561198035204545,[U:1:74938817],

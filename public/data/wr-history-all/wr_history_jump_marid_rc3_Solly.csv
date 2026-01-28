@@ -1,6 +1,7 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2025-11-10,03:28.32,Waldo,jump_marid_rc3,WR,FirstRecord,,,,false,3569640,76561198020256631,[U:1:59990903],
-2025-11-10,01:24.63,th14 marisaB lif,jump_marid_rc3,WR,Ranked,,,,true,3569729,,,
-2025-11-16,01:23.17,Zando,jump_marid_rc3,WR,MapRun,09:33.58,+08:10.41,,true,3586574,76561198992703346,[U:1:1032437618],
-2025-11-17,01:21.32,Kev27,jump_marid_rc3,WR,MapRun,07:47.96,+06:26.64,,true,3587914,76561198157250318,[U:1:196984590],
-2025-11-18,01:16.22,cook.,jump_marid_rc3,WR,MapRun,07:47.90,+06:31.68,,true,3588786,76561198418178297,[U:1:457912569],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2025-11-10,03:28.32,Waldo,jump_marid_rc3,WR,Map,record,first_record,,,,3569640,76561198020256631,[U:1:59990903],
+2025-11-10,01:24.64,unknown,jump_marid_rc3,WR,Map,observed,wr_split,,,,,,,
+2025-11-10,01:24.62,unknown,jump_marid_rc3,WR,Map,observed,wr_split,,,,,,,
+2025-11-16,01:23.17,unknown,jump_marid_rc3,WR,Map,observed,wr_split,,,,,,,
+2025-11-17,01:21.32,unknown,jump_marid_rc3,WR,Map,observed,wr_split,,,,,,,
+2025-11-18,01:16.22,unknown,jump_marid_rc3,WR,Map,observed,wr_split,,,,,,,

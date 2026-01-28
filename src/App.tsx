@@ -19,11 +19,12 @@ type CsvRow = {
   player: string
   map: string
   record_type: string
-  source: string
+  segment: string
+  evidence: string
+  evidence_source: string
   run_time: string
   split: string
   improvement: string
-  inferred: string
   demo_id: string
   steam_id64: string
   steam_id: string
@@ -59,9 +60,6 @@ function App() {
   const [selectedZone, setSelectedZone] = useState<string | null>(null)
   const [rows, setRows] = useState<CsvRow[]>([])
   const [loading, setLoading] = useState(false)
-  const [includeInferred, setIncludeInferred] = useState(true)
-  const [showAllEntries, setShowAllEntries] = useState(false)
-  const [showRawPoints, setShowRawPoints] = useState(false)
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/index.json`)
@@ -140,7 +138,7 @@ function App() {
   }, [index, selectedMap, selectedClass])
 
   const rowsWithZone = useMemo(() => {
-    return rows.map((row) => ({ row, zone: getZoneInfo(row.source) }))
+    return rows.map((row) => ({ row, zone: getZoneInfo(row.segment) }))
   }, [rows])
 
   const zoneOptions = useMemo(() => {
@@ -179,15 +177,14 @@ function App() {
 
   const filtered = useMemo(() => {
     return rowsWithZone
-      .filter(({ row, zone }) => {
-        if (!includeInferred && row.inferred === 'true') return false
+      .filter(({ zone }) => {
         if (view === 'map') return zone == null
         if (zone == null) return false
         if (selectedZone && zone.id !== selectedZone) return false
         return true
       })
       .map(({ row }) => row)
-  }, [rowsWithZone, includeInferred, view, selectedZone])
+  }, [rowsWithZone, view, selectedZone])
 
   const timeline = useMemo(() => {
     const points = filtered
@@ -201,18 +198,16 @@ function App() {
 
     points.sort((a, b) => a.dateValue - b.dateValue)
 
-    if (showAllEntries) return points
-
     let best = Number.POSITIVE_INFINITY
     return points.filter((row) => {
-      const epsilon = row.inferred === 'true' ? 0.01 : 0.0001
+      const epsilon = 0.0001
       if (row.recordSeconds < best - epsilon) {
         best = row.recordSeconds
         return true
       }
       return false
     })
-  }, [filtered, showAllEntries])
+  }, [filtered])
 
   const stats = useMemo(() => {
     if (timeline.length === 0) return null
@@ -322,14 +317,6 @@ function App() {
           </div>
 
           <div className="filters">
-            <label>
-              <input
-                type="checkbox"
-                checked={includeInferred}
-                onChange={(event) => setIncludeInferred(event.target.checked)}
-              />
-              {view === 'zones' ? 'Include inferred runs' : 'Include inferred map runs'}
-            </label>
             {view === 'zones' ? (
               <label className="zone-select">
                 <span>Zone</span>
@@ -350,22 +337,6 @@ function App() {
                 </select>
               </label>
             ) : null}
-            <label>
-              <input
-                type="checkbox"
-                checked={showAllEntries}
-                onChange={(event) => setShowAllEntries(event.target.checked)}
-              />
-              Show all WR announcements
-            </label>
-            <label>
-              <input
-                type="checkbox"
-                checked={showRawPoints}
-                onChange={(event) => setShowRawPoints(event.target.checked)}
-              />
-              Show raw points
-            </label>
           </div>
 
           {loading ? (
@@ -401,7 +372,7 @@ function App() {
               </div>
 
               <div className="chart">
-                <TimelineChart points={timeline} showRaw={showRawPoints} />
+                <TimelineChart points={timeline} />
               </div>
 
               <div className="table">
@@ -412,13 +383,16 @@ function App() {
                   <span>Date</span>
                   <span>Time</span>
                   <span>Player</span>
-                  <span>Source</span>
+                  <span>Details</span>
                   <span>Demo</span>
                 </div>
                 {timeline.map((row) => (
-                  <div key={`${row.demo_id}-${row.date}-${row.record_time}`} className="table-row">
+                  <div
+                    key={`${row.date}-${row.record_time}-${row.segment}-${row.evidence_source}-${row.player}`}
+                    className="table-row"
+                  >
                     <span className="watch-cell">
-                      {row.demo_id ? (
+                      {row.demo_id && row.evidence === 'record' ? (
                         <a
                           className="watch-button"
                           href={`https://demos.tf2jump.xyz/?demo=${row.demo_id}`}
@@ -436,14 +410,13 @@ function App() {
                     <span>{row.date}</span>
                     <span>
                       {row.record_time}
-                      {row.inferred === 'true' ? ' *' : ''}
                     </span>
                     <div className="player-cell">
                       <PlayerIdentity row={row} />
                     </div>
-                    <span>{row.source}</span>
+                    <span>{formatDetails(row)}</span>
                     <span>
-                      {row.demo_id ? (
+                      {row.demo_id && row.evidence === 'record' ? (
                         <a
                           href={`https://tempus2.xyz/demos/${row.demo_id}`}
                           target="_blank"
@@ -458,7 +431,9 @@ function App() {
                   </div>
                 ))}
               </div>
-              <p className="legend">* inferred from WR split in chat message</p>
+              <p className="legend">
+                Evidence: record (in-demo), announcement (bot), command (output), observed (from +split)
+              </p>
             </>
           )}
         </section>
@@ -468,17 +443,82 @@ function App() {
 }
 
 function parseCsv(text: string): CsvRow[] {
-  const lines = text.trim().split('\n')
-  if (lines.length <= 1) return []
-  const headers = lines[0].split(',')
-  return lines.slice(1).map((line) => {
-    const cells = line.split(',')
+  const rows = parseCsvRows(text)
+  if (rows.length <= 1) return []
+
+  const headers = rows[0]
+  return rows.slice(1).map((cells) => {
     const row: Record<string, string> = {}
     headers.forEach((header, index) => {
       row[header] = cells[index] ?? ''
     })
     return row as CsvRow
   })
+}
+
+function parseCsvRows(text: string): string[][] {
+  const rows: string[][] = []
+  let row: string[] = []
+  let field = ''
+  let inQuotes = false
+
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i]
+
+    if (inQuotes) {
+      if (ch === '"') {
+        if (text[i + 1] === '"') {
+          field += '"'
+          i++
+          continue
+        }
+        inQuotes = false
+        continue
+      }
+      field += ch
+      continue
+    }
+
+    if (ch === '"') {
+      inQuotes = true
+      continue
+    }
+
+    if (ch === ',') {
+      row.push(field)
+      field = ''
+      continue
+    }
+
+    if (ch === '\r') {
+      continue
+    }
+
+    if (ch === '\n') {
+      row.push(field)
+      field = ''
+      if (row.some((cell) => cell.trim().length > 0)) {
+        rows.push(row)
+      }
+      row = []
+      continue
+    }
+
+    field += ch
+  }
+
+  if (inQuotes) {
+    inQuotes = false
+  }
+
+  if (field.length > 0 || row.length > 0) {
+    row.push(field)
+    if (row.some((cell) => cell.trim().length > 0)) {
+      rows.push(row)
+    }
+  }
+
+  return rows
 }
 
 function parseTimeToSeconds(value: string): number | null {
@@ -620,6 +660,26 @@ function formatDate(value: string) {
   return date.toISOString().slice(0, 10)
 }
 
+function formatEvidence(row: CsvRow) {
+  const kind = (row.evidence ?? '').trim().toLowerCase()
+  const source = (row.evidence_source ?? '').trim().toLowerCase()
+
+  const kindLabel = kind || 'unknown'
+  const sourceLabel = source ? source.replaceAll('_', ' ') : ''
+
+  if (!sourceLabel) return kindLabel
+  return `${kindLabel} (${sourceLabel})`
+}
+
+function formatDetails(row: CsvRow) {
+  const segment = (row.segment ?? '').trim()
+  const evidence = formatEvidence(row)
+  if (segment && segment.toLowerCase() !== 'map') {
+    return `${segment} · ${evidence}`
+  }
+  return evidence
+}
+
 function PlayerIdentity({ row }: { row: CsvRow }) {
   const candidates = parseSteamCandidates(row.steam_candidates)
   const profileUrl = buildSteamProfileUrl(row.steam_id64, row.steam_id)
@@ -667,7 +727,7 @@ function PlayerIdentity({ row }: { row: CsvRow }) {
   return <span>{row.player}</span>
 }
 
-function TimelineChart({ points, showRaw }: { points: DataPoint[]; showRaw: boolean }) {
+function TimelineChart({ points }: { points: DataPoint[] }) {
   const padding = 48
   const width = 900
   const height = 320
@@ -685,9 +745,20 @@ function TimelineChart({ points, showRaw }: { points: DataPoint[]; showRaw: bool
     padding + (1 - (value - minY) / Math.max(1, maxY - minY)) * (height - padding * 2)
 
   const stepPath = buildStepPath(points, scaleX, scaleY)
-  const rawPath = points
-    .map((point, index) => `${index === 0 ? 'M' : 'L'} ${scaleX(point.dateValue)} ${scaleY(point.recordSeconds)}`)
-    .join(' ')
+  const pointColor = (point: DataPoint) => {
+    switch ((point.evidence ?? '').toLowerCase()) {
+      case 'record':
+        return 'var(--accent)'
+      case 'announcement':
+        return 'var(--accent-soft)'
+      case 'command':
+        return 'var(--muted)'
+      case 'observed':
+        return 'var(--warn)'
+      default:
+        return 'var(--accent)'
+    }
+  }
 
   return (
     <svg viewBox={`0 0 ${width} ${height}`} role="img" aria-label="WR history">
@@ -699,17 +770,15 @@ function TimelineChart({ points, showRaw }: { points: DataPoint[]; showRaw: bool
         })}
       </g>
       <path d={stepPath} fill="none" stroke="var(--accent)" strokeWidth="3" />
-      {showRaw && <path d={rawPath} fill="none" stroke="var(--accent-soft)" strokeWidth="2" />}
-      {showRaw &&
-        points.map((point) => (
-          <circle
-            key={`${point.demo_id}-${point.date}`}
-            cx={scaleX(point.dateValue)}
-            cy={scaleY(point.recordSeconds)}
-            r={3}
-            fill={point.inferred === 'true' ? 'var(--warn)' : 'var(--accent)'}
-          />
-        ))}
+      {points.map((point) => (
+        <circle
+          key={`${point.date}-${point.record_time}-${point.segment}-${point.evidence_source}`}
+          cx={scaleX(point.dateValue)}
+          cy={scaleY(point.recordSeconds)}
+          r={3}
+          fill={pointColor(point)}
+        />
+      ))}
       <text x={padding} y={height - 16} fill="var(--muted)" fontSize="12">
         {formatDate(new Date(minX).toISOString())}
       </text>

@@ -1,2 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2021-01-09,02:46.27,saber,jump_swizzle_rc4,WR,Ranked,,,,true,1472170,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2021-01-09,02:46.27,saber,jump_swizzle_rc4,WR,Map,command,rank_command,,,,,,,

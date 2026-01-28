@@ -1,5 +1,5 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2021-06-18,00:09.61,vashoi,jump_spy101_rc2,WR,Bonus 1,,-00:05.05,,false,1616752,76561198377607948,[U:1:417342220],
-2021-06-18,03:38.07,Waldo,jump_spy101_rc2,WR,Course 1,,-01:39.64,,false,1616752,76561198020256631,[U:1:59990903],
-2021-06-18,08:36.75,Waldo,jump_spy101_rc2,WR,Course 2,,-10:35.01,,false,1616752,76561198020256631,[U:1:59990903],
-2021-06-18,15:19.17,Waldo,jump_spy101_rc2,WR,Course 3 First,,,,false,1616752,76561198020256631,[U:1:59990903],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2021-06-18,00:09.61,vashoi,jump_spy101_rc2,WR,Bonus 1,record,zone_record,,-00:05.05,,1616752,76561198377607948,[U:1:417342220],
+2021-06-18,03:38.07,Waldo,jump_spy101_rc2,WR,Course 1,record,zone_record,,-01:39.64,,1616752,76561198020256631,[U:1:59990903],
+2021-06-18,08:36.75,Waldo,jump_spy101_rc2,WR,Course 2,record,zone_record,,-10:35.01,,1616752,76561198020256631,[U:1:59990903],
+2021-06-18,15:19.17,Waldo,jump_spy101_rc2,WR,Course 3,record,zone_first,,,,1616752,76561198020256631,[U:1:59990903],

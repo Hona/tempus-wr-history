@@ -1,6 +1,5 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2024-01-30,01:07.69,c -CC,jump_gman_beta5_final_rebuild_rc1,WR,MapRun,04:58.09,+03:50.40,,true,2709518,76561197961895147,[U:1:1629419],
-2024-10-19,01:07.69,Salty,jump_gman_beta5_final_rebuild_rc1,WR,Compact,,,,false,3091961,,,
-2024-12-22,00:01.53,musli,jump_gman_beta5_final_rebuild_rc1,WR,Bonus 2,,-00:00.03,00:00.04,false,3184681,76561198379555950,[U:1:419290222],
-2025-02-15,00:09.94,Kingstripes,jump_gman_beta5_final_rebuild_rc1,WR,Bonus 4,,,,false,3266918,,,
-2025-10-30,00:06.62,Akula6741 |The M,jump_gman_beta5_final_rebuild_rc1,WR,Bonus 1,,-00:00.06,00:00.09,false,3554970,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2024-01-30,01:07.69,Salty,jump_gman_beta5_final_rebuild_rc1,WR,Map,observed,wr_split,,,,,,,
+2024-12-22,00:01.53,musli,jump_gman_beta5_final_rebuild_rc1,WR,Bonus 2,record,zone_record,,-00:00.03,00:00.04,3184681,76561198379555950,[U:1:419290222],
+2025-02-15,00:09.94,Kingstripes,jump_gman_beta5_final_rebuild_rc1,WR,Bonus 4,command,wr_command,,,,,,,
+2025-10-30,00:06.62,Akula6741 |The M,jump_gman_beta5_final_rebuild_rc1,WR,Bonus 1,record,zone_record,,-00:00.06,00:00.09,3554970,,,

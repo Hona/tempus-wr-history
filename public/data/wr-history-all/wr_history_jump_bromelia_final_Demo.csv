@@ -1,10 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2021-09-01,01:48.78,Luffin,jump_bromelia_final,WR,MapRecord,,-00:01.10,00:01.47,false,1690989,76561198094197569,[U:1:133931841],
-2023-12-17,01:46.35,Luffin,jump_bromelia_final,WR,IRC,,-00:02.43,,false,2641104,76561198094197569,[U:1:133931841],
-2023-12-17,01:46.35,Luffin,jump_bromelia_final,WR,MapRecord,,-00:02.43,00:02.43,false,2641188,76561198094197569,[U:1:133931841],
-2023-12-17,01:46.35,Luffin,jump_bromelia_final,WR,IRC,,-00:02.43,,false,2641224,,,
-2023-12-17,01:46.35,Luffin,jump_bromelia_final,WR,IRC,,-00:02.43,,false,2641250,76561198094197569,[U:1:133931841],
-2024-03-07,01:46.35,HYPERSCHALL,jump_bromelia_final,WR,Compact,,,,false,2763416,,,
-2024-05-26,01:46.35,^._.^,jump_bromelia_final,WR,Compact,,,,false,2875350,,,
-2024-06-06,01:46.35,^._.^,jump_bromelia_final,WR,Compact,,,,false,2891699,76561198094197569,[U:1:133931841],
-2024-11-22,01:46.35,Luffin,jump_bromelia_final,WR,Compact,,,,false,3140981,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2021-09-01,01:49.87,unknown,jump_bromelia_final,WR,Map,observed,wr_split,,,,,,,
+2021-09-01,01:48.78,Luffin,jump_bromelia_final,WR,Map,record,map_record,,-00:01.10,00:01.47,1690989,76561198094197569,[U:1:133931841],
+2023-12-17,01:46.35,Luffin,jump_bromelia_final,WR,Map,announcement,irc,,-00:02.43,,,76561198094197569,[U:1:133931841],

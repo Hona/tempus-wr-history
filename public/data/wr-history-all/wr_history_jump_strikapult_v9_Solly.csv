@@ -1,5 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-08-30,02:21.70,vt,jump_strikapult_v9,WR,Bonus 1,,-00:19.73,,false,748088,76561198013875009,[U:1:53609281],
-2018-08-30,02:41.44,Scoot,jump_strikapult_v9,WR,Bonus 1 First,,,,false,748088,76561198049293816,[U:1:89028088],
-2018-08-30,2:17:16.75,newjuls,jump_strikapult_v9,WR,FirstRecord,,,,false,748088,76561198396018338,[U:1:435752610],
-2018-08-30,2:17:16.75,newjuls,jump_strikapult_v9,WR,Compact,,,,false,748088,76561198396018338,[U:1:435752610],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-08-30,02:41.44,Scoot,jump_strikapult_v9,WR,Bonus 1,record,zone_first,,,,748088,76561198049293816,[U:1:89028088],
+2018-08-30,02:21.70,vt,jump_strikapult_v9,WR,Bonus 1,record,zone_record,,-00:19.73,,748088,76561198013875009,[U:1:53609281],
+2018-08-30,2:17:16.75,newjuls,jump_strikapult_v9,WR,Map,record,first_record,,,,748088,76561198396018338,[U:1:435752610],

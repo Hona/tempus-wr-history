@@ -1,8 +1,5 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2019-08-01,04:10.35,arvinge,jump_raina,WR,IRC,,-00:01.54,,false,1023623,,,
-2019-08-01,04:10.35,arvinge,jump_raina,WR,MapRecord,,-00:01.54,02:41.60,false,1023640,76561198063901478,[U:1:103635750],
-2019-08-01,04:04.71,Boshy,jump_raina,WR,MapRecord,,-00:05.64,00:07.18,false,1023706,76561198046601398,[U:1:86335670],
-2023-07-24,03:33.39,HeroInn,jump_raina,WR,MapRun,45:31.15,+41:57.76,,true,2421297,76561198059837804,[U:1:99572076],
-2023-12-25,02:50.19,x_ray2700,jump_raina,WR,IRC,,-00:43.20,,false,2654552,,,
-2023-12-26,02:50.19,x_ray2700,jump_raina,WR,MapRecord,,-00:43.20,00:44.50,false,2654703,76561198979680671,[U:1:1019414943],
-2024-11-15,02:50.19,x_ray2700,jump_raina,WR,Compact,,,,false,3130565,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2019-08-01,04:10.35,arvinge,jump_raina,WR,Map,record,map_record,,-00:01.54,02:41.60,1023640,76561198063901478,[U:1:103635750],
+2019-08-01,04:04.71,Boshy,jump_raina,WR,Map,record,map_record,,-00:05.64,00:07.18,1023706,76561198046601398,[U:1:86335670],
+2023-07-24,03:33.39,unknown,jump_raina,WR,Map,observed,wr_split,,,,,,,
+2023-12-26,02:50.19,x_ray2700,jump_raina,WR,Map,record,map_record,,-00:43.20,00:44.50,2654703,76561198979680671,[U:1:1019414943],

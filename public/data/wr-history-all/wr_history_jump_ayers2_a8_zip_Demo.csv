@@ -1,2 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2024-02-01,01:50.37,Van dyk,jump_ayers2_a8_zip,WR,MapRun,05:59.07,+04:08.70,,true,2712169,76561198149289770,[U:1:189024042],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2024-02-01,01:50.37,unknown,jump_ayers2_a8_zip,WR,Map,observed,wr_split,,,,,,,

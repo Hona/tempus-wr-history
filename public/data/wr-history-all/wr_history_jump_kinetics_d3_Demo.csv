@@ -1,4 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-03-27,01:19.10,mesatech,jump_kinetics_d3,WR,MapRecord,,-00:01.39,00:01.87,false,610085,76561198111845972,[U:1:151580244],
-2018-07-07,01:19.10,mesatech | bg5.t,jump_kinetics_d3,WR,Compact,,,,false,699239,,,
-2019-02-07,00:03.81,shakez,jump_kinetics_d3,WR,Bonus 2,,-00:00.07,00:00.13,false,886891,76561198312076035,[U:1:351810307],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-03-27,01:20.51,unknown,jump_kinetics_d3,WR,Map,observed,wr_split,,,,,,,
+2018-03-27,01:19.10,mesatech,jump_kinetics_d3,WR,Map,record,map_record,,-00:01.39,00:01.87,610085,76561198111845972,[U:1:151580244],
+2019-02-07,00:03.81,shakez,jump_kinetics_d3,WR,Bonus 2,record,zone_record,,-00:00.07,00:00.13,886891,76561198312076035,[U:1:351810307],

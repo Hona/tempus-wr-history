@@ -1,4 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2014-10-02,00:08.02,guyyst,jump_flow_alpha2,WR,Bonus 1,,-00:00.78,00:01.12,false,21874,76561198041343262,[U:1:81077534],
-2014-10-02,07:58.46,guyyst,jump_flow_alpha2,WR,MapRecord,,-06:48.01,06:48.01,false,21874,76561198041343262,[U:1:81077534],
-2015-01-23,07:15.10,LessThanThree,jump_flow_alpha2,WR,MapRecord,,-00:43.36,03:54.64,false,53691,76561198066563951,[U:1:106298223],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2014-10-02,07:58.46,guyyst,jump_flow_alpha2,WR,Map,record,map_record,,-06:48.01,06:48.01,21874,76561198041343262,[U:1:81077534],
+2014-10-02,00:08.02,guyyst,jump_flow_alpha2,WR,Bonus 1,record,zone_record,,-00:00.78,00:01.12,21874,76561198041343262,[U:1:81077534],
+2015-01-23,07:15.10,LessThanThree,jump_flow_alpha2,WR,Map,record,map_record,,-00:43.36,03:54.64,53691,76561198066563951,[U:1:106298223],

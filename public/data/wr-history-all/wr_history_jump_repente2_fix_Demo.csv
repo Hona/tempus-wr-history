@@ -1,5 +1,5 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2022-10-30,00:49.62,cander,jump_repente2_fix,WR,MapRecord,,-00:00.27,00:00.27,false,2102410,76561198318722879,[U:1:358457151],
-2022-10-30,00:49.89,cander,jump_repente2_fix,WR,MapRecord,,-00:01.27,00:01.27,false,2102410,76561198318722879,[U:1:358457151],
-2022-10-30,00:51.16,cander,jump_repente2_fix,WR,MapRecord,,-00:01.03,00:01.05,false,2102410,76561198318722879,[U:1:358457151],
-2024-08-18,00:49.62,cander,jump_repente2_fix,WR,Compact,,,,false,2998744,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2022-10-30,00:52.20,unknown,jump_repente2_fix,WR,Map,observed,wr_split,,,,,,,
+2022-10-30,00:51.16,cander,jump_repente2_fix,WR,Map,record,map_record,,-00:01.03,00:01.05,2102410,76561198318722879,[U:1:358457151],
+2022-10-30,00:49.89,cander,jump_repente2_fix,WR,Map,record,map_record,,-00:01.27,00:01.27,2102410,76561198318722879,[U:1:358457151],
+2022-10-30,00:49.62,cander,jump_repente2_fix,WR,Map,record,map_record,,-00:00.27,00:00.27,2102410,76561198318722879,[U:1:358457151],

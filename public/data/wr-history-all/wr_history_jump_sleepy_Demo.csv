@@ -1,3 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2017-12-22,00:33.40,vice,jump_sleepy,WR,MapRecord,,-00:00.31,00:03.22,false,532113,76561197960496196,[U:1:230468],
-2017-12-22,00:33.40,vice,jump_sleepy,WR,IRC,,-00:00.31,,false,532120,76561197960496196,[U:1:230468],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2017-12-22,00:33.40,vice,jump_sleepy,WR,Map,record,map_record,,-00:00.31,00:03.22,532113,76561197960496196,[U:1:230468],

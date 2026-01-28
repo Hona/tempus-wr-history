@@ -1,2 +1,2 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-06-11,01:54.69,3+3=8,jump_lithium_fix,WR,Ranked,,,,true,675186,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-06-11,01:54.69,3+3=8,jump_lithium_fix,WR,Map,command,rank_command,,,,,,,

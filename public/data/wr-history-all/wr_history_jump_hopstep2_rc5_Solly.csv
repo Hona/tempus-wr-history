@@ -1,5 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2022-10-16,14:01.40,ixam,jump_hopstep2_rc5,WR,MapRun,52:49.20,+38:47.80,,true,2088786,76561198082109328,[U:1:121843600],
-2022-12-14,13:21.58,Ronnie The Rat,jump_hopstep2_rc5,WR,MapRecord,,-00:39.81,01:07.23,false,2147274,76561198066947056,[U:1:106681328],
-2022-12-14,13:21.58,Ronnie The Rat,jump_hopstep2_rc5,WR,IRC,,-00:39.81,,false,2147320,,,
-2023-02-01,11:48.78,go kick some roc,jump_hopstep2_rc5,WR,MapRecord,,-01:32.80,01:32.80,false,2200428,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2022-10-16,14:01.40,unknown,jump_hopstep2_rc5,WR,Map,observed,wr_split,,,,,,,
+2022-12-14,13:21.58,Ronnie The Rat,jump_hopstep2_rc5,WR,Map,record,map_record,,-00:39.81,01:07.23,2147274,76561198066947056,[U:1:106681328],
+2023-02-01,11:48.78,go kick some roc,jump_hopstep2_rc5,WR,Map,record,map_record,,-01:32.80,01:32.80,2200428,,,

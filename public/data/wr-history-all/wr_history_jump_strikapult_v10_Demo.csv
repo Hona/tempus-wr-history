@@ -1,8 +1,4 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-08-30,14:47.83,Starkie,jump_strikapult_v10,WR,FirstRecord,,,,false,748313,76561198008003429,[U:1:47737701],
-2018-08-30,14:47.83,Starkie,jump_strikapult_v10,WR,Compact,,,,false,748313,76561198008003429,[U:1:47737701],
-2018-08-30,14:47.83,Starkie,jump_strikapult_v10,WR,Compact,,,,false,748313,76561198008003429,[U:1:47737701],
-2018-08-31,01:59.36,newjuls,jump_strikapult_v10,WR,Bonus 1,,-01:09.94,01:09.94,false,748768,76561198396018338,[U:1:435752610],
-2018-08-31,10:15.30,newjuls,jump_strikapult_v10,WR,MapRecord,,-04:32.53,,false,748768,76561198396018338,[U:1:435752610],
-2018-08-31,14:47.83,Starkie,jump_strikapult_v10,WR,Compact,,,,false,748768,,,
-2018-08-31,01:59.36,newjuls,jump_strikapult_v10,WR,Bonus 1,,,,false,749010,76561198396018338,[U:1:435752610],
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-08-30,14:47.83,Starkie,jump_strikapult_v10,WR,Map,record,first_record,,,,748313,76561198008003429,[U:1:47737701],
+2018-08-31,10:15.30,newjuls,jump_strikapult_v10,WR,Map,record,map_record,,-04:32.53,,748768,76561198396018338,[U:1:435752610],
+2018-08-31,01:59.36,newjuls,jump_strikapult_v10,WR,Bonus 1,record,zone_record,,-01:09.94,01:09.94,748768,76561198396018338,[U:1:435752610],

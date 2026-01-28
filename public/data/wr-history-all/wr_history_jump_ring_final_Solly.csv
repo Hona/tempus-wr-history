@@ -1,11 +1,7 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2018-10-19,02:03.43,Booshy,jump_ring_final,WR,Compact,,,,false,793222,,,
-2018-10-19,02:03.43,Booshy,jump_ring_final,WR,Ranked,,,,true,793222,,,
-2021-10-09,02:00.03,tripbat,jump_ring_final,WR,MapRecord,,-00:03.40,00:08.53,false,1726594,76561198109904512,[U:1:149638784],
-2023-02-13,01:55.95,bunny.,jump_ring_final,WR,MapRecord,,-00:04.08,00:08.31,false,2213278,76561198201985399,[U:1:241719671],
-2023-02-13,01:55.95,bunny.,jump_ring_final,WR,IRC,,-00:04.08,,false,2213310,,,
-2024-01-23,01:52.38,大lenu,jump_ring_final,WR,MapRun,23:17.68,+21:25.30,,true,2697558,76561198071991975,[U:1:111726247],
-2024-01-28,01:48.21,.Luke.,jump_ring_final,WR,MapRun,05:24.18,+03:35.97,,true,2705078,76561198098414676,[U:1:138148948],
-2024-02-06,01:43.69,Chicago -can't f,jump_ring_final,WR,Compact,,,,false,2719229,,,
-2024-02-12,01:43.69,SLUBBER FOOT,jump_ring_final,WR,MapRun,37:17.77,+35:34.08,,true,2728856,76561198183060018,[U:1:222794290],
-2025-07-30,01:52.80,blingtincan,jump_ring_final,WR,Compact,,,,false,3428224,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2018-10-19,02:03.43,Booshy,jump_ring_final,WR,Map,command,wr_command,,,,,,,
+2021-10-09,02:00.03,tripbat,jump_ring_final,WR,Map,record,map_record,,-00:03.40,00:08.53,1726594,76561198109904512,[U:1:149638784],
+2023-02-13,01:55.95,bunny.,jump_ring_final,WR,Map,record,map_record,,-00:04.08,00:08.31,2213278,76561198201985399,[U:1:241719671],
+2024-01-23,01:52.38,unknown,jump_ring_final,WR,Map,observed,wr_split,,,,,,,
+2024-01-28,01:48.21,unknown,jump_ring_final,WR,Map,observed,wr_split,,,,,,,
+2024-02-06,01:43.69,Chicago -can't f,jump_ring_final,WR,Map,command,wr_command,,,,,,,

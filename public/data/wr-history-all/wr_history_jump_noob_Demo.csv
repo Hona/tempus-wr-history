@@ -1,6 +1,3 @@
-date,record_time,player,map,record_type,source,run_time,split,improvement,inferred,demo_id,steam_id64,steam_id,steam_candidates
-2019-06-08,01:54.69,SweZombie,jump_noob,WR,MapRun,11:13.50,+09:18.81,,true,981556,76561198849893773,[U:1:889628045],
-2022-05-13,01:48.57,deluxeuser,jump_noob,WR,MapRun,21:01.11,+19:12.54,,true,1946773,76561198417147943,[U:1:456882215],
-2024-05-03,01:48.57,suh,jump_noob,WR,Compact,,,,false,2843335,,,
-2024-07-04,01:48.57,suh,jump_noob,WR,Compact,,,,false,2933702,,,
-2025-10-02,01:48.57,Soup -tt,jump_noob,WR,Compact,,,,false,3517432,,,
+date,record_time,player,map,record_type,segment,evidence,evidence_source,run_time,split,improvement,demo_id,steam_id64,steam_id,steam_candidates
+2019-06-08,01:54.69,unknown,jump_noob,WR,Map,observed,wr_split,,,,,,,
+2022-05-13,01:48.57,suh,jump_noob,WR,Map,observed,wr_split,,,,,,,
