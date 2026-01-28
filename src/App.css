@@ -278,6 +278,16 @@
   border-bottom: 1px solid var(--border);
 }
 
+.table-row.wiped {
+  opacity: 0.65;
+}
+
+.time-cell.wiped {
+  text-decoration: line-through;
+  text-decoration-thickness: 2px;
+  text-decoration-color: var(--muted);
+}
+
 .watch-header,
 .watch-cell {
   display: flex;

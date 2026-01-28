@@ -32,8 +32,14 @@ type CsvRow = {
 }
 
 type DataPoint = CsvRow & {
+  rowIndex: number
   dateValue: number
   recordSeconds: number
+}
+
+type TimelinePoint = DataPoint & {
+  wiped: boolean
+  wipedBoundary: boolean
 }
 
 const VIEW_MODE = {
@@ -213,35 +219,73 @@ function App() {
 
   const timeline = useMemo(() => {
     const points = filtered
-      .map((row) => {
+      .map((row, rowIndex) => {
         const dateValue = Date.parse(row.date)
         const recordSeconds = parseTimeToSeconds(row.record_time)
         if (!dateValue || recordSeconds == null) return null
-        return { ...row, dateValue, recordSeconds }
+        return { ...row, rowIndex, dateValue, recordSeconds }
       })
       .filter(Boolean) as DataPoint[]
 
-    points.sort((a, b) => a.dateValue - b.dateValue)
+    points.sort((a, b) => a.dateValue - b.dateValue || a.rowIndex - b.rowIndex)
 
-    let best = Number.POSITIVE_INFINITY
-    return points.filter((row) => {
-      const epsilon = 0.0001
-      if (row.recordSeconds < best - epsilon) {
-        best = row.recordSeconds
-        return true
+    const epsilon = 0.0001
+    const isWipeBoundaryTrigger = (row: CsvRow) => {
+      const evidence = (row.evidence ?? '').trim().toLowerCase()
+      const source = (row.evidence_source ?? '').trim().toLowerCase()
+      return (
+        evidence === EVIDENCE_KIND.Record ||
+        (evidence === EVIDENCE_KIND.Announcement && source === 'irc_set')
+      )
+    }
+
+    let current: number | null = null
+    const timeline: TimelinePoint[] = []
+
+    for (const point of points) {
+      if (current == null) {
+        current = point.recordSeconds
+        timeline.push({ ...point, wiped: false, wipedBoundary: false })
+        continue
       }
-      return false
-    })
+
+      if (point.recordSeconds < current - epsilon) {
+        current = point.recordSeconds
+        timeline.push({ ...point, wiped: false, wipedBoundary: false })
+        continue
+      }
+
+      if (isWipeBoundaryTrigger(point) && point.recordSeconds > current + epsilon) {
+        // A later WR that is slower than the previous one implies earlier times may have been wiped.
+        current = point.recordSeconds
+        timeline.push({ ...point, wiped: false, wipedBoundary: true })
+      }
+    }
+
+    let maxWipeBoundary: number | null = null
+    for (let i = timeline.length - 1; i >= 0; i--) {
+      const point = timeline[i]
+      if (point.wipedBoundary) {
+        maxWipeBoundary =
+          maxWipeBoundary == null
+            ? point.recordSeconds
+            : Math.max(maxWipeBoundary, point.recordSeconds)
+      }
+      const wiped = maxWipeBoundary != null && point.recordSeconds < maxWipeBoundary - epsilon
+      timeline[i] = { ...point, wiped }
+    }
+
+    return timeline
   }, [filtered])
 
   const stats = useMemo(() => {
     if (timeline.length === 0) return null
-    const best = timeline[timeline.length - 1]
+    const current = timeline[timeline.length - 1]
     const first = timeline[0]
     return {
       count: timeline.length,
-      bestTime: best.record_time,
-      bestDate: best.date,
+      currentTime: current.record_time,
+      currentDate: current.date,
       firstDate: first.date
     }
   }, [timeline])
@@ -378,20 +422,20 @@ function App() {
             <>
               <div className="stats">
                 <div>
-                  <span>Records</span>
+                  <span>Timeline</span>
                   <strong>{stats?.count}</strong>
                 </div>
                 <div>
-                  <span>Best time</span>
-                  <strong>{stats?.bestTime}</strong>
+                  <span>Current time</span>
+                  <strong>{stats?.currentTime}</strong>
                 </div>
                 <div>
-                  <span>First record</span>
+                  <span>First seen</span>
                   <strong>{stats?.firstDate}</strong>
                 </div>
                 <div>
-                  <span>Latest record</span>
-                  <strong>{stats?.bestDate}</strong>
+                  <span>Latest change</span>
+                  <strong>{stats?.currentDate}</strong>
                 </div>
                 <a
                   className="download"
@@ -420,7 +464,7 @@ function App() {
                 {timeline.map((row) => (
                   <div
                     key={`${row.date}-${row.record_time}-${row.segment}-${row.evidence_source}-${row.player}`}
-                    className="table-row"
+                    className={`table-row${row.wiped ? ' wiped' : ''}`}
                   >
                     <span className="watch-cell">
                       {/* Only record-setting demos get a stable demo_id; keep links gated to avoid mislinking. */}
@@ -440,13 +484,11 @@ function App() {
                       )}
                     </span>
                     <span>{row.date}</span>
-                    <span>
-                      {row.record_time}
-                    </span>
+                    <span className={`time-cell${row.wiped ? ' wiped' : ''}`}>{row.record_time}</span>
                     <div className="player-cell">
                       <PlayerIdentity row={row} />
                     </div>
-                    <span>{formatDetails(row)}</span>
+                    <span>{formatDetails(row, row.wiped)}</span>
                     <span>
                       {row.demo_id && row.evidence === EVIDENCE_KIND.Record ? (
                         <a
@@ -464,7 +506,7 @@ function App() {
                 ))}
               </div>
               <p className="legend">
-                Evidence: record (in-demo), announcement (bot), command (output), observed (from +split)
+                Evidence: record (in-demo), announcement (bot), command (output), observed (from +split). Wiped times are struck.
               </p>
             </>
           )}
@@ -705,13 +747,12 @@ function formatEvidence(row: CsvRow) {
   return `${kindLabel} (${sourceLabel})`
 }
 
-function formatDetails(row: CsvRow) {
+function formatDetails(row: CsvRow, wiped = false) {
   const segment = (row.segment ?? '').trim()
   const evidence = formatEvidence(row)
-  if (segment && segment !== SEGMENT_LABEL.Map) {
-    return `${segment} · ${evidence}`
-  }
-  return evidence
+  const base = segment && segment !== SEGMENT_LABEL.Map ? `${segment} · ${evidence}` : evidence
+  if (!wiped) return base
+  return `${base} · wiped`
 }
 
 function PlayerIdentity({ row }: { row: CsvRow }) {
@@ -761,7 +802,7 @@ function PlayerIdentity({ row }: { row: CsvRow }) {
   return <span>{row.player}</span>
 }
 
-function TimelineChart({ points }: { points: DataPoint[] }) {
+function TimelineChart({ points }: { points: Array<DataPoint & { wiped?: boolean }> }) {
   const padding = 48
   const width = 900
   const height = 320
@@ -811,6 +852,7 @@ function TimelineChart({ points }: { points: DataPoint[] }) {
           cy={scaleY(point.recordSeconds)}
           r={3}
           fill={pointColor(point)}
+          opacity={point.wiped ? 0.25 : 1}
         />
       ))}
       <text x={padding} y={height - 16} fill="var(--muted)" fontSize="12">
